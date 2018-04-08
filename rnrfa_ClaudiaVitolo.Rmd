@@ -2,7 +2,7 @@
 title       : Accessing hydrological data using web APIs
 subtitle    : with a demo of the rnrfa package
 author      : Claudia Vitolo
-job         : Scientist, European Center for Medium-range Weather Forecasts
+job         : Scientist, European Center for Medium-range Weather Forecasts https://github.com/hydrosoc/rhydro_EGU18/blob/master/rnrfa_ClaudiaVitolo.Rmd
 logo        : ecmwf_logo.png
 license     : by-nc-sa
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
@@ -28,7 +28,7 @@ devtools::install_github('ramnathv/slidifyLibraries')
 <br>
 <br>
 
-* About me
+* About me & announcements
 * UK National River Flow Archive and its API
   - example of open hydro-meteorological database that uses RESTful web services
   - exercises: API calls to retrieve NRFA data and metadata
@@ -36,7 +36,7 @@ devtools::install_github('ramnathv/slidifyLibraries')
 
 --- &twocol
 
-## About me
+## About me & announcements
 
 *** =left
 
@@ -64,7 +64,7 @@ SC1.17 - **Using R for natural hazard risk modelling, with applications to wildf
 
 --- &twocol
 
-## About me
+## About me & announcements
 
 *** =left
 
@@ -86,7 +86,7 @@ SC1.17 - **Using R for natural hazard risk modelling, with applications to wildf
 
 --- &twocol
 
-## About me
+## About me & announcements
 
 *** =left
 
@@ -98,8 +98,8 @@ SC1.17 - **Using R for natural hazard risk modelling, with applications to wildf
   - [R-Ladies London](https://www.meetup.com/rladies-london/)
   - [Data Science - Reading](https://www.meetup.com/Data-Science-Reading/)
   - [IWD 2017 with Royal Meteorological Society](https://www.rmets.org/events/influential-voices-meteorology-and-climate-activists-journalists-and-leading-scientists)
-  
-<br>
+
+<br/>
 
 * Competitions:
   - <span style='color: #238218;'><strong>ECMWF Summer of Weather Code</strong></span>
@@ -372,7 +372,10 @@ The output is a data object of type `data.frame`, containing `r dim(allStations)
 <br>
 
 ```{r, eval=TRUE, message=FALSE, warning=FALSE}
-head(allStations)
+# Select columns: id, name, river, gridReference, catchmentArea
+selectedInfo <- c(1, 3, 5, 9, 11)
+
+head(allStations[, selectedInfo])
 ```
 
 ---
@@ -417,25 +420,7 @@ The function `catalogue()` can be used to filter stations based on various crite
 
 ---
 
-## Filter catalogue using station identification numbers
-
-<br>
-
-Generate a subset of the catalogue only containing the catchments to be used in this short course!
-
-```{r}
-# Filter stations based on identification number
-stations <- catalogue(columnName = "id",
-                      columnValue = c(7001, 12001, 25006, 39001, 50002))
-
-# Select columns: id, name, river, gridReference, catchmentArea
-selectedInfo <- c(1, 3, 5, 9, 11)
-stations[ ,selectedInfo]
-```
-
----
-
-## Filter catalogue using a geographic bounding box
+## Filter catalogue: bounding box
 
 <br>
 
@@ -449,18 +434,7 @@ catalogue(bbox = bbox)[, selectedInfo]
 
 ---
 
-## Filter catalogue using a selected hydrometric area
-
-<br>
-
-```{r eval=FALSE}
-# Filter stations belonging to a certain hydrometric area
-catalogue(columnName = "haName", columnValue = "Wye (Hereford)")
-```
-
----
-
-## Filter catalogue using minimum number of recording years
+## Filter catalogue: minimum recorded years
 
 <br>
 
@@ -471,7 +445,32 @@ catalogue(minRec=30)
 
 ---
 
-## Combine multiple selection criteria
+## Filter catalogue: station `id` numbers
+
+<br>
+
+Generate a subset of the catalogue only containing the catchments to be used in this short course!
+
+```{r}
+# Filter stations based on identification number
+stations <- catalogue(columnName = "id",
+                      columnValue = c(7001, 12001, 25006, 39001, 50002))
+```
+
+---
+
+## Filter catalogue: hydrometric area (`haName`)
+
+<br>
+
+```{r eval=FALSE}
+# Filter stations belonging to a certain hydrometric area
+catalogue(columnName = "haName", columnValue = "Wye (Hereford)")
+```
+
+---
+
+## Filter catalogue: combine multiple selection criteria
 
 <br>
 
@@ -590,7 +589,7 @@ plot(cmrdata7001,
 
 ---
 
-## Keep these data for the next parts of the course!
+## Get GDF and CMR data for the next parts of the course!
 
 ```{r, eval = FALSE}
 stations <- catalogue(columnName = "id",
@@ -605,9 +604,11 @@ gdfdata50002 <- gdf(id = "50002"); cmrdata50002 <- cmr(id = "50002")
 
 <br>
 
-Discover how `rnrfa` interacts nicely with other packages to generate dynamic reports with searchable table (`DT`), create interactive maps (`leaflet`), explore flow and rainfall events using interactive plots (`dygraphs`), run multiple data requests efficiently (`parallel`):
+<!-- Discover how `rnrfa` interacts nicely with other packages to generate dynamic reports with searchable table (`DT`), create interactive maps (`leaflet`), explore flow and rainfall events using interactive plots (`dygraphs`), run multiple data requests efficiently (`parallel`):
 
 Claudia Vitolo, Matthew Fry, and Wouter Buytaert. `rnrfa: An r package to retrieve, filter and visualize data from the uk national river flow archive.` The R Journal, 8(2):102–116, 2016, url: [https://journal.r-project.org/archive/2016-2/vitolo-fry-buytaert.pdf](https://journal.r-project.org/archive/2016-2/vitolo-fry-buytaert.pdf).
+
+-->
 
 --- {
  tpl: thankyou,
