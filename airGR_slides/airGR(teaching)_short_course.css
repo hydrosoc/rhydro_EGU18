@@ -1,0 +1,49 @@
+.title-slide hgroup h1 {
+  font-size: 55px;
+  letter-spacing: 0;
+  line-height: 1.1;
+}
+
+h2 {
+    /*text-shadow: 2px 2px 2px #696B6C;*/
+	margin-bottom: -30px;
+}
+
+h3 {
+	color: #6B6767;
+	font-weight: bold;
+    margin-top: -10px;
+}
+
+p {
+	font-size: 100%;
+	line-height: 110%;
+}
+
+ul li {
+	font-size:90%;
+	line-height: 92%;
+}
+
+ol {
+	font-size:90%;
+	line-height: 92%;
+}
+
+.table {
+    font-size:90%;
+}
+
+.topic tdr{
+	height: 20%;
+	line-height: 20%;
+};
+
+.topic td{
+	height: 20%;
+	line-height: 20%;
+};
+
+.main {
+	font-size:90%;
+}
