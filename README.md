@@ -10,9 +10,10 @@ Conveners: Louise Slater, Shaun Harrigan, Tobias Gauster, Alexander Hurley, Guil
 <a href="https://www.facebook.com/groups/1130214777123909/" rel="nofollow">Hydrology in R Facebook group</a>.
 - Course materials will be uploaded on this page.
 
-## Packages required
+## Packages and data required
 - To follow along, participants may wish to run the following code before the session: 
   install.packages(c("rnrfa", "lfstat", "osmdata", "tidyverse", "sf", "leaflet", "ncdf4","lubridate", "ggplot2", "raster", "rgdal", "airGRteaching", "airGR"))
+- For the netCDF presentation, sample gridded data for 2015-06 can be downloaded directly by clicking <a href="https://catalogue.ceh.ac.uk/datastore/eidchub/b745e7b1-626c-4ccc-ac27-56582e77b900/chess_precip_201506.nc" rel="nofollow">here</a> and the catchment shapefile can be downloaded from <a href="http://nrfa.ceh.ac.uk/data/station/spatial_download/12001" rel="nofollow">here</a> (see acknowledgments in presentation).
                     
 ## Topics for 2018:
 - Recent R updates and packages 
