@@ -10,6 +10,10 @@ Conveners: Louise Slater, Shaun Harrigan, Tobias Gauster, Alexander Hurley, Guil
 <a href="https://www.facebook.com/groups/1130214777123909/" rel="nofollow">Hydrology in R Facebook group</a>.
 - Course materials will be uploaded on this page.
 
+## Packages required
+- To follow along, participants may wish to run the following code before the session: 
+  install.packages(c("rnrfa", "lfstat", "osmdata", "tidyverse", "sf", "leaflet", "ncdf4","lubridate", "ggplot2", "raster", "rgdal", "airGRteaching", "airGR"))
+                    
 ## Topics for 2018:
 - Recent R updates and packages 
 - Accessing hydrological data using web APIs, with a demo of the rnrfa package - Claudia Vitolo
