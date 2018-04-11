@@ -1,0 +1,340 @@
+---
+title: "Using R in Hydrology"
+author: "Tobias Gauster"
+date: "April 11, 2018"
+output: 
+  html_document:
+    self_contained: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+options(width = 100)
+```
+
+To reproduce this talk, you will have to install the following packages from CRAN. 
+
+```{r, eval = FALSE}
+install.packages(c("lfstat", "osmdata", "tidyverse", "sf", "leaflet"))
+```
+
+In order to conveniently plot objects of class sf (simple feature) with ggplot
+ the function `geom_sf()` is needed which is not yet available from CRAN. For the 
+time being we can install the development version of ggplot2 from github.
+
+
+```{r, eval = FALSE}
+install.packages("devtools")
+library(devtools)
+install_github("hadley/ggplot2")
+```
+
+
+# Tidy hydrological data with list-columns
+
+```{r, message=FALSE}
+library(tidyverse)
+```
+
+Often time you might receive a dataset like the following where the actual observations (in our case discharge measurements) and the corresponding station metadata are stored in two separate files. The idea is to 
+
+- first read in the metadata into a tibble (similar to a data frame) and 
+- append the observations (discharge time series) as a list column. 
+
+
+## Importing Metadata
+The metadata is provided as a csv file which we are going to import using the function `read_csv2()`. This function is quite verbose and can spam your R console with a lot of messages. 
+```{r}
+metadata <- read_csv2(file = "./metadata.csv")
+```
+
+To prevent this messages simply specify the arguments according to the data, e.g. by pasting the messages into the function call. Furthermore we have to append the name of directory to the file name of the csv files to obtain the full relative path.
+
+```{r}
+directory <- "./discharge/"
+
+metadata <- read_csv2(file = "./metadata.csv", locale = locale(decimal_mark = ","),
+                      col_types = cols(
+                        filename = col_character(),
+                        id = col_character(),
+                        river = col_character(),
+                        station = col_character(),
+                        lon = col_double(),
+                        lat = col_double(),
+                        z = col_double(),
+                        catchment = col_double()
+                      )) %>%
+  mutate(filename = paste0(directory, filename))
+
+
+metadata
+```
+
+
+## Appending the Data
+The dataset comprises 11 gauging stations from Slovenia. Each discharge time series is stored in a csv file with two columns (time, discharge). Let's read in just a single file:
+
+```{r}
+read_csv2(metadata$filename[1])
+```
+
+
+To import all the files we need to call an importing function (`read_csv()`, `read_table()`, ...) for every file name in our `metadata` tibble. Instead of storing the discharge data in a new object we append another column called `data`. dplyr calls this 'mutating', the corresponding dplyr verb is `mutate()`.
+
+
+
+```{r}
+slovenia <- metadata %>%
+  group_by(filename) %>%
+  mutate(data = list(read_csv2(file = filename, 
+                               locale = locale(decimal_mark = ","),
+                               col_types = cols(
+                                 time = col_date("%Y-%m-%d"),
+                                 discharge = col_double()
+                               )))) %>%
+  ungroup()
+
+slovenia <- slovenia %>%
+  select(-filename) %>%
+  select(data, everything()) %>%
+  print()
+```
+
+The column `data` is a list and because it is part of tibble it is called a *list-column*. Lists are the most versatile data structures in R; anything can be stored in a list. We make use of this list-columns to store discharge time series of varying length. 
+
+
+The data structure of the object `slovenia` is very flexible an powerful. By using a tibble to hold both data and meta data we ensure that they don't get accidentally mixed up. 
+
+## Working with the Data
+To access the discharge values of the list-column `data` it has to be unnested.
+
+```{r}
+runoff <- slovenia %>%
+  select(station, data) %>%
+  unnest(data) %>%
+  print()
+```
+
+
+```{r, fig.width=10, fig.height=4}
+coverage <- runoff %>%
+  mutate(station, time, covered = is.finite(discharge))
+
+ggplot(coverage, aes(x = time, y = station, fill = covered)) +
+  geom_raster()
+
+
+```
+
+
+Newly derived variables (e.g. the data coverage) can be appended to the existing tibble as a column. The `map()` functions from the package **purrr** make it easy to apply a function to each element of a list. In our case we want to apply the function `perc_covered()` to each discharge time series. Because `perc_covered()` returns a single number between 0 and 1 we have to use the function `map_dbl()`.
+
+
+```{r}
+perc_covered <- function(x)
+{
+  ndays <- as.double(diff(range(x$time)), unit = "days")
+  nvalues <- sum(is.finite(x$discharge))
+  
+  return(nvalues/ndays)
+}
+
+slovenia <- slovenia %>%
+  ungroup() %>%
+  mutate(coverage = map_dbl(data, perc_covered)) 
+
+slovenia %>%
+  arrange(coverage)
+```
+
+
+It is also possible to perform an analysis only on a subset of stations. The dplyr verb `filter()` filters only the rows (stations) matching a given criteria. 
+
+```{r}
+gaps <- slovenia %>%
+  filter(coverage < 0.8) %>%
+  transmute(data,
+            label = paste(river, "at", station, "\tCatchment: ", catchment, "km²,",
+                          "Altitude:", z, "m a.s.l.")) %>%
+  unnest()
+
+```
+
+
+```{r, fig.width=10, fig.height=4}
+ggplot(gaps, aes(x = time, y = discharge)) +
+  geom_line() +
+  facet_wrap(~label, ncol = 1, scales = "free_y")
+
+```
+
+
+We can quickly check if the coordinates of the gauging stations are plausible using an interactive leaflet map.
+
+
+```{r, fig.width=9.5, fig.height=4, eval = FALSE}
+library(leaflet)
+
+leaflet(slovenia) %>%
+  addTiles() %>%
+  addMarkers(label = ~paste(station, river, sep = " - "))
+```
+
+```{r, fig.width=9.5, fig.height=4, echo=FALSE}
+library(leaflet)
+
+leaflet(slovenia) %>%
+  addTiles(urlTemplate = "http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png") %>%
+  addMarkers(label = ~paste(station, river, sep = " - "))
+```
+
+## Coordinate conversion
+Leaflet requires the coordinates to be in WGS84 (EPSG code: 4326). To convert coordinates from one coordinate reference system (CRS) to another one can use the function `st_transform()` from the package **sf** (Simple Features). 
+
+If the CRS in use or its EPSG code is unknown, http://www.epsg-registry.org/ provides help in listing all EPSG codes of a *projected CRS*. 
+
+For example, transforming the WGS84 coordinates to LCC Europe (EPSG code: 3034) yields:
+
+```{r, message=FALSE}
+transform_crs <- function(x, y, from, to)
+{
+  require(sf)
+  p1 <- st_as_sf(data.frame(x, y), coords = c("x", "y"), crs = from)
+  st_coordinates(st_transform(p1, crs = to))
+}
+
+transform_crs(x = slovenia$lon, y = slovenia$lat, from = 4326, to = 3034)
+```
+
+# Using OpenStreetMap data in R
+
+Data from OpenStreetMap can be accessed using the recent R package **osmdata**. This package only downloads the data, it doesn't modify it. Associated to osmdata is the package **osmplotr** which helps in producing maps. 
+
+```{r}
+library(osmdata)
+```
+
+**osmdata** is an R package for accessing OpenStreetMap data using the *Overpass API*. The Overpass API is a read-only API that serves up custom selected parts of the OSM map data. 
+
+As described at https://github.com/ropensci/osmdata, Overpass API queries can be built from a base query constructed with `opq()` followed by `add_osm_feature()`. The corresponding OSM objects are then downloaded and converted to R Simple Features (sf) objects with `osmdata_sf()` or to R Spatial (sp) objects with `osmdata_sp()`.
+
+In the following example we want to use the administrative boundaries of Vienna and its river network as a backgrouńd for a map of randomly generated temperature data. 
+
+The function `opq()` offers several ways to specify the bounding box for the query. In case of a character string the free Nominatim API provided by OpenStreetMap is used to find the bounding box associated with place names.  
+
+Let us first fetch the administrative borders of Vienna's districts. https://taginfo.openstreetmap.org/keys/admin_level tells us that `admin_level=9` will give us the borders of the districts.
+
+```{r, echo=FALSE, eval=FALSE}
+load("~/Documents/boku/talks/2018-04_egu_r-hydrology/cache/osm.RData")
+borders
+```
+
+
+```{r}
+# boundingbox <- "Vienna, Austria"
+boundingbox <- c(16.18, 48.12, 16.58, 48.33)
+
+borders <- opq(bbox = boundingbox) %>%
+  add_osm_feature(key = "admin_level", value = "9") %>%
+  osmdata_sf() 
+
+borders
+```
+
+https://wiki.openstreetmap.org/wiki/Map_Features lists all available OSM features and its tags. Every feature needed has to be downloaded in a separate query.
+
+```{r, eval = TRUE}
+rivers <- opq(bbox = boundingbox) %>%
+  add_osm_feature(key = "waterway", value = "river") %>%
+  osmdata_sf()
+
+streams <- opq(bbox = boundingbox) %>%
+  add_osm_feature(key = "waterway", value = "stream") %>%
+  osmdata_sf()
+
+riverbank <- opq(bbox = boundingbox) %>%
+  add_osm_feature(key = "waterway", value = "riverbank") %>%
+  osmdata_sf()
+
+water <- opq(bbox = boundingbox) %>%
+  add_osm_feature(key = "natural", value = "water") %>%
+  osmdata_sf()
+
+surfacewater <- c(riverbank, water)
+```
+
+```{r, eval = FALSE, include=FALSE}
+save(surfacewater, water, riverbank, streams, rivers, borders, boundingbox,
+     file = "~/Documents/boku/talks/2018-04_egu_r-hydrology/cache/osm2.RData")
+```
+
+
+Features (like the Danube) can be much larger than the bounding box used for the query. And as **osmdata** doesn't modify (crops) the data, we have to limit the extend of our map manually by passing appropriate values to `coord_sf()`. 
+
+```{r}
+extract_limits <- function(x)
+{
+  coord <- as.numeric(strsplit(x$bbox, ",", fixed = TRUE)[[1]])
+  list(x = coord[c(2, 4)], y = coord[c(1, 3)])
+}
+
+limits <- extract_limits(opq(bbox = boundingbox))
+```
+
+
+The function `geom_sf()` is not yet available from CRAN. You will have install the development version from github.
+```{r}
+# install_github("hadley/ggplot2")
+library(ggplot2)
+
+ggplot() +
+  geom_sf(data = borders$osm_multipolygons, fill = NA) +
+  geom_sf(data = surfacewater$osm_multipolygons, fill = "lightblue", col = NA)  +
+  geom_sf(data = surfacewater$osm_polygons, fill = "lightblue", col = NA) +
+  geom_sf(data = streams$osm_lines, col = "lightblue", size = 0.5) +
+  geom_sf(data = rivers$osm_lines, col = "#286ee0", size = 1) +
+  coord_sf(xlim = limits$x, ylim = limits$y) + 
+  labs(caption = "Data (c) OpenStreetMap contributors, ODbL 1.0")
+```
+
+
+The same map with simulated discharge data.
+```{r}
+set.seed(2804)
+nstation <- 11
+coord <- data_frame(id = seq_len(nstation),
+                    lon = runif(nstation, limits$x[1], limits$x[2]),
+                    lat = runif(nstation, limits$y[1], limits$y[2]))
+
+nyears <- 4
+temp <- data_frame(id = rep(coord$id, each = nyears),
+                   year = rep(seq(2000, length.out = nyears), times = nstation),
+                   temperature = runif(length(year), min = 10, max = 20)) %>%
+  left_join(coord, by = "id")
+
+
+ggplot(temp) +
+  geom_sf(data = borders$osm_multipolygons, fill = NA, size = 0.1) +
+  geom_sf(data = rivers$osm_multilines, col = "#286ee0", size = 1) +
+  coord_sf(xlim = limits$x, ylim = limits$y, ndiscr = 0) +
+  geom_point(aes(x = lon, y = lat, size = temperature)) +
+  facet_wrap(~year) +
+  theme_bw() +
+  theme(axis.title = element_blank()) + 
+  labs(caption = "Data (c) OpenStreetMap contributors, ODbL 1.0")
+```
+
+
+# Ressources
+
+ - Learn the **tidyverse**: https://www.tidyverse.org/learn/
+ - R for Data Science, a book by Garrett Grolemund and Hadley Wickham: http://r4ds.had.co.nz/
+ 
+ - leaflet: http://leafletjs.com/
+ 
+ - osmdata: https://github.com/ropensci/osmdata
+ - osmplotr: https://github.com/ropensci/osmplotr
+ - OpenStreetMap: https://www.openstreetmap.org/
+ - Overpass API: https://wiki.openstreetmap.org/wiki/Overpass_API
+
+
