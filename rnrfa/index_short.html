@@ -1,0 +1,1288 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Accessing hydrological data using web APIs</title>
+  <meta charset="utf-8">
+  <meta name="description" content="Accessing hydrological data using web APIs">
+  <meta name="author" content="Claudia Vitolo">
+  <meta name="generator" content="slidify" />
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta http-equiv="X-UA-Compatible" content="chrome=1">
+  <link rel="stylesheet" href="libraries/frameworks/io2012/css/default.css" media="all" >
+  <link rel="stylesheet" href="libraries/frameworks/io2012/css/phone.css" 
+    media="only screen and (max-device-width: 480px)" >
+  <link rel="stylesheet" href="libraries/frameworks/io2012/css/slidify.css" >
+  <link rel="stylesheet" href="libraries/highlighters/highlight.js/css/github.css" />
+  <base target="_blank"> <!-- This amazingness opens all links in a new tab. -->  <link rel=stylesheet href="libraries/widgets/bootstrap/css/bootstrap.css"></link>
+<link rel=stylesheet href="libraries/widgets/quiz/css/demo.css"></link>
+<link rel=stylesheet href="./assets/css/default.css"></link>
+<link rel=stylesheet href="./assets/css/slidify.css"></link>
+
+  
+  <!-- Grab CDN jQuery, fall back to local if offline -->
+  <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.7.min.js"></script>
+  <script>window.jQuery || document.write('<script src="libraries/widgets/quiz/js/jquery.js"><\/script>')</script> 
+  <script data-main="libraries/frameworks/io2012/js/slides" 
+    src="libraries/frameworks/io2012/js/require-1.0.8.min.js">
+  </script>
+  
+  
+
+</head>
+<body style="opacity: 0">
+  <slides class="layout-widescreen">
+    
+    <!-- LOGO SLIDE -->
+        <slide class="title-slide segue nobackground">
+  <aside class="gdbar">
+    <img src="assets/img/ecmwf_logo.png">
+  </aside>
+  <hgroup class="auto-fadein">
+    <h1>Accessing hydrological data using web APIs</h1>
+    <h2>with a demo of the rnrfa package</h2>
+    <p>Claudia Vitolo<br/>Scientist, European Center for Medium-range Weather Forecasts<br/><br/>https://github.com/hydrosoc/rhydro_EGU18/blob/master/rnrfa_ClaudiaVitolo.Rmd</p>
+  </hgroup>
+    <a href="https://github.com/cvitolo/rnrfa/zipball/gh-pages" class="example">
+     Download
+    </a>
+  <article></article>  
+  <footer class = 'license'>
+    <a href='http://creativecommons.org/licenses/by-nc-sa/3.0/'>
+    <img width = '80px' src = 'http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png'>
+    </a>
+  </footer>
+</slide>
+    
+
+    <!-- SLIDES -->
+    <slide class="" id="slide-1" style="background:;">
+  <article data-timings="">
+    <!--
+Before starting make sure you have the require packages:
+devtools::install_github('ramnathv/slidify')
+devtools::install_github('ramnathv/slidifyLibraries')
+-->
+
+<h2>Outline</h2>
+
+<p><br>
+<br></p>
+
+<ul>
+<li>About me &amp; announcements</li>
+<li>UK National River Flow Archive and its API
+
+<ul>
+<li>example of open hydro-meteorological database that uses RESTful web services</li>
+<li>exercises: API calls to retrieve NRFA data and metadata</li>
+</ul></li>
+<li>The rnrfa package: R interface to the NRFA</li>
+</ul>
+
+  </article>
+  <!-- Presenter Notes -->
+  <footer class = 'logo'>
+    <img src = './assets/img/twitter_username.png'></img>
+  </footer>
+</slide>
+
+<slide class="" id="slide-2" style="background:;">
+  <hgroup>
+    <h2>About me &amp; announcements</h2>
+  </hgroup>
+  <article data-timings="">
+    
+<div style='float:left;width:48%;' class='centered'>
+  <p><br></p>
+
+<p><span style='color: #CC2904;'><strong>Scientist</strong></span></p>
+
+<ul>
+<li><p>@ECMWF <a href="https://www.ecmwf.int/">(https://www.ecmwf.int/)</a> developing products for high-impact weather.</p></li>
+<li><p>ANYWHERE <a href="http://anywhere-h2020.eu/">(http://anywhere-h2020.eu/)</a> - EU funded H2020 project: employing cutting edge technologies to help first responders act quickly and efficiently in case natural hazards occur (e.g. wildfires, flood, extreme precipitations, droughts, etc.)</p></li>
+</ul>
+
+<p>SC1.17 - <strong>Using R for natural hazard risk modelling, with applications to wildfire risk forecasting</strong> - Claudia Vitolo, Francesca Di Giuseppe, Julia Wagemann, Mark Parrington - Wed 11 Apr, 15:30–17:00 / Room 2.16
+<a href="http://meetingorganizer.copernicus.org/EGU2018/session/28648">http://meetingorganizer.copernicus.org/EGU2018/session/28648</a></p>
+
+</div>
+<div style='float:right;width:48%;'>
+  <p><br></p>
+
+<p><br></p>
+
+<p><br></p>
+
+<div style="text-align: centre"><img src="assets/img/anywhere.png" width="600" /></div>
+
+</div>
+  </article>
+  <!-- Presenter Notes -->
+  <footer class = 'logo'>
+    <img src = './assets/img/twitter_username.png'></img>
+  </footer>
+</slide>
+
+<slide class="" id="slide-3" style="background:;">
+  <hgroup>
+    <h2>About me &amp; announcements</h2>
+  </hgroup>
+  <article data-timings="">
+    
+<div style='float:left;width:48%;' class='centered'>
+  <p><br></p>
+
+<p><span style='color: #CC2904;'><strong>R-Ladies Global co-founder &amp; co-organiser of R-Ladies London</strong></span></p>
+
+<ul>
+<li>R-Ladies <a href="https://rladies.org/">(https://rladies.org/)</a>:</li>
+<li>R-Consortium top-level project</li>
+<li>90 chapters (cities) worldwide</li>
+<li>~19000 members</li>
+<li>Want to become a member of R-Ladies global community and start a chapter in your city? Email <a href="mailto:info@rladies.org">info@rladies.org</a><br></li>
+</ul>
+
+</div>
+<div style='float:right;width:48%;'>
+  <p><br></p>
+
+<div style="text-align: centre"><img src="assets/img/rladies.png" width="600" /></div>
+
+</div>
+  </article>
+  <!-- Presenter Notes -->
+  <footer class = 'logo'>
+    <img src = './assets/img/twitter_username.png'></img>
+  </footer>
+</slide>
+
+<slide class="" id="slide-4" style="background:;">
+  <hgroup>
+    <h2>About me &amp; announcements</h2>
+  </hgroup>
+  <article data-timings="">
+    
+<div style='float:left;width:48%;' class='centered'>
+  <p><br></p>
+
+<p><span style='color: #CC2904;'><strong>Events &amp; competitions organiser</strong></span></p>
+
+<ul>
+<li>Meetups &amp; other events:
+
+<ul>
+<li><a href="https://www.meetup.com/rladies-london/">R-Ladies London</a></li>
+<li><a href="https://www.meetup.com/Data-Science-Reading/">Data Science - Reading</a></li>
+<li><a href="https://www.rmets.org/events/influential-voices-meteorology-and-climate-activists-journalists-and-leading-scientists">IWD 2017 with Royal Meteorological Society</a></li>
+</ul></li>
+</ul>
+
+<p><br/></p>
+
+<ul>
+<li>Competitions:
+
+<ul>
+<li><span style='color: #238218;'><strong>ECMWF Summer of Weather Code</strong></span></li>
+<li><span style='color: #238218;'><strong>9-10 June 2018 ECMWF Hackathon: Innovate with Open Climate Data</strong></span> <a href="https://events.ecmwf.int/event/79/">https://events.ecmwf.int/event/79/</a></li>
+<li><a href="https://www.kaggle.com/c/predict-impact-of-air-quality-on-death-rates">2017 Kaggle competition</a></li>
+<li><a href="https://www.ecmwf.int/en/learning/workshops/opendatahack-ecmwf-beyond-weather-explore-creative-uses-open-data">2017 Open Data Hackathon</a></li>
+</ul></li>
+</ul>
+
+</div>
+<div style='float:right;width:48%;'>
+  <p><br></p>
+
+<div style="text-align: centre"><img src="assets/img/esowc.png" width="600" /></div>
+
+<p><br></p>
+
+<p>Want to participate? Hurry up, deadline is 20th April!</p>
+
+<p><a href="https://esowc.ecmwf.int">https://esowc.ecmwf.int</a></p>
+
+</div>
+  </article>
+  <!-- Presenter Notes -->
+  <footer class = 'logo'>
+    <img src = './assets/img/twitter_username.png'></img>
+  </footer>
+</slide>
+
+<slide class="" id="slide-5" style="background:;">
+  <hgroup>
+    <h2>National River Flow Archive and its APIs</h2>
+  </hgroup>
+  <article data-timings="">
+    <p><br></p>
+
+<p>The UK National River Flow Archive <a href="http://nrfa.ceh.ac.uk/">(http://nrfa.ceh.ac.uk/)</a> serves daily streamflow data, spatial rainfall averages and information regarding elevation, geology, land cover and FEH related catchment descriptors.</p>
+
+<!-- 
+River and catchment data from various monitoring networks across the UK including those operated by:
+
+* Environment Agency (England), 
+* Natural Resources Wales, 
+* Scottish Environment Protection Agency,
+* Rivers Agency (Northern Ireland).
+-->
+
+<p><br>
+There are currently data APIs under development that provide access to the following services: </p>
+
+<ul>
+<li><p>metadata catalogue (JSON), </p></li>
+<li><p>catalogue filters based on a geographical bounding-box, </p></li>
+<li><p>catalogue filters based on metadata entries, </p></li>
+<li><p>gauged daily data and catchment mean rainfall for about 400 stations (WaterML, the OGC standard used to describe hydrological time series).</p></li>
+<li><p>Experimental services, based on the following Open Geospatial Consortium standards: Web Feature Service (WFS), Web Mapping Service (WMS), Sensor and Observation Service (SOS)</p></li>
+</ul>
+
+  </article>
+  <!-- Presenter Notes -->
+  <footer class = 'logo'>
+    <img src = './assets/img/twitter_username.png'></img>
+  </footer>
+</slide>
+
+<slide class="" id="slide-6" style="background:;">
+  <hgroup>
+    <h2>RESTful web services, APIs and data requests</h2>
+  </hgroup>
+  <article data-timings="">
+    <p><br></p>
+
+<!-- Web services = software to communicate between 2 devices over the web. 
+API = set of instructions to send requests and handle responses.
+-->
+
+<p>Some data providers implement RESTful web services, and data requests are made via HTTP GET method.</p>
+
+<p><br></p>
+
+<div align="center";class="image-gallery">
+<img src="assets/img/api.png" width="260"/>
+<img src="assets/img/example.png" width="550"/>
+<div class="clear"></div>
+</div>
+
+<p><br></p>
+
+<p>Sintax of a typical HTTP GET data request: <span style="color:blue">server_end_point</span>/<span style="color:green">format</span>/<span style="color:orange">service</span>?<span style="color:red">X=1</span>&amp;<span style="color:red">Y=2</span></p>
+
+  </article>
+  <!-- Presenter Notes -->
+  <footer class = 'logo'>
+    <img src = './assets/img/twitter_username.png'></img>
+  </footer>
+</slide>
+
+<slide class="" id="slide-7" style="background:;">
+  <hgroup>
+    <h2>Exercise #1</h2>
+  </hgroup>
+  <article data-timings="">
+    <p><br></p>
+
+<p>How do I get information on station &quot;18019&quot; from the NRFA catalogue?</p>
+
+<p><span style="color:blue">server_end_point</span>/<span style="color:green">format</span>/<span style="color:orange">service</span>?<span style="color:red">X=1</span>&amp;<span style="color:red">Y=2</span></p>
+
+  </article>
+  <!-- Presenter Notes -->
+  <footer class = 'logo'>
+    <img src = './assets/img/twitter_username.png'></img>
+  </footer>
+</slide>
+
+<slide class="" id="slide-8" style="background:;">
+  <hgroup>
+    <h2>Exercise #1</h2>
+  </hgroup>
+  <article data-timings="">
+    <p><br></p>
+
+<p>How do I get information on station &quot;18019&quot; from the NRFA catalogue?</p>
+
+<p><span style="color:blue">server_end_point</span>/<span style="color:green">format</span>/<span style="color:orange">service</span>?<span style="color:red">X=1</span>&amp;<span style="color:red">Y=2</span></p>
+
+<p><span style="color:blue"><a href="http://nrfaapps.ceh.ac.uk/nrfa">http://nrfaapps.ceh.ac.uk/nrfa</a></span>/<span style="color:green">json</span>/<span style="color:orange">stationSummary</span>?<span style="color:red">db=nrfa_public</span>&amp;<span style="color:red">stn=18019</span></p>
+
+<!--
+http://nrfaapps.ceh.ac.uk/nrfa/json/stationSummary?db=nrfa_public&stn=18019
+
+<div style="text-align: centre"><img src="assets/img/chain_multi.png" width="1000" /></div>
+-->
+
+  </article>
+  <!-- Presenter Notes -->
+  <footer class = 'logo'>
+    <img src = './assets/img/twitter_username.png'></img>
+  </footer>
+</slide>
+
+<slide class="" id="slide-9" style="background:;">
+  <hgroup>
+    <h2>Exercise #1</h2>
+  </hgroup>
+  <article data-timings="">
+    <p><br></p>
+
+<p>How do I get information on station &quot;18019&quot; from the NRFA catalogue?</p>
+
+<p><span style="color:blue">server_end_point</span>/<span style="color:green">format</span>/<span style="color:orange">service</span>?<span style="color:red">X=1</span>&amp;<span style="color:red">Y=2</span></p>
+
+<p><span style="color:blue"><a href="http://nrfaapps.ceh.ac.uk/nrfa">http://nrfaapps.ceh.ac.uk/nrfa</a></span>/<span style="color:green">json</span>/<span style="color:orange">stationSummary</span>?<span style="color:red">db=nrfa_public</span>&amp;<span style="color:red">stn=18019</span></p>
+
+<!--
+http://nrfaapps.ceh.ac.uk/nrfa/json/stationSummary?db=nrfa_public&stn=18019
+-->
+
+<div style="text-align: centre"><img src="assets/img/stn.png" width="1000" /></div>
+
+  </article>
+  <!-- Presenter Notes -->
+  <footer class = 'logo'>
+    <img src = './assets/img/twitter_username.png'></img>
+  </footer>
+</slide>
+
+<slide class="" id="slide-10" style="background:;">
+  <hgroup>
+    <h2>Exercise #2</h2>
+  </hgroup>
+  <article data-timings="">
+    <p><br></p>
+
+<p>How do I get the time series of daily flows for station &quot;18019&quot;?</p>
+
+<p><span style="color:blue">server_end_point</span>/<span style="color:green">format</span>/<span style="color:orange">service</span>?<span style="color:red">X=1</span>&amp;<span style="color:red">Y=2</span>&amp;<span style="color:red">Z=3</span></p>
+
+  </article>
+  <!-- Presenter Notes -->
+  <footer class = 'logo'>
+    <img src = './assets/img/twitter_username.png'></img>
+  </footer>
+</slide>
+
+<slide class="" id="slide-11" style="background:;">
+  <hgroup>
+    <h2>Exercise #2</h2>
+  </hgroup>
+  <article data-timings="">
+    <p><br></p>
+
+<p>How do I get the time series of daily flows for station &quot;18019&quot;?</p>
+
+<p><span style="color:blue">server_end_point</span>/<span style="color:green">format</span>/<span style="color:orange">service</span>?<span style="color:red">X=1</span>&amp;<span style="color:red">Y=2</span>&amp;<span style="color:red">Z=3</span></p>
+
+<p><span style="color:blue"><a href="http://nrfaapps.ceh.ac.uk/nrfa">http://nrfaapps.ceh.ac.uk/nrfa</a></span>/<span style="color:green">xml</span>/<span style="color:orange">waterml2</span>?<span style="color:red">db=nrfa_public</span>&amp;<span style="color:red">stn=18019</span>&amp;<span style="color:red">dt=gdf</span></p>
+
+<!--
+http://nrfaapps.ceh.ac.uk/nrfa/xml/waterml2?db=nrfa_public&stn=18019&dt=gdf
+
+<div style="text-align: centre"><img src="assets/img/xml.png" width="1000" /></div>
+-->
+
+  </article>
+  <!-- Presenter Notes -->
+  <footer class = 'logo'>
+    <img src = './assets/img/twitter_username.png'></img>
+  </footer>
+</slide>
+
+<slide class="" id="slide-12" style="background:;">
+  <hgroup>
+    <h2>Exercise #2</h2>
+  </hgroup>
+  <article data-timings="">
+    <p><br></p>
+
+<p>How do I get the time series of daily flows for station &quot;18019&quot;?</p>
+
+<p><span style="color:blue">server_end_point</span>/<span style="color:green">format</span>/<span style="color:orange">service</span>?<span style="color:red">X=1</span>&amp;<span style="color:red">Y=2</span>&amp;<span style="color:red">Z=3</span></p>
+
+<p><span style="color:blue"><a href="http://nrfaapps.ceh.ac.uk/nrfa">http://nrfaapps.ceh.ac.uk/nrfa</a></span>/<span style="color:green">xml</span>/<span style="color:orange">waterml2</span>?<span style="color:red">db=nrfa_public</span>&amp;<span style="color:red">stn=18019</span>&amp;<span style="color:red">dt=gdf</span></p>
+
+<!--
+http://nrfaapps.ceh.ac.uk/nrfa/xml/waterml2?db=nrfa_public&stn=18019&dt=gdf
+-->
+
+<div style="text-align: centre"><img src="assets/img/xml.png" width="1000" /></div>
+
+  </article>
+  <!-- Presenter Notes -->
+  <footer class = 'logo'>
+    <img src = './assets/img/twitter_username.png'></img>
+  </footer>
+</slide>
+
+<slide class="" id="slide-13" style="background:;">
+  <hgroup>
+    <h2>Challenges</h2>
+  </hgroup>
+  <article data-timings="">
+    <p><br></p>
+
+<ul>
+<li>assemble data requests</li>
+</ul>
+
+<p><span style="color:blue">server_end_point</span>/<span style="color:green">format</span>/<span style="color:orange">service</span>?<span style="color:red">X=1</span>&amp;<span style="color:red">Y=2</span>&amp;<span style="color:red">Z=3</span></p>
+
+  </article>
+  <!-- Presenter Notes -->
+  <footer class = 'logo'>
+    <img src = './assets/img/twitter_username.png'></img>
+  </footer>
+</slide>
+
+<slide class="" id="slide-14" style="background:;">
+  <hgroup>
+    <h2>Challenges</h2>
+  </hgroup>
+  <article data-timings="">
+    <p><br></p>
+
+<ul>
+<li>assemble data requests</li>
+<li>parse server responses</li>
+</ul>
+
+<p><br></p>
+
+<div style="text-align: centre"><img src="assets/img/chain.png" width="1000" /></div>
+
+  </article>
+  <!-- Presenter Notes -->
+  <footer class = 'logo'>
+    <img src = './assets/img/twitter_username.png'></img>
+  </footer>
+</slide>
+
+<slide class="" id="slide-15" style="background:;">
+  <hgroup>
+    <h2>Challenges</h2>
+  </hgroup>
+  <article data-timings="">
+    <p><br></p>
+
+<ul>
+<li>assemble data requests</li>
+<li>parse server responses</li>
+<li>make the process scalable (e.g. run multiple requests efficiently)</li>
+</ul>
+
+<div style="text-align: centre"><img src="assets/img/chain_multi.png" width="1000" /></div>
+
+  </article>
+  <!-- Presenter Notes -->
+  <footer class = 'logo'>
+    <img src = './assets/img/twitter_username.png'></img>
+  </footer>
+</slide>
+
+<slide class="" id="slide-16" style="background:;">
+  <hgroup>
+    <h2>The <code>rnrfa</code> package</h2>
+  </hgroup>
+  <article data-timings="">
+    <p><br></p>
+
+<p>The name rnrfa stands for: <code>r</code> interface for the <code>n</code>ational <code>r</code>iver <code>f</code>low <code>a</code>rchive</p>
+
+<p>The <code>rnrfa</code> package aims to achieve a simpler and more efficient access to data by providing wrapper functions to assemble HTTP GET requests and parse XML/JSON responses. </p>
+
+<p><br></p>
+
+<p>Claudia Vitolo, Matthew Fry, and Wouter Buytaert. <code>rnrfa: An r package to retrieve, filter and visualize data from the uk national river flow archive.</code> The R Journal, 8(2):102–116, 2016, url: <a href="https://journal.r-project.org/archive/2016-2/vitolo-fry-buytaert.pdf">https://journal.r-project.org/archive/2016-2/vitolo-fry-buytaert.pdf</a>.</p>
+
+  </article>
+  <!-- Presenter Notes -->
+  <footer class = 'logo'>
+    <img src = './assets/img/twitter_username.png'></img>
+  </footer>
+</slide>
+
+<slide class="" id="slide-17" style="background:;">
+  <hgroup>
+    <h2>Installation</h2>
+  </hgroup>
+  <article data-timings="">
+    <p><br></p>
+
+<p>The stable version of the <code>rnrfa</code> package is available from CRAN:</p>
+
+<pre><code class="r"># Install stable version from CRAN
+install.packages(&quot;rnrfa&quot;)
+</code></pre>
+
+<p><br></p>
+
+<p>The development version is available from GitHub via devtools. <strong>This is preferred option to test this demo</strong>.</p>
+
+<pre><code class="r"># Install dev version
+devtools::install_github(&quot;cvitolo/rnrfa&quot;)
+</code></pre>
+
+  </article>
+  <!-- Presenter Notes -->
+  <footer class = 'logo'>
+    <img src = './assets/img/twitter_username.png'></img>
+  </footer>
+</slide>
+
+<slide class="" id="slide-18" style="background:;">
+  <hgroup>
+    <h2>Load the package</h2>
+  </hgroup>
+  <article data-timings="">
+    <p><br></p>
+
+<pre><code class="r"># Load the rnrfa package
+library(rnrfa)
+</code></pre>
+
+<pre><code>## 
+## +----------------------------------------------------------------+
+## |  If you wish to use NRFA data, please refer to the following   |
+## |  Terms &amp; Conditions:                                           |
+## |  http://nrfa.ceh.ac.uk/costs-terms-and-conditions              |
+## +----------------------------------------------------------------+
+</code></pre>
+
+  </article>
+  <!-- Presenter Notes -->
+  <footer class = 'logo'>
+    <img src = './assets/img/twitter_username.png'></img>
+  </footer>
+</slide>
+
+<slide class="" id="slide-19" style="background:;">
+  <hgroup>
+    <h2>List of monitoring stations</h2>
+  </hgroup>
+  <article data-timings="">
+    <p><br></p>
+
+<p>The function <code>catalogue()</code>, used with no inputs, requests the full list of gauging stations. </p>
+
+<pre><code class="r"># Retrieve information for all the stations in the catalogue:
+allStations &lt;- catalogue()
+
+dim(allStations)
+</code></pre>
+
+<pre><code>## [1] 1563   24
+</code></pre>
+
+<p>The output is a data object of type <code>data.frame</code>, containing 1563 records (total number of monitored gauging stations) and 24 columns (total number of metadata entries available). </p>
+
+  </article>
+  <!-- Presenter Notes -->
+  <footer class = 'logo'>
+    <img src = './assets/img/twitter_username.png'></img>
+  </footer>
+</slide>
+
+<slide class="" id="slide-20" style="background:;">
+  <hgroup>
+    <h2>List of monitoring stations</h2>
+  </hgroup>
+  <article data-timings="">
+    <p><br></p>
+
+<pre><code class="r"># Select columns: id, name, river, gridReference, catchmentArea
+selectedInfo &lt;- c(1, 3, 5, 9, 11)
+
+head(allStations[, selectedInfo])
+</code></pre>
+
+<pre><code>##     id                    name     river gridReference catchmentArea
+## 1 1001         Wick at Tarroul      Wick      ND262549         161.9
+## 2 2001  Helmsdale at Kilphedir Helmsdale      NC998181         551.4
+## 3 2002    Brora at Bruachrobie     Brora      NC891039         434.4
+## 4 3001           Shin at Lairg      Shin      NC581062         494.6
+## 5 3002    Carron at Sgodachail    Carron      NH491921         241.1
+## 6 3003 Oykel at Easter Turnaig     Oykel      NC403001         330.7
+</code></pre>
+
+  </article>
+  <!-- Presenter Notes -->
+  <footer class = 'logo'>
+    <img src = './assets/img/twitter_username.png'></img>
+  </footer>
+</slide>
+
+<slide class="" id="slide-21" style="background:;">
+  <hgroup>
+    <h2>Station information (1)</h2>
+  </hgroup>
+  <article data-timings="">
+    <p><br></p>
+
+<p>The function <code>catalogue()</code> can be used to filter stations based on various criteria, listed below:</p>
+
+<p>(1) <strong>id</strong> = Station identification number<br>
+(2) <strong>ma-station-id</strong> = Measuring Authority (local station number)<br>
+(3) <strong>name</strong> = Name of the station<br>
+(4) <strong>location</strong> = Area in which the station is located<br>
+(5) <strong>river</strong> = River catchment<br>
+(6) <strong>hydrometricArea</strong> = UK hydrometric area identification number<br>
+(7) <strong>operator</strong> = UK measuring authorities<br>
+(8) <strong>haName</strong> = Hydrometric Area name<br>
+(9) <strong>gridReference</strong> = OS Grid Reference number
+(10) <strong>stationType</strong> = Type of station (e.g. flume, weir, etc.)<br>
+(11) <strong>catchmentArea</strong> = Catchment area in (Km2)<br>
+(12) <strong>gdfStart</strong> = Year in which recordings started<br></p>
+
+  </article>
+  <!-- Presenter Notes -->
+  <footer class = 'logo'>
+    <img src = './assets/img/twitter_username.png'></img>
+  </footer>
+</slide>
+
+<slide class="" id="slide-22" style="background:;">
+  <hgroup>
+    <h2>Station information (2)</h2>
+  </hgroup>
+  <article data-timings="">
+    <p><br></p>
+
+<p>(13) <strong>gdfEnd</strong> = Year in which recordings ended<br>
+(14) <strong>farText</strong> = Information on the regime (e.g. natural, regulated, etc.)<br>
+(15) <strong>categories</strong> = various tags (e.g. FEH_POOLING, FEH_QMED)<br>
+(16) <strong>altitude</strong> = Altitude measured in metres above Ordnance Datum or, in Northern Ireland, Malin Head.<br>
+(17) <strong>sensitivity</strong> = Sensitivity index calculated as the percentage change in flow associated with a 10 mm increase in stage at the \(Q_{95}\) flow.<br>
+(18) <strong>benchmark2</strong> = placeholder variable (?) currently all NAs<br>
+(19) <strong>maximum-gauging-stage</strong> = level in m <br>
+(20) <strong>maximum-gauging-stage-date-time</strong> = in the format dd/mm/yyyy<br>
+(21) <strong>maximum-gauging-flow</strong> = flow in m3/s<br>
+(22) <strong>maximum-gauging-flow-date-time</strong> = in the format dd/mm/yyyy<br>
+(23) <strong>lat</strong> = a numeric vector of latitude coordinates.<br>
+(24) <strong>lon</strong> = a numeric vector of longitude coordinates.</p>
+
+  </article>
+  <!-- Presenter Notes -->
+  <footer class = 'logo'>
+    <img src = './assets/img/twitter_username.png'></img>
+  </footer>
+</slide>
+
+<slide class="" id="slide-23" style="background:;">
+  <hgroup>
+    <h2>Filter catalogue: bounding box</h2>
+  </hgroup>
+  <article data-timings="">
+    <p><br></p>
+
+<pre><code class="r"># Define a bounding box:
+bbox &lt;- list(lonMin = -3.82, lonMax = -3.63, latMin = 52.43, latMax = 52.52)
+
+# Filter stations based on bounding box
+catalogue(bbox = bbox)[, selectedInfo]
+</code></pre>
+
+<pre><code>##      id                         name     river gridReference catchmentArea
+## 1 54022    Severn at Plynlimon flume    Severn      SN853872           8.7
+## 2 54090 Tanllwyth at Tanllwyth Flume Tanllwyth      SN843876           0.9
+## 3 54091       Severn at Hafren Flume    Severn      SN843878           3.6
+## 4 54092           Hore at Hore Flume      Hore      SN846873           3.2
+## 5 54097     Hore at Upper Hore flume      Hore      SN831869           1.6
+## 6 55008            Wye at Cefn Brwyn       Wye      SN829838          10.6
+## 7 55033             Wye at Gwy flume       Wye      SN824853           3.9
+## 8 55034           Cyff at Cyff flume      Cyff      SN824842           3.1
+## 9 55035           Iago at Iago flume      Iago      SN826854           1.1
+</code></pre>
+
+  </article>
+  <!-- Presenter Notes -->
+  <footer class = 'logo'>
+    <img src = './assets/img/twitter_username.png'></img>
+  </footer>
+</slide>
+
+<slide class="" id="slide-24" style="background:;">
+  <hgroup>
+    <h2>Filter catalogue: minimum recorded years</h2>
+  </hgroup>
+  <article data-timings="">
+    <p><br></p>
+
+<pre><code class="r"># Filter based on minimum number of recording years
+catalogue(minRec=30)
+</code></pre>
+
+  </article>
+  <!-- Presenter Notes -->
+  <footer class = 'logo'>
+    <img src = './assets/img/twitter_username.png'></img>
+  </footer>
+</slide>
+
+<slide class="" id="slide-25" style="background:;">
+  <hgroup>
+    <h2>Filter catalogue: station <code>id</code> numbers</h2>
+  </hgroup>
+  <article data-timings="">
+    <p><br></p>
+
+<p>Generate a subset of the catalogue only containing the catchments to be used in this short course!</p>
+
+<pre><code class="r"># Filter stations based on identification number
+stations &lt;- catalogue(columnName = &quot;id&quot;,
+                      columnValue = c(7001, 12001, 25006, 39001, 50002))
+</code></pre>
+
+  </article>
+  <!-- Presenter Notes -->
+  <footer class = 'logo'>
+    <img src = './assets/img/twitter_username.png'></img>
+  </footer>
+</slide>
+
+<slide class="" id="slide-26" style="background:;">
+  <hgroup>
+    <h2>Filter catalogue: hydrometric area (<code>haName</code>)</h2>
+  </hgroup>
+  <article data-timings="">
+    <p><br></p>
+
+<pre><code class="r"># Filter stations belonging to a certain hydrometric area
+catalogue(columnName = &quot;haName&quot;, columnValue = &quot;Wye (Hereford)&quot;)
+</code></pre>
+
+  </article>
+  <!-- Presenter Notes -->
+  <footer class = 'logo'>
+    <img src = './assets/img/twitter_username.png'></img>
+  </footer>
+</slide>
+
+<slide class="" id="slide-27" style="background:;">
+  <hgroup>
+    <h2>Filter catalogue: combine multiple selection criteria</h2>
+  </hgroup>
+  <article data-timings="">
+    <p><br></p>
+
+<pre><code class="r">catalogue(bbox = bbox,
+          columnName = &quot;id&quot;, 
+          columnValue = c(54022,54090,54091,54092,54097), 
+          minRec = 35)
+</code></pre>
+
+  </article>
+  <!-- Presenter Notes -->
+  <footer class = 'logo'>
+    <img src = './assets/img/twitter_username.png'></img>
+  </footer>
+</slide>
+
+<slide class="" id="slide-28" style="background:;">
+  <hgroup>
+    <h2>Conversions</h2>
+  </hgroup>
+  <article data-timings="">
+    <p><br></p>
+
+<p>NRFA stations are located based on the OS grid reference (column 10, &quot;gridRef&quot;). The <code>rnrfa</code> package allows convenient conversion to more standard coordinate systems. The function <code>osg_parse()</code> converts the string to easting and northing in the British/Irish National Grid coordinate system (EPSG code: 27700/29902) by default.</p>
+
+<pre><code class="r"># Convert OS Grid reference to BNG
+osg_parse(gridRefs = &quot;SN853872&quot;)
+</code></pre>
+
+<pre><code>## $easting
+## [1] 285300
+## 
+## $northing
+## [1] 287200
+</code></pre>
+
+  </article>
+  <!-- Presenter Notes -->
+  <footer class = 'logo'>
+    <img src = './assets/img/twitter_username.png'></img>
+  </footer>
+</slide>
+
+<slide class="" id="slide-29" style="background:;">
+  <hgroup>
+    <h2>Conversions</h2>
+  </hgroup>
+  <article data-timings="">
+    <p><br></p>
+
+<p>To get coordinates in latitude and longitude (WSGS84 coordinate system, EPSG code: 4326) use the parameter CoordSystem = &quot;WGS84&quot;. </p>
+
+<pre><code class="r"># Convert BNG to WSGS84
+osg_parse(gridRefs = &quot;SN853872&quot;, CoordSystem = &quot;WGS84&quot;)
+</code></pre>
+
+<pre><code>## $lon
+## [1] -3.689987
+## 
+## $lat
+## [1] 52.47065
+</code></pre>
+
+  </article>
+  <!-- Presenter Notes -->
+  <footer class = 'logo'>
+    <img src = './assets/img/twitter_username.png'></img>
+  </footer>
+</slide>
+
+<slide class="" id="slide-30" style="background:;">
+  <hgroup>
+    <h2>Conversions</h2>
+  </hgroup>
+  <article data-timings="">
+    <p><br></p>
+
+<p><code>osg_parse()</code> also works with multiple references:</p>
+
+<pre><code class="r">osg_parse(gridRefs = stations$gridReference)
+</code></pre>
+
+<pre><code>## $easting
+## [1] 282500 363400 403300 517700 249900
+## 
+## $northing
+## [1] 833500 795600 512200 169800 118500
+</code></pre>
+
+  </article>
+  <!-- Presenter Notes -->
+  <footer class = 'logo'>
+    <img src = './assets/img/twitter_username.png'></img>
+  </footer>
+</slide>
+
+<slide class="" id="slide-31" style="background:;">
+  <hgroup>
+    <h2>Get time series data</h2>
+  </hgroup>
+  <article data-timings="">
+    <p><br></p>
+
+<p>Stations id numbers can be used to retrieve time series data. These data are automatically converted from WaterML2 format to time series object of class zoo. </p>
+
+<p>The National River Flow Archive serves two types of time series data:</p>
+
+<ul>
+<li><p>Gauged Daily Flows, get data using the function <code>gdf()</code></p></li>
+<li><p>Catchment Mean Rainfall, get data using the function <code>cmr()</code></p></li>
+</ul>
+
+  </article>
+  <!-- Presenter Notes -->
+  <footer class = 'logo'>
+    <img src = './assets/img/twitter_username.png'></img>
+  </footer>
+</slide>
+
+<slide class="" id="slide-32" style="background:;">
+  <hgroup>
+    <h2>Gauged Daily Flows, <code>gdf()</code></h2>
+  </hgroup>
+  <article data-timings="">
+    <p><br></p>
+
+<p>This function accepts one input, the station id. Here is how to retrieve daily flows and metadata for the <em>Findhorn at Shenachie (id = 7001)</em> catchment.</p>
+
+<pre><code class="r"># Fetch time series data and metadata from the waterml2 service
+gdfdata7001 &lt;- gdf(id = &quot;7001&quot;)
+gdfmeta7001 &lt;- gdf(id = &quot;7001&quot;, metadata = TRUE)$meta
+</code></pre>
+
+  </article>
+  <!-- Presenter Notes -->
+  <footer class = 'logo'>
+    <img src = './assets/img/twitter_username.png'></img>
+  </footer>
+</slide>
+
+<slide class="" id="slide-33" style="background:;">
+  <hgroup>
+    <h2>Gauged Daily Flows, <code>gdf()</code></h2>
+  </hgroup>
+  <article data-timings="">
+    <p><br></p>
+
+<pre><code class="r">plot(gdfdata7001, 
+     main = paste(&quot;Daily flow data for&quot;, gdfmeta7001$stationName, &quot;catchment&quot;),
+     xlab = &quot;&quot;, 
+     ylab = expression(m^3/s))
+</code></pre>
+
+<p><img src="assets/fig/unnamed-chunk-13-1.png" alt="plot of chunk unnamed-chunk-13"></p>
+
+  </article>
+  <!-- Presenter Notes -->
+  <footer class = 'logo'>
+    <img src = './assets/img/twitter_username.png'></img>
+  </footer>
+</slide>
+
+<slide class="" id="slide-34" style="background:;">
+  <hgroup>
+    <h2>Catchment Mean Rainfall, <code>cmr()</code></h2>
+  </hgroup>
+  <article data-timings="">
+    <p><br></p>
+
+<p>This function accepts one input, the station id. Here is how to retrieve rainfall data for <em>Findhorn at Shenachie (id = 7001)</em> catchment.</p>
+
+<pre><code class="r"># Fetch time series data from the waterml2 service
+cmrdata7001 &lt;- cmr(id = &quot;7001&quot;)
+cmrmeta7001 &lt;- cmr(id = &quot;7001&quot;, metadata = TRUE)$meta
+</code></pre>
+
+  </article>
+  <!-- Presenter Notes -->
+  <footer class = 'logo'>
+    <img src = './assets/img/twitter_username.png'></img>
+  </footer>
+</slide>
+
+<slide class="" id="slide-35" style="background:;">
+  <hgroup>
+    <h2>Catchment Mean Rainfall, <code>cmr()</code></h2>
+  </hgroup>
+  <article data-timings="">
+    <p><br></p>
+
+<pre><code class="r">plot(cmrdata7001, 
+     main = paste(&quot;Monthly rainfall for&quot;, cmrmeta7001$stationName, &quot;catchment&quot;), 
+     xlab = &quot;&quot;,
+     ylab = expression(mm))
+</code></pre>
+
+<p><img src="assets/fig/unnamed-chunk-15-1.png" alt="plot of chunk unnamed-chunk-15"></p>
+
+  </article>
+  <!-- Presenter Notes -->
+  <footer class = 'logo'>
+    <img src = './assets/img/twitter_username.png'></img>
+  </footer>
+</slide>
+
+<slide class="" id="slide-36" style="background:;">
+  <hgroup>
+    <h2>Get GDF and CMR data for the next parts of the course!</h2>
+  </hgroup>
+  <article data-timings="">
+    <pre><code class="r">stations &lt;- catalogue(columnName = &quot;id&quot;,
+                      columnValue = c(7001, 12001, 25006, 39001, 50002))
+
+gdfdata7001 &lt;- gdf(id = &quot;7001&quot;); cmrdata7001 &lt;- cmr(id = &quot;7001&quot;)
+gdfdata12001 &lt;- gdf(id = &quot;12001&quot;); cmrdata12001 &lt;- cmr(id = &quot;12001&quot;)
+gdfdata25006 &lt;- gdf(id = &quot;25006&quot;); cmrdata25006 &lt;- cmr(id = &quot;25006&quot;)
+gdfdata39001 &lt;- gdf(id = &quot;39001&quot;); cmrdata39001 &lt;- cmr(id = &quot;39001&quot;)
+gdfdata50002 &lt;- gdf(id = &quot;50002&quot;); cmrdata50002 &lt;- cmr(id = &quot;50002&quot;)
+</code></pre>
+
+<p><br></p>
+
+<!-- Discover how `rnrfa` interacts nicely with other packages to generate dynamic reports with searchable table (`DT`), create interactive maps (`leaflet`), explore flow and rainfall events using interactive plots (`dygraphs`), run multiple data requests efficiently (`parallel`):
+
+Claudia Vitolo, Matthew Fry, and Wouter Buytaert. `rnrfa: An r package to retrieve, filter and visualize data from the uk national river flow archive.` The R Journal, 8(2):102–116, 2016, url: [https://journal.r-project.org/archive/2016-2/vitolo-fry-buytaert.pdf](https://journal.r-project.org/archive/2016-2/vitolo-fry-buytaert.pdf).
+
+-->
+
+  </article>
+  <!-- Presenter Notes -->
+  <footer class = 'logo'>
+    <img src = './assets/img/twitter_username.png'></img>
+  </footer>
+</slide>
+
+<slide class="thank-you-slide segue nobackground" id="slide-37">
+  <aside class="gdbar right"><img src="assets/img/ecmwf_logo.png"></aside>
+  <article class="flexbox vleft auto-fadein">
+    <h2>Thank You</h2>
+    <p>For more information, contact me:</p>
+
+  </article>
+
+  <p class="auto-fadein" data-config-contact="">
+    <span>e-mail</span><a href="claudia.vitolo@ecmwf.int">claudia.vitolo@ecmwf.int</a><br>
+    <span>twitter</span><a href="@clavitolo">@clavitolo</a><br>
+  </p>
+</slide>
+    <slide class="backdrop"></slide>
+  </slides>
+  <div class="pagination pagination-small" id='io2012-ptoc' style="display:none;">
+    <ul>
+      <li>
+      <a href="#" target="_self" rel='tooltip' 
+        data-slide=1 title='NA'>
+         1
+      </a>
+    </li>
+    <li>
+      <a href="#" target="_self" rel='tooltip' 
+        data-slide=2 title='About me &amp; announcements'>
+         2
+      </a>
+    </li>
+    <li>
+      <a href="#" target="_self" rel='tooltip' 
+        data-slide=3 title='About me &amp; announcements'>
+         3
+      </a>
+    </li>
+    <li>
+      <a href="#" target="_self" rel='tooltip' 
+        data-slide=4 title='About me &amp; announcements'>
+         4
+      </a>
+    </li>
+    <li>
+      <a href="#" target="_self" rel='tooltip' 
+        data-slide=5 title='National River Flow Archive and its APIs'>
+         5
+      </a>
+    </li>
+    <li>
+      <a href="#" target="_self" rel='tooltip' 
+        data-slide=6 title='RESTful web services, APIs and data requests'>
+         6
+      </a>
+    </li>
+    <li>
+      <a href="#" target="_self" rel='tooltip' 
+        data-slide=7 title='Exercise #1'>
+         7
+      </a>
+    </li>
+    <li>
+      <a href="#" target="_self" rel='tooltip' 
+        data-slide=8 title='Exercise #1'>
+         8
+      </a>
+    </li>
+    <li>
+      <a href="#" target="_self" rel='tooltip' 
+        data-slide=9 title='Exercise #1'>
+         9
+      </a>
+    </li>
+    <li>
+      <a href="#" target="_self" rel='tooltip' 
+        data-slide=10 title='Exercise #2'>
+         10
+      </a>
+    </li>
+    <li>
+      <a href="#" target="_self" rel='tooltip' 
+        data-slide=11 title='Exercise #2'>
+         11
+      </a>
+    </li>
+    <li>
+      <a href="#" target="_self" rel='tooltip' 
+        data-slide=12 title='Exercise #2'>
+         12
+      </a>
+    </li>
+    <li>
+      <a href="#" target="_self" rel='tooltip' 
+        data-slide=13 title='Challenges'>
+         13
+      </a>
+    </li>
+    <li>
+      <a href="#" target="_self" rel='tooltip' 
+        data-slide=14 title='Challenges'>
+         14
+      </a>
+    </li>
+    <li>
+      <a href="#" target="_self" rel='tooltip' 
+        data-slide=15 title='Challenges'>
+         15
+      </a>
+    </li>
+    <li>
+      <a href="#" target="_self" rel='tooltip' 
+        data-slide=16 title='The <code>rnrfa</code> package'>
+         16
+      </a>
+    </li>
+    <li>
+      <a href="#" target="_self" rel='tooltip' 
+        data-slide=17 title='Installation'>
+         17
+      </a>
+    </li>
+    <li>
+      <a href="#" target="_self" rel='tooltip' 
+        data-slide=18 title='Load the package'>
+         18
+      </a>
+    </li>
+    <li>
+      <a href="#" target="_self" rel='tooltip' 
+        data-slide=19 title='List of monitoring stations'>
+         19
+      </a>
+    </li>
+    <li>
+      <a href="#" target="_self" rel='tooltip' 
+        data-slide=20 title='List of monitoring stations'>
+         20
+      </a>
+    </li>
+    <li>
+      <a href="#" target="_self" rel='tooltip' 
+        data-slide=21 title='Station information (1)'>
+         21
+      </a>
+    </li>
+    <li>
+      <a href="#" target="_self" rel='tooltip' 
+        data-slide=22 title='Station information (2)'>
+         22
+      </a>
+    </li>
+    <li>
+      <a href="#" target="_self" rel='tooltip' 
+        data-slide=23 title='Filter catalogue: bounding box'>
+         23
+      </a>
+    </li>
+    <li>
+      <a href="#" target="_self" rel='tooltip' 
+        data-slide=24 title='Filter catalogue: minimum recorded years'>
+         24
+      </a>
+    </li>
+    <li>
+      <a href="#" target="_self" rel='tooltip' 
+        data-slide=25 title='Filter catalogue: station <code>id</code> numbers'>
+         25
+      </a>
+    </li>
+    <li>
+      <a href="#" target="_self" rel='tooltip' 
+        data-slide=26 title='Filter catalogue: hydrometric area (<code>haName</code>)'>
+         26
+      </a>
+    </li>
+    <li>
+      <a href="#" target="_self" rel='tooltip' 
+        data-slide=27 title='Filter catalogue: combine multiple selection criteria'>
+         27
+      </a>
+    </li>
+    <li>
+      <a href="#" target="_self" rel='tooltip' 
+        data-slide=28 title='Conversions'>
+         28
+      </a>
+    </li>
+    <li>
+      <a href="#" target="_self" rel='tooltip' 
+        data-slide=29 title='Conversions'>
+         29
+      </a>
+    </li>
+    <li>
+      <a href="#" target="_self" rel='tooltip' 
+        data-slide=30 title='Conversions'>
+         30
+      </a>
+    </li>
+    <li>
+      <a href="#" target="_self" rel='tooltip' 
+        data-slide=31 title='Get time series data'>
+         31
+      </a>
+    </li>
+    <li>
+      <a href="#" target="_self" rel='tooltip' 
+        data-slide=32 title='Gauged Daily Flows, <code>gdf()</code>'>
+         32
+      </a>
+    </li>
+    <li>
+      <a href="#" target="_self" rel='tooltip' 
+        data-slide=33 title='Gauged Daily Flows, <code>gdf()</code>'>
+         33
+      </a>
+    </li>
+    <li>
+      <a href="#" target="_self" rel='tooltip' 
+        data-slide=34 title='Catchment Mean Rainfall, <code>cmr()</code>'>
+         34
+      </a>
+    </li>
+    <li>
+      <a href="#" target="_self" rel='tooltip' 
+        data-slide=35 title='Catchment Mean Rainfall, <code>cmr()</code>'>
+         35
+      </a>
+    </li>
+    <li>
+      <a href="#" target="_self" rel='tooltip' 
+        data-slide=36 title='Get GDF and CMR data for the next parts of the course!'>
+         36
+      </a>
+    </li>
+    <li>
+      <a href="#" target="_self" rel='tooltip' 
+        data-slide=37 title='Thank You'>
+         37
+      </a>
+    </li>
+  </ul>
+  </div>  <!--[if IE]>
+    <script 
+      src="http://ajax.googleapis.com/ajax/libs/chrome-frame/1/CFInstall.min.js">  
+    </script>
+    <script>CFInstall.check({mode: 'overlay'});</script>
+  <![endif]-->
+</body>
+  <!-- Load Javascripts for Widgets -->
+  <script src="libraries/widgets/bootstrap/js/bootstrap.min.js"></script>
+<script src="libraries/widgets/bootstrap/js/bootbox.min.js"></script>
+<script src="libraries/widgets/quiz/js/jquery.quiz.js"></script>
+<script src="libraries/widgets/quiz/js/mustache.min.js"></script>
+<script src="libraries/widgets/quiz/js/quiz-app.js"></script>
+
+  <!-- MathJax: Fall back to local if CDN offline but local image fonts are not supported (saves >100MB) -->
+  <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      tex2jax: {
+        inlineMath: [['$','$'], ['\\(','\\)']],
+        processEscapes: true
+      }
+    });
+  </script>
+  <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/2.0-latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  <!-- <script src="https://c328740.ssl.cf1.rackcdn.com/mathjax/2.0-latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+  </script> -->
+  <script>window.MathJax || document.write('<script type="text/x-mathjax-config">MathJax.Hub.Config({"HTML-CSS":{imageFont:null}});<\/script><script src="libraries/widgets/mathjax/MathJax.js?config=TeX-AMS-MML_HTMLorMML"><\/script>')
+</script>
+<script>  
+  $(function (){ 
+    $("#example").popover(); 
+    $("[rel='tooltip']").tooltip(); 
+  });  
+  </script>  
+  
+  <script src="shared/shiny.js" type="text/javascript"></script>
+  <script src="shared/slider/js/jquery.slider.min.js"></script>
+  <script src="shared/bootstrap/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" href="shared/slider/css/jquery.slider.min.css"></link>
+  
+  <!-- LOAD HIGHLIGHTER JS FILES -->
+  <script src="libraries/highlighters/highlight.js/highlight.pack.js"></script>
+  <script>hljs.initHighlightingOnLoad();</script>
+  <!-- DONE LOADING HIGHLIGHTER JS FILES -->
+   
+  </html>
