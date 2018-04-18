@@ -16,12 +16,12 @@ Conveners: Louise Slater, Shaun Harrigan, Tobias Gauster, Alexander Hurley, Guil
 - For the netCDF presentation, sample gridded data for 2015-06 can be downloaded directly by clicking <a href="https://catalogue.ceh.ac.uk/datastore/eidchub/b745e7b1-626c-4ccc-ac27-56582e77b900/chess_precip_201506.nc" rel="nofollow">here</a> and the catchment shapefile can be downloaded from <a href="http://nrfa.ceh.ac.uk/data/station/spatial_download/12001" rel="nofollow">here</a> (see acknowledgments in presentation).
                     
 ## Layout of the session:
-- Introduction to the short course - Louise Slater 
-- Accessing hydrological data using web APIs (a demo of the rnrfa package) - Claudia Vitolo
-- Extracting netCDF climate data for hydrological analyses (reading and visualising gridded data) - Louise Slater
-- Processing, modelling and visualising hydrological data in R (tidyverse; piping, mapping and nesting) - Alexander Hurley
-- Hydrological modelling and teaching modelling (airGR and airGRteaching) - Guillaume Thirel
-- Typical hydrological tasks in R (List columns, Leaflet and coordinate transformation, Open Street Maps) - Tobias Gauster
+- <a href="https://github.com/hydrosoc/rhydro_EGU18/blob/master/Introduction.pdf" rel="nofollow">Introduction to the short course</a> - Louise Slater 
+- <a href="https://github.com/hydrosoc/rhydro_EGU18/tree/master/rnrfa" rel="nofollow">Accessing hydrological data using web APIs</a> (a demo of the rnrfa package) - Claudia Vitolo
+- <a href="https://github.com/hydrosoc/rhydro_EGU18/blob/master/netCDF.pdf" rel="nofollow">Extracting netCDF climate data for hydrological analyses</a> (reading and visualising gridded data) - Louise Slater
+- <a href="https://github.com/hydrosoc/rhydro_EGU18/blob/master/proc-mod-viz.zip" rel="nofollow">Processing, modelling and visualising hydrological data in R</a> (tidyverse; piping, mapping and nesting) - Alexander Hurley
+- <a href="https://github.com/hydrosoc/rhydro_EGU18/tree/master/airGR_slides" rel="nofollow">Hydrological modelling and teaching modelling</a> (airGR and airGRteaching) - Guillaume Thirel
+- <a href="https://github.com/hydrosoc/rhydro_EGU18/tree/master/tidy-hydrodata" rel="nofollow">Typical hydrological tasks in R</a> (List columns, Leaflet and coordinate transformation, Open Street Maps) - Tobias Gauster
 
 ## Resources:
 - <a href="https://odelaigue.github.io/airGR/" rel="nofollow">airGR</a> - a description of the airGR package (IRSTEA GR Hydrological Models)
