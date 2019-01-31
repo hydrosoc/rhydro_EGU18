@@ -52,5 +52,5 @@ Please refer to this course as:
 **BibTeX**
 
 ```
-@misc{louise slater_claudia vitolo_shaun harrigan_tobias gauster_guillaume thirel_alexander hurley_2019, title={Using R in Hydrology at EGU2018}, DOI={10.5281/zenodo.2554009}, abstractNote={<p>This repository contains all contributions to the <a href="https://meetingorganizer.copernicus.org/EGU2018/session/28914">short course</a> delivered at EGU 2018. Materials to this and other short courses can be found on the <a href="https://github.com/hydrosoc">YHS GitHub repository.</a></p>}, publisher={Zenodo}, author={Louise Slater and Claudia Vitolo and Shaun Harrigan and Tobias Gauster and Guillaume Thirel and Alexander Hurley}, year={2019}, month={Jan}}
+@misc{rhydro_EGU2018, title={Using R in Hydrology at EGU2018}, DOI={10.5281/zenodo.2554009}, abstractNote={<p>This repository contains all contributions to the <a href="https://meetingorganizer.copernicus.org/EGU2018/session/28914">short course</a> delivered at EGU 2018. Materials to this and other short courses can be found on the <a href="https://github.com/hydrosoc">YHS GitHub repository.</a></p>}, publisher={Zenodo}, author={Louise Slater and Claudia Vitolo and Shaun Harrigan and Tobias Gauster and Guillaume Thirel and Alexander Hurley}, year={2019}, month={Jan}}
 ```
