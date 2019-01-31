@@ -1,8 +1,11 @@
+[![DOI](https://zenodo.org/badge/116503839.svg)](https://zenodo.org/badge/latestdoi/116503839)
+
 [Details](#Details) 
 / [Topics](#Topics) 
 / [Slides](#Slides) 
 / [Check](#Checks) 
 / [Resources](#Resources) 
+/ [Citation](#Citation)  
 
 # Using R in Hydrology - EGU2018 Short Course
 
@@ -40,3 +43,14 @@ Individual presentations (*.html* files) can be downloaded and viewed in a regul
 - <a href="https://journal.r-project.org/archive/2016/RJ-2016-036/RJ-2016-036.pdf" rel="nofollow">rnrfa</a> - an R package to interact with the UK National River Flow Archive ([GitHub repo](https://github.com/cvitolo/rnrfa))
 - <a href="https://ropensci.github.io/hddtools/" rel="nofollow">hddtools</a> - an R package to facilitate access to a variety of online open data sources for hydrologists
 
+## Citation
+
+Please refer to this course as:
+
+* Louise Slater, Claudia Vitolo, Shaun Harrigan, Tobias Gauster, Guillaume Thirel, & Alexander Hurley. (2019, January). Using R in Hydrology at EGU2018 (Version 1.0.1). Zenodo. http://doi.org/10.5281/zenodo.2554009
+
+**BibTeX**
+
+```
+@misc{louise slater_claudia vitolo_shaun harrigan_tobias gauster_guillaume thirel_alexander hurley_2019, title={Using R in Hydrology at EGU2018}, DOI={10.5281/zenodo.2554009}, abstractNote={<p>This repository contains all contributions to the <a href="https://meetingorganizer.copernicus.org/EGU2018/session/28914">short course</a> delivered at EGU 2018. Materials to this and other short courses can be found on the <a href="https://github.com/hydrosoc">YHS GitHub repository.</a></p>}, publisher={Zenodo}, author={Louise Slater and Claudia Vitolo and Shaun Harrigan and Tobias Gauster and Guillaume Thirel and Alexander Hurley}, year={2019}, month={Jan}}
+```
