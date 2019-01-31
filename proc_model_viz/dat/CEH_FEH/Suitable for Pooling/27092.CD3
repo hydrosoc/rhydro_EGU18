@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 27092
+[END]
+[CDS DETAILS]
+NAME,Esk
+LOCATION,Briggswath
+NOMINAL AREA,  325.27
+NOMINAL NGR,4873,5082
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,487350,508250
+CENTROID NGR,GB,475910,504303
+DTM AREA,  325.27
+ALTBAR, 222
+ASPBAR, 62
+ASPVAR,0.10
+BFIHOST,0.349
+DPLBAR, 24.65
+DPSBAR,110.0
+FARL,0.999
+FPEXT,0.0230
+LDP, 46.65
+PROPWET,0.40
+RMED-1H, 10.5
+RMED-1D, 35.8
+RMED-2D, 46.9
+SAAR, 877
+SAAR4170, 896
+SPRHOST,48.58
+URBCONC1990,-9999.000
+URBEXT1990,0.0023
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0038
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Multi-path ultrasonic station in a permeable catchment in the North York Moors. Replaced 27050. GENERAL: Multi-path ultrasonic station installed in a stable, 30m wide channel in 1992, with a tendency to drop out on the rising limb of the hydrograph due to installation problems and high suspended solids. Station replaced 27050 (Sleights, closed January 1998) in 1992. STATION HYDROMETRY: Single peak flow rating developed using ultrasonic flow meter applied throughout. A revised low flow rating, used for filling gaps in ultrasonic record, was derived in 2014. It slightly increases the lowest flows. There is a new HEP abstraction downstream at Ruswarp weir which will alter the low flow control while abstraction is taking place. The ultrasonic gauge will not be affected but the infill rating will be. High flow rating should not be affected. Cableway gaugings extend to a reasonable level. FLOW REGIME: Responsive and sensibly natural flow regime with no known artificial influences.
+CATCHMENT,Permeable headwaters (Jurassic limestone of the North York Moors) thence mainly Middle Oolite and Middle Lias; extensive Drift cover. A rural catchment with moorland headwaters. No known catchment changes.
+Qmed Suitability,Gauged to within 26% of QMED. Full range ultrasonic flow meter.
+Pooling Suitability,No gaugings beyond Med but all flows contained and full range ultrasonic flow meter thought to be reliable. Some loss of data during flood acknowledged.
+[END]

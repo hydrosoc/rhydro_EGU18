@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 36010
+[END]
+[CDS DETAILS]
+NAME,Bumpstead Brook
+LOCATION,Broad Green
+NOMINAL AREA,   27.58
+NOMINAL NGR,5689,2418
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,568950,241800
+CENTROID NGR,GB,565864,241223
+DTM AREA,   27.58
+ALTBAR,  96
+ASPBAR, 97
+ASPVAR,0.25
+BFIHOST,0.387
+DPLBAR,  4.61
+DPSBAR, 34.1
+FARL,0.999
+FPEXT,0.0447
+LDP,  9.26
+PROPWET,0.27
+RMED-1H, 11.2
+RMED-1D, 29.1
+RMED-2D, 36.9
+SAAR, 588
+SAAR4170, 616
+SPRHOST,44.57
+URBCONC1990, 0.358
+URBEXT1990,0.0056
+URBLOC1990, 0.501
+URBCONC2000, 0.597
+URBEXT2000,0.0075
+URBLOC2000, 0.575
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,'Essex' profile gauging a small, rural, virtually natural catchment. GENERAL: 'Essex' profile (modified Flat V Crump) weir with crest tapping and high flow spillway. STATION HYDROMETRY: Modular limit approx. 6.0 cumecs. Approx. limit of gauging is 12.5 cumecs. Bypassing estiamted to start at 1.2m. Rating accounts for non-modular flow above 6 cumecs. One rating applied across period of record. FLOW RECORD: No POT data are presented for this station as they have no non-modular flow correction applied. AMAX data have been corrected, but in some cases can be below the daily flow as these are not corrected. Highest gauging taken in 1968 and is an estimate. FLOW REGIME: Some industrial/agricultural abstraction, but natural to within 10% at Q95. Only minor adjustments needed, virtually natural catchment.
+CATCHMENT,Chalk and glacial gravel in the catchment completely overlain with Boulder Clay. Rural, predominantly arable land.
+Qmed Suitability,Gauged above QMED. Good fit to available gaugings.
+Pooling Suitability,Gauged to within 23% of AMAX3 (Note: highest gauging is an estimate and as subsequently uncertain). Further gaugings required.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 60009
+[END]
+[CDS DETAILS]
+NAME,Sawdde
+LOCATION,Felin-y-cwm
+NOMINAL AREA,   78.86
+NOMINAL NGR,2712,2265
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,271200,226550
+CENTROID NGR,GB,275118,222574
+DTM AREA,   78.86
+ALTBAR, 309
+ASPBAR,321
+ASPVAR,0.31
+BFIHOST,0.448
+DPLBAR,  8.77
+DPSBAR,167.8
+FARL,0.995
+FPEXT,0.0165
+LDP, 16.42
+PROPWET,0.62
+RMED-1H, 12.3
+RMED-1D, 56.6
+RMED-2D, 78.6
+SAAR,1794
+SAAR4170,1772
+SPRHOST,39.84
+URBCONC1990,-9999.000
+URBEXT1990,0.0000
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0006
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Flat V Crump profile weir. Reservoir in upper catchment affects runoff. GENERAL: Flat V Crump profile weir. Channel width: 13.7m. Weir built in 1970, replaced in Jun 2008-Sep 2009. STATION HYDROMETRY: Weir cross slope 1:20; d/s slope 1:5; u/s slope 1:2. Slope of u/s reach is 1:100 and d/s reach is 1:250. During floods, bedload can be boulder range, up to 0.3m diameter. Llyn Y Fan Fach reservoir in headwaters. Two peak flow ratings applied across period of record: Theoretical rating applied after rebuild in 2009. Upper limit recommended at 1.6m, maximum gauged. FLOW RECORD: Station re-rated 1991-93. Substantial weir refurbishment between 27 Jun 2008 and 3 Oct 2009. Flows from 14 Sep 2009 to 31 Dec 2012 reprocessed in 2014 due to rating change, decreasing GDFs below approx 2 cumecs. Suspect data between 19 Oct 2009 and 2 Feb 2010 due to a blocked pipe. Peak flows since the weir refurbishment are rejected pending confirmation of the new rating. FLOW REGIME: Reservoir in upper catchment affects runoff. Some abstraction for public water supply.
+CATCHMENT,Predominantly impermeable; Old Red Sandstone at source, Silurian in middle section, Ordovician in lower reaches. Valley extensively covered with alluvium. Predominantly grassland, some forest at lower elevations. Mostly within Brecon Beacons National Park.
+Qmed Suitability,Suitable for QMED until Jun 2008: Gauged above QMED. Awaiting gaugings to confirm rating from 2009.
+Pooling Suitability,Insufficient gaugings beyond QMED to confirm rating at high flows.
+[END]

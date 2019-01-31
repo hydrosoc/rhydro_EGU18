@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 54102
+[END]
+[CDS DETAILS]
+NAME,Avon
+LOCATION,Lilbourne
+NOMINAL AREA,  109.58
+NOMINAL NGR,4563,2777
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,456350,277750
+CENTROID NGR,GB,462406,279064
+DTM AREA,  109.58
+ALTBAR, 142
+ASPBAR,256
+ASPVAR,0.13
+BFIHOST,0.354
+DPLBAR, 10.97
+DPSBAR, 35.0
+FARL,0.906
+FPEXT,0.0951
+LDP, 21.51
+PROPWET,0.29
+RMED-1H, 12.0
+RMED-1D, 31.5
+RMED-2D, 38.9
+SAAR, 668
+SAAR4170, 695
+SPRHOST,44.77
+URBCONC1990, 0.014
+URBEXT1990,0.0047
+URBLOC1990, 0.021
+URBCONC2000, 0.712
+URBEXT2000,0.0063
+URBLOC2000, 1.043
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Open channel site with cableway until 17/12/98, when flat V weir constructed. GENERAL: Open channel site with cableway until 17/12/98, when flat V weir constructed. STATION HYDROMETRY: Cableway rated, bankfull unknown prior to 1998. Two ratings applied across period of record, the most recent is valid from December-1998 when weir installed. Weir rating confirmed by gaugings to bank full. FLOW REGIME: Influences are PWS and canal abstractions at low flows and peak flattening effect of Stanford Reservoir at high flows.
+CATCHMENT,Agricultural catchment on Lower Lias, with fairly low relief despite being near the headwaters.
+Qmed Suitability,Confident in flow estimates from ratings pre and post weir.
+Pooling Suitability,No gaugings above bank full since weir installation to validate rating. Pre weir data is suitable.
+[END]

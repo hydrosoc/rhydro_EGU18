@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 48012
+[END]
+[CDS DETAILS]
+NAME,Fal
+LOCATION,Trenowth
+NOMINAL AREA,   65.07
+NOMINAL NGR,1937, 506
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,193750,50600
+CENTROID NGR,GB,195468, 56651
+DTM AREA,   65.07
+ALTBAR, 149
+ASPBAR,252
+ASPVAR,0.19
+BFIHOST,0.523
+DPLBAR,  9.70
+DPSBAR, 72.5
+FARL,0.979
+FPEXT,0.0712
+LDP, 20.64
+PROPWET,0.45
+RMED-1H, 11.9
+RMED-1D, 43.4
+RMED-2D, 58.3
+SAAR,1248
+SAAR4170,1262
+SPRHOST,35.49
+URBCONC1990, 0.515
+URBEXT1990,0.0202
+URBLOC1990, 0.892
+URBCONC2000, 0.706
+URBEXT2000,0.0203
+URBLOC2000, 0.832
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area open channel flood warning gauge on channel with remarkably stable cross section. GENERAL: Open channel flood warning gauge. STATION HYDROMETRY: Channel section shown to have remarkably stable cross section so good confidence in derived rating and flow data (Gauged to within 80% of QMED). One peak flow rating across period of record. Rated by current meter gauging. FLOW REGIME: Extensive china clay mining and historical metalliferous mining in a large part of the catchment. Apart from that the catchment is predominately rural.
+CATCHMENT,The north of the catchment consists of the St. Austell granite intrusion. The southern portion of this granite has undergone extreme weathering and the resultant china clays are extensively mined. The Devonian sediments within the catchment consist of the fossiliferous slates of the Meadfoot Beds south of the St. Austell granite, the interbedded grey slate and light brown sandstone of the Grampound Grits and over the majority of the southern section, the slates and sandstones of the Veryan, Portscatho, Falmouth and Mylor Series. As a result of this impermeable geology there is a ready response to rainfall. No major changes to catchment.
+Qmed Suitability,rated to 80% QMED
+Pooling Suitability,rating extrapolated but all flows to date in channel
+[END]

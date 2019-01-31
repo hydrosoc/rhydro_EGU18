@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 31026
+[END]
+[CDS DETAILS]
+NAME,Egleton Brook
+LOCATION,Egleton
+NOMINAL AREA,    2.30
+NOMINAL NGR,4878,3072
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,487850,307350
+CENTROID NGR,GB,487850,307350
+DTM AREA,    2.30
+ALTBAR, 111
+ASPBAR, 55
+ASPVAR,0.68
+BFIHOST,0.533
+DPLBAR,  1.75
+DPSBAR, 41.0
+FARL,1.000
+FPEXT,0.0936
+LDP,  3.33
+PROPWET,0.30
+RMED-1H, 12.0
+RMED-1D, 30.0
+RMED-2D, 40.0
+SAAR, 645
+SAAR4170, 653
+SPRHOST,33.41
+URBCONC1990, 0.005
+URBEXT1990,0.0046
+URBLOC1990,-9999.000
+URBCONC2000, 0.727
+URBEXT2000,0.0111
+URBLOC2000, 0.269
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Flat V weir measuring inflows to Rutland Water reservoir from a small, rural, natural catchment. GENERAL: Flat V weir 2m wide measuring inflows to Rutland Water. STATION HYDROMETRY: Theoretically rated, but could drown at high flows due to sharp bend d/s and weed growth. One rating applied across period of record. FLOW REGIME: Natural to within 10% at Q95. No abstractions or returns.
+CATCHMENT,Small catchment on Boulder Clay and low permeability geology. Rural, mixed farming.
+Qmed Suitability,QMED contained and should be modular, theoretical rating expected to perform well.
+Pooling Suitability,Non-modular flow is not considered by current rating and there are no gaugings to confirm rating.
+[END]

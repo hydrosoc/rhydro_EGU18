@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 41023
+[END]
+[CDS DETAILS]
+NAME,Lavant
+LOCATION,Graylingwell
+NOMINAL AREA,   86.20
+NOMINAL NGR,4870,1064
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,487050,106450
+CENTROID NGR,GB,487720,113380
+DTM AREA,   86.20
+ALTBAR, 122
+ASPBAR,192
+ASPVAR,0.20
+BFIHOST,0.936
+DPLBAR, 11.94
+DPSBAR,102.0
+FARL,1.000
+FPEXT,0.0336
+LDP, 21.09
+PROPWET,0.34
+RMED-1H, 10.3
+RMED-1D, 40.7
+RMED-2D, 50.9
+SAAR, 922
+SAAR4170, 964
+SPRHOST, 7.23
+URBCONC1990, 0.210
+URBEXT1990,0.0056
+URBLOC1990, 0.267
+URBCONC2000, 0.599
+URBEXT2000,0.0075
+URBLOC2000, 0.571
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Flat-V weir gauging an ephemeral stream in a permeable catchment. Baseflow-dominated regime affected by significant groundwater abstraction. GENERAL: Flat-V weir (crest width 5.0 m, cross-slope 1:10, maximum head 1m, capacity 6 cumecs). The River Lavant has a long history of flooding, the last major events occurring in 1960, 1994-5 and 2000. STATION HYDROMETRY: Bypassing during extreme events (e.g. Jan 1994 and Nov 2000 when peaks were ~8 cumecs - based on current-meter gaugings). November 2000 event was gauged at 7.925 m3/s; bypassing of the gauge occurred at this time with further groundwater issuing from banks into the stream downstream of the gauge. Severe weed growth especially during summer can cause structure to drown out if not cleared. Structure suffers from velocity problems (underestimation of flow) at higher flows but this has been gauged. Gauge board had levelling problems in the past, this was amended following the rating review, May 2003. Major channel works carried out for Flood Alleviation scheme after 1994 flood; review in 2003 suggested rating should change in 1994 to accommodate channel clearance work. Two ratings applied across period of record, the most recent is valid from August-1994. Hydraulic modelling was used to derive upper limbs of the current rating. FLOW RECORD: Extended periods with zero flow as the stream is spring fed, which can give very low AMAX flows and no POT data are presented. During summer 1963, low and medium flows were gauged by current meter on portable rods at weekly intervals until the Lavant dried up; gauging was continued on the downstream side of the Marsh Lane Bridge. Complete flow record from the 1970's. January 1994 peak flow estimated at 7.8 m3/s by gaugings. FLOW REGIME: A winterbourne stream with baseflow-dominated regime but spring outflows can increase dramatically following exceptional rainfall. Runoff is substantially reduced by groundwater abstraction. Flood alleviation scheme for Chichester had been completed sufficiently by 1992-93 for water to be taken from the Lavant downstream of the weir, through culverts to Church Farm Pit, through Forebridge Rife and discharged to Pagham Harbour through Pagham Rife. The oldest known continuous groundwater level record exists at Chilgrove House, within the catchment. This record, dating back to 1836, gives early warning of flood flows for Chichester. The area to the east and south of Chichester has undergone large scale gravel extraction over the past 50 years, leaving many worked out pits either filled in and developed, or water filled. This has possibly enhanced groundwater levels as the bulk flow is now confined to narrow corridors between former workings.
+CATCHMENT,The Lavant is a an ephemeral stream within a permeable catchment, with an upper steep chalk catchment on the South Downs above Westhampnett and a flat, gravel plain lower catchment. Land use is agricultural with significant woodland in the upper catchment; the lower catchment is far more developed, especially close to Graylingwell & Chichester. Church Farm Pit, a water filled worked out gravel pit, is a good indicator of groundwater levels in the lower catchment. The oldest known continuous groundwater level record exists at Chilgrove House, within the catchment. This record, dating back to 1836, gives early warning of flood flows for Chichester.
+Qmed Suitability,Gauged above QMED. Good fit to gaugings.
+Pooling Suitability,Gauged beyond AMAX3. with good fit to rating.
+[END]

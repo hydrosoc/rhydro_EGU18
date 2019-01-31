@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+201006
+[END]
+[CDS DETAILS]
+NAME,Drumragh
+LOCATION,Campsie Bridge
+NOMINAL AREA,  319.94
+NOMINAL NGR,2459,3721
+[END]
+[DESCRIPTORS]
+IHDTM NGR,Ireland,245900,372200
+CENTROID NGR,Ireland,242577,362808
+DTM AREA,  319.94
+ALTBAR, 134
+ASPBAR,  7
+ASPVAR,0.06
+BFIHOST,0.441
+DPLBAR, 23.20
+DPSBAR, 63.7
+FARL,0.998
+FPEXT,0.0991
+LDP, 37.07
+PROPWET,0.60
+RMED-1H,  8.9
+RMED-1D, 33.6
+RMED-2D, 42.8
+SAAR,1163
+SAAR4170,1152
+SPRHOST,35.83
+URBCONC1990,-1.688
+URBEXT1990,0.0070
+URBLOC1990, 0.411
+URBCONC2000,-9999.000
+URBEXT2000,0.0026
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station with cableway. Station was part of the original core network, and was constructed in 1972. GENERAL: Velocity area station with masonry hut on Rb. STATION HYDROMETRY: Cableway present. Top of berm is 6.08m. Flow is out of bank above 100m3/s, however the station is not bypassed. Well rated at high and low flows. The rating is derived from current meter gaugings. Simple extrapolation is used beyond 3.82m (maximum gauged level). FLOW RECORD: Daily flows for entire period of record reprocessed in 2002. Late December 2010 daily flows considered suspect due to likely freezing in stilling well. FLOW REGIME: No water abstractions or significant returns.
+CATCHMENT,Approximately agricultural grassland and upland heath. Solid geology - Dalradian schistose sandstone and shale form generally impermeable basement north of the Omagh Thrust. Much of south is composed of Devonian and Carboniferous conglomerate, sandstone, mudstone and limestone that are generally indurated. Prominent Palaeogene dolerite dykes cross the area. Drift geology - Extensive drumlinised glacial till with some sand and gravel in valleys. Extensive rock near surface and post-glacial peat cover on high ground with restricted development of river alluvium in valleys. No significant urban development.
+Qmed Suitability,Ratio of highest gauging to QMED (1.4) is favourable. Gets out of bank however unmeasured floodplain flow is less than 20%
+Pooling Suitability,Flow is not contained within the channel at high flows however raising floodplain and rating is still applicable.
+[END]

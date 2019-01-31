@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 70003
+[END]
+[CDS DETAILS]
+NAME,Douglas
+LOCATION,Wigan
+NOMINAL AREA,   67.72
+NOMINAL NGR,3586,4060
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,358600,406000
+CENTROID NGR,GB,360884,412431
+DTM AREA,   67.72
+ALTBAR, 156
+ASPBAR,240
+ASPVAR,0.26
+BFIHOST,0.418
+DPLBAR, 13.25
+DPSBAR, 67.9
+FARL,0.778
+FPEXT,0.0642
+LDP, 24.55
+PROPWET,0.51
+RMED-1H, 11.4
+RMED-1D, 35.9
+RMED-2D, 48.9
+SAAR,1140
+SAAR4170,1108
+SPRHOST,37.70
+URBCONC1990, 0.762
+URBEXT1990,0.0488
+URBLOC1990, 0.760
+URBCONC2000, 0.844
+URBEXT2000,0.0680
+URBLOC2000, 0.786
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Ultrasonic station (from 1995) replacing Central Park Wigan. Flow regime affected by reservoirs. GENERAL: Original station, Central Park, Wigan was a velocity-area station opened 1973 in rectangular channel with pipe as low-flow control. Variable bed profile (silt, debris and redistribution) gave poor data. In 1995 an ultrasonic gauge was installed with four transducers (cross-path at two heights) under a footbridge approx 100m downstream. Dual running from 1995 until December 1999 when consolidated at ultrasonic site and station renamed as Wigan. More transducers at higher levels added May\June 2012. Station photos provided show the ultrasonic station. STATION HYDROMETRY: No bypassing reported. Check gaugings suggest the ultrasonic station may under-estimate the higher flows. Wigan Flood Control Scheme completed upstream of the station in March 2011. The scheme has an online storage basin with outlet flows restricted to around 20m3/s by twin hydrobrakes and so peak flow data are not presented post-scheme. Multiple peak flow ratings applied across period of record. FLOW RECORD: This record uses Central Park levels and rated flows to end February 1995 and the ultrasonic data thereafter. No peak flow data are presented after water year 2010/11 due to the completion of Wigan Flood Control Scheme. Erroneous daily flow removed: 8/1-17/3/1978, 19/4-28/8/1994, 31/1-1/2/2006 & 2-3/8/2006. FLOW REGIME: Flow regime and effective catchment significantly modified by the Integrated complex of eight reservoirs at Rivington which diverts flow from the Yarrow headwaters to the River Douglas.
+CATCHMENT,Moderate relief catchment. Geology is Coal Measures wholly blanketed by Boulder Clay. Land use mostly rural with some urban development. No significant catchment changes.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Ultrasonics thought to have under-estimated higher flows, so will give too low a growth curve. However, gaugings extend to 80% of AMAX1, though with considerable scatter.
+[END]

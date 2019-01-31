@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 20001
+[END]
+[CDS DETAILS]
+NAME,Tyne
+LOCATION,East Linton
+NOMINAL AREA,  307.26
+NOMINAL NGR,3590,6768
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,359100,676800
+CENTROID NGR,GB,347347,666388
+DTM AREA,  307.26
+ALTBAR, 174
+ASPBAR,  3
+ASPVAR,0.25
+BFIHOST,0.489
+DPLBAR, 25.74
+DPSBAR, 70.2
+FARL,0.987
+FPEXT,0.0503
+LDP, 43.29
+PROPWET,0.43
+RMED-1H,  8.5
+RMED-1D, 34.7
+RMED-2D, 48.9
+SAAR, 713
+SAAR4170, 734
+SPRHOST,35.37
+URBCONC1990,-9999.000
+URBEXT1990,0.0035
+URBLOC1990,-9999.000
+URBCONC2000, 0.767
+URBEXT2000,0.0072
+URBLOC2000, 0.653
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station, the most downstream on the Tyne. GENERAL: Velocity area station. STATION HYDROMETRY: The low flow control is a gravel bar some 100m d/s. In 1970 a pipe crossing was constructed but did not unduly influence the rating. Road bridge 200m d/s provides a stable high-flow control: pre-1982 clear span bridge; post-1982 double box 'culvert' shaped. Allowance is made for weed growth during the summer when abstraction for irrigation also takes place. Corrections made to rating for weed in summer before 1965. Peak flow rating derived from current meter gaugings up to 3.2m (about 2 QMED), simple extrapolation beyond. FLOW RECORD: During 1982 recorded stage was adjusted during rebuilding of the road bridge 200m d/s. FLOW REGIME: Low flows affected by sewage effluent and abstraction for irrigation d/s of Haddington. Significant floodplain storage throughout lower reaches believed to influence flood frequency curve.
+CATCHMENT,The catchment is characterised by steep headwaters in the Lammermuir Hills and broad flat valleys. Bedrock Silurian and Ordovician sedimentary rocks; predominantly superficial deposit cover. Land use mainly arable in the valleys with grassland in the headwaters. No significant catchment changes known.
+Qmed Suitability,No comment
+Pooling Suitability,No comment
+[END]

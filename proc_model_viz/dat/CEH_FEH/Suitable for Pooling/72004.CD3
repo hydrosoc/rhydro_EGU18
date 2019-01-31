@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 72004
+[END]
+[CDS DETAILS]
+NAME,Lune
+LOCATION,Caton
+NOMINAL AREA,  985.37
+NOMINAL NGR,3529,4653
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,352900,465350
+CENTROID NGR,GB,366471,482804
+DTM AREA,  985.37
+ALTBAR, 275
+ASPBAR,283
+ASPVAR,0.10
+BFIHOST,0.404
+DPLBAR, 39.57
+DPSBAR,137.2
+FARL,0.997
+FPEXT,0.0689
+LDP, 74.98
+PROPWET,0.64
+RMED-1H, 11.5
+RMED-1D, 50.5
+RMED-2D, 68.3
+SAAR,1521
+SAAR4170,1523
+SPRHOST,43.71
+URBCONC1990,-9999.000
+URBEXT1990,0.0016
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0043
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Compound-broad crested weir. Early record contains data from two sites (measuring high and low flows). Some influences on low flows due to transfers and abstractions. GENERAL: Compound broad-crested weir. Station opened in 1968 to measure low flows, with Halton 3 km downstream measuring high flows. On closure of Halton in 1985, Caton became a full-range station and the records were combined. STATION HYDROMETRY: The cableway downstream at Halton was used to gauge higher flows until severely damaged in the January 1995 event. Rating based on current meter gaugings, extrapolated using a hydraulic model to allow for floodplain flow. The highest gauging on record (at Halton) is a rough estimate (based on gauging across half the river before the gauging hut had to be evacuated). FLOW REGIME: Transfers to River Wyre under Lancashire Conjunctive Use Scheme (LCUS). Major abstractions for public water supply.
+CATCHMENT,Headwaters rise from Shap Fell and the Pennines. Mixed geology with Carboniferous Limestone; Silurian shales; Millstone Grit and Coal Measures. Substantial Drift cover. Agriculture in valleys; grassland with peat moss in highest areas. No significant catchment changes.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged beyond AMAX3 (to 79% of AMAX1). Extrapolated using hydraulic modelling.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 45013
+[END]
+[CDS DETAILS]
+NAME,Tale
+LOCATION,Fairmile
+NOMINAL AREA,   31.43
+NOMINAL NGR,3088, 971
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,308850,97100
+CENTROID NGR,GB,308982,102292
+DTM AREA,   31.43
+ALTBAR, 123
+ASPBAR,227
+ASPVAR,0.27
+BFIHOST,0.514
+DPLBAR,  7.19
+DPSBAR, 62.9
+FARL,0.998
+FPEXT,0.0481
+LDP, 14.24
+PROPWET,0.40
+RMED-1H, 11.1
+RMED-1D, 35.2
+RMED-2D, 45.0
+SAAR, 922
+SAAR4170, 958
+SPRHOST,36.10
+URBCONC1990,-9999.000
+URBEXT1990,0.0001
+URBLOC1990,-9999.000
+URBCONC2000, 0.546
+URBEXT2000,0.0092
+URBLOC2000, 0.792
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,US station installed to replace previous velocity area and EM stations. GENERAL: US system installed in 05/2010 to replace problematic EM flow gauge. Original station opened in 1978 with an unstable bed control, underneath a bridge. Channel width approximately 7m. The control shifted every time a flood occurred. A new electromagnetic station 50 m downstream replaced the original station in 01/1999 (recording since 17/01/99). New EM station overcame the previous problems with the unstable bed control with a concrete block weir used as a control. Subsequently replaced by US station. STATION HYDROMETRY: Proportionally high summer flows due to groundwater augmentation from regionally important aquifer. Complex rating history, with considerable scatter in high flow gaugings. Bypassing occurs. Flows > 7m cumecs outside the range of the EM gauge, mainly in winter. Multiple ratings applied across period of record, the most recent velocity-area rating is valid until site became electromagnetic in 1999. Changes in rating a result of regular shift in station control. FLOW RECORD: DMFs removed from NRFA from 09/1997 to 01/99. Some flows between 09/2008 and 03/2009 considered suspect. Data prior 1999 needs to be treated with caution. FLOW REGIME: Proportionally high summer flows due to groundwater augmentation from regionally important aquifer.
+CATCHMENT,Upper catchment is Greensand and Gault Clay of Blackdown Hills; lower reaches are Keuper Marl. Otter Sandstone (aquifer) to the south provides regionally important groundwater supply. Rural, predominantly agricultural land use. No major catchment changes.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Although gauged to within 7% of AMAX3, there is great uncertainty in ratings beyond QMED
+[END]

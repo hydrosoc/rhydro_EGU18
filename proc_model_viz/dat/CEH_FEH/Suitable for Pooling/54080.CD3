@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 54080
+[END]
+[CDS DETAILS]
+NAME,Severn
+LOCATION,Dolwen
+NOMINAL AREA,  174.42
+NOMINAL NGR,2989,2851
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,299000,285200
+CENTROID NGR,GB,291590,284733
+DTM AREA,  174.42
+ALTBAR, 349
+ASPBAR, 75
+ASPVAR,0.13
+BFIHOST,0.448
+DPLBAR, 15.13
+DPSBAR,166.7
+FARL,0.928
+FPEXT,0.0294
+LDP, 27.25
+PROPWET,0.64
+RMED-1H, 11.1
+RMED-1D, 52.5
+RMED-2D, 68.9
+SAAR,1611
+SAAR4170,1548
+SPRHOST,40.92
+URBCONC1990,-9999.000
+URBEXT1990,0.0014
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0026
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Compound triangular profile weir. Flow regime influenced by regulation releases at low flows (from 1968). GENERAL: Compound triangular profile weir, replaced informal station (NRFA data: 1977- 1983, 1986-2000) in 1999-2000. STATION HYDROMETRY: Weir crests 7.1m and 12.0m (total), wing walls at 1.6m. Designed to permit fish movements and counting (non-standard profile due to fish sensors on downstream face of weir). Cableway approx 60m for floodplain flows. 10km d/s of Clywedog reservoir so control patterns dominant at low flow. Peak flow rating provides a reasonable fit to gaugings. Highest gauging at 2.7m (146 cumecs). Should contain the 1% probability flood. Designed to permit fish movements and counting. FLOW REGIME: Approximately 30% of the catchment draining to Dolwen is upstream of Clywedog Reservoir. Flow regime influenced by regulation releases at low flows (from 1968).
+CATCHMENT,A high relief, wet and responsive catchment on Silurian shales, mudstones and slates with Boulder Clay on valley sides. Land use is pasture, forest and moorland.
+Qmed Suitability,Gauged well above QMED. QMED within rating limit
+Pooling Suitability,Site gauged above AMAX 3
+[END]

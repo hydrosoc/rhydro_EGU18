@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 39096
+[END]
+[CDS DETAILS]
+NAME,Wealdstone Brook
+LOCATION,Wembley
+NOMINAL AREA,   23.74
+NOMINAL NGR,5193,1862
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,519350,186200
+CENTROID NGR,GB,517402,188668
+DTM AREA,   23.74
+ALTBAR,  54
+ASPBAR,138
+ASPVAR,0.26
+BFIHOST,0.175
+DPLBAR,  4.92
+DPSBAR, 25.9
+FARL,0.997
+FPEXT,0.1329
+LDP,  9.76
+PROPWET,0.29
+RMED-1H, 10.7
+RMED-1D, 31.9
+RMED-2D, 40.6
+SAAR, 664
+SAAR4170, 678
+SPRHOST,50.61
+URBCONC1990, 0.906
+URBEXT1990,0.4268
+URBLOC1990, 0.978
+URBCONC2000, 0.946
+URBEXT2000,0.5115
+URBLOC2000, 0.991
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,North-West London station located in the urbanised middle reaches of the River Brent. GENERAL: Flat V profile weir in a culvert (below Olympic Way Wembley). Following modifications to the structure in 1978, it was refurbished but the crest is sub-standard. STATION HYDROMETRY: The station was reviewed in 2010. A discharge point, that entered the channel immediately d/s of the weir, compromised gaugings. One rating applied across period of record. The structure is non-standard and a few gaugings suggest that the theoretical rating may not be applicable especially in peak flow range. The rating is unable to measure the flow consistently to within 10%. FLOW REGIME: Responsive regime.
+CATCHMENT,A largely impervious urban/suburban catchment in West London.
+Qmed Suitability,There are no gaugings above bank full and the highest gauging is just 17% of QMED. Not bypassed as all flow remains within the culvert which is over 2m high. Just suitable for QMED, but recommend to use data with caution.
+Pooling Suitability,Station unreliable at extreme flows and best not used for pooling..
+[END]

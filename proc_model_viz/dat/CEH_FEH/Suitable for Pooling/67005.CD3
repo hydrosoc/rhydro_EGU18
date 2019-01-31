@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 67005
+[END]
+[CDS DETAILS]
+NAME,Ceiriog
+LOCATION,Brynkinalt Weir
+NOMINAL AREA,  111.72
+NOMINAL NGR,3295,3373
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,329500,337300
+CENTROID NGR,GB,317500,336107
+DTM AREA,  111.72
+ALTBAR, 386
+ASPBAR, 99
+ASPVAR,0.18
+BFIHOST,0.462
+DPLBAR, 17.72
+DPSBAR,186.5
+FARL,1.000
+FPEXT,0.0230
+LDP, 30.38
+PROPWET,0.51
+RMED-1H, 10.3
+RMED-1D, 41.3
+RMED-2D, 55.4
+SAAR,1198
+SAAR4170,1250
+SPRHOST,40.83
+URBCONC1990,-9999.000
+URBEXT1990,0.0014
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0013
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Compound broad-crested weir, modified from original velocity-area in 1969. Natural flow regime. GENERAL: Compound broad-crested weir modified from original velocity-area site in 1969. STATION HYDROMETRY: Gravel removed annually from upstream apron of the weir to the gravel trap. Gravel trap emptied annually. High flows rated using cableway. Flows >20 cumecs regularly verified by gaugings. New rating following station refitting in September 1997. Multiple peak flow ratings applied across period of record. Current rating aligned to WISKI (Rating K). Gauged above AMAX3 with good fit to rating. FLOW RECORD: Data prior to 1969 suspect. Station closure explains missing data from Nov 1983 to Nov 1989. Station refitted June - Sept 1997; no flows available. FLOW REGIME: Natural to within 10% at Q95.
+CATCHMENT,Majority of catchment is impermeable, with more permeable rocks in lower catchment to E. Ordovician and Silurian strata overlain in east by Carboniferous Limestone, Cefn-y-Fedw Sandstone and Coal Measures. River valleys are deeply incised. Soils are thin and peaty, supporting pasture for sheep grazing and woodland.
+Qmed Suitability,Gauged above QMED. QMED in bank and weir remains modular.
+Pooling Suitability,Gauged beyond AMAX3. Suitable for Pooling after 1997, prior to which there is too much uncertainty about high flow estimates.
+[END]

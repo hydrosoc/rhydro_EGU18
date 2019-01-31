@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 27007
+[END]
+[CDS DETAILS]
+NAME,Ure
+LOCATION,Westwick Lock
+NOMINAL AREA,  912.58
+NOMINAL NGR,4355,4670
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,435600,467050
+CENTROID NGR,GB,408676,481763
+DTM AREA,  912.58
+ALTBAR, 273
+ASPBAR, 84
+ASPVAR,0.20
+BFIHOST,0.420
+DPLBAR, 52.98
+DPSBAR, 98.7
+FARL,0.981
+FPEXT,0.0674
+LDP,102.47
+PROPWET,0.41
+RMED-1H, 11.2
+RMED-1D, 41.8
+RMED-2D, 53.8
+SAAR,1120
+SAAR4170,1121
+SPRHOST,43.66
+URBCONC1990,-9999.000
+URBEXT1990,0.0039
+URBLOC1990,-9999.000
+URBCONC2000, 0.692
+URBEXT2000,0.0078
+URBLOC2000, 0.541
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station with broad-crested masonry weir. GENERAL: Velocity area station with broad-crested masonry weir (59m wide) current meter rated - cableway 0.26km d/s (replaced earlier rated section a short distance d/s - Boroughbridge weir was thought to act as partial control). Location was moved u/s of the (existing) weir in November 1975. The weir is now in poor repair. Hydropower scheme installed November 2011 and includes a bypass channel. STATION HYDROMETRY: Some out-of-bank flooding at very high flows - peaks may be underestimated. Pre- 2009, the cableway is inaccessible at very high flows, accessibility improved when moved to the left bank; however, there is still some bypassing behind the right bank stantion in very high flood events. Three peak flow theoretical ratings applied to original site (1955-1970), lock cut site (1971-1978) and site u/s of weir (1978-present). The latter was supplemented in 1998 by Hydraulics Research analysis, with a more accurate relationship for stages above 2m. Hydropower bypass channel affects low flow measurement and is gauged separately to the main channel - flows from the main and bypass channel are then added together. FLOW RECORD: Period-of-record maximum flow according to Hiflows-UK was 517 cumecs in February 1995. Flows from 1982 reprocessed in 2002. Daily mean flows from November 2011 onwards recalculated to into account for hydropower intake channel. FLOW REGIME: Reservoirs have a significant effect on the Burn and Laver, but have a moderate overall impact; some net export of water. 'Grip' drainage also influential.
+CATCHMENT,Mixed geology of limestone and grits, with significant Boulder Clay cover. The Millstone is hilly, but further downstream the Limestone and Marl form a flat plain. Upstream of Kilgram Bridge the rocks are mainly Carboniferous Limestone and the catchment is steep. Predominantly mixed agriculture catchment draining from moorland headwaters in the Pennines. No known catchment changes.
+Qmed Suitability,Gauged above QMED. Weir remains modular.
+Pooling Suitability,Hydraulic modelling gives confidence in the rating at high flows. Some gaugings above 300m3/s also support rating extrapolation.
+[END]

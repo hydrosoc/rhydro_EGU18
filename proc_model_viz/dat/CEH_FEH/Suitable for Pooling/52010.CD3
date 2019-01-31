@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 52010
+[END]
+[CDS DETAILS]
+NAME,Brue
+LOCATION,Lovington
+NOMINAL AREA,  137.82
+NOMINAL NGR,3589,1317
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,359000,131800
+CENTROID NGR,GB,367130,135772
+DTM AREA,  137.82
+ALTBAR, 104
+ASPBAR,217
+ASPVAR,0.16
+BFIHOST,0.527
+DPLBAR, 14.30
+DPSBAR, 71.3
+FARL,0.997
+FPEXT,0.0816
+LDP, 23.78
+PROPWET,0.37
+RMED-1H, 10.7
+RMED-1D, 34.0
+RMED-2D, 44.2
+SAAR, 866
+SAAR4170, 881
+SPRHOST,36.27
+URBCONC1990, 0.482
+URBEXT1990,0.0066
+URBLOC1990, 0.809
+URBCONC2000, 0.642
+URBEXT2000,0.0112
+URBLOC2000, 0.893
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Crump profile weir for low flows and rated section. Bruton Dam flood storage reservoir was built in catchment in 1983 after extensive flooding in the town. GENERAL: Station is located west of Lovington and was opened in 1964. Crump profile weir for low flows, crest 6.71m broad, then rated section for flows > 2.2 cumecs. STATION HYDROMETRY: Downstream summer weed growth affects the stability of the stage-discharge relationship. Section is deep and contains all but extreme peaks. Lower section is rating for theoretical weir; reliable extension of rating to bankfull (3.9m stage) but no data to allow extension beyond this, although all but extreme peaks contained in deep section. Station rebuilt in 1998, no alteration to the section adjacent to the weir. Rating reviewed in 01/2001. One rating applied across period of record. Reliable extension of rating to bankfull but no data to allow extension beyond this. Reasonable fit to gaugings. POR maximum flow of 142 cumecs in 05/1979 is derived from the latest rating, but subject to considerable uncertainty owing to extrapolation. FLOW RECORD: No daily mean flows between 27/7/98 and 1/11/98. FLOW REGIME: Natural regime. Bruton Dam flood storage reservoir was built in 1983 after extensive flooding in the town in 1968, 1979 and 1982. It drains 21% of the catchment, much of it being the more upland and fast-responding areas.
+CATCHMENT,Headwaters fed by Mendip and Salisbury Plain springs. Geology comprises Oxford Clay and Great Oolite in the upper catchment and Yeovil Sands and Inferior Oolite in the lower-catchment. Land use is predominantly rural with very little urbanisation.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged to within 21% of AMAX3. However, rating during out of bank conditions uncertain.
+[END]

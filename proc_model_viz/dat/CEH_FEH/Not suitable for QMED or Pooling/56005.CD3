@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 56005
+[END]
+[CDS DETAILS]
+NAME,Lwyd
+LOCATION,Ponthir
+NOMINAL AREA,   98.35
+NOMINAL NGR,3329,1924
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,332950,192400
+CENTROID NGR,GB,326761,201808
+DTM AREA,   98.35
+ALTBAR, 283
+ASPBAR,136
+ASPVAR,0.26
+BFIHOST,0.525
+DPLBAR, 16.24
+DPSBAR,143.5
+FARL,0.980
+FPEXT,0.0501
+LDP, 28.86
+PROPWET,0.49
+RMED-1H, 11.7
+RMED-1D, 53.6
+RMED-2D, 68.1
+SAAR,1394
+SAAR4170,1465
+SPRHOST,33.13
+URBCONC1990, 0.712
+URBEXT1990,0.0784
+URBLOC1990, 0.677
+URBCONC2000, 0.803
+URBEXT2000,0.0847
+URBLOC2000, 0.649
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Compound Crump weir, three crests. Flow affected by reservoirs and GW abstraction. Station closed in 2010. GENERAL: Compound Crump weir (three crests, each 6.096m wide). Level-only station since July 1998, closed in 2010. Replaced by Ponthir Star Industrial Estate 200m d/s. STATION HYDROMETRY: Flows <176 cumecs contained. Central crest subject to occasional blockage by debris in high flows, middle walls of structure removed Sept 1994 because of this. Channel enclosed by relatively steep river banks, walls, bridge abutments etc, and overbank flow does not occur till stage of approx 3m. Lb has been raised by flood defence embankment. Progressive drowning from 1.4m. No cableway. Calibration assumes modularity. Shoal development problem at existing site; feasibility study completed for replacement station 300 m d/s. New weir and work on approach channel needed. One peak flow rating applied across period of record. No confidence in rating for high flows as no gaugings above 0.81m and rating is poor fit even at this level. Shoal d/s affects performance of weir. Recommended upper limit 0.5 m. FLOW RECORD: Now level only with no flow data processed after 10/07/98. FLOW REGIME: Small reservoirs for industrial and PWS in upper reaches. Some GW abstraction in valley where there is augmentation by drainage water from old mines.
+CATCHMENT,Predominantly Old Red Sandstone, overlain by Carboniferous Limestone, Millstone Grit and Upper Coal Series. Generally livestock farming with urban development in lower areas. Some Forest. Peaty soils in uplands, seasonally wet.
+Qmed Suitability,Not gauged to within 30% of QMED. Lack of gaugings at high flows and unreliable rating.
+Pooling Suitability,Lack of gaugings at high flows and unreliable rating.
+[END]

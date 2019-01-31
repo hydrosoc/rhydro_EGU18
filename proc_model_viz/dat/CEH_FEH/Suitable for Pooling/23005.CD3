@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 23005
+[END]
+[CDS DETAILS]
+NAME,North Tyne
+LOCATION,Tarset
+NOMINAL AREA,  283.38
+NOMINAL NGR,3776,5861
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,377650,586100
+CENTROID NGR,GB,365543,590724
+DTM AREA,  283.38
+ALTBAR, 325
+ASPBAR,115
+ASPVAR,0.13
+BFIHOST,0.274
+DPLBAR, 21.38
+DPSBAR,108.9
+FARL,1.000
+FPEXT,0.0250
+LDP, 36.36
+PROPWET,0.62
+RMED-1H, 10.5
+RMED-1D, 39.0
+RMED-2D, 51.2
+SAAR,1230
+SAAR4170,1319
+SPRHOST,54.54
+URBCONC1990,-9999.000
+URBEXT1990,0.0000
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0004
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station. Closed in 1987 and replaced by 23022. GENERAL: Velocity area station with cableway on straight, stable reach. Flat V (1:2 u/s and d/s slopes, 1:50 side slopes) weir for low flows installed in 1973. Left bank occasionally overtopped, right bank higher. Superseded by 23022 - North Tyne at Uglydub. Station closed 1987, although operated until 1987 and a chart maintained until early 1990s. STATION HYDROMETRY: Multiple ratings applied to the peak flow period of record, the most recent is valid from September 1973. The three ratings, established by current meter gauging, apply to periods before, during and post weir construction. Data since reservoir impoundment has been excluded from the peak flow dataset. Flood Studies Report grade A1. FLOW REGIME: Natural flow regime until the construction of Kielder Reservoir (impounded 1982) which controls 80% of the catchment; very artificial regime from 1981. Hydrographs are well peaked.
+CATCHMENT,Upland catchment developed mainly on Carboniferous Limestone, Scremerston and Fell Sandstone (thick Boulder Clay in the valleys). Moorland headwaters, significant afforestation below since 1926. Land use is two thirds forest, the rest scrub, moorland and rough grazing. Pre-reservoir FARL is 1.0 and should be used with the pre-reservoir part of the records. Post-reservoir FARL is 0.815.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged to within 19% of AMAX3. Possibly a small amount of bypassing and low-flow weir drowns, but gaugings above QMED support rating extrapolation.
+[END]

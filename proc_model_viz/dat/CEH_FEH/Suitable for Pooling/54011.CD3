@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 54011
+[END]
+[CDS DETAILS]
+NAME,Salwarpe
+LOCATION,Harford Hill
+NOMINAL AREA,  186.52
+NOMINAL NGR,3868,2619
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,386850,261950
+CENTROID NGR,GB,391724,268881
+DTM AREA,  186.52
+ALTBAR,  83
+ASPBAR,209
+ASPVAR,0.23
+BFIHOST,0.523
+DPLBAR, 13.52
+DPSBAR, 42.0
+FARL,0.983
+FPEXT,0.0853
+LDP, 29.37
+PROPWET,0.28
+RMED-1H, 10.6
+RMED-1D, 30.7
+RMED-2D, 37.0
+SAAR, 666
+SAAR4170, 675
+SPRHOST,35.13
+URBCONC1990, 0.714
+URBEXT1990,0.0496
+URBLOC1990, 1.032
+URBCONC2000, 0.835
+URBEXT2000,0.0575
+URBLOC2000, 1.070
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Original velocity area station with bed of stone blocks replaced in 1992 by Flat V Crump profile weir. GENERAL: Original a velocity area station with a bed of stone blocks; closed 31/8/92. Replaced in 9/11/1992 by a flat V crump profile (1:20) weir, 7m wide, cross slopes, wing walls at 0.7m in reasonably straight reach, with additional cableway. Fully contained. Velocity-area station very prone to weed growth, summer corrections made: low flows of variable quality. STATION HYDROMETRY: Two ratings applied across period of record, the most recent is valid from December-1992 when weir installed. Rating fits well to post weir gaugings to bank full. Gauged to bankfull only. FLOW REGIME: Groundwater for PWS leads to significant augmentation from sewage; spray irrigation abstraction seasonally significant.
+CATCHMENT,Generally low relief catchment, draining Clent and Lickey hills. Contains Bromsgrove and Droitwich Spa. Virtually Drift free with predominant geology: Mercia Mudstone in the lower reaches. Mainly agricultural.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Rating beyond bank full since weir constructed is, however, less certain as there are no check gaugings to validate rating.
+[END]

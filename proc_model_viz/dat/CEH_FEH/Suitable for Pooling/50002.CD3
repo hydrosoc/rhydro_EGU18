@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 50002
+[END]
+[CDS DETAILS]
+NAME,Torridge
+LOCATION,Torrington
+NOMINAL AREA,  664.26
+NOMINAL NGR,2499,1185
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,249950,118550
+CENTROID NGR,GB,248590,107224
+DTM AREA,  664.26
+ALTBAR, 160
+ASPBAR,356
+ASPVAR,0.06
+BFIHOST,0.425
+DPLBAR, 42.27
+DPSBAR, 81.1
+FARL,0.996
+FPEXT,0.0496
+LDP, 75.10
+PROPWET,0.49
+RMED-1H, 12.4
+RMED-1D, 39.8
+RMED-2D, 52.7
+SAAR,1184
+SAAR4170,1206
+SPRHOST,40.52
+URBCONC1990,-9999.000
+URBEXT1990,0.0013
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0036
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station built in 1960 and reconstructed in 1977. GENERAL: Velocity area station on straight reach built in 1960. Main channel 28m wide, cableway span 57m. STATION HYDROMETRY: Station reconstructed in 1977. Mobile bed. Low profile structure installed 2006 to mimic and stabilise natural bed control. Overtopping begins on left bank at about 3.3m. Well calibrated throughout range. Multiple ratings applied across period of record, the most recent is valid from 09/2005. Ratings since 1977 have identical top limbs. Well calibrated throughout range. No major changes to catchment. FLOW RECORD: Records prior to Oct 1962 unreliable. FLOW REGIME: Moderate modification to flows from Meldon Reservoir. Runoff also affected by abstraction for public water supply and industry/agriculture and effluent returns.
+CATCHMENT,Large, rural catchment draining coastal hills in the west and Dartmoor Granite in the south. Geology mostly Carboniferous shales and sandstones of the Culm. Moorland, rough grazing and generally low grade agricultural land.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged beyond AMAX3. Rating confirmed by gaugings both in and out of bank.
+[END]

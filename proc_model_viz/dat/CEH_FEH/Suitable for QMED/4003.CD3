@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+  4003
+[END]
+[CDS DETAILS]
+NAME,Alness
+LOCATION,Alness
+NOMINAL AREA,  202.38
+NOMINAL NGR,2654,8695
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,265450,869600
+CENTROID NGR,GB,253145,877495
+DTM AREA,  202.38
+ALTBAR, 396
+ASPBAR,123
+ASPVAR,0.11
+BFIHOST,0.385
+DPLBAR, 22.55
+DPSBAR,147.7
+FARL,0.908
+FPEXT,0.0374
+LDP, 43.06
+PROPWET,0.63
+RMED-1H,  9.3
+RMED-1D, 40.0
+RMED-2D, 56.4
+SAAR,1366
+SAAR4170,1471
+SPRHOST,48.11
+URBCONC1990,-9999.000
+URBEXT1990,0.0005
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0005
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station in upland catchment. Flow affected by barrage constructed on Loch Morie. GENERAL: Velocity area station; 20m wide fully contained river section with stable boulder control. STATION HYDROMETRY: Difficulties in current meter gauging at low flows. To date all flows contained. Adequately gauged to QMED. Rating derived from current meter gaugings to above QMED, simple extrapolation beyond AMAX1. Peak flow rating was revised in 2003 and a new single rating for high flows only, was judged to be suitable for whole period of record. Rating revised in 2016. FLOW RECORD: Full period of record peak flow data reviewed and released in April 2017 (WINFAP Files v5). Chart data between 1973 & 1982 was digitised in 2016. FLOW REGIME: Sluices on Loch Morie, through which 45% of catchment drains, were constructed in 1979 for river regulation (to benefit fisheries). This influences mainly low flows through freshets.
+CATCHMENT,Mountainous headwaters, often snowy in winter. Bedrock predominantly Devonian sandstone with areas of Moinian metamorphics in the upper reaches of the catchment. Landuse mainly rough grazing and moorland with forestry. Minimal floodplains. Construction of barrage on Loch Morie in 1979.
+Qmed Suitability,Gauged to QMED
+Pooling Suitability,Gauged to 50% of AMAX2 and AMAX3
+[END]

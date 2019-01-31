@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 38022
+[END]
+[CDS DETAILS]
+NAME,Pymmes Brook
+LOCATION,Edmonton Silver Street
+NOMINAL AREA,   40.55
+NOMINAL NGR,5340,1925
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,534050,192550
+CENTROID NGR,GB,528318,193680
+DTM AREA,   40.55
+ALTBAR,  65
+ASPBAR, 93
+ASPVAR,0.31
+BFIHOST,0.243
+DPLBAR,  8.08
+DPSBAR, 40.4
+FARL,0.975
+FPEXT,0.0681
+LDP, 16.04
+PROPWET,0.29
+RMED-1H, 10.9
+RMED-1D, 33.9
+RMED-2D, 43.7
+SAAR, 672
+SAAR4170, 673
+SPRHOST,47.98
+URBCONC1990, 0.890
+URBEXT1990,0.4232
+URBLOC1990, 0.876
+URBCONC2000, 0.929
+URBEXT2000,0.5774
+URBLOC2000, 0.884
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,The station, located on Pymmes Brook, is located in an urban land use dominated catchment. GENERAL: Crump weir (crest width: 6.16m) in a concrete channel. It was installed in 1972 a few meters below the original station. This existed from 1954 and was originally built in Fore Street. It superseded a rated trapezoidal channel section. STATION HYDROMETRY: Crest tapping and tail levels are monitored at the site. The new station is rarely over topped and the station remains modular in excess of a 1m stage. Standard crump weir calculation. Rating consistently overestimates the current meter gauging flows. Pressure tapping used to correct peak flows, but it is not very sensitive. Few confirmatory gaugings at peak flows. FLOW RECORD: Original rating superseded in 1963 by a new discharge table and the old records were corrected. This was replaced in 1981 by one which took into account the trapezoidal nature of the channel. Data from November 1972 to 1981 was recalculated and the new rating was adopted since 1982. Flows corrected for weir drowning since 1982. FLOW REGIME: Pre-1965 runoff substantially enhanced by sewage effluent (now treated outside the catchment). Currently no significant abstractions or discharges. Natural to within 10% at Q95.
+CATCHMENT,Impervious (London Clay) catchment. Pymmes Brook rises on Enfield Chase but the catchment is now dominated by urban land use.
+Qmed Suitability,Rating consistently overestimates flows, particularly at high stages.
+Pooling Suitability,Rating consistently overestimates flows, particularly at high stages.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 76015
+[END]
+[CDS DETAILS]
+NAME,Eamont
+LOCATION,Pooley Bridge
+NOMINAL AREA,  149.36
+NOMINAL NGR,3472,5249
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,347200,524950
+CENTROID NGR,GB,340745,517219
+DTM AREA,  149.36
+ALTBAR, 390
+ASPBAR, 36
+ASPVAR,0.15
+BFIHOST,0.404
+DPLBAR, 13.55
+DPSBAR,302.9
+FARL,0.744
+FPEXT,0.0383
+LDP, 23.74
+PROPWET,0.67
+RMED-1H, 12.2
+RMED-1D, 62.8
+RMED-2D, 85.9
+SAAR,2149
+SAAR4170,2198
+SPRHOST,48.69
+URBCONC1990,-9999.000
+URBEXT1990,0.0008
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0006
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Compound Crump weir gauges outflows from Ullswater. GENERAL: Compound Crump weir just downstream of Ullswater, constructed in 1970, although no records until 1976. Weir is 29.3m wide with all crests 9.1m wide, the centre being 0.55m lower. STATION HYDROMETRY: Bed consists of stone and gravel. Some bypassing and drowning at the higher flows (see photos). Flows are measured in a section 200m upstream of a sewage works outlet, carried out by wading until recent ADCP gaugings. One peak flow rating applied across period of record derived from current meter to 1.2m and hydraulic model above. FLOW REGIME: Gauge is just downstream of Ullswater and catchment includes several small tarns. Variable compensation releases. Ullswater occassionally used for public water supply, via pumped pipeline to Haweswater Reservoir. Temporary weir installed at the outlet of Ullswater to raise lake levels to facilitate abstraction under Drought Orders of 1989 and 1995/6.
+CATCHMENT,Geology largely Borrowdale Volcanics with Skiddaw Slates further downstream. Some Boulder Clay cover. Sheep grazing on rough pasture predominates with some arable in lower reaches, moorland on high ground.
+Qmed Suitability,Gauged to within 22% of QMED. Good fit to gaugings.
+Pooling Suitability,Gauged to 64% of AMAX3 with modelled top-end. All flows contained within structure and confidence in rating.
+[END]

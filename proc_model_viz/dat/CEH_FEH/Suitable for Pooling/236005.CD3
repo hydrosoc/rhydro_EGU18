@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+236005
+[END]
+[CDS DETAILS]
+NAME,Colebrooke
+LOCATION,Ballindarragh Bridge
+NOMINAL AREA,  313.58
+NOMINAL NGR,2331,3359
+[END]
+[DESCRIPTORS]
+IHDTM NGR,Ireland,233150,335900
+CENTROID NGR,Ireland,240998,344221
+DTM AREA,  313.58
+ALTBAR, 147
+ASPBAR,235
+ASPVAR,0.06
+BFIHOST,0.421
+DPLBAR, 24.72
+DPSBAR, 74.6
+FARL,0.987
+FPEXT,0.0819
+LDP, 46.29
+PROPWET,0.58
+RMED-1H,  9.2
+RMED-1D, 32.8
+RMED-2D, 43.7
+SAAR,1156
+SAAR4170,1137
+SPRHOST,39.02
+URBCONC1990,-2.000
+URBEXT1990,0.0067
+URBLOC1990, 0.645
+URBCONC2000,-9999.000
+URBEXT2000,0.0012
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station with cableway and natural control. GENERAL: Velocity area station originally opened in mid-1970's, closed, and reopened in 1982 (at the same time as Sillees and Killyhevlin). STATION HYDROMETRY: Cableway present, natural control. Masonry hut; shaft encoder with chart backup; cableway. One of best stations in Fermanagh. Low flow gauging problem - difficult to wade as it is deep, and low velocities. Some bank erosion on far bank.The rating is derived from current meter gaugings. Simple extrapolation occurs beyond 129.6m3/s. Not contained at QMED. FLOW RECORD: Flows from start of 1987 reprocessed in 2002. Full range of gaugings. Data in December 2010 to be considered suspect due to the stilling well freezing.
+CATCHMENT,Solid geology - area underlain by indurated Silurian greywacke sandstones and shales and Lower Palaeozoic granodiorite. Drift geology - rock near surface, drumlinised glacial till, peat, lacustrine clay and limited river alluvium. Land use is predominantly grassland with significant coniferous woodland, some bog and no significant urban development.
+Qmed Suitability,Maximum gauged flow is 1.25 times QMED, bankfull discharge is not known however the station is known to get out of bank on the left bank, however floodplain flows are gauged where conditions permit.
+Pooling Suitability,Not contained on either bank during extreme flows, but is gauged during out of bank flows.
+[END]

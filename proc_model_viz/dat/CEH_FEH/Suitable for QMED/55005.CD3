@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 55005
+[END]
+[CDS DETAILS]
+NAME,Wye
+LOCATION,Rhayader
+NOMINAL AREA,  164.47
+NOMINAL NGR,2969,2676
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,296950,267600
+CENTROID NGR,GB,291754,277165
+DTM AREA,  164.47
+ALTBAR, 392
+ASPBAR,118
+ASPVAR,0.10
+BFIHOST,0.419
+DPLBAR, 18.22
+DPSBAR,183.4
+FARL,0.997
+FPEXT,0.0414
+LDP, 36.96
+PROPWET,0.59
+RMED-1H, 11.1
+RMED-1D, 53.1
+RMED-2D, 70.7
+SAAR,1656
+SAAR4170,1621
+SPRHOST,43.69
+URBCONC1990,-9999.000
+URBEXT1990,0.0008
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0014
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station. Natural flow regime. Closed and replaced by Ddol Farm (55026) in Oct 1969. GENERAL: Velocity area station. Closed and replaced by Ddol Farm (55026) in Oct 1969 which has higher banks and is more contained. STATION HYDROMETRY: Bed gravel shoals, generally unstable. Above 2m flow overtops right bank and flows across playing fields. Two peak flow ratings applied across period of record, one pre and one post Apr-1946. No gaugings available. Upper limit at bank full as over-bank flow occurs. Ratings give markedly different flow at high stage even though datums identical; ratings therefore seen as unreliable. FLOW REGIME: Natural to within 10% at Q95.
+CATCHMENT,Wet, upland catchment draining impermeable, metamorphosed Silurian sediments. High relief, headwaters reach over 600m, and feature steep sided and high gradient streams. Moorland and forestry.
+Qmed Suitability,Not gauged to within 30% of QMED. However, QMED is almost identical to that at 55026 in the same catchment.
+Pooling Suitability,Poor reliability at high flows. Suggest using 550026 for pooling as it resides in the same catchment.
+[END]

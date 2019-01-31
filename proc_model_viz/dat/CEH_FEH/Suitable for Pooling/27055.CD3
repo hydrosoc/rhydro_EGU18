@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 27055
+[END]
+[CDS DETAILS]
+NAME,Rye
+LOCATION,Broadway Foot
+NOMINAL AREA,  131.30
+NOMINAL NGR,4559,4883
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,456000,488350
+CENTROID NGR,GB,454510,495668
+DTM AREA,  131.30
+ALTBAR, 268
+ASPBAR,190
+ASPVAR,0.16
+BFIHOST,0.422
+DPLBAR, 11.78
+DPSBAR,144.0
+FARL,0.998
+FPEXT,0.0145
+LDP, 22.13
+PROPWET,0.34
+RMED-1H, 10.4
+RMED-1D, 35.7
+RMED-2D, 47.2
+SAAR, 882
+SAAR4170, 938
+SPRHOST,43.18
+URBCONC1990,-9999.000
+URBEXT1990,0.0007
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0005
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Limited range Crump weir with ultrasonics. Ultrasonics washed away in June 2005 flood, resulting in data gap during repairs. GENERAL: Limited range Crump profile weir, 15m wide. Wing walls were rebuilt and raised in 2002. No cableway for check gauging. Ultrasonic gauge installed in 2003 to improve measurement of non-modular flows. Station severely damaged by extreme flood in June 2005 - ultrasonics washed away. D/s levels are measured. STATION HYDROMETRY: Wing walls still overtopped despite being raised in 2002. Rating reviewed 2011 based on ultrasonic data and recent higher flow gaugings, now considered reliable up to 50 cumecs. Extrapolation above this for peak flows is based on hydraulic modelling so significant improvement on previous extrapolation of the modular weir rating. Very good agreement with ultrasonic gauge well beyond QMED. FLOW RECORD: Wing walls raised in 2003 but single rating applied throughout, thus earlier flows may have small under-estimation. Hydraulic model estimated extreme flood peak in June 2005 to be 400 cumecs (representing a monumental event). Data missing June-October 2005 and during reconstruction (19-06-2006 to 06-07-2007). FLOW REGIME: Responsive catchment. Sensibly natural regime, no known artificial influences.
+CATCHMENT,Predominantly upland catchment draining the Cleveland Hills. Geology of Jurassic beds of Oolite and Lias, dipping southwards. The Liassic beds (mostly shales) form an intier in the upper part of the catchment with the sandstones and shales of the overlying Estuarine series forming the high ground around the catchment. No known catchment changes.
+Qmed Suitability,Very good agreement with ultrasonic gauge beyond QMED
+Pooling Suitability,Ultrasonic and rating in good agreement up to AMAX2 (62 cumecs); AMAX1 was an extreme event and outlier in the series - flow estimated by hydraulic analysis but must be treated with some caution.
+[END]

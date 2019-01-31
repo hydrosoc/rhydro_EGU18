@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 43004
+[END]
+[CDS DETAILS]
+NAME,Bourne
+LOCATION,Laverstock
+NOMINAL AREA,  165.21
+NOMINAL NGR,4156,1303
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,415650,130400
+CENTROID NGR,GB,421744,146232
+DTM AREA,  165.21
+ALTBAR, 130
+ASPBAR,177
+ASPVAR,0.14
+BFIHOST,0.952
+DPLBAR, 26.81
+DPSBAR, 50.7
+FARL,1.000
+FPEXT,0.0561
+LDP, 47.30
+PROPWET,0.34
+RMED-1H, 10.7
+RMED-1D, 32.4
+RMED-2D, 40.9
+SAAR, 768
+SAAR4170, 787
+SPRHOST, 5.94
+URBCONC1990, 0.527
+URBEXT1990,0.0210
+URBLOC1990, 0.737
+URBCONC2000, 0.692
+URBEXT2000,0.0237
+URBLOC2000, 0.713
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Crump weir on the River Bourne, upstream of confluence with River Avon GENERAL: Crump weir, crest 3m wide, approximately 1.6 km upstream of confluence with River Avon. STATION HYDROMETRY: Bypass channel upstream of gauging station and sluice operates year-round to give flow to bypass channel year-round. Out-of-bank flow may occur just upstream of station when flow exceeds 6 cumecs. Sluice fully opened at extreme high flows to protect downstream bridge. Heavy weed growth during summer months, needs regular maintenance. Theoretical original rating, recently re-calibrated at low flows. One theoretical peak flow rating applied across period of record. Upper limit of rating is 0.8m / 5.44m3/s. It is extrapolated beyond that limit. FLOW REGIME: Runoff natural to within 10% at Q95. Operation of Winterbourne Gunner Mill about 3 miles upstream affects discharge.
+CATCHMENT,Predominantly permeable (Chalk) catchment. Land use rural with some small settlements. River Bourne is ephemeral in its upper reaches. Garrison town of Tidworth has developed in catchment.
+Qmed Suitability,Check gaugings confirm theoretical rating to QMED.
+Pooling Suitability,Gauged beyond AMAX3. Reasonable fit to high flow gaugings.
+[END]

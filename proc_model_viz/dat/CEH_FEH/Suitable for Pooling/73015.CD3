@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 73015
+[END]
+[CDS DETAILS]
+NAME,Keer
+LOCATION,High Keer Weir
+NOMINAL AREA,   30.04
+NOMINAL NGR,3523,4718
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,352300,471900
+CENTROID NGR,GB,354954,472816
+DTM AREA,   30.04
+ALTBAR,  93
+ASPBAR,265
+ASPVAR,0.13
+BFIHOST,0.486
+DPLBAR,  6.15
+DPSBAR, 83.0
+FARL,0.976
+FPEXT,0.0744
+LDP, 11.48
+PROPWET,0.60
+RMED-1H, 10.5
+RMED-1D, 41.7
+RMED-2D, 53.5
+SAAR,1158
+SAAR4170,1195
+SPRHOST,35.79
+URBCONC1990,-9999.000
+URBEXT1990,0.0006
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0029
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Station opened in 1971 with a flat V weir gauging a natural, flashy catchment. Peak flow data presented from 1990 onwards. GENERAL: Flat-V weir, opened 1971, 3.5m wide, cross-slopes 1:10, set in vertical wing walls, approx 1m high. Superseded level-only open channel station (High Keer Bridge) which opened 1970. STATION HYDROMETRY: Structure performs well, all flows contained within banks. A downstream recorder was installed in June 2007, and showed that the modular limit of the weir is around 0.6m. Station closed between October 1981 and 20 September 1990, and during this period the watercourse is believed to have been straightened. No cableway, but recent higher gaugings by ADP. All gaugings at the higher flows are after 1990. One rating applied across period of record. Rating developed from gaugings. Rating revised after high flow gaugings in September 2011. FLOW RECORD: No daily flow data 9/8-23/11 2001 due to instrument failure during foot and mouth outbreak. Peak flow data are only provided after 1990 as stages of high flow events in the early period (to 1981) tend to be lower than from 1990; the reason is unknown - could be due to the changes to the downstream channel, a change in maintenance regime, just possibly differences in equipment, or could be a genuine change in flows. FLOW REGIME: Rather flashy regime from natural catchment.
+CATCHMENT,NE-SW trending catchment formed from series of ridges of moderate relief. Solid geology: Carboniferous Limestone and Millstone Grit overlain by extensive Boulder Clay, glacial sands and gravels. Wholly rural with forest plantations. No significant catchment changes.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged beyond AMAX3. High flow gaugings account for drowned flow.
+[END]

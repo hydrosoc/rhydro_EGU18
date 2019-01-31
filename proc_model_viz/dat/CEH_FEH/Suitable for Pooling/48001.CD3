@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 48001
+[END]
+[CDS DETAILS]
+NAME,Fowey
+LOCATION,Trekeivesteps
+NOMINAL AREA,   36.69
+NOMINAL NGR,2227, 698
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,222750,69850
+CENTROID NGR,GB,220759, 74787
+DTM AREA,   36.69
+ALTBAR, 269
+ASPBAR,175
+ASPVAR,0.16
+BFIHOST,0.444
+DPLBAR,  6.88
+DPSBAR, 92.3
+FARL,0.938
+FPEXT,0.0431
+LDP, 15.73
+PROPWET,0.47
+RMED-1H, 12.8
+RMED-1D, 48.9
+RMED-2D, 68.1
+SAAR,1637
+SAAR4170,1784
+SPRHOST,40.65
+URBCONC1990,-9999.000
+URBEXT1990,0.0007
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0026
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Three-bay compound Crump Profile weir installed in 1969 to replace previous broad-crested weir with central notch. GENERAL: Station opened in 10/1958 with a broad-crested weir with central notch (limited accuracy, flow overestimated) and since 05/1969 has been a three-bay compound Crump profile weir, with a middle crest length 1.52m and two side crests of 2.75m (7.01m total). STATION HYDROMETRY: Flood embankments ensure the full range is gauged. One theoretical peak flow rating applied across period of record. Uncertainty in peak flows as no available gaugings to validate rating. FLOW RECORD: Peak flow data only available from 1969. FLOW REGIME: Substantial flow modification from associated public water supply abstraction, Sibleyback Reservoir operation, and exports.
+CATCHMENT,Moderate relief, wet moorland catchment on the Bodmin Moor Granite. Extensive hill and valley peat deposits. Kaolinised granite moderates direct runoff response. Sibleyback reservoir scheme under construction around 1968/69. Completed in April 1969.
+Qmed Suitability,Gauged to within 26% of QMED. Good fit to gaugings.
+Pooling Suitability,Although rating not validated beyond QMED all flows contained and weir expected to perform well. No reported bypassing.
+[END]

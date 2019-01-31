@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 58012
+[END]
+[CDS DETAILS]
+NAME,Afan
+LOCATION,Marcroft Weir
+NOMINAL AREA,   89.71
+NOMINAL NGR,2771,1909
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,277100,191000
+CENTROID NGR,GB,284353,196824
+DTM AREA,   89.71
+ALTBAR, 306
+ASPBAR,266
+ASPVAR,0.17
+BFIHOST,0.452
+DPLBAR, 13.15
+DPSBAR,210.2
+FARL,1.000
+FPEXT,0.0173
+LDP, 23.56
+PROPWET,0.53
+RMED-1H, 12.7
+RMED-1D, 60.0
+RMED-2D, 80.4
+SAAR,2036
+SAAR4170,2064
+SPRHOST,40.17
+URBCONC1990, 0.547
+URBEXT1990,0.0128
+URBLOC1990, 0.659
+URBCONC2000, 0.692
+URBEXT2000,0.0202
+URBLOC2000, 0.675
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Non-standard compound Crump profile weir. Flow affected by PWS abstraction and minewater discharges. GENERAL: Non-standard compound Crump profile weir. Channel width: 17.2m. STATION HYDROMETRY: No divide walls between centre and side weirs. Stilling pipes not submerged at low flows and shoaling around pipes. High velocities due to steep gradients. One peak flow rating applied across period of record. Provides good fit to available gaugings. Weir remains modular to at least 2.5m (AMAX 1, as of June 2017). FLOW RECORD: AMAX1 (1979) at 2.5m - weir still modular (see photo). Weir refurbishment 3 Sep 2012 - 1 Jul 2013, with temporary loss of data during this period. No AMAX data currently available for WY 2012/13 as a result. Since July 2013, nearby 58004 Afan at Cwmafan and modelling used to infill missing data and correct erroneous data until new rating established. FLOW REGIME: Runoff reduced by PWS abstraction. Minewater discharges in upper catchment affect flows and have severely affected water quality.
+CATCHMENT,Coal Measures, mainly superficial deposits with peat in uplands and Boulder Clay in valleys. High proportion of forest, remainder rough grazing. Some urban development, including just u/s of station. Past mining activity evident, restoration schemes employed.
+Qmed Suitability,Although not gauged to within 30% of QMED, site is suitable for QMED as a) all flows have been contained within bank b) channel profile remains consistent to top of bank and c) crump weir expected to perform well at QMED
+Pooling Suitability,Although site does not meet numerical criteria site is suitable for pooling as a) all flows have been contained within bank b) channel profile remains consistent to top of bank and c) crump weir expected to perform well beyond AMAX3
+[END]

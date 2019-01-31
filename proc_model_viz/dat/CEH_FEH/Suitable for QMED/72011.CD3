@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 72011
+[END]
+[CDS DETAILS]
+NAME,Rawthey
+LOCATION,Brigflatts
+NOMINAL AREA,  194.09
+NOMINAL NGR,3639,4911
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,363950,491100
+CENTROID NGR,GB,372443,490983
+DTM AREA,  194.09
+ALTBAR, 366
+ASPBAR,291
+ASPVAR,0.14
+BFIHOST,0.348
+DPLBAR, 14.56
+DPSBAR,180.5
+FARL,0.999
+FPEXT,0.0370
+LDP, 28.21
+PROPWET,0.71
+RMED-1H, 12.1
+RMED-1D, 57.5
+RMED-2D, 78.1
+SAAR,1751
+SAAR4170,1702
+SPRHOST,48.36
+URBCONC1990,-9999.000
+URBEXT1990,0.0009
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0025
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station draining catchment with natural flow regime. Low flows can be affected by stilling well siltation. GENERAL: Velocity area station in natural channel, approx 30m wide, opened 1967. STATION HYDROMETRY: Limestone outcrop 10m downstream forms the bed control. No bypassing - all flows contained until at least 6m. Stilling well experiences siltation problems, giving flat-bottomed recessions. A cableway 50m upstream was removed during September 1975. One rating, derived from gaugings, applied across period of record. Flood Studies Report grade B. FLOW RECORD: Early daily flow record contains some gaps. Flows between September 2009 and April 2011 elevated by tree root trapped in natural bed control and should be treated with caution. No daily flow data after storm Desmond on 05/12/2015. FLOW REGIME: Steep, upland catchment results in very responsive flows. Predominantly natural flow regime.
+CATCHMENT,High relief moorland catchment draining Carboniferous Limestone and Millstone Grit. Peat on highest moors, Boulder Clay on lower slopes and in valleys. No significant changes.
+Qmed Suitability,Not gauged to within 30% of QMED. However, rating shows a good fit to gaugings, no bypassing or drowning so expected to perform well up to QMED.
+Pooling Suitability,Few high flow gaugings. Rating can not be validated beyond QMED.
+[END]

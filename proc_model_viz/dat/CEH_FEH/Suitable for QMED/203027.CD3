@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+203027
+[END]
+[CDS DETAILS]
+NAME,Braid
+LOCATION,Ballee
+NOMINAL AREA,  183.03
+NOMINAL NGR,3097,4015
+[END]
+[DESCRIPTORS]
+IHDTM NGR,Ireland,309750,401500
+CENTROID NGR,Ireland,317994,407637
+DTM AREA,  183.03
+ALTBAR, 169
+ASPBAR,233
+ASPVAR,0.20
+BFIHOST,0.498
+DPLBAR, 15.88
+DPSBAR, 61.3
+FARL,0.994
+FPEXT,0.0889
+LDP, 31.82
+PROPWET,0.61
+RMED-1H,  9.5
+RMED-1D, 36.9
+RMED-2D, 51.4
+SAAR,1202
+SAAR4170,1188
+SPRHOST,32.63
+URBCONC1990,-2.000
+URBEXT1990,0.0328
+URBLOC1990, 0.270
+URBCONC2000, 0.856
+URBEXT2000,0.0249
+URBLOC2000, 0.272
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station with cableway. GENERAL: Velocity area station. A new station downstream would not be useful because of backing up from the Main. Station house re-built a few years ago. STATION HYDROMETRY: Cableway present. Low flows important because of Water Service's STW. Poor at both high flows and low flows: at high flows out-of-bank flow occurs and at low flows there are weed-growth problems. No gaugings have been taken since 2002. Rating derived from current meter gaugings. Simple extrapolation occurs beyond 2.244m (maximum gauged level). Flows gauged to 51.5m3/s (around bankfull), needs more high flow gaugings. FLOW RECORD: Daily flows from 1980 onwards reprocessed in 2002. FLOW REGIME: Two small impounding reservoirs (Quoile and Buchna - capacity 409Ml combined) for a public water extraction of 5Ml/d. Town STW effluent returned to river; heavy weed growth in river at Ballee due to effluent conditions. New STW downstream may have helped.
+CATCHMENT,Geology entirely Upper and Lower Basalt extensively exposed with thin covering of till (part drumlinised). Some alluvium, sand and gravel near to the river. Predominantly improved grassland with some coniferous woodland, some intensive pig and poultry units. Ballymena is the major settlement.
+Qmed Suitability,Few gaugings in the range close to QMED but deemed reliable for QMED estimation.
+Pooling Suitability,At extreme flows the station gets out of bank on both sides of the river but floodplain flow is not significant.
+[END]

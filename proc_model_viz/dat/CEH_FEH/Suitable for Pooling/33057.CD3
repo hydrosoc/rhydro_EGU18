@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 33057
+[END]
+[CDS DETAILS]
+NAME,Ouzel
+LOCATION,Leighton Buzzard
+NOMINAL AREA,  122.40
+NOMINAL NGR,4916,2240
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,491700,224100
+CENTROID NGR,GB,493921,221073
+DTM AREA,  122.40
+ALTBAR, 114
+ASPBAR,334
+ASPVAR,0.11
+BFIHOST,0.524
+DPLBAR,  9.56
+DPSBAR, 33.1
+FARL,0.991
+FPEXT,0.1573
+LDP, 17.66
+PROPWET,0.31
+RMED-1H, 10.0
+RMED-1D, 31.1
+RMED-2D, 38.6
+SAAR, 643
+SAAR4170, 664
+SPRHOST,37.61
+URBCONC1990, 0.588
+URBEXT1990,0.0151
+URBLOC1990, 1.085
+URBCONC2000, 0.778
+URBEXT2000,0.0252
+URBLOC2000, 1.102
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Structure gauging a predominantly rural catchment with Chalk bedrock and with some artificial influences. Some flow diverted immediately u/s of station. GENERAL: Crump profile weir (6m broad) in trapezoidal section (7.5m broad). STATION HYDROMETRY: Weir subject to drowning at flows of approx. 4 cumecs. Some flow is diverted into a gravel pit through a weir (1m broad) located immediately u/s of station and infiltrates into Lower Greensand aquifer. Rating accounts for floodplain and non modular flow and fits well to gaugings. One rating applied across period of record. FLOW REGIME: Regime influenced by gw abstraction/recharge. Mainly industrial/agricultural abstraction. Some effluent returns.
+CATCHMENT,Land in lower reaches is gently undulating. Predominantly Chalk. Rural catchment draining from the Chiltern escarpment.
+Qmed Suitability,Gauged to within 26% of QMED.
+Pooling Suitability,Although no gaugings beyond QMED, rating accounts for non-modular flow and bypassing and is thought to perform well at high flows.
+[END]

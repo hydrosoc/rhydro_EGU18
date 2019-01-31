@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+  7005
+[END]
+[CDS DETAILS]
+NAME,Divie
+LOCATION,Dunphail
+NOMINAL AREA,  164.63
+NOMINAL NGR,3005,8480
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,300550,848000
+CENTROID NGR,GB,301695,839869
+DTM AREA,  164.63
+ALTBAR, 316
+ASPBAR,336
+ASPVAR,0.22
+BFIHOST,0.352
+DPLBAR, 13.99
+DPSBAR, 77.4
+FARL,0.925
+FPEXT,0.0566
+LDP, 28.11
+PROPWET,0.48
+RMED-1H,  9.5
+RMED-1D, 38.1
+RMED-2D, 50.4
+SAAR, 871
+SAAR4170, 923
+SPRHOST,50.31
+URBCONC1990,-9999.000
+URBEXT1990,0.0000
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0000
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station with unstable gravel control. Natural regime with some surface storage in Lochindorb. GENERAL: Velocity area station 15m wide. STATION HYDROMETRY: Unstable gravel control requires re-calibration of low flows following flood events. Calibrated to 60 cumecs. Peak flow rating derived from current meter gaugings, simple extrapolation beyond. Peak flow rating was revised in 2003 and a new single rating for peak flows only was judged to be suitable for whole period of record. Rating revised in 2016. FLOW RECORD: Full period of record peak flow data reviewed and released in April 2017 (WINFAP Files v5). FLOW REGIME: Natural regime. 20% of catchment drains through Lochindorb (surface area: 2.3 sq.km), the only significant storage.
+CATCHMENT,Upland catchment. Bedrock predominantly Moinian metamorphic with granitic intrusions. Extensive superficial deposits. Peat moorland and rough pasture with some forestry and a small amount of arable land. No significant catchment changes known.
+Qmed Suitability,Gauged to QMED
+Pooling Suitability,Gauged to 60% of AMAX3
+[END]

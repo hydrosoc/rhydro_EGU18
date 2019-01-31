@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 55014
+[END]
+[CDS DETAILS]
+NAME,Lugg
+LOCATION,Byton
+NOMINAL AREA,  202.55
+NOMINAL NGR,3364,2646
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,336450,264650
+CENTROID NGR,GB,324893,265277
+DTM AREA,  202.55
+ALTBAR, 299
+ASPBAR,122
+ASPVAR,0.18
+BFIHOST,0.593
+DPLBAR, 17.88
+DPSBAR,158.5
+FARL,0.996
+FPEXT,0.0646
+LDP, 31.70
+PROPWET,0.49
+RMED-1H,  9.8
+RMED-1D, 36.1
+RMED-2D, 47.3
+SAAR, 977
+SAAR4170,1062
+SPRHOST,31.41
+URBCONC1990,-9999.000
+URBEXT1990,0.0023
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0009
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Flat V Crump profile weir. Runoff reduced by groundwater abstraction for PWS. GENERAL: Flat V weir Crump profile weir, 1:20 cross-slopes, 12.5m wide constructed in 1971. Pre-1971, station was natural river section with stable riffle control. Above 2m left bank overtopped, right bank is steep cliff. STATION HYDROMETRY: Some shoaling u/s. Post weir rating fits well to gaugings and is similar to the previous open channel rating. It is therefore applied to the whole period of record. FLOW RECORD: Oct 1998 peak highest on record although subject to considerable uncertainty as extrapolated and out-of-bank. Estimated at 70 cumecs by WS Atkins using slope-area method. FLOW REGIME: Aquifer provides significant baseflow and moderates flood peaks. Runoff reduced by groundwater abstraction for PWS.
+CATCHMENT,Headwaters drain Radnor Forest - underlain by Silurian bedrock. Impermeable formations are covered by extensive alluvial gravel deposits in the valleys. Predominantly grassland catchment supporting rough grazing, with some forestry.
+Qmed Suitability,Gauged above QMED. Good fit to rating
+Pooling Suitability,Few high flow gaugings. Rating does not account for non-modular conditions or out of bank flow.
+[END]

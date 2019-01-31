@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 48011
+[END]
+[CDS DETAILS]
+NAME,Fowey
+LOCATION,Restormel
+NOMINAL AREA,  167.20
+NOMINAL NGR,2097, 624
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,209800,62500
+CENTROID NGR,GB,216554, 69917
+DTM AREA,  167.20
+ALTBAR, 196
+ASPBAR,191
+ASPVAR,0.16
+BFIHOST,0.522
+DPLBAR, 17.20
+DPSBAR,113.3
+FARL,0.985
+FPEXT,0.0349
+LDP, 37.59
+PROPWET,0.46
+RMED-1H, 12.1
+RMED-1D, 44.3
+RMED-2D, 62.3
+SAAR,1435
+SAAR4170,1513
+SPRHOST,35.26
+URBCONC1990,-9999.000
+URBEXT1990,0.0022
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0025
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Compound Crump profile weir with tailwater recorder. Flows influenced by Colliford and Siblybank reservoirs. GENERAL: Compound Crump profile weir with tailwater recorder, with middle crest length 3.5m and 2 side crests of 6.5m (16.5m total). Piers at 1.75m, wing walls at 2.5m. Superseded velocity-area station 48002 (Fowey at Restormel One), from which pre-1973 data is taken. STATION HYDROMETRY: Flood banks contain flows up to wing wall height, though drowning occurs ~0.8-1.0m. Upstream cableway, fish counter. Theoretical rating to 0.9m (~25 cumecs), updated in 2011 to fit gaugings above this level. Colliford Reservoir began to fill in July 1983. Recent gaugings and analysis from a tailwater recorder show that the weir goes non-modular from a stage of approx 1 m and is totally drowned above 1.3 m. However drowning is dealt with through rating by gaugings. Rating revised following gauging of 11/2010 event. Gaugings taken during 12/2012 floods confirmed this. Bypassing on left hand bank during 2012 flood but insignificant (<5%). Two peak flow ratings across period of record. Ratings sound across the range as max gauging is approx max recorded stage. FLOW REGIME: Runoff reduced by public water supply abstraction, causing substantial modifications to flow. 12-13% of the catchment is impounded - Colliford (1983) & Siblybank (1969) reservoirs . Other public water supply exports also affect the flow.
+CATCHMENT,Moderate relief catchment whose headwaters drain the kaolinised granite of Bodmin Moor. Middle and low reaches drain Devonian slates and grits. Some valley storage in gravels. Low grade agriculture, grazing, some forestry and cultivation. Pre-reservoir FARL is 0.985 and should be used with the pre-reservoir part of the records. Post-reservoir FARL is 0.920.
+Qmed Suitability,Rating above QMED is based on gaugings. Good fit to gaugings.
+Pooling Suitability,Gauged to almost maximum recorded level with bypassing insignificant.
+[END]

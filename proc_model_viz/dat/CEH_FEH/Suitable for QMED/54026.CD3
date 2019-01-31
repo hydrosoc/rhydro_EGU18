@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 54026
+[END]
+[CDS DETAILS]
+NAME,Chelt
+LOCATION,Slate Mill
+NOMINAL AREA,   31.31
+NOMINAL NGR,3891,2263
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,389150,226400
+CENTROID NGR,GB,396162,221242
+DTM AREA,   31.31
+ALTBAR, 122
+ASPBAR,319
+ASPVAR,0.38
+BFIHOST,0.443
+DPLBAR, 10.96
+DPSBAR, 79.5
+FARL,0.975
+FPEXT,0.1031
+LDP, 17.15
+PROPWET,0.33
+RMED-1H, 10.4
+RMED-1D, 33.7
+RMED-2D, 43.0
+SAAR, 726
+SAAR4170, 722
+SPRHOST,36.07
+URBCONC1990, 0.826
+URBEXT1990,0.1583
+URBLOC1990, 0.792
+URBCONC2000, 0.909
+URBEXT2000,0.2050
+URBLOC2000, 0.755
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Concrete trapezoidal flume constructed in 1969 but prone to siltation and flows not processed since 1984 due to poor rating and station closed in 2010 and structure removed. GENERAL: Concrete trapezoidal flume constructed in 1969. A poor station, prone to variable silt build-up at lower end of flume. All flows contained within structure but high flow performance uncertain and no current metering since 1995. Station closed in 2010 and structure removed. STATION HYDROMETRY: A poor station, prone to variable silt build up at lower end of flume and with no current metering since 1995. No information about performance at high flows. Flows not processed after 1984 due to poor rating; level record maintained. Gauging Authority have some stage data for period 1983-2000. All flows contained within structure. One rating applied across period of record. All flows contained within structure, rating theoretically based and fits gaugings well. FLOW RECORD: Flows not processed after 1984 due to poor rating; level record maintained for period 1983-2000. FLOW REGIME: Reservoir(s) in catchment affect runoff. Runoff reduced by public water supply and industrial/agricultural abstraction, increased by effluent returns - site located downstream of STW.
+CATCHMENT,Small catchment with Dowdeswell reservoir at the headwaters, largely an urban catchment. The river runs through the centre of Cheltenham and then through low lying farmland, where the station is located, before joining the River Severn. Underlying geology is largely Lower Lias clays with Middle and Upper Lias formations in the headwaters with river terrace sands and gravels along the main valley.
+Qmed Suitability,Not gauged to within 30% of QMED but theoretical rating expected to perform well to QMED.
+Pooling Suitability,Few high flow gaugings. Rating can not be validated beyond QMED.
+[END]

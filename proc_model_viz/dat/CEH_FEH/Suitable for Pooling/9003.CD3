@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+  9003
+[END]
+[CDS DETAILS]
+NAME,Isla
+LOCATION,Grange
+NOMINAL AREA,  179.98
+NOMINAL NGR,3493,8506
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,349350,850600
+CENTROID NGR,GB,341980,850067
+DTM AREA,  179.98
+ALTBAR, 208
+ASPBAR, 98
+ASPVAR,0.10
+BFIHOST,0.474
+DPLBAR, 14.70
+DPSBAR, 84.6
+FARL,0.994
+FPEXT,0.0401
+LDP, 27.65
+PROPWET,0.42
+RMED-1H,  8.5
+RMED-1D, 36.3
+RMED-2D, 48.9
+SAAR, 900
+SAAR4170, 957
+SPRHOST,36.31
+URBCONC1990, 0.686
+URBEXT1990,0.0051
+URBLOC1990, 0.746
+URBCONC2000, 0.794
+URBEXT2000,0.0055
+URBLOC2000, 0.723
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station in upland catchment. Natural regime. GENERAL: Velocity area station, about 17m wide. STATION HYDROMETRY: Cableway rated, natural control. Problems with weed growth prior to 1969. Bypassing occurs on the floodplain on lb at levels above 2m however the out of bank flows can only extend 15-20m before meeting a confining rise in the land. Rating derived from current meter gaugings, simple extrapolation beyond. Peak flow rating was revised in 1999 and a single rating was judged to be suitable for whole period of record. Rating revised again 2016. FLOW RECORD: Full period of record peak flow data reviewed and released in April 2017 (WINFAP Files v5). Chart data between 1960 & 1989 was digitised in 2016. FLOW REGIME: Natural regime.
+CATCHMENT,Upland catchment. Bedrock mainly Moinian metamorphic with, small amounts of intrusive basic. Extensive superficial deposits. Mostly forestry, pasture and arable. Minimal floodplains.
+Qmed Suitability,Gauged above QMED
+Pooling Suitability,Gauged to 85% of AMAX3
+[END]

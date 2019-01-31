@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 40017
+[END]
+[CDS DETAILS]
+NAME,Dudwell
+LOCATION,Burwash
+NOMINAL AREA,   26.29
+NOMINAL NGR,5678,1240
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,567900,124000
+CENTROID NGR,GB,564650,121529
+DTM AREA,   26.29
+ALTBAR, 113
+ASPBAR,119
+ASPVAR,0.06
+BFIHOST,0.432
+DPLBAR,  6.53
+DPSBAR,104.8
+FARL,0.994
+FPEXT,0.0286
+LDP, 11.38
+PROPWET,0.35
+RMED-1H, 11.5
+RMED-1D, 36.7
+RMED-2D, 49.1
+SAAR, 888
+SAAR4170, 906
+SPRHOST,43.89
+URBCONC1990, 0.006
+URBEXT1990,0.0050
+URBLOC1990, 0.051
+URBCONC2000, 0.591
+URBEXT2000,0.0095
+URBLOC2000, 1.096
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Crump profile weir. Patchy records for 1970's and 1980's. GENERAL: Crump profile weir (crest: 4.88m) in straight reach, containing an energy dissipator and crest tapping (not used). Between 1967 and 1968 a temporary rated section was in place to monitor flows prior to the construction of the permanent station. This station had a 3m range and produced monthly charts. STATION HYDROMETRY: Rating review performed in 2003; few gaugings at high flows. Trash may gather in energy dissipator. Steep banks contain all but exceptional flows. Wide and flat floodplain. Bypassing at stages >1m; maximum recorded stage significantly above bankfull. Modular limit 6.259 m3/s. One peak flow rating applied across period of record, does not take account of bypassing or drowning. FLOW RECORD: Some truncation of peaks around modular limit (~6 cumecs). Data are not presented for the earlier station. FLOW REGIME: Responsive and essentially natural flow regime - to within 10% at Q95. The station is high in the headwaters.
+CATCHMENT,A relatively steep catchment draining from the High Weald. Geology: mostly Ashdown Sands (variable permeability) with Purbeck Sands, Wells Sands, Wadhurst Clay; catchment predominanly pervious. River Dudwell forms a tributary to the River Rother. A largely rural catchment with significant woodland and scattered settlements.
+Qmed Suitability,Not gauged to within 30% of QMED. Does not take account of bypassing or drowning.
+Pooling Suitability,Few high flow gaugings. Rating can not be validated beyond QMED.
+[END]

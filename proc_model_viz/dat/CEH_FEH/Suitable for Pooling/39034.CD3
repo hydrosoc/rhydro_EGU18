@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 39034
+[END]
+[CDS DETAILS]
+NAME,Evenlode
+LOCATION,Cassington Mill
+NOMINAL AREA,  427.14
+NOMINAL NGR,4448,2099
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,444850,209950
+CENTROID NGR,GB,432692,223000
+DTM AREA,  427.14
+ALTBAR, 142
+ASPBAR,131
+ASPVAR,0.17
+BFIHOST,0.699
+DPLBAR, 35.13
+DPSBAR, 46.5
+FARL,0.965
+FPEXT,0.0682
+LDP, 62.55
+PROPWET,0.32
+RMED-1H, 10.2
+RMED-1D, 33.1
+RMED-2D, 41.7
+SAAR, 691
+SAAR4170, 730
+SPRHOST,24.10
+URBCONC1990, 0.589
+URBEXT1990,0.0181
+URBLOC1990, 0.998
+URBCONC2000, 0.736
+URBEXT2000,0.0141
+URBLOC2000, 0.988
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,This gauging station utilises two different weir structures (crump and side spilling weir) to estimate flow for the site. GENERAL: Complex configuration. Compound Crump weirs (crests: 2.445m and 3.7m wide) plus two side spilling weirs 40m u/s discharging into a canal section. These consists of a 4.614m wide Crump weir and a 7.46m wide broad-crested weir. STATION HYDROMETRY: Cassington is the combination of two weirs (1 Crump using BS equation & one side spill using a power law) up to 16 cumecs. A modelled peak flow power law rating is used when the combined weir flow exceeds 16 cumecs and bypassing 500m upstream begins. A detailed hydraulic modelling and review of rating was carried out after a July 2007 event, to account for spillage into the floodplain about 500m upstream which bypasses the gauging station. Rating adjusted from hydraulic modelling (EdenVale Young). One peak flow rating applied across the period of record. FLOW RECORD: Heavily bypassed during the extreme flood of July 2007; peak estimated at 75 cumecs. Series reviewed and extended back to 1971 by Black & Veatch. FLOW REGIME: Near-natural catchment. Some influence from industrial/agricultural abstraction and effluent returns. Small net import of water. Some limited storage in Blenheim Lake.
+CATCHMENT,Headwaters largely impervious (Lias Series), pervious Oolitic L'st in lower reaches. Responsive regime. A mainly agricultural catchment with scattered settlements. Rural in character.
+Qmed Suitability,Gauged to within 17% of QMED. Confident in hydraulic model derived rating for combined flows exceeding 16 m3s-1.
+Pooling Suitability,Confident in hydraulic model derived rating for combined flows exceeding 16 m3s-1.
+[END]

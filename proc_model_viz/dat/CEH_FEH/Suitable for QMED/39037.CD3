@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 39037
+[END]
+[CDS DETAILS]
+NAME,Kennet
+LOCATION,Marlborough
+NOMINAL AREA,  136.43
+NOMINAL NGR,4187,1686
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,418700,168600
+CENTROID NGR,GB,410749,170292
+DTM AREA,  136.43
+ALTBAR, 187
+ASPBAR, 96
+ASPVAR,0.07
+BFIHOST,0.959
+DPLBAR, 15.19
+DPSBAR, 51.3
+FARL,1.000
+FPEXT,0.0763
+LDP, 28.52
+PROPWET,0.34
+RMED-1H, 10.2
+RMED-1D, 31.7
+RMED-2D, 41.1
+SAAR, 772
+SAAR4170, 817
+SPRHOST, 5.06
+URBCONC1990, 0.469
+URBEXT1990,0.0108
+URBLOC1990, 0.781
+URBCONC2000, 0.672
+URBEXT2000,0.0064
+URBLOC2000, 0.540
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Station based in the chalk dominated upper catchment of the River Kennet. GENERAL: Crump weir, 6.1m broad, with crest-tapping plus a broad-crested side weir for high flows. Fish passage baffles have been fitted to back face of the main crump weir. STATION HYDROMETRY: Full range and not subject to drowning. One peak flow rating applied across period of record. Rating curve currently underestimates flows beyond 0.442m when the rating should be based on a crump and broad crested weir. FLOW REGIME: Baseflow dominated regime where runoff is low. The hydrological catchment is smaller than the topographical catchment; some diminution (reduction) in flow also results from gw abstraction.
+CATCHMENT,A Chalk catchment with some Clay-with-Flints cover in the lower catchment. It is predominantly rural with Marlborough, a market town, close to outfall. The runoff is low and overall is a baseflow dominated catchment. The hydrological catchment is smaller than the topographical catchment.
+Qmed Suitability,Reasonable fit to gaugings.
+Pooling Suitability,Rating underestimates flows and is uncertain beyond QMED.
+[END]

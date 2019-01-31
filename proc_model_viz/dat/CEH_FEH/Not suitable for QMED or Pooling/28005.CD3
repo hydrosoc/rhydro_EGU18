@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 28005
+[END]
+[CDS DETAILS]
+NAME,Tame
+LOCATION,Elford
+NOMINAL AREA, 1485.68
+NOMINAL NGR,4173,3105
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,417300,310500
+CENTROID NGR,GB,418537,293503
+DTM AREA, 1485.68
+ALTBAR, 119
+ASPBAR, 75
+ASPVAR,0.05
+BFIHOST,0.496
+DPLBAR, 45.81
+DPSBAR, 29.4
+FARL,0.939
+FPEXT,0.1329
+LDP, 79.31
+PROPWET,0.30
+RMED-1H, 10.7
+RMED-1D, 32.5
+RMED-2D, 40.3
+SAAR, 689
+SAAR4170, 702
+SPRHOST,35.50
+URBCONC1990, 0.843
+URBEXT1990,0.1752
+URBLOC1990, 1.177
+URBCONC2000, 0.932
+URBEXT2000,0.2425
+URBLOC2000, 1.200
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station closed in 1984. Measurement recommenced at Hopwas Bridge (28095) a short distance upstream in 2001. Substantial flow modification from large imports and industrial/agricultural abstraction. GENERAL: Velocity area station Replaced by Hopwas (28095) a short distance upstream. STATION HYDROMETRY: Cableway spans river channel only; no measurement of bypassing on rb where there is a broad floodplain. One rating applied across period of record. Never satisfactorily gauged beyond limit of cableway (bankfull). Severe summer weed growth requires rating shifts as flows below bankfull are subject to large error. FLOW RECORD: High flows from the site should be treated with caution. FLOW REGIME: Substantial flow modification through large imports and significant storage in river gravel terraces. Runoff cab be increased by effluent returns or reduced by industrial/agricultural abstraction.
+CATCHMENT,Substantially urbanised catchment; containing much of Birmingham City and mixed farming land use. Geology dominated by Keuper Marl and Permian and Triassic Sandstones overlain by Boulder Clay and glacial sand and gravel in equal proportions.
+Qmed Suitability,Great uncertainty regarding floodplain flows and QMED estimate lower than Hopwas a short distance upstream.
+Pooling Suitability,Great uncertainty regarding floodplain flows and QMED estimate lower than Hopwas a short distance upstream.
+[END]

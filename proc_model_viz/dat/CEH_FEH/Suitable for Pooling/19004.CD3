@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 19004
+[END]
+[CDS DETAILS]
+NAME,North Esk
+LOCATION,Dalmore Weir
+NOMINAL AREA,   79.85
+NOMINAL NGR,3252,6616
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,325200,661600
+CENTROID NGR,GB,319829,657686
+DTM AREA,   79.85
+ALTBAR, 299
+ASPBAR, 91
+ASPVAR,0.26
+BFIHOST,0.561
+DPLBAR, 11.31
+DPSBAR,112.0
+FARL,0.975
+FPEXT,0.0316
+LDP, 21.30
+PROPWET,0.49
+RMED-1H,  8.7
+RMED-1D, 38.3
+RMED-2D, 52.3
+SAAR, 949
+SAAR4170, 971
+SPRHOST,37.22
+URBCONC1990, 0.640
+URBEXT1990,0.0182
+URBLOC1990, 0.350
+URBCONC2000, 0.805
+URBEXT2000,0.0185
+URBLOC2000, 0.323
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,A dog-legged ogee section masonry weir on the North Esk. GENERAL: A dog-legged ogee section masonry weir, 25m wide. Very badly polluted river in the past due to paper waste. STATION HYDROMETRY: Weir is insensitive and modular throughout the flow range, all flows to date contained. There is no cableway, station is rated entirely by c/m gaugings correlated to a stage of 0.34m. Only one peak flow rating applied to the whole record, extrapolated beyond 0.5m (about 0.7 QMED). FLOW REGIME: Flashy response. Low flows affected by effluent return and industrial and agricultural abstractions. Several small storage reservoirs in the headwaters.
+CATCHMENT,Upland catchment draining the SE slopes of the Pentland hills. Bedrock Carboniferous and Devonian sedimentaries with igneous intrusions; predominantly overlain by superficial deposits. Rural catchment - mostly rough grazing with some forest, arable landuse and some urban. Penicuik town has approximately doubled in size during the period of record. Minimal floodplains.
+Qmed Suitability,No comment
+Pooling Suitability,No comment
+[END]

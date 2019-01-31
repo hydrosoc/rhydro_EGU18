@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 39015
+[END]
+[CDS DETAILS]
+NAME,Whitewater
+LOCATION,Lodge Farm
+NOMINAL AREA,   46.99
+NOMINAL NGR,4733,1521
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,473350,152200
+CENTROID NGR,GB,471243,147238
+DTM AREA,   46.99
+ALTBAR, 131
+ASPBAR,  9
+ASPVAR,0.31
+BFIHOST,0.906
+DPLBAR,  7.36
+DPSBAR, 47.4
+FARL,0.999
+FPEXT,0.0447
+LDP, 12.52
+PROPWET,0.35
+RMED-1H, 11.2
+RMED-1D, 34.2
+RMED-2D, 44.7
+SAAR, 779
+SAAR4170, 801
+SPRHOST, 8.43
+URBCONC1990, 0.481
+URBEXT1990,0.0115
+URBLOC1990, 0.581
+URBCONC2000, 0.731
+URBEXT2000,0.0395
+URBLOC2000, 0.653
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Crump weir gauging station located within the Upper Loddon catchment. GENERAL: Crump weir (width 3.24m), full range with crest tapping. Superseded a nearby insensitive rectangular thin-plate weir in 1975 that was operated originally by Mid-Southern Water Company. STATION HYDROMETRY: The channel is of low gradient so the weir is vulnerable to drowning (especially in summer when d/s weed growth can be heavy on the tail). Modular limit approximate 0.13m. Standard Crump weir calculation using tail levels. The station was last surveyed in December 2008. Gauging accurate at low flows. Flows less accurate in the non-modular range (g/s is highly susceptible to non-modular flow). Editing required, though d/s correction is usually good. Sluice movements u/s affect flows and levels. Weed growth d/s can cause drowning. FLOW RECORD: Data prior to 1975 are of much poorer quality (e.g. resulting from clinging nappe and damaged crest). Archived data: 1910-1926 monthly flows, 1927-1963 daily (but 7-day sequences of identical flows); from 1964 onwards GDFs. FLOW REGIME: Stable regime that is baseflow dominated. Runoff influenced by gw abstractions and STW outflows. Some minor u/s disturbance to flow pattern. U/s sluices (at old mill pond) and informal damming of the weir can also significantly disturb the flow pattern. Part of the catchment drains into the Basingstoke Canal; a proportion of this runoff returns to the Whitewater catchment. Occasional fluctuations in levels probably caused either by siphons under the canal or the canal overfall.
+CATCHMENT,Catchment is developed almost entirely on Chalk (with modest Drift cover) and is rural in character with scattered settlements.
+Qmed Suitability,Although gauged to 14% of QMED, high flows are generally non-modular and rating uncertain under these conditions. Extreme flows are frequently out of bank.
+Pooling Suitability,Although gauged to 14% of QMED, high flows are generally non-modular and rating uncertain under these conditions. Extreme flows are frequently out of bank.
+[END]

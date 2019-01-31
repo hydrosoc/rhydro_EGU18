@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 21022
+[END]
+[CDS DETAILS]
+NAME,Whiteadder Water
+LOCATION,Hutton Castle
+NOMINAL AREA,  502.23
+NOMINAL NGR,3880,6550
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,388100,655000
+CENTROID NGR,GB,371489,657272
+DTM AREA,  502.23
+ALTBAR, 236
+ASPBAR,120
+ASPVAR,0.21
+BFIHOST,0.518
+DPLBAR, 31.79
+DPSBAR, 90.1
+FARL,0.981
+FPEXT,0.0470
+LDP, 57.16
+PROPWET,0.35
+RMED-1H,  9.0
+RMED-1D, 37.9
+RMED-2D, 50.7
+SAAR, 814
+SAAR4170, 861
+SPRHOST,37.54
+URBCONC1990,-9999.000
+URBEXT1990,0.0009
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0018
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Compound Crump profile weir with theoretical rating. GENERAL: Compound Crump profile weir, about 30m wide. STATION HYDROMETRY: Catchment contains Whiteadder and Watchwater Reservoirs which can have substantial effects - particularly during low flows. Overtopping of wing walls and bypassing of station has occurred during floods above 2.3m. Theoretical rating. No gaugings. Charts originally recorded flows. FLOW RECORD: Extremely low winter flows in 1973 (e.g. 26/11) due to river icing over during freezing conditions. FLOW REGIME: Catchment contains Whiteadder and Watchwater Reservoirs for public water supply. Monthly naturalised flows available.
+CATCHMENT,Upland catchment with mixed geology, mostly impervious Palaeozoic formations with significant drift cover. Hill grazing at high levels with arable farming below about 150m; forest. No significant catchment changes known.
+Qmed Suitability,Fine
+Pooling Suitability,Several\many times the water level exceeded the height of the weir's wing walls. Unknown how this bypassing was account for.
+[END]

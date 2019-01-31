@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 58002
+[END]
+[CDS DETAILS]
+NAME,Neath
+LOCATION,Resolven
+NOMINAL AREA,  190.70
+NOMINAL NGR,2815,2016
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,281550,201700
+CENTROID NGR,GB,290206,210212
+DTM AREA,  190.70
+ALTBAR, 318
+ASPBAR,198
+ASPVAR,0.17
+BFIHOST,0.346
+DPLBAR, 17.56
+DPSBAR,146.9
+FARL,0.983
+FPEXT,0.0427
+LDP, 32.37
+PROPWET,0.62
+RMED-1H, 12.5
+RMED-1D, 63.8
+RMED-2D, 88.1
+SAAR,1946
+SAAR4170,1977
+SPRHOST,47.79
+URBCONC1990, 0.645
+URBEXT1990,0.0073
+URBLOC1990, 0.646
+URBCONC2000, 0.704
+URBEXT2000,0.0114
+URBLOC2000, 0.632
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Flat V weir, velocity-area station for high flows. Flows affected by reservoir in upper catchment. Industrial abstractions and effluent returns. GENERAL: Flat V weir (installed in 1978); velocity-area station for high flows; channel width: 28m. Station was natural river section prior to July 1978 STATION HYDROMETRY: Weir 1:20 cross slope, 1:2 d/s, 1:5 u/s, 0.7m V full. Some u/s right-bank spillage during floods; water stored on floodplain and does not bypass. Lb steep. At very high floods, e.g. 1979, river breaks out of banks at left hand bend 0.75km upstream onto floodplain. Diversion into a canal u/s but not significant at high flows. Early open channel section very unstable except for period with a blockstone weir (July 1971 to Sept 1977), but peak flow rating suspect above 0.6m throughout period before Flat V weir. Two peak flow ratings applied across period of record, the most recent is valid from July 1978 after weir installation. Good fit to gaugings. FLOW RECORD: Some record available from 1961, but channel considered unstable. POR max listed by old Hi-Flows UK. as Oct 1967, but the NRFA does not hold these early peaks; they may not be homogeneous. Full period of record peak flow data reviewed and released in April 2017 (WINFAP Files v5). FLOW REGIME: PWS reservoir in upper catchment. Industrial abstractions and effluent returns.
+CATCHMENT,A mainly upland catchment with mixed geology, from S to N: Coal Measures; Millstone Grit; Carboniferous Limestone and Old Red Sandstone. Extensive Boulder Clay cover in mid-catchment. Livestock farming predominates; some areas of upland heath; some forest cover; minor urban development in valley.
+Qmed Suitability,From 1978. Not gauged at QMED, but the quantity of gaugings and their consistant relationship give confidence in the rating at QMED and above.
+Pooling Suitability,From 1978. No gaugings above QMED but station expected to perform well. Some bypassing in 1979, but not in 1998 due to road construction. Modular limit unknown, likely to be < bankfull and possibly < 1986 peak. Station suitability is borderline.
+[END]

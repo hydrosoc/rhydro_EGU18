@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 23018
+[END]
+[CDS DETAILS]
+NAME,Ouse Burn
+LOCATION,Woolsington
+NOMINAL AREA,   10.14
+NOMINAL NGR,4193,5698
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,419400,569850
+CENTROID NGR,GB,417741,568934
+DTM AREA,   10.14
+ALTBAR,  91
+ASPBAR, 67
+ASPVAR,0.25
+BFIHOST,0.312
+DPLBAR,  2.89
+DPSBAR, 30.9
+FARL,0.977
+FPEXT,0.1307
+LDP,  5.99
+PROPWET,0.45
+RMED-1H,  9.4
+RMED-1D, 34.2
+RMED-2D, 43.4
+SAAR, 670
+SAAR4170, 695
+SPRHOST,39.70
+URBCONC1990, 0.833
+URBEXT1990,0.0609
+URBLOC1990, 1.205
+URBCONC2000, 0.944
+URBEXT2000,0.1000
+URBLOC2000, 1.197
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Informal flat-V weir with ultrasonics between 2001 and 2007. GENERAL: Informal flat-V weir (3m wide). Station moved after the building of the Metro underground line and supplemented in October 2001 by ultrasonic measuring equipment (removed 2007). STATION HYDROMETRY: Structure drowns at moderate flows and wing walls overtopped 2-5 times per year. Ultrasonic installed in 2001 to calibrate peak flows (removed 2007). Ultrasonic equipment produces good record with no drop-outs. Analysis of uncertainties in the ultrasonic rating calculation suggests the lower and upper bounds for QMAX are -17% and +44% at this site. Multiple peak flow ratings applied across period of record. Rating pre-1991 (before Metro line built) established from current metering. Post 1991 rating derived from ultrasonic data and refined in June 2003 to align with more recent high flow gaugings. Current rating (from June 2003) is a composite: theoretical weir equation used below 0.34m and ultrasonic data from 2003-07 used to derive the rating at higher levels. There is uncertainty regarding the modular limit of the structure and few high flow gaugings. FLOW REGIME: Responsive natural regime with no known artificial influences.
+CATCHMENT,Small (9 sq.km), relatively low-lying catchment on moderate permeability bedrock, but with significant Boulder Clay cover. Predominantly arable with some grassland and around a tenth of built-up area. No known catchment changes.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged to within 25% of AMAX3. Recent high flow gauging at bank full adds confidence to rating beyond QMED>
+[END]

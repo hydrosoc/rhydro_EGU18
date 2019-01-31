@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 53017
+[END]
+[CDS DETAILS]
+NAME,Boyd
+LOCATION,Bitton
+NOMINAL AREA,   47.58
+NOMINAL NGR,3681,1698
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,368150,169900
+CENTROID NGR,GB,371787,175080
+DTM AREA,   47.58
+ALTBAR, 111
+ASPBAR,271
+ASPVAR,0.23
+BFIHOST,0.496
+DPLBAR,  8.98
+DPSBAR, 62.7
+FARL,0.998
+FPEXT,0.0503
+LDP, 15.32
+PROPWET,0.35
+RMED-1H, 10.8
+RMED-1D, 35.8
+RMED-2D, 46.6
+SAAR, 807
+SAAR4170, 808
+SPRHOST,37.60
+URBCONC1990, 0.623
+URBEXT1990,0.0124
+URBLOC1990, 0.875
+URBCONC2000, 0.691
+URBEXT2000,0.0163
+URBLOC2000, 0.899
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Flat V weir for low flows, rated section for high flows. Located upstream of the confluence with the River Avon (Bristol). GENERAL: Flat V weir for low flows, crest 8m broad; rated section for high flows. Station opened in 1973 located approx 1.5 km upstream of its confluence with the River Avon (Bristol). Situated in rectangular sheet-piled section, 4m deep. STATION HYDROMETRY: Full range station. Maintenance difficult. All flows contained. One rating applied across period of record. Rating determined at installation of the station and reviewed in 2011. No changes have been made but the review identified that more high flow gaugings are required. No gaugings to confirm high flow rating with confidence. FLOW REGIME: Runoff natural to within 10% at the Q95. Flows occasionally affected by temporary diversions or abstractions.
+CATCHMENT,Predominantly clay catchment. Mainly rural with some urbanisation. The channel is not situated at the lowest part of the valley suggesting it may have been diverted in the past.
+Qmed Suitability,Gauged to within 10% of QMED.
+Pooling Suitability,Designed as a full range station, although few high flow gaugings have since been collected, so theoretical rating is unconfirmed.
+[END]

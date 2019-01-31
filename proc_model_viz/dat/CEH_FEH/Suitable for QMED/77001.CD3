@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 77001
+[END]
+[CDS DETAILS]
+NAME,Esk
+LOCATION,Netherby
+NOMINAL AREA,  848.74
+NOMINAL NGR,3390,5717
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,339050,571800
+CENTROID NGR,GB,338721,591940
+DTM AREA,  848.74
+ALTBAR, 266
+ASPBAR,186
+ASPVAR,0.14
+BFIHOST,0.371
+DPLBAR, 35.99
+DPSBAR,147.3
+FARL,0.997
+FPEXT,0.0370
+LDP, 66.14
+PROPWET,0.61
+RMED-1H, 11.2
+RMED-1D, 42.2
+RMED-2D, 55.5
+SAAR,1358
+SAAR4170,1448
+SPRHOST,45.44
+URBCONC1990,-9999.000
+URBEXT1990,0.0006
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0009
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station in a predominantly rural catchment draining from Scotland into NW England. GENERAL: Full-range velocity area station in a sandstone channel. Station closed March 2004. STATION HYDROMETRY: Permanent cableway. Higher flows spilled onto a berm, with bankful above this. Gauging from cableway could include flow above berm, but few high flow gaugings. Gravel extraction 1.3 km d/s caused drop in levels in 1973, so station rebuilt July-October 1973, with change in datum. New stilling well in 1974 as inlet pipes were dried during low flows. High flow gauging difficult because flashy catchment. Stepping stones placed in channel in January 1990 have since affected lower flows. Rating derived from gaugings. Scatter in low flow gaugings, with a number of ratings to cover these changes at low flows, but not valid at high flows. Rating 06 applied up to 1973 & rating 26 after to fit the few higher gaugings. Rating affected by regrading of natural control after high flows and gravel abstractions downstream. Flood Studies Report Grade A1. FLOW REGIME: Black Esk Reservoir 47km upstream.
+CATCHMENT,Catchment comprises Silurian rocks with igneous intrusions in north, Carboniferous Limestone in centre, and Permo-Triassic succession in the south. Widely blanketed by Boulder Clay. Rural catchment, heavily forested in the north, arable in the south. Majority of catchment in Scotland (Canonbie upstream). No catchment changes known.
+Qmed Suitability,Though there is considerable scatter in gaugings at low flows and few high flow gaugings. However, QMED is within bank and there are a few gaugings at moderately high flows, one above QMED
+Pooling Suitability,Only one gauging above QMED, and that in the early part of the record. Rating can not be validated beyond QMED.
+[END]

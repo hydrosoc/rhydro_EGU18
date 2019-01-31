@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 21007
+[END]
+[CDS DETAILS]
+NAME,Ettrick Water
+LOCATION,Lindean
+NOMINAL AREA,  502.74
+NOMINAL NGR,3485,6315
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,348550,631550
+CENTROID NGR,GB,330137,621040
+DTM AREA,  502.74
+ALTBAR, 372
+ASPBAR, 94
+ASPVAR,0.13
+BFIHOST,0.443
+DPLBAR, 31.16
+DPSBAR,190.4
+FARL,0.928
+FPEXT,0.0386
+LDP, 54.52
+PROPWET,0.67
+RMED-1H, 10.2
+RMED-1D, 41.3
+RMED-2D, 55.5
+SAAR,1306
+SAAR4170,1409
+SPRHOST,41.68
+URBCONC1990,-9999.000
+URBEXT1990,0.0020
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0018
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station in Southern Uplands. GENERAL: Velocity area station; approx. 40m wide section. Natural section with cableway about 1km before confluence with Tweed. STATION HYDROMETRY: Low flow control by d/s gravel riffle that is slowly accreting. Peak flow rating derived from current meter gauging up to 2.7m (about 1.2 QMED), simple extrapolation beyond. FLOW RECORD: Bypassing on left bank occurs at levels above 2m (e.g. Oct 2002), but the bypassing flows were not measured. Monthly naturalised flows available. FLOW REGIME: St Mary's Loch and Megget Reservoir (public water supply) have a minor impact on the flow regime.
+CATCHMENT,Southern Uplands. Relatively narrow impervious (mostly Silurian formations) catchment (half overlain by superficial deposits). Land use is mostly hill grazing, with some forested areas. Megget Reservoir (1982)
+Qmed Suitability,No comment
+Pooling Suitability,No comment
+[END]

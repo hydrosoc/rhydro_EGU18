@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 74005
+[END]
+[CDS DETAILS]
+NAME,Ehen
+LOCATION,Braystones
+NOMINAL AREA,  129.50
+NOMINAL NGR,3009,5060
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,300900,506050
+CENTROID NGR,GB,307113,515094
+DTM AREA,  129.50
+ALTBAR, 219
+ASPBAR,241
+ASPVAR,0.17
+BFIHOST,0.497
+DPLBAR, 20.56
+DPSBAR,165.8
+FARL,0.897
+FPEXT,0.0648
+LDP, 38.52
+PROPWET,0.69
+RMED-1H, 11.7
+RMED-1D, 51.6
+RMED-2D, 69.2
+SAAR,1753
+SAAR4170,1817
+SPRHOST,35.35
+URBCONC1990, 0.659
+URBEXT1990,0.0119
+URBLOC1990, 0.562
+URBCONC2000, 0.764
+URBEXT2000,0.0111
+URBLOC2000, 0.530
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Non-standard shallow V weir. Low flows dominated by compensation flow from Ennerdale. GENERAL: Non-standard shallow V control installed 1997. Superseded a velocity area station with unstable rating. Weir lowered summer 2007. STATION HYDROMETRY: Cableway at site. Stony bed. Bypassed in extreme floods - comes out of bank u/s at about 2m and bypasses station; thus flow measured is not total flow. Velocity area station had unstable rating - gravel bar low flow control with significant weed growth problems. Multiple peak flow ratings applied across period of record. Rated by current meter to 2.4m. Ratings allow for changes in channel and weir structure. However, there is considerable scatter in the gaugings and extrapolation of any of the ratings is uncertain. FLOW RECORD: Significant bypassing in major events, such as November 2009 when embankments were breached. FLOW REGIME: Low flows dominated by compensation flow from Ennerdale; major exports for water supply.
+CATCHMENT,Geology of the upper catchment is impervious Borrowdale Volcanics in east, Skiddaw Slates in west, the whole overlain in north west by Carboniferous Limestone, Coal Measures and patches of Permo-Triassic Sandstone. Drift covered. Some urban development in the small towns of Egremont and Cleator Moor in the lower catchment, middle reaches arable, remainder sheep pasture. Towns situated close to the channel or tributaries. Includes Ennerdale Water. No known catchment changes.
+Qmed Suitability,Gauged above QMED, almost to maximum recorded level. Ratings fit corresponding check gaugings.
+Pooling Suitability,Considerable scatter in the gaugings, significant out-of-bank flow in major events.
+[END]

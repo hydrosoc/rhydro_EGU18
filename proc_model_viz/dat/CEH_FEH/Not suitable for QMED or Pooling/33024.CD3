@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 33024
+[END]
+[CDS DETAILS]
+NAME,Cam
+LOCATION,Dernford
+NOMINAL AREA,  199.59
+NOMINAL NGR,5466,2506
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,546700,250650
+CENTROID NGR,GB,550783,238657
+DTM AREA,  199.59
+ALTBAR,  82
+ASPBAR,352
+ASPVAR,0.10
+BFIHOST,0.653
+DPLBAR, 20.93
+DPSBAR, 37.8
+FARL,0.991
+FPEXT,0.0811
+LDP, 35.25
+PROPWET,0.28
+RMED-1H, 10.7
+RMED-1D, 28.9
+RMED-2D, 36.2
+SAAR, 588
+SAAR4170, 603
+SPRHOST,26.38
+URBCONC1990, 0.583
+URBEXT1990,0.0204
+URBLOC1990, 0.845
+URBCONC2000, 0.767
+URBEXT2000,0.0279
+URBLOC2000, 0.810
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Rectangular thin-plate weir gauging predominantly pervious Chalk catchment with arable land use and significant artificial influences. GENERAL: Rectangular thin-plate weir, 5.8m broad. STATION HYDROMETRY: Bridge pier may affect approach velocity at high flows. Weir subject to drowning, tailwater levels measured to assist rating. Rating does not consider out of bank flow. One rating applied across period of record. FLOW REGIME: Five groundwater abstractions for PWS. Also abstractions for industry and agriculture. Flow regime is affected by industrial effluent returns derived from groundwater pumped within the catchment.
+CATCHMENT,Predominantly pervious catchment underlain by Chalk. Some Boulder Clay cover, primarily in headwater areas. Land use mainly arable.
+Qmed Suitability,Not gauged to within 30% of QMED. Weir likely to drown prior to QMED.
+Pooling Suitability,Drowned weir and upstream bridge will influence flows. No gaugings available to validate rating.
+[END]

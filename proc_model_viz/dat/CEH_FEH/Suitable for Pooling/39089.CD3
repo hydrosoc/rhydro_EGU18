@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 39089
+[END]
+[CDS DETAILS]
+NAME,Gade
+LOCATION,Bury Mill
+NOMINAL AREA,   44.74
+NOMINAL NGR,5053,2076
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,505350,207650
+CENTROID NGR,GB,501212,212163
+DTM AREA,   44.74
+ALTBAR, 156
+ASPBAR,118
+ASPVAR,0.23
+BFIHOST,0.700
+DPLBAR,  8.35
+DPSBAR, 63.5
+FARL,0.979
+FPEXT,0.0402
+LDP, 15.45
+PROPWET,0.30
+RMED-1H, 10.8
+RMED-1D, 33.7
+RMED-2D, 40.5
+SAAR, 724
+SAAR4170, 724
+SPRHOST,29.48
+URBCONC1990, 0.568
+URBEXT1990,0.0223
+URBLOC1990, 0.541
+URBCONC2000, 0.809
+URBEXT2000,0.0333
+URBLOC2000, 0.536
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,The station is located in the upper catchment of the River Gade, a tributary of the River Colne. GENERAL: Rectangular flume with side contractions installed by Hemel Hempstead Development Corporation in the mid 1960s. The station was operated by the local authority until the mid 1970s when its operation passed to Thames Water. STATION HYDROMETRY: A leak in the stilling well was discovered in 1990. The original instrumentation was a Lea Integrating recorder and early records were of poor quality. Vandalism and debris in channel can create problems. One rating applied across period of record. Rating has tendency to underestimate peak flows. FLOW RECORD: There is a trash screen just u/s of the g/s. Historically the screen and/or channel can become blocked causing the river to flow out of banks, flooding Gade Park and bypassing the station. Excess flows d/s of the g/s divert into a culvert that emerges d/s of Hemel Hempstead. FLOW REGIME: Baseflow-dominated regime with significant artificial disturbance. The urban response runoff has a significant effect on flood peaks. Balancing ponds u/s within built-up area.
+CATCHMENT,Dip-slope stream draining the Chilterns. The solid geology is Chalk with some tertiary and extensive boulder clay cover. A mainly rural catchment draining to Hemel Hempstead (part of which is u/s of the station).
+Qmed Suitability,Gauged above QMED. Good fit to gaugings.
+Pooling Suitability,Gauged to within 12% of AMAX3. However, rating does tend to underestimate high flows.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 33037
+[END]
+[CDS DETAILS]
+NAME,Bedford Ouse
+LOCATION,Newport Pagnell Total
+NOMINAL AREA,  801.94
+NOMINAL NGR,4876,2442
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,487650,244200
+CENTROID NGR,GB,470042,238162
+DTM AREA,  801.94
+ALTBAR, 111
+ASPBAR,109
+ASPVAR,0.09
+BFIHOST,0.437
+DPLBAR, 39.09
+DPSBAR, 29.6
+FARL,0.943
+FPEXT,0.1043
+LDP, 67.27
+PROPWET,0.30
+RMED-1H, 10.7
+RMED-1D, 30.2
+RMED-2D, 38.4
+SAAR, 648
+SAAR4170, 667
+SPRHOST,39.69
+URBCONC1990, 0.599
+URBEXT1990,0.0150
+URBLOC1990, 0.683
+URBCONC2000, 0.745
+URBEXT2000,0.0237
+URBLOC2000, 0.726
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Compound site of main weir and mill weir gauging a catchment with mixed geology and mixed land use, rating fits poorly to available gaugings. GENERAL: Compound site. Main weir is Compound Crump profile weir (29.3m broad), with central notch (3m broad) and downstream recorder. Separate, complementary Crump weir (3.7m broad), with crest tapping constructed in old mill throttle, 7m u/s of a double arch culvert. Flow record combines the main weir with a weir in the mill channel. STATION HYDROMETRY: The mill weir is subject to drowning at high flows and therefore affects the total flows too. Rating fits poorly to available gaugings. Combined rating for both main and mill weirs, based on stage at main weir, applied to whole period of record. FLOW REGIME: Influenced by gw abstraction/recharge and some effluent returns. Abstractions for PWS approx. 25km u/s, and abstractions within catchment for industry/agriculture.
+CATCHMENT,Mixed geology with significant component of permeable rocks, much of which is overlain by Boulder Clay. Mixed land use, arable land and grassland, some forest and some urban development in lower catchment.
+Qmed Suitability,Not gauged to within 30% of QMED. Rating fits poorly to gaugings.
+Pooling Suitability,Uncertain in rating at high flows.
+[END]

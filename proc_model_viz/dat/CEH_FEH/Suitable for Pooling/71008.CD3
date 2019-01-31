@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 71008
+[END]
+[CDS DETAILS]
+NAME,Hodder
+LOCATION,Hodder Place
+NOMINAL AREA,  258.14
+NOMINAL NGR,3704,4399
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,370400,439950
+CENTROID NGR,GB,366844,450185
+DTM AREA,  258.14
+ALTBAR, 246
+ASPBAR,169
+ASPVAR,0.15
+BFIHOST,0.330
+DPLBAR, 24.53
+DPSBAR,122.4
+FARL,0.970
+FPEXT,0.0549
+LDP, 42.37
+PROPWET,0.60
+RMED-1H, 11.4
+RMED-1D, 50.9
+RMED-2D, 69.0
+SAAR,1602
+SAAR4170,1533
+SPRHOST,46.13
+URBCONC1990,-9999.000
+URBEXT1990,0.0008
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0021
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Compound Crump weir with Flat V central section and a fish pass. Station opened to replace Higher Hodder Bridge. GENERAL: Compound truncated Crump profile weir opened 1969. Flat V centre section (24.4m wide, 1:20 cross slopes) with level flanking crests each 7.2m wide and 0.6m higher than centre of V. Low divide walls. Station replaced Higher Hodder Bridge 3km upstream. STATION HYDROMETRY: Weir drowns at high flows. No bypassing reported. Original cableway removed but a new cableway was recently installed. Rated by gauging from bridge 200m upstream in support of modified theoretical calibration. One rating applied across period of record. FLOW RECORD: Maintenance work undertaken on the weir between May 2011 and August 2011 mean the data in this period should be treated with caution. FLOW REGIME: Near natural catchment with some minor abstractions and discharges. Stocks Reservoir controls 15% of the catchment.
+CATCHMENT,Geology predominantly Millstone Grit and Carboniferous Limestone. Land use is mixed farming in the lower reaches and peat moorland in headwaters. Very rural, lightly populated catchment including the Forest of Bowland. No significant catchment changes.
+Qmed Suitability,Gauged above QMED. No bypassing reported.
+Pooling Suitability,Gauged to within 25% of AMAX3. Rating extrapolation theoretical but expected to perform well.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 50014
+[END]
+[CDS DETAILS]
+NAME,Yeo
+LOCATION,Collard Bridge
+NOMINAL AREA,   78.06
+NOMINAL NGR,2595,1356
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,259500,135550
+CENTROID NGR,GB,262294,139416
+DTM AREA,   78.06
+ALTBAR, 204
+ASPBAR,240
+ASPVAR,0.20
+BFIHOST,0.575
+DPLBAR,  8.84
+DPSBAR,134.3
+FARL,0.973
+FPEXT,0.0113
+LDP, 16.32
+PROPWET,0.50
+RMED-1H, 12.6
+RMED-1D, 45.4
+RMED-2D, 57.7
+SAAR,1342
+SAAR4170,1462
+SPRHOST,32.70
+URBCONC1990,-9999.000
+URBEXT1990,0.0002
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0044
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station with Flat V (truncated) triangular profile weir operational from 2007. Flow regime influenced by a few abstractions upstream. GENERAL: Station constructed at Yeotown in 1968 as a velocity area station with a natural bed control. In 01/1996 the original station was replaced by Collard Bridge for health and safety reasons. Collard Bridge is a velocity area station with a natural rock bed control, 400m upstream of the original (Yeotown) station. The two records are treated as a continuous record due to the small difference in the catchment area between the two sites. New Flat V (truncated) triangular profile weir operational from 10/2007; velocity-area rating used. STATION HYDROMETRY: A bridge 100m upstream is used for measuring high flows. May be bypassed. Bankfull stage at 1.5m. Multiple ratings applied across period of record. FLOW REGIME: Abstractions a few miles upstream. Wistlandpound Reservoir lies in the north-east of the catchment, but is insignificant compared to the total catchment area and has minimal influence on river flows at the station.
+CATCHMENT,The catchment area is characterized as natural with no urbanisation, and no flood attenuation structures. The catchment is underlain by permeable sandstones, slates and shales. Catchment soils are well-drained fine loamy or fine silty soils over rock, with some steep slopes, and boulders and rock locally. No major catchment changes.
+Qmed Suitability,Gauged above QMED and estimates are thought to be reasonable.
+Pooling Suitability,Current rating uncertain at high flows.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 69047
+[END]
+[CDS DETAILS]
+NAME,Roch
+LOCATION,Littleborough
+NOMINAL AREA,   14.78
+NOMINAL NGR,3940,4165
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,394000,416550
+CENTROID NGR,GB,395332,417716
+DTM AREA,   14.78
+ALTBAR, 292
+ASPBAR,246
+ASPVAR,0.37
+BFIHOST,0.475
+DPLBAR,  3.66
+DPSBAR,138.8
+FARL,0.890
+FPEXT,0.0380
+LDP,  7.54
+PROPWET,0.57
+RMED-1H, 11.9
+RMED-1D, 48.8
+RMED-2D, 68.8
+SAAR,1353
+SAAR4170,1282
+SPRHOST,35.00
+URBCONC1990, 0.508
+URBEXT1990,0.0165
+URBLOC1990, 0.340
+URBCONC2000, 0.642
+URBEXT2000,0.0341
+URBLOC2000, 0.427
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station on long straight engineered channel reach. GENERAL: Velocity area station opened December 1993 as a level-only station with no formal control. The channel has been engineered both upstream and downstream of the station giving a long, straight profile STATION HYDROMETRY: History of bed movement, though this is thought not to have changed the high flow regime by more than the criteria for acceptance in the NRFA Peak Flow data holdings. A flood alleviation scheme in 2003 dredged the channel and erected new flood walls. The gradient of the bed is quite steep, leading to high velocities. A large shoal upstream of the bridge was identified after the high flows experienced in late 2009, and was subsequently removed. Peak flow ratings derived using low flow current meter gaugings and high flow ADCP gaugings. FLOW REGIME: Some small reservoirs, including Blackstone Edge.
+CATCHMENT,Geology mostly Coal Measures within Millstone Grit to the Northeast and Northwest. Peat overlays geology in moorland hilltops; mixed glacial drift in the lower catchment. No catchment changes known.
+Qmed Suitability,Gauged to around QMED, with modelled top-end
+Pooling Suitability,Modelled top-end judged within pooling criteria.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 27080
+[END]
+[CDS DETAILS]
+NAME,Aire
+LOCATION,Oulton Lemonroyd
+NOMINAL AREA,  861.58
+NOMINAL NGR,4381,4281
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,438300,428250
+CENTROID NGR,GB,408314,443341
+DTM AREA,  861.58
+ALTBAR, 194
+ASPBAR,119
+ASPVAR,0.12
+BFIHOST,0.402
+DPLBAR, 51.29
+DPSBAR, 86.7
+FARL,0.960
+FPEXT,0.0636
+LDP, 96.06
+PROPWET,0.40
+RMED-1H, 10.6
+RMED-1D, 37.2
+RMED-2D, 49.1
+SAAR, 984
+SAAR4170, 971
+SPRHOST,37.90
+URBCONC1990, 0.791
+URBEXT1990,0.1110
+URBLOC1990, 0.557
+URBCONC2000, 0.882
+URBEXT2000,0.1529
+URBLOC2000, 0.582
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Triangular Crump weir with fish pass. Replaced Fleet Weir. All data held against this station number. GENERAL: Triangular Crump weir (approx. 27m wide) with fish pass. No cableway. In 1993 it replaced Fleet Weir 320m u/s. Fleet Weir, built 1985, is a 35m wide Crump weir with a fish pass (not used). Fleet Weir drowns as a result of backing up from Lemonroyd. Both gauges are located downstream of Leeds but upstream of the major confluence with the Calder. A serious bank breach in March 1988 inundated the adjacent open cast coal mine and was attributed to geological fault. After the breach Lemonroyd was built in a 3km long, S-shaped cut through meandering river channel, further from opencast mine. Fleet Weir had shown evidence of movement prior to the inundation event. All data (for 27080 and Fleet Weir) held against this station number. Flows above Qmed are diverted >600m u/s of gauge through St Aidens Washland, flows return to the Aire downstream of the gauge. The offtake to the washland was completed in 2012 (although the washland used prior to this). STATION HYDROMETRY: Bypassing of Oulton Lemonroyd Weir occurs during flood flows at about Qmed and above. Low and medium flows not affected by the offtake. Aire and Calder Navigation canal bypasses the station. Gauging by boat can only be carried out at low to moderate levels. Two peak flow ratings applied across period of record, the most recent is valid from August 1995. Recent rating shows a good fit to gaugings. FLOW RECORD: Data for 06/09/1985 to 11/08/1995 from Fleet Weir; 11/08/1995 to present from 27080. All data held against this station number. FLOW REGIME: Complex pattern of water utilisation in lower catchment - significant disturbance to runoff regime. Leeds sewage treatment works discharge u/; imports from Wharfe and Nidd.
+CATCHMENT,Largely impervious catchment developed mainly on Carboniferous Limestone (headwaters), Millstone Grit and Lower Coal Measures. Extensive superficial deposits, predominantly Boulder Clay. Rough grazing in Pennine headwaters contrasts with very considerable urban and industrial development (Leeds and Bradford conurbation) below Skipton. General increase in areas of development in mid to lower catchment through period of record.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged to within 20% of AMAX3. Excellent confidence in rating; however some catchment flow bypasses via the Aire and Calder Navigation.
+[END]

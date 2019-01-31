@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 48004
+[END]
+[CDS DETAILS]
+NAME,Warleggan
+LOCATION,Trengoffe
+NOMINAL AREA,   25.26
+NOMINAL NGR,2159, 673
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,215900,67350
+CENTROID NGR,GB,215277, 71462
+DTM AREA,   25.26
+ALTBAR, 219
+ASPBAR,206
+ASPVAR,0.20
+BFIHOST,0.499
+DPLBAR,  6.10
+DPSBAR, 93.8
+FARL,0.978
+FPEXT,0.0350
+LDP, 12.54
+PROPWET,0.45
+RMED-1H, 12.2
+RMED-1D, 44.2
+RMED-2D, 63.4
+SAAR,1445
+SAAR4170,1515
+SPRHOST,35.70
+URBCONC1990,-9999.000
+URBEXT1990,0.0014
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0025
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Three-bay compound Crump profile weir in entirely rural catchment. The only gauged natural catchment on Bodmin moor. GENERAL: Three-bay compound Crump profile weir, with central crest length 1.52m and two side crests of 4.265m (10.05m total). Wing walls at 1.67m. STATION HYDROMETRY: Weir fully modular. Flood banks contain flows up to wing wall height. Well confirmed by gaugings up to 0.5m (2.6 cumecs) but above this gauging suggests high flows overestimated due to skew flow in channel. Shoaling upstream of weir. Siltation problem as structure over-designed. The only gauged natural catchment on Bodmin Moor. No liability to backwater effects. Two peak flow ratings applied to period of record. Confirmed by gaugings to 0.5m. All recorded flows in bank. FLOW REGIME: Runoff natural to within 10% at Q95.
+CATCHMENT,Entirely rural natural catchment with small scattered villages on moorland. The upper part of the catchment drains a moderate to steep relief consisting of kaolinised granite. The lower traverses metamorphosed Devonian slates. Baseflow high for an upland catchment due to storage in the granite. Land use is mainly rough grazing. Some china clay worked in upper catchment. No major changes to catchment.
+Qmed Suitability,Although not gauged to within 30% of QMED, theoretical rating expected to perform well to QMED as weir remains modular to bank full.
+Pooling Suitability,Use with caution as rating not validated beyond QMED. However structure is thought to be modular across full range and site should be suitable for pooling.
+[END]

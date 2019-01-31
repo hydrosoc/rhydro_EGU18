@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 35003
+[END]
+[CDS DETAILS]
+NAME,Alde
+LOCATION,Farnham
+NOMINAL AREA,   62.78
+NOMINAL NGR,6360,2601
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,636000,260150
+CENTROID NGR,GB,631306,266292
+DTM AREA,   62.78
+ALTBAR,  41
+ASPBAR,128
+ASPVAR,0.21
+BFIHOST,0.365
+DPLBAR, 11.76
+DPSBAR, 26.1
+FARL,0.988
+FPEXT,0.0919
+LDP, 22.12
+PROPWET,0.26
+RMED-1H, 10.9
+RMED-1D, 29.3
+RMED-2D, 36.9
+SAAR, 592
+SAAR4170, 609
+SPRHOST,41.72
+URBCONC1990,-9999.000
+URBEXT1990,0.0022
+URBLOC1990,-9999.000
+URBCONC2000, 0.551
+URBEXT2000,0.0080
+URBLOC2000, 0.831
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Broad-crested weir gauging a rural, groundwater-influenced, clay and Chalk catchment. GENERAL: Broad-crested weir of ogee section with low flow notch and steel plate divide walls. STATION HYDROMETRY: Rating is non-modular at high flows (above 0.838m stage) and flows go out of bank; rating confirmed by gaugings. Rating accounts for drowning but significant scatter in gaugings between 0.6m and 1.1m. Outside of this range rating fits well to gaugings. One rating applied across period of record. FLOW RECORD: No POT data are presented for this station as they have no non-modular flow correction applied. AMAX data have been corrected, but in some cases can be below the daily flow as these are not corrected. FLOW REGIME: Gw-influenced regime. Significant gw abstractions for industry/agriculture, some water exported from the catchment.
+CATCHMENT,The gw contours show only token relationship to the surface topography. Predominantly clay and Chalk, overlain mainly by Boulder Clay and some sands and gravels. Rural, predominantly arable land.
+Qmed Suitability,Gauged above QMED. However, scatter of check gaugings in non-modular range casts doubt on rating shape and subsequently on QMED estimates. Use with caution.
+Pooling Suitability,Rating is uncertain above modular limit (0.6m).
+[END]

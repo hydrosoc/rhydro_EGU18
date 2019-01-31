@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 45001
+[END]
+[CDS DETAILS]
+NAME,Exe
+LOCATION,Thorverton
+NOMINAL AREA,  608.16
+NOMINAL NGR,2936,1016
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,293600,101600
+CENTROID NGR,GB,291199,125204
+DTM AREA,  608.16
+ALTBAR, 245
+ASPBAR,163
+ASPVAR,0.14
+BFIHOST,0.526
+DPLBAR, 38.36
+DPSBAR,137.9
+FARL,0.985
+FPEXT,0.0314
+LDP, 77.16
+PROPWET,0.46
+RMED-1H, 11.8
+RMED-1D, 42.2
+RMED-2D, 57.4
+SAAR,1249
+SAAR4170,1302
+SPRHOST,36.00
+URBCONC1990,-9999.000
+URBEXT1990,0.0025
+URBLOC1990,-9999.000
+URBCONC2000, 0.747
+URBEXT2000,0.0061
+URBLOC2000, 0.513
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station with flat V bed control. Control point for operational releases from Wimbleball Reservoir. GENERAL: Station started in 1956. Velocity-area station, approx. 32m wide. Non-standard flat V bed control constructed in 1973. Station is control point for operational releases from Wimbleball Reservoir. Station immediately below a bridge. STATION HYDROMETRY: Cableway present. Minor culvert flow through mill upstream of station included in rating. Low flows significantly affected by Wimbleball Reservoir post-1979. Significant gravel deposition, and post-winter shoaling, since major failure of upstream weir in 1999 may affect flows, despite significant effort to ameliorate through frequent gauging and rating adjustments. Some flow (a minor amount) escapes from a mill upstream and bypasses the station through a 1m culvert under the road. The right bank has a considerable flood plain. Two ratings applied across period of record, the most recent is valid from 05/1973 when weir installation necessitated a rating change. Ratings fit well to corresponding gaugings. FLOW REGIME: Wimbleball Reservoir in catchment affects runoff. Other abstractions and recharge in catchment.
+CATCHMENT,Headwaters drain Exmoor. Geology predominantly Devonian sandstones and Carboniferous Culm Measures, with subordinate Permian sandstones in the east. Moorland, forestry and a range of agriculture. No major catchment changes.
+Qmed Suitability,Gauged above QMED. Good fit to rating.
+Pooling Suitability,Gauged beyond AMAX3. Rating confirmed by gaugings through full flow range.
+[END]

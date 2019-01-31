@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 47004
+[END]
+[CDS DETAILS]
+NAME,Lynher
+LOCATION,Pillaton Mill
+NOMINAL AREA,  135.29
+NOMINAL NGR,2368, 625
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,236850,62550
+CENTROID NGR,GB,229410, 72589
+DTM AREA,  135.29
+ALTBAR, 175
+ASPBAR,130
+ASPVAR,0.08
+BFIHOST,0.549
+DPLBAR, 18.02
+DPSBAR,107.1
+FARL,0.996
+FPEXT,0.0339
+LDP, 35.22
+PROPWET,0.48
+RMED-1H, 12.4
+RMED-1D, 45.5
+RMED-2D, 61.0
+SAAR,1423
+SAAR4170,1498
+SPRHOST,33.77
+URBCONC1990, 0.597
+URBEXT1990,0.0080
+URBLOC1990, 0.759
+URBCONC2000, 0.744
+URBEXT2000,0.0080
+URBLOC2000, 0.730
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station with cableway. GENERAL: Velocity area station, channel approx. 10.6m wide, cableway span 16.9m. D/s shoal as control. STATION HYDROMETRY: Flows at site were formerly contained by flood banks on both banks (bankfull level only thought to have been exceeded once in record (12/1979)). However the left hand bank was breached in the 1990s and the left hand entrainment bank then removed so bypassing occurs more readily since 1990; floodplain flows are ungauged. Multiple peak flow ratings across period of record. Generally reasonable rating, well gauged through the range but limited confidence in upper range. Rating shift due to mobile bed and control. Rating reviewed in 2012 with improvements applied to historic record. Out-of-bank flows now calculated using model-derived rating. Low flow rating shifts regularly in response to changes in the downstream shoal. Analysis has shown that the high flow rating is similar through the record due to influence of downstream control at higher levels. Rating formed from a combination of high flow gaugings, 2D hydraulic modelling and observations of the 1979 flood (wrack marks and slope-area analysis). Separate high flow ratings prepared for the situation pre- and post-1990 with the left hand bank in place and removed. As a result rating now considered sound. Acoustic Doppler installed in 02/12 to confirm the rating at higher levels. FLOW RECORD: Data pre-March 1966 not re-rated and are therefore uncertain though plausible. FLOW REGIME: Imports from Sibleyback Reservoir exceed direct PWS abstraction, moderate net affect at low flows.
+CATCHMENT,Headwaters rise on Bodmin peat covered granite moorland; thence Devonian slates and volcanics; middle reach crosses a Carboniferous shale and sandstone inlier. Drift restricted to alluvium. Responsive upper catchment on Bodmin Moor. Generally low grade land gives rise to a variety of agriculture, grazing and forestry. No major catchment changes.
+Qmed Suitability,No comment
+Pooling Suitability,Reasonable rating, well gauged throughout flow range.
+[END]

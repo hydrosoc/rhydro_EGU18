@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 21015
+[END]
+[CDS DETAILS]
+NAME,Leader Water
+LOCATION,Earlston
+NOMINAL AREA,  239.11
+NOMINAL NGR,3564,6388
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,356500,638800
+CENTROID NGR,GB,353944,650941
+DTM AREA,  239.11
+ALTBAR, 292
+ASPBAR,139
+ASPVAR,0.20
+BFIHOST,0.563
+DPLBAR, 18.92
+DPSBAR,106.3
+FARL,0.999
+FPEXT,0.0338
+LDP, 31.38
+PROPWET,0.43
+RMED-1H,  9.1
+RMED-1D, 35.7
+RMED-2D, 47.7
+SAAR, 853
+SAAR4170, 894
+SPRHOST,33.40
+URBCONC1990,-9999.000
+URBEXT1990,0.0013
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0013
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station on the River Leader in the Scottish Borders. GENERAL: Velocity area station about 30m wide. STATION HYDROMETRY: Cableway present. Gravel bed with bar giving low flow control. Insensitive at low flows. Flows below 0.5cumecs should be treated with caution. The cross section indicates a flood channel beyond the cableway on the right bank, whose bankfull stage is 2.2m. Peak flow rating derived from current meter gaugings up to 1.8m (about 1.1 QMED), simple extrapolation beyond. FLOW REGIME: Natural flow regime.
+CATCHMENT,Upland catchment draining from the Lammermuir Hills. Bedrock Silurian shale and ORS; some superficial deposit cover. Land use hill grazing with arable farming at lower levels; some forest. No significant catchment changes.
+Qmed Suitability,No comment
+Pooling Suitability,Uncertainty as to quality at higher flows due to bypassing,. Needs a re-assessment by SEPA to clarify worth.
+[END]

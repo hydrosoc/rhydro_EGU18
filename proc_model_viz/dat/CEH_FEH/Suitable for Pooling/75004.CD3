@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 75004
+[END]
+[CDS DETAILS]
+NAME,Cocker
+LOCATION,Southwaite Bridge
+NOMINAL AREA,  116.17
+NOMINAL NGR,3130,5280
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,313050,528100
+CENTROID NGR,GB,316121,520975
+DTM AREA,  116.17
+ALTBAR, 300
+ASPBAR,318
+ASPVAR,0.15
+BFIHOST,0.483
+DPLBAR, 12.26
+DPSBAR,289.7
+FARL,0.830
+FPEXT,0.0486
+LDP, 23.42
+PROPWET,0.63
+RMED-1H, 11.9
+RMED-1D, 56.1
+RMED-2D, 76.6
+SAAR,1976
+SAAR4170,2157
+SPRHOST,40.13
+URBCONC1990,-9999.000
+URBEXT1990,0.0001
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0003
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station gauging a catchment draining the Cumbrian mountains with some reservoirs. GENERAL: Velocity area station, channel is approximately 17m wide. Station is often used in conjunction with Scalehill (75016). STATION HYDROMETRY: Control is a pipeline downstream, and mill weir 137m downstream at higher flows. Station has permanent cableway and flood banks containing most flows; bypassing from upstream on right bank at high flows. Suffers from silt, weed growth and minor bed movements, hence many rating changes. Low and medium flows of limited accuracy. One peak flow rating applied across period of record. Rated by current meter, with model results for higher stages. Flood Studies Report grade E. FLOW RECORD: October 2008 flood appears to have resulted in subsequent underestimation of low flows and overestimation of high flows: data subject to revision. FLOW REGIME: Catchment contains Crummock Water, Buttermere and Loweswater; catchment is sometimes responsive in spite of these. Low flow compensation pumped from Crummock Water. Occasional evidence of low flow regulation (e.g. July 1988).
+CATCHMENT,Catchment drains roughly northwards from the Cumbrian mountains, with geology comprising Lower Palaeozoic rocks and granite intrusions, under moorland. Headwaters are deeply incised, while lower river flows in broad glacial trough. Land use is mainly grazing, with some arable on a broad swathe of drift in the river valley. No known catchment changes.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged to within 23% of AMAX3. Gaugings show limited scatter, even beyond bankfull.
+[END]

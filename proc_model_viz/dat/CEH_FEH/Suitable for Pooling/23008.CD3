@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 23008
+[END]
+[CDS DETAILS]
+NAME,Rede
+LOCATION,Rede Bridge
+NOMINAL AREA,  345.20
+NOMINAL NGR,3868,5832
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,386850,583200
+CENTROID NGR,GB,384095,596079
+DTM AREA,  345.20
+ALTBAR, 284
+ASPBAR,129
+ASPVAR,0.11
+BFIHOST,0.322
+DPLBAR, 25.88
+DPSBAR, 94.3
+FARL,0.978
+FPEXT,0.0409
+LDP, 48.82
+PROPWET,0.47
+RMED-1H,  9.4
+RMED-1D, 32.7
+RMED-2D, 44.0
+SAAR, 941
+SAAR4170,1024
+SPRHOST,49.36
+URBCONC1990,-9999.000
+URBEXT1990,0.0006
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0006
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Flat-V weir in an upland catchment. Catcleugh Reservoir has an appreciable influence on the flow regime. GENERAL: Flat-V weir constructed with pre-fabricated crest units (24.3m wide). Flood plain storage u/s of the station may affect magnitude of high flows. A bridge d/s may act as a control at high levels. STATION HYDROMETRY: Lag on inlet pipe possibly affected high flow measurements, inlet pipe replaced August-September 2003. One rating based on current meter gaugings applied to period of record and was developed in April 2010. FLOW REGIME: Catcleugh reservoir (controls 40 km2 (11.6%) of the catchment) has an appreciable influence on flows, with a modest net export of water.
+CATCHMENT,Upland catchment on moderately permeable Carboniferous formations, mostly covered by Boulder Clay, alluvium and upland peat. The area is faulted and has a few dykes. Two thirds of the catchment is grassland with upland heath. Land use mainly forestry and grazing. Progressive afforestation during period of record.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged to within 15% of AMAX3. No significant change in rating beyond this expected.
+[END]

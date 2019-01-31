@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 37006
+[END]
+[CDS DETAILS]
+NAME,Can
+LOCATION,Beach's Mill
+NOMINAL AREA,  227.85
+NOMINAL NGR,5690,2071
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,569000,207150
+CENTROID NGR,GB,564069,203191
+DTM AREA,  227.85
+ALTBAR,  66
+ASPBAR, 81
+ASPVAR,0.16
+BFIHOST,0.316
+DPLBAR, 14.83
+DPSBAR, 25.0
+FARL,0.991
+FPEXT,0.0802
+LDP, 30.87
+PROPWET,0.28
+RMED-1H, 11.6
+RMED-1D, 31.0
+RMED-2D, 38.4
+SAAR, 589
+SAAR4170, 604
+SPRHOST,46.94
+URBCONC1990, 0.663
+URBEXT1990,0.0342
+URBLOC1990, 1.123
+URBCONC2000, 0.843
+URBEXT2000,0.0510
+URBLOC2000, 1.167
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Compound flume within a mill race gauging a predominantly rural catchment with London Clay covered by Boulder Clay, and with significant artificial influences. GENERAL: Triple throated compound flume (built within mill race). Trapezoidal centre section for low flows. STATION HYDROMETRY: Limit of station is 35 cumecs. Spillway flow starts at around 2m - very significant part of flow, allowance for this not made in record. One peak flow rating applied across period of record. FLOW RECORD: Naturalised flows from 1962 to 1976. Period-of-record maximum flow in Oct 2000 may have been higher due to spillway flows. FLOW REGIME: Industrial and sewage effluent discharges, adjustments needed for effluent discharges.
+CATCHMENT,London Clay overlain with Boulder Clay in N. Rural, predominantly arable land with some grassland and some built-up areas in the S of the catchment.
+Qmed Suitability,Significant scatter just above QMED/bankfull but estimates thought to be reasonable.
+Pooling Suitability,Significant bypassing known to occur above 2m which is not accounted for in check gaugings. Rating cannot be verified beyond QMED.
+[END]

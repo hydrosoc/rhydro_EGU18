@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 62001
+[END]
+[CDS DETAILS]
+NAME,Teifi
+LOCATION,Glanteifi
+NOMINAL AREA,  897.59
+NOMINAL NGR,2244,2416
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,224450,241650
+CENTROID NGR,GB,248978,248169
+DTM AREA,  897.59
+ALTBAR, 209
+ASPBAR,285
+ASPVAR,0.10
+BFIHOST,0.507
+DPLBAR, 49.98
+DPSBAR,109.8
+FARL,0.995
+FPEXT,0.0486
+LDP,109.09
+PROPWET,0.52
+RMED-1H, 11.0
+RMED-1D, 44.8
+RMED-2D, 59.8
+SAAR,1379
+SAAR4170,1363
+SPRHOST,36.97
+URBCONC1990,-9999.000
+URBEXT1990,0.0017
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0047
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station; straight reach. PWS has minor affect on flow regime, thought to be mostly natural. Drought trigger site for DCWW. GENERAL: Velocity area station. Straight reach, width: 35m. Natural control. Drought trigger site for DCWW. STATION HYDROMETRY: Flood flows (> ~4.4m) spill over right bank onto wide floodplain. Cableway at site. Some weed growth in channel. Well gauged - recent gaugings include floodplain flows. One peak flow rating applied across period of record. Upper limit of rating at highest gauged flow. Staff gauge re-levelled in 2007. FLOW REGIME: PWS impounding reservoirs in upland and minor agricultural abstractions; Tregaron bog (10 sq.km.) has partial effect on flows. Nonetheless, a sensibly natural regime.
+CATCHMENT,Mainly impermeable Ordovician and Silurian deposits. Mainly grassland, dairy farming predominates in south; hill farming in upper catchment. Some forest, mainly on E margin. Peaty soils on hills, seasonally wet. Apart from Tregaron bog, most of the lower areas have soils with permeable substrate.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged to within 10% of AMAX3.
+[END]

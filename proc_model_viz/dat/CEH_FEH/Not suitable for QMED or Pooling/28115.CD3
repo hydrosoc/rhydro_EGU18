@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 28115
+[END]
+[CDS DETAILS]
+NAME,Maun
+LOCATION,Mansfield the Dykes
+NOMINAL AREA,   30.56
+NOMINAL NGR,4559,3636
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,455950,363600
+CENTROID NGR,GB,452205,360118
+DTM AREA,   30.56
+ALTBAR, 137
+ASPBAR, 51
+ASPVAR,0.32
+BFIHOST,0.841
+DPLBAR,  7.11
+DPSBAR, 43.4
+FARL,0.915
+FPEXT,0.0539
+LDP, 12.12
+PROPWET,0.36
+RMED-1H, 11.1
+RMED-1D, 32.8
+RMED-2D, 40.7
+SAAR, 714
+SAAR4170, 719
+SPRHOST,14.92
+URBCONC1990, 0.829
+URBEXT1990,0.2965
+URBLOC1990, 0.955
+URBCONC2000, 0.926
+URBEXT2000,0.3886
+URBLOC2000, 0.939
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Crump profile Flat V weir that replaces (1996) 28059 Mansfield STW - closed in 1984. GENERAL: Crump profile Flat V (1:10) weir, 4.8m wide, low vertical wingwalls set in wider channel. Lb at about 2m, Rb higher. Weir prone to u/s siltation - sand is mobile, especially under high flow conditions and is washed away in high events - results in variable levels and scatter in gaugings. Replaced 28059 Mansfield - old site was replaced due to drowning of the flume and accumulation of rubbish. Structure situated downstream of sewage works in Mansfield. STATION HYDROMETRY: One rating applied across period of record. Rating only valid to structure full, with the only spot gaugings below this level. Mobilisation of sand results in variable levels, scatter in gaugings. Difficult to gauge above 0.4mASD due to very flashy response; difficult to catch events. Structure becomes non-modular at high flows. FLOW RECORD: June 2007 high flows beyond limit of rating curve. FLOW REGIME: Urbanised catchment. Very responsive to rainfall, very rapid rise and fall in the hydrograph. Low flows dominated by sewage effluent and augmented by runoff from urban area that effectively increases catchment area. Very atypical water balance.
+CATCHMENT,Moderate relief catchment near headwaters of Maun. Rises on Magnesian Limestone and crosses onto Sherwood S'st. Heavily urbanised with Mansfield and Sutton in Ashfield immediately u/s.
+Qmed Suitability,Not gauged to within 30% of QMED. No confidence in the rating above structure full.
+Pooling Suitability,No confidence in the rating above structure full.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 57010
+[END]
+[CDS DETAILS]
+NAME,Ely
+LOCATION,Lanelay
+NOMINAL AREA,   38.88
+NOMINAL NGR,3033,1826
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,303350,182700
+CENTROID NGR,GB,302130,186932
+DTM AREA,   38.88
+ALTBAR, 172
+ASPBAR,148
+ASPVAR,0.22
+BFIHOST,0.455
+DPLBAR,  6.51
+DPSBAR,117.9
+FARL,1.000
+FPEXT,0.0442
+LDP, 12.46
+PROPWET,0.47
+RMED-1H, 12.8
+RMED-1D, 55.5
+RMED-2D, 70.2
+SAAR,1620
+SAAR4170,1604
+SPRHOST,39.00
+URBCONC1990, 0.618
+URBEXT1990,0.0219
+URBLOC1990, 1.206
+URBCONC2000, 0.751
+URBEXT2000,0.0338
+URBLOC2000, 1.108
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station with standard Flat V weir. Flows affected by effluent returns and industrial/agricultural abstractions. GENERAL: Velocity area station with standard Flat V weir. STATION HYDROMETRY: Fish baffles installed on downstream side of weir in 2000. Multiple peak flow ratings applied across period of record. Each rating fits to their respective gaugings well. Most recent rating validated by gaugings up to 1.8m. FLOW RECORD: Flows from 16/10/2010 to 3/11/2010 suspect due to blocking of the inlet pipe. Peak flows from 01/10/1974 to 30/09/1999 rejected because of uncertainty in rating curves due to lack of gaugings in the upper limb. FLOW REGIME: Flows affected by effluent returns and industrial/agricultural abstractions.
+CATCHMENT,Coal Measures. Ely valley generally steep sided. Some forest. Soils have permeable substrate. Lowland catchment. Dairy and livestock farming with urban and industrial development in the valley.
+Qmed Suitability,Gauged above QMED. Rating fits well to available gaugings.
+Pooling Suitability,Few high flow gaugings. Rating can not be validated beyond QMED.
+[END]

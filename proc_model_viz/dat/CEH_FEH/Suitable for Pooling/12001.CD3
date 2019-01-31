@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 12001
+[END]
+[CDS DETAILS]
+NAME,Dee
+LOCATION,Woodend
+NOMINAL AREA, 1380.06
+NOMINAL NGR,3634,7956
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,363500,795600
+CENTROID NGR,GB,325600,793482
+DTM AREA, 1380.06
+ALTBAR, 512
+ASPBAR, 93
+ASPVAR,0.07
+BFIHOST,0.506
+DPLBAR, 60.44
+DPSBAR,185.7
+FARL,0.976
+FPEXT,0.0468
+LDP,107.57
+PROPWET,0.62
+RMED-1H,  8.5
+RMED-1D, 38.0
+RMED-2D, 53.3
+SAAR,1108
+SAAR4170,1193
+SPRHOST,40.27
+URBCONC1990,-9999.000
+URBEXT1990,0.0005
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0010
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station providing the longest record of flow on the Dee. Series encompasses early data from Cairnton. GENERAL: Velocity area station; about 60m wide section. Flow records for Woodend are an amalgamation from two different stations. Present station (built in 1972) replaced earlier station (Cairnton, located approx. 1 mile d/s from Woodend at an abstraction point - some daily staff readings from 1911, continuous flow records from 1929, chart records from 1934) on same reach. C/m measurements at Woodend initiated by Capt. McClean. Cairnton continued operating until the end of 1984. STATION HYDROMETRY: Cableway rated, fairly stable natural control. Winter low flows can also be elevated by ice. From 1929, rating for Cairnton derived by correlation with current meter measurements at Woodend. From 1934 Woodend used for calculating flows at Cairnton, both stations fitted with chart recorders. From 1972, rating at Woodend derived from current meter gaugings up to 3.0m (about QMED), simple extrapolation beyond. FLOW RECORD: Major floods in 1937 and 1951. Occasional isolated low flow in winter months e.g. Jan 1960, thought to be due to frozen catchment. Winter low flows can also be elevated by ice, in some cases flows have been reprocessed to correct for this, e.g. Dec 2009. FLOW REGIME: Natural regime. No regulation, little natural storage (but significant snow in headwaters), minor abstractions.
+CATCHMENT,Mountainous headwaters, often snowy in winter. Dalradian and Moinian metamorphics along most of valley, flanked by igneous intrusives. Responsiveness slightly dampened by superficial deposits. Mountain, moorland; forestry, with pastoral and some arable in valley bottom. No significant catchment changes known.
+Qmed Suitability,No comment
+Pooling Suitability,No comment
+[END]

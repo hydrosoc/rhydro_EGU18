@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 50009
+[END]
+[CDS DETAILS]
+NAME,Lew
+LOCATION,Norley Bridge
+NOMINAL AREA,   20.05
+NOMINAL NGR,2500, 999
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,250050,99900
+CENTROID NGR,GB,247482, 98922
+DTM AREA,   20.05
+ALTBAR, 178
+ASPBAR, 15
+ASPVAR,0.37
+BFIHOST,0.446
+DPLBAR,  4.33
+DPSBAR, 77.2
+FARL,1.000
+FPEXT,0.0227
+LDP,  8.43
+PROPWET,0.50
+RMED-1H, 12.2
+RMED-1D, 38.7
+RMED-2D, 49.8
+SAAR,1196
+SAAR4170,1242
+SPRHOST,37.71
+URBCONC1990,-9999.000
+URBEXT1990,0.0001
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0014
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Informal Flat V low flow control built in 1988 to monitor potential transfer from Roadford Reservoir. GENERAL: Informal Flat V low flow control built in summer 1988; 6.7m wide between high angle, trapezoidal gabion wing walls. Velocity area at higher flows. Station installed to monitor potential transfer from Roadford Reservoir. STATION HYDROMETRY: Gauging is by wading at low flows, off the upstream bridge at high flows. Bypassing occurs. One peak flow rating applied across period of record. Reasonable fit to available gaugings. FLOW REGIME: Runoff natural to within 10% at Q95.
+CATCHMENT,Responsive, natural catchment of moderate relief draining Carboniferous Culm Measures (shale, limestone, sandstone). Wholly rural, rough grazing, low grade agriculture and a little forestry. No major changes to catchment.
+Qmed Suitability,Gauged to just above QMED
+Pooling Suitability,Out of bank flows are not included in the rating.
+[END]

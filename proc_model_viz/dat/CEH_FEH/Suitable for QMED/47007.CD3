@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 47007
+[END]
+[CDS DETAILS]
+NAME,Yealm
+LOCATION,Puslinch
+NOMINAL AREA,   56.91
+NOMINAL NGR,2574, 511
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,257400,51100
+CENTROID NGR,GB,260298, 57993
+DTM AREA,   56.91
+ALTBAR, 169
+ASPBAR,196
+ASPVAR,0.28
+BFIHOST,0.549
+DPLBAR, 10.42
+DPSBAR,104.3
+FARL,0.987
+FPEXT,0.0321
+LDP, 19.13
+PROPWET,0.47
+RMED-1H, 12.5
+RMED-1D, 48.1
+RMED-2D, 63.2
+SAAR,1427
+SAAR4170,1482
+SPRHOST,33.26
+URBCONC1990, 0.593
+URBEXT1990,0.0117
+URBLOC1990, 0.520
+URBCONC2000, 0.723
+URBEXT2000,0.0171
+URBLOC2000, 0.603
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Flat V weir installed 2002, with crest tapping and downstream level measurement to calculate drowned flows. GENERAL: Flat V weir installed 2002, with crest tapping and downstream level measurement to calculate drowned flows. Modular at 0.82m. Prior to 2001 station consisted of a low flow rectangular flume, 4.7m throat width, side and bottom contractions, this, in turn, superseded a velocity-area station in 07/1967. STATION HYDROMETRY: Bankfull approx. mean annual flood level; downstream bridge truncates peaks. Prior to 2000 station was bypassed. Entrainment banks rebuilt in 2001 at higher level than previous, as have overtopped in the past. Previous banks overtopped more frequently but overtopped during 2012 flood events. POR maximum flow of 46.2 cumecs in 12/2000 is an estimate provided by the EA, which is thought to be reasonable. Good rating, well-gauged across the flow range. Lower end re-rated in 2011 and earlier flows recalculated. No liability to backwater or tidal influence. New rating prepared in 2013 for weir period using observations of overtopping of flood banks (> 2.125m) during July, Nov, Dec and 2012 floods. Peak flow ratings cover: the period pre-1967 before the flume was operational, the period when flume was operational (1967-2001) and the period since 2002 when the flat V was built. Acoustic Doppler installed in 08/2014 to improve high flows. FLOW RECORD: Closed from 09/2001 to 11/2002 for installation of new weir. FLOW REGIME: Moderate influence from public water supply and industrial/agricultural abstractions and imports.
+CATCHMENT,South Dartmoor catchment with rapid response. Headwaters drain Dartmoor Granite and metamorphosed Devonian slates. Most of catchment underlain by Devonian shales and tuffs with subordinate limestone. Land use is meadowland, arable and low grade agriculture. No major catchment changes.
+Qmed Suitability,Full rating review carried out in 2013
+Pooling Suitability,No high flow gaugings - rating under review.
+[END]

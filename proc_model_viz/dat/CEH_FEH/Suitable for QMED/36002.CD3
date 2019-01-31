@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 36002
+[END]
+[CDS DETAILS]
+NAME,Glem
+LOCATION,Glemsford
+NOMINAL AREA,   85.62
+NOMINAL NGR,5845,2472
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,584600,247250
+CENTROID NGR,GB,578965,252845
+DTM AREA,   85.62
+ALTBAR,  90
+ASPBAR,139
+ASPVAR,0.17
+BFIHOST,0.402
+DPLBAR, 12.10
+DPSBAR, 36.9
+FARL,0.982
+FPEXT,0.0560
+LDP, 22.70
+PROPWET,0.26
+RMED-1H, 10.5
+RMED-1D, 27.9
+RMED-2D, 35.5
+SAAR, 598
+SAAR4170, 619
+SPRHOST,43.71
+URBCONC1990, 0.470
+URBEXT1990,0.0100
+URBLOC1990, 0.822
+URBCONC2000, 0.628
+URBEXT2000,0.0084
+URBLOC2000, 0.874
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Trapezoidal flume gauging a gw-influenced, rural catchment, bypassing at high flows and with problematic rating. GENERAL: Trapezoidal flume. STATION HYDROMETRY: Bypassing at high flows, occasional problems with weed growth. Modest modular limit, but downstream level recorder can allow for drowning. Flow appears to go non-modular around 0.75m, but drowning may be variable, caused at least in part by the Stour downstream. Gaugings above 1m are float runs and do not account for bypassing. Highest floods unreliably gauged. POT data presented to 30 Sept 1969 allows for drowning on each event. From Oct 1969, the rating applied allows for average drowning conditions. Two peak flow ratings applied across period of record, derived from a combination of theory and hydraulic modelling. FLOW RECORD: No POT data are presented for this station as they have no non-modular flow correction applied. AMAX data have been corrected, but in some cases can be below the daily flow as these are not corrected. Naturalised flows from 1960 to Sep 1976. Exceptional minimum in Oct 1997 follows cessation of augmentation (via Cranmore Green outfall) in Sept 1997. GDF POR reprocessed in 2014. FLOW REGIME: Gw-influenced regime. Runoff reduced by industrial/agricultural abstraction.
+CATCHMENT,Rural catchment of the Upper Stour. Upper Chalk (exposed in river valley sides) is overlain by glacial sand and gravel and semi-pervious Boulder Clay. Rural, predominantly arable land.
+Qmed Suitability,Gauged above QMED. Excellent fit to gaugings.
+Pooling Suitability,Although gauged beyond AMAX3, variable drowning and unquantified bypassing suggests that rating may underestimate some high flows.
+[END]

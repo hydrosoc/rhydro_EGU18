@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 23011
+[END]
+[CDS DETAILS]
+NAME,Kielder Burn
+LOCATION,Kielder
+NOMINAL AREA,   58.59
+NOMINAL NGR,3644,5946
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,364450,594700
+CENTROID NGR,GB,366678,598876
+DTM AREA,   58.59
+ALTBAR, 408
+ASPBAR,189
+ASPVAR,0.16
+BFIHOST,0.273
+DPLBAR,  7.77
+DPSBAR,136.6
+FARL,1.000
+FPEXT,0.0200
+LDP, 13.22
+PROPWET,0.59
+RMED-1H, 10.6
+RMED-1D, 38.3
+RMED-2D, 50.9
+SAAR,1199
+SAAR4170,1401
+SPRHOST,55.03
+URBCONC1990,-9999.000
+URBEXT1990,0.0000
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0000
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Flat-V weir with a cableway. Catchment heavily afforested since 1926. GENERAL: Flat-V weir 12m wide with low wing walls (0.61m high). Repair to weir in 1992 - weir walls thought to have been narrower prior to this. Cableway u/s (straight reach). STATION HYDROMETRY: Two ratings applied to the period of record, the most recent is valid since 2010. Accounts for overtopping at high stages. Daily flow rating based on gaugings. FLOW RECORD: First rating applied over-estimated flows (to 1993). FLOW REGIME: No known artificial influences.
+CATCHMENT,Upland catchment on mainly Carboniferous formations, cut by numerous faults and dykes; half of the upland catchment is overlain by peat, and Boulder Clay and alluvium in the valley. Land use: two thirds upland heath, one third woodland, incorporating Kielderhead Moor and Kielder forest. Land use is predominantly forestry, with rough grazing at higher levels. Afforestation since 1926.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged to within 19% of AMAX3. Rating extrapolation should be reasonable.
+[END]

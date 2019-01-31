@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 33048
+[END]
+[CDS DETAILS]
+NAME,Larling Brook
+LOCATION,Stonebridge
+NOMINAL AREA,   21.99
+NOMINAL NGR,5927,2906
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,592750,290650
+CENTROID NGR,GB,592750,290650
+DTM AREA,   21.99
+ALTBAR,  39
+ASPBAR,111
+ASPVAR,0.13
+BFIHOST,0.694
+DPLBAR,  5.44
+DPSBAR,  8.8
+FARL,0.907
+FPEXT,0.2331
+LDP,  8.77
+PROPWET,0.24
+RMED-1H, 11.2
+RMED-1D, 29.4
+RMED-2D, 36.9
+SAAR, 635
+SAAR4170, 604
+SPRHOST, 9.61
+URBCONC1990, 0.003
+URBEXT1990,0.0028
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0033
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Small concrete flume producing poor flow record because of permanent drowning. Station closed 2000. GENERAL: A concrete flume of triangular cross-section with 1:1.5 side slopes, depth 0.8m. Station closed 2000. STATION HYDROMETRY: Flume is permanently drowned: record very poor. Theoretical rating for in bank flows only applied across period of record. FLOW REGIME: Influenced by gw abstraction/recharge. Abstraction for agriculture/industry.
+CATCHMENT,Geology comprises Chalk overlain by glacial sand and gravel. Land use - rural, largely non arable.
+Qmed Suitability,Modular limit (0.358m3/s) greater than QMED therefore theoretical equation expected to be reliable.
+Pooling Suitability,Non-modular flows are not accounted for in current rating.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 28067
+[END]
+[CDS DETAILS]
+NAME,Derwent
+LOCATION,Church Wilne
+NOMINAL AREA, 1176.63
+NOMINAL NGR,4441,3316
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,444150,331650
+CENTROID NGR,GB,425052,365068
+DTM AREA, 1176.63
+ALTBAR, 241
+ASPBAR,134
+ASPVAR,0.14
+BFIHOST,0.550
+DPLBAR, 64.29
+DPSBAR,108.9
+FARL,0.951
+FPEXT,0.0535
+LDP,107.50
+PROPWET,0.38
+RMED-1H, 10.3
+RMED-1D, 35.8
+RMED-2D, 47.3
+SAAR, 979
+SAAR4170, 983
+SPRHOST,27.39
+URBCONC1990, 0.721
+URBEXT1990,0.0307
+URBLOC1990, 0.509
+URBCONC2000, 0.849
+URBEXT2000,0.0483
+URBLOC2000, 0.569
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Crump profile Flat V weir in trapezoidal channel with variable quality high flows data as weir drowns and can back up from Trent. GENERAL: Crump profile flat vee weir, 27m wide, in trapezoidal channel. Very broad floodplain - flows readily and extensively occur out of bank at approx 2.0mASD. 20km downstream of St Mary's Bridge; substantial abstractions and returns in between weir and site. STATION HYDROMETRY: High flows of variable quality as weir drowns; calculated by extrapolation from St Mary's Bridge and gaugings at Draycott. At high flows the gauging site becomes cut off due to floodplain flows and is impossible to gauge except through the use of a boat. Three peak flow ratings applied across period of record. Little evidence to support the top end of the rating. FLOW RECORD: Flows for the period 01/01/2004 onwards re-processed using new ratings following rating review in 2014. FLOW REGIME: Can back up from Trent.
+CATCHMENT,Large catchment with moorland headwaters on Carboniferous Grit and Limestone. Lower reaches on Sherwood Sandstone and Mercia Mudstone. Valley broadens considerably below Derby with extensive sand and gravel terraces. Range of agricultural and industrial activity.
+Qmed Suitability,Gauged to within 32% of QMED with good fit to gaugings, theoretical rating expected to perform reasonably.
+Pooling Suitability,Station readily bypassed and can drown due to backing up from the Trent.
+[END]

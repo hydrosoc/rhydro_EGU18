@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 55032
+[END]
+[CDS DETAILS]
+NAME,Elan
+LOCATION,Caban Dam
+NOMINAL AREA,  183.78
+NOMINAL NGR,2928,2646
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,292800,264550
+CENTROID NGR,GB,286480,267070
+DTM AREA,  183.78
+ALTBAR, 449
+ASPBAR, 98
+ASPVAR,0.10
+BFIHOST,0.353
+DPLBAR, 12.84
+DPSBAR,145.9
+FARL,0.761
+FPEXT,0.0233
+LDP, 25.21
+PROPWET,0.65
+RMED-1H, 11.3
+RMED-1D, 54.9
+RMED-2D, 75.3
+SAAR,1825
+SAAR4170,1838
+SPRHOST,50.33
+URBCONC1990,-9999.000
+URBEXT1990,0.0000
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0000
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Flat V Crump profile weir, 350m d/s of Caban dam. Entirely regulated apart from overspill. Used as a flood warning station. GENERAL: Flat V Crump profile weir; 23m wide, 350m d/s of Caban dam. Used as a flood warning station. Caban gauging station is located on the left hand bank of the river Elan with 40m span cableway. STATION HYDROMETRY: Several changes in gauging patterns over period of record; therefore one peak flow rating only cannot be applied. Rating D provides best fit post March 2002, Rating A provided the best fit to high flow gaugings pre 2002. FLOW RECORD: Flows from 3 Jun 1981 reprocessed in Aug 2012 as a result of rating changes slightly affecting low flows. Monthly naturalised flows available for certain periods from older Caban Coch station (55006). FLOW REGIME: Station located immediately downstream of series of 5 reservoirs used for PWS (~4 cumecs exported to Midlands). Flow regime is entirely regulated apart from releases for compensation (currently 0.79 cumecs, previously 1.5 cumecs) and freshets. Releases also made from Caban Coch reservoir to support downstream abstraction during low flows.
+CATCHMENT,Very wet, high elevation catchment draining impermeable geology, predominantly Silurian shales and slates. Upland pasture and moorland, patches of forest.
+Qmed Suitability,OK for QMED
+Pooling Suitability,Not OK for pooling until rating history clearer over period of record. Several changes in the gauging pattern over the years.
+[END]

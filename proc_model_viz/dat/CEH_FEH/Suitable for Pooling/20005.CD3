@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 20005
+[END]
+[CDS DETAILS]
+NAME,Birns Water
+LOCATION,Saltoun Hall
+NOMINAL AREA,   92.60
+NOMINAL NGR,3456,6687
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,345700,668700
+CENTROID NGR,GB,345090,662101
+DTM AREA,   92.60
+ALTBAR, 231
+ASPBAR,348
+ASPVAR,0.36
+BFIHOST,0.536
+DPLBAR, 11.12
+DPSBAR, 76.0
+FARL,0.989
+FPEXT,0.0297
+LDP, 22.15
+PROPWET,0.43
+RMED-1H,  8.6
+RMED-1D, 34.2
+RMED-2D, 49.9
+SAAR, 762
+SAAR4170, 800
+SPRHOST,32.42
+URBCONC1990,-9999.000
+URBEXT1990,0.0010
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0002
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station, catchment drains the upland moorland of the Lammermuir Hills. GENERAL: Velocity area station. The section is a well defined straight channel whose banks have contained all recorded floods. Station closed May 2000 (daily record ends 1998). STATION HYDROMETRY: The low flow control is a compound irregular broad-crested weir, pre-1973 it was a gravel bar. Rating is entirely by c/m. Before installation of the cableway the high flow rating was calculated by correlation with Spilmersford (20003) and c/m measurements from a bridge 100m u/s. Rating from current meter gaugings up to 1.5m (about 0.8 QMED), simple extrapolation beyond. All flows contained to date. FLOW REGIME: There are a few small storage reservoirs in the catchment, otherwise flows are natural.
+CATCHMENT,The catchment drains the upland moorland of the Lammermuir Hills. Bedrock Silurian/Devonian sedimentaries; predominantly overlain by superficial deposits. Land use arable, grassland and forest. No significant catchment changes known.
+Qmed Suitability,No comment
+Pooling Suitability,No comment
+[END]

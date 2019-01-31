@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 28086
+[END]
+[CDS DETAILS]
+NAME,Sence
+LOCATION,South Wigston
+NOMINAL AREA,  126.21
+NOMINAL NGR,4588,2976
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,458800,297700
+CENTROID NGR,GB,464833,296494
+DTM AREA,  126.21
+ALTBAR, 123
+ASPBAR,285
+ASPVAR,0.15
+BFIHOST,0.360
+DPLBAR, 12.62
+DPSBAR, 36.3
+FARL,0.997
+FPEXT,0.0737
+LDP, 26.35
+PROPWET,0.29
+RMED-1H, 11.9
+RMED-1D, 32.8
+RMED-2D, 40.9
+SAAR, 642
+SAAR4170, 666
+SPRHOST,43.28
+URBCONC1990, 0.769
+URBEXT1990,0.0274
+URBLOC1990, 0.468
+URBCONC2000, 0.862
+URBEXT2000,0.0348
+URBLOC2000, 0.500
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Electromagnetic gauge set in 1:1 formalised banks and flood embankment 20m downstream of the control - replaces Blaby (28054), records combined. GENERAL: Electromagnetic gauge set in 1:1 formalised banks and flood embankment 20m downstream of the control (dismantled railway bridge). Sharp bend immediately downstream and mill stream confluence upstream. Replaces Blaby (28054). No bypassing - all flow goes through site. In 2002 the electromagnetic flows were out by 10% - a new coil/cable was installed in March 2002. STATION HYDROMETRY: Electromagnetic gauge with all flows contained. In 2002 the electromagnetic flows were out by 10% - a new coil/cable was installed in March 2002. FLOW RECORD: In 2002 the electromagnetic flows were out by 10% - a new coil/cable was installed in March 2002. FLOW REGIME: Moderately responsive. Substantially augmented by WRW discharges, particularly Wigston.
+CATCHMENT,Moderate to low relief catchment to E and S of Leicester. Mainly Lower Lias (mudstones and l'sts) but wholly blanketed by Boulder Clay and alluvium except for headwaters. Urbanised downstream end, otherwise arable and grazing land use.
+Qmed Suitability,Gauged above QMED. All flows contained at gauging site flow estimates thought to be reliable.
+Pooling Suitability,Gauged to within 2% of AMAX3. All flows contained at gauging site flow estimates thought to be reliable.
+[END]

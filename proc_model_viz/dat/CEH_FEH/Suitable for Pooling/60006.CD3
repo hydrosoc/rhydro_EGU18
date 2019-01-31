@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 60006
+[END]
+[CDS DETAILS]
+NAME,Gwili
+LOCATION,Glangwili
+NOMINAL AREA,  131.14
+NOMINAL NGR,2430,2219
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,243000,221950
+CENTROID NGR,GB,240910,229287
+DTM AREA,  131.14
+ALTBAR, 188
+ASPBAR,195
+ASPVAR,0.14
+BFIHOST,0.536
+DPLBAR, 15.85
+DPSBAR,150.0
+FARL,0.999
+FPEXT,0.0296
+LDP, 26.81
+PROPWET,0.52
+RMED-1H, 12.3
+RMED-1D, 51.9
+RMED-2D, 70.2
+SAAR,1603
+SAAR4170,1614
+SPRHOST,35.11
+URBCONC1990,-9999.000
+URBEXT1990,0.0009
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0043
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station. Natural flow regime. GENERAL: Velocity area station. Channel width: 15.5m. STATION HYDROMETRY: Right hand bankfull is 3.5m, left hand bankfull is 3.0m. Station is 750m u/s of tidal limit - no backwater effects suspected. All but very extreme flows contained within banks. Cableway at site. High flow rating well defined and performs well. Multiple peak flow ratings applied across period of record, the most recent is valid from October-1986.Good fit to gaugings beyond AMAX3. FLOW RECORD: Stable section except period 1973-85 where section affected by land drainage scheme. Flows from 11 Oct 2005 to 2012 reprocessed in 2012 following rating update, with effect of slightly lowering extreme high and low flows. FLOW REGIME: PWS and agricultural abstractions and effluent returns have minimal impact on flow. Natural to within 10% at Q95.
+CATCHMENT,Impermeable Ordovician and Silurian strata. Soils generally have permeable substrate. Rural catchment, mostly grassland supporting dairy farming, but with extensive forest cover.
+Qmed Suitability,Gauged above QMED. Ratings supported by their corresponding check gaugings
+Pooling Suitability,Gauged beyond AMAX3. Current rating validated by check gaugings up to 2.86m
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 21806
+[END]
+[CDS DETAILS]
+NAME,Till
+LOCATION,Heaton Mill
+NOMINAL AREA,  655.54
+NOMINAL NGR,3900,6424
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,390000,642400
+CENTROID NGR,GB,394908,626374
+DTM AREA,  655.54
+ALTBAR, 205
+ASPBAR, 44
+ASPVAR,0.12
+BFIHOST,0.500
+DPLBAR, 44.51
+DPSBAR,125.2
+FARL,0.992
+FPEXT,0.0671
+LDP, 83.52
+PROPWET,0.44
+RMED-1H,  9.2
+RMED-1D, 37.7
+RMED-2D, 49.4
+SAAR, 822
+SAAR4170, 845
+SPRHOST,41.40
+URBCONC1990,-9999.000
+URBEXT1990,0.0011
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0020
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Ultrasonic station opened as a replacement for 21031. GENERAL: Five (crossed) path ultrasonic gauge in a trapezoidal channel, designed to measure full range of flows. River is deep and slow-flowing at Heaton Mill. STATION HYDROMETRY: Peak flow rating derived from ultrasonic measurements. FLOW REGIME: Considerable spray irrigation abstractions during the summer, but unlikely to affect high flows.
+CATCHMENT,Rising on the Cheviot granite. Mixed geology (Cheviot igneous rock, sandstone etc). No known catchment changes.
+Qmed Suitability,Ultrasonic gauge checked to above QMED
+Pooling Suitability,Pre 2009 ultrasonic records capped at 150 cumecs, peaks unfilled from rating. Gauge now reset to measure full range and quality thought to be good.
+[END]

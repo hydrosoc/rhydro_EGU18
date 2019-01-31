@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 19006
+[END]
+[CDS DETAILS]
+NAME,Water of Leith
+LOCATION,Murrayfield
+NOMINAL AREA,  102.29
+NOMINAL NGR,3227,6732
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,322800,673200
+CENTROID NGR,GB,315637,664875
+DTM AREA,  102.29
+ALTBAR, 229
+ASPBAR,349
+ASPVAR,0.46
+BFIHOST,0.428
+DPLBAR, 16.94
+DPSBAR, 72.0
+FARL,0.909
+FPEXT,0.0579
+LDP, 32.29
+PROPWET,0.49
+RMED-1H,  8.9
+RMED-1D, 38.0
+RMED-2D, 49.6
+SAAR, 867
+SAAR4170, 901
+SPRHOST,42.88
+URBCONC1990, 0.866
+URBEXT1990,0.0992
+URBLOC1990, 0.286
+URBCONC2000, 0.902
+URBEXT2000,0.1094
+URBLOC2000, 0.284
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station, the most downstream on the Water of Leith. GENERAL: Velocity area station in a straight even reach 50m u/s of a road bridge; section about 14m wide. The banks are steep to 2.5m. STATION HYDROMETRY: Stable rock bar under Roseburn road bridge as low flow control. The high flow control is either the piers of a railway bridge 0.5km d/s or the road bridge 50m d/s (not definitely known). Bypassing occurs on rb at floods above about 2.5m. Peak flow ratings derived from spot gaugings up to 1.8m (about 1.1 QMED), simple extrapolation beyond. FLOW REGIME: Catchment contains 3 storage reservoirs in headwaters (Harperrig, Threipmuir, Harlaw). They are no longer used for water supply and Threipmuir has a target seasonal level regime for wildlife management. Proposed drawdown levels are being discussed (2002/03) for flood alleviation purposes. Union Canal runs through lower catchment though it is not likely to influence flood regime significantly. 150 combined sewer overflows in urban reaches. Relatively impervious and flashy.
+CATCHMENT,Catchment with mix of lowlands-uplands; headwaters in the Pentland Hills. Bedrock permeable with predominantly superficial deposits. Lower part of the catchment has undergone urban development; the upper part contains mainly moorland, arable and forest landuse. On-going urban development particularly in 1970s. Dense urban development in lower catchment. Narrow long catchment. Extent of floodplain storage is unlikely to exert a major influence on flood regime.
+Qmed Suitability,No comment
+Pooling Suitability,No comment
+[END]

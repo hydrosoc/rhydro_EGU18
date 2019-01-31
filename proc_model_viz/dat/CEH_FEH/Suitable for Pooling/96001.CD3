@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 96001
+[END]
+[CDS DETAILS]
+NAME,Halladale
+LOCATION,Halladale
+NOMINAL AREA,  193.72
+NOMINAL NGR,2891,9560
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,289100,956100
+CENTROID NGR,GB,289289,947523
+DTM AREA,  193.72
+ALTBAR, 175
+ASPBAR,  1
+ASPVAR,0.13
+BFIHOST,0.297
+DPLBAR, 13.27
+DPSBAR, 55.1
+FARL,0.955
+FPEXT,0.0741
+LDP, 27.79
+PROPWET,0.69
+RMED-1H,  8.2
+RMED-1D, 33.2
+RMED-2D, 46.3
+SAAR,1096
+SAAR4170,1055
+SPRHOST,55.66
+URBCONC1990,-9999.000
+URBEXT1990,0.0000
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0000
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station in upland catchment. Predominantly natural flows. GENERAL: Velocity area station, about 20m wide STATION HYDROMETRY: Natural control. Adequately gauged to bankfull. Two peak flow ratings both derived from current meter gaugings up to 62 cumecs (about 0.6QMED), simple extrapolation beyond. Peak flow rating was revised in 2003. FLOW REGIME: Flows predominantly natural apart from during very dry periods (e.g. Jun 2010) when there may be minor influence from augmentation (for fishery purposes) using sluices on a few small lochs.
+CATCHMENT,Upland catchment. Predominantly Torridonian sandstone with intrusions of metamorphic gneiss. Largely overlain by superficial deposits. Largely moorland with a peat based cover. Extensive afforestation from late 1970s. A few small lochs within the headwaters.
+Qmed Suitability,No comment
+Pooling Suitability,No comment
+[END]

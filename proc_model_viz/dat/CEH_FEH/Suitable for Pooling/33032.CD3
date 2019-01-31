@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 33032
+[END]
+[CDS DETAILS]
+NAME,Heacham
+LOCATION,Heacham
+NOMINAL AREA,   56.16
+NOMINAL NGR,5685,3374
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,568500,337500
+CENTROID NGR,GB,574861,333465
+DTM AREA,   56.16
+ALTBAR,  57
+ASPBAR,333
+ASPVAR,0.13
+BFIHOST,0.968
+DPLBAR, 10.88
+DPSBAR, 25.6
+FARL,0.983
+FPEXT,0.1160
+LDP, 21.59
+PROPWET,0.24
+RMED-1H, 11.1
+RMED-1D, 30.6
+RMED-2D, 38.3
+SAAR, 688
+SAAR4170, 694
+SPRHOST, 6.01
+URBCONC1990, 0.523
+URBEXT1990,0.0164
+URBLOC1990, 1.006
+URBCONC2000, 0.620
+URBEXT2000,0.0064
+URBLOC2000, 1.095
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Two crump weirs gauging a predominantly Chalk catchment with agricultural land use, topographical catchment area substantially exceeds the true contributing area. GENERAL: Two Crump profile weirs in parallel, 3m broad in total. STATION HYDROMETRY: Weirs never drown. Small bypass channel with weir upstream of station, rejoining downstream of weir, is factored in to the stage-discharge relationship. One rating applied across period of record. FLOW REGIME: Groundwater abstraction for PWS and irrigation.
+CATCHMENT,Topographical catchment area substantially exceeds the true contributing area (by a factor of about two). Catchment area was determined in different ways. Area 55 km sq. is taken from the GA catchment area review of the Heacham/Wensum catchment boundary in 1996. This reduces the area from 59 km sq., calculated in 1987, and from 89 km sq. adopted before 1987. The area of the NRFA catchment derived from IHDTM is 56 km sq. Predominantly Chalk in parts overlain by Boulder Clay. Agricultural land use.
+Qmed Suitability,Good fit to gaugings.
+Pooling Suitability,Weirs do not drown and all flows contained. Rating expected to perform well beyond QMED.
+[END]

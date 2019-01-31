@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 72003
+[END]
+[CDS DETAILS]
+NAME,Hindburn
+LOCATION,Wray
+NOMINAL AREA,   82.70
+NOMINAL NGR,3605,4679
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,360500,467950
+CENTROID NGR,GB,363871,463136
+DTM AREA,   82.70
+ALTBAR, 266
+ASPBAR,336
+ASPVAR,0.36
+BFIHOST,0.305
+DPLBAR,  9.44
+DPSBAR,112.2
+FARL,1.000
+FPEXT,0.0318
+LDP, 16.55
+PROPWET,0.60
+RMED-1H, 11.6
+RMED-1D, 50.2
+RMED-2D, 67.8
+SAAR,1552
+SAAR4170,1626
+SPRHOST,49.84
+URBCONC1990,-9999.000
+URBEXT1990,0.0002
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0008
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Compound broad-crested weir in near natural catchment. Station closed in 1980 and re-opened 1991. GENERAL: Station opened in May 1967 as compound broad-crested weir; central crest 3.65m wide, two flanking crests each 7.4m wide and 0.38m higher. Station closed December 1980 (due to gravel problems) and re-opened January 1991 following inlet pipe improvements. STATION HYDROMETRY: No bypassing. High flow gaugings from nearby bridge or portable cableway. Single rating applied across period of record. Rating derived from gaugings and extrapolated in relation to Hornby and Wennington. Flood Studies Report grade B. FLOW RECORD: Peak flow data are presented for the period of the improved station from 1991. A large flood occurred on 8/8/1967, which demolished 12 houses in the village of Wray. Maximum water level at gauging station levelled in at 4.91m above weir crest - thought to have resulted from backing-up from Meal Bank Bridge downstream before it collapsed, so stage doesn't represent the peak flow. Hydraulic Research Station (HRS) estimated peak as 637m3/s, though current estimate at Hornby downstream is less than this. FLOW REGIME: Near natural catchment.
+CATCHMENT,Stream is steep and flashy. An almost entirely rural catchment with predominantly agricultural and moorland land use with little development. Designated Area of Outstanding Natural Beauty. No significant catchment changes.
+Qmed Suitability,Although not gauged to within 30% of QMED, flows from the rating match Hornby and Wennington
+Pooling Suitability,No high flow check gaugings, and extrapolation of all the Wenning catchment stations is too great to be OK for pooling.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 29004
+[END]
+[CDS DETAILS]
+NAME,Ancholme
+LOCATION,Bishopbridge
+NOMINAL AREA,   59.04
+NOMINAL NGR,5032,3911
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,503150,391050
+CENTROID NGR,GB,501037,386993
+DTM AREA,   59.04
+ALTBAR,  28
+ASPBAR, 62
+ASPVAR,0.34
+BFIHOST,0.558
+DPLBAR,  8.54
+DPSBAR, 11.5
+FARL,0.996
+FPEXT,0.2478
+LDP, 16.09
+PROPWET,0.26
+RMED-1H, 11.3
+RMED-1D, 29.0
+RMED-2D, 36.7
+SAAR, 615
+SAAR4170, 635
+SPRHOST,29.37
+URBCONC1990,-9999.000
+URBEXT1990,0.0035
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0043
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Compound structure, with major artificial influences. GENERAL: Compound Crump profile weir, with central crest 2.448m wide and total width of 9.131m. STATION HYDROMETRY: Structure drowns in high flows and is affected by weed growth in summer. Gauging at 0.73m (4.96 cumecs) is thought to be unreliable. Theoretical rating confirmed to 5.5 cumecs (0.6m). One rating applied across period of record. FLOW RECORD: POTs at this site had to be adjusted to account for datum correction. FLOW REGIME: Regime influenced by gw abstraction/recharge. Flows are very heavily augmented in summer from Trent-Witham-Ancholme transfer scheme. Reservoir(s) in catchment affect runoff.
+CATCHMENT,Flat low-lying catchment. Geology: clay and Lincolnshire L'st, significant cover of superficial deposits - mainly Boulder Clay and confined to E half of catchment. Rural, predominantly arable land.
+Qmed Suitability,Gauged above QMED. Rating fits well to gaugings.
+Pooling Suitability,Few high flow gaugings. Rating can not be validated beyond QMED but current data suggests rating underestimates high flows.
+[END]

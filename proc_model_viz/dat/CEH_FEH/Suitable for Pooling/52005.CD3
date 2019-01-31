@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 52005
+[END]
+[CDS DETAILS]
+NAME,Tone
+LOCATION,Bishops Hull
+NOMINAL AREA,  203.66
+NOMINAL NGR,3205,1250
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,320600,125000
+CENTROID NGR,GB,310310,124174
+DTM AREA,  203.66
+ALTBAR, 144
+ASPBAR, 69
+ASPVAR,0.17
+BFIHOST,0.562
+DPLBAR, 18.33
+DPSBAR, 97.4
+FARL,0.977
+FPEXT,0.0538
+LDP, 40.94
+PROPWET,0.36
+RMED-1H, 11.1
+RMED-1D, 36.2
+RMED-2D, 48.8
+SAAR, 964
+SAAR4170, 990
+SPRHOST,32.90
+URBCONC1990, 0.833
+URBEXT1990,0.0068
+URBLOC1990, 0.652
+URBCONC2000, 0.762
+URBEXT2000,0.0160
+URBLOC2000, 0.653
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Crump profile weir built in 1968 to replace previous rated section. Compensation flow from Clatworthy and smaller Luxhay Reservoirs in the headwaters maintain low flows. GENERAL: Located west of Taunton, the station is important for the town's flood warning. Opened in 1961 as a rated section with cableway and with an unstable bed, 50 m upstream of a road bridge. Crump profile weir built in 1968 (breadth 12.2m). Original crest tapping now removed. STATION HYDROMETRY: Full range station. Out-of-bank flow first occurs before bankfull; during extreme events weir is drowned by backwater from downstream bridge, causing floodplain inundation. Rating reviewed and extended in 2010. First limb derived from theoretical table for weir, second & third from current meter gauging (covers range from weir modular limit to approximately bankfull) and fourth from hydraulic modelling for out of bank flows. FLOW RECORD: As a velocity-area station up to 03/1968 flows were unreliable below 1.42 cumecs. FLOW REGIME: Minor surface water abstractions for public water supply; also abstraction for agriculture. Compensation flow from Clatworthy and smaller Luxhay Reservoirs in the headwaters maintain low flows but neither reservoir is large enough to influence the catchment's fairly rapid response to rainfall.
+CATCHMENT,Fairly responsive catchment draining from Brendon Hills, predominantly comprises sandstones in the upper- and clays in the lower-catchment. Land use is rural. No major catchment changes.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged to within 3% of AMAX3. Considers non modular flow and fits well to gaugings.
+[END]

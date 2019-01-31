@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 52006
+[END]
+[CDS DETAILS]
+NAME,Yeo
+LOCATION,Pen Mill
+NOMINAL AREA,  216.40
+NOMINAL NGR,3573,1161
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,357350,116200
+CENTROID NGR,GB,359792,112725
+DTM AREA,  216.40
+ALTBAR,  95
+ASPBAR, 55
+ASPVAR,0.07
+BFIHOST,0.569
+DPLBAR, 14.54
+DPSBAR, 63.5
+FARL,0.965
+FPEXT,0.0723
+LDP, 29.78
+PROPWET,0.38
+RMED-1H, 11.2
+RMED-1D, 37.6
+RMED-2D, 46.9
+SAAR, 865
+SAAR4170, 904
+SPRHOST,34.28
+URBCONC1990, 0.716
+URBEXT1990,0.0201
+URBLOC1990, 0.622
+URBCONC2000, 0.795
+URBEXT2000,0.0287
+URBLOC2000, 0.504
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Crump profile weir for low flows, set within trapezoidal concrete flanks and topped with the natural banks, becomes velocity-area station at high flows. Sutton Bingham Reservoir in headwaters. GENERAL: Station was installed in November 1963 and is located next to a sewage treatment works. Crump profile weir for low flows, set within trapezoidal concrete flanks and topped with the natural banks, becomes velocity-area station at high flows. Station moved slightly in 1989, due to stilling-well problems; bank repairs undertaken in 1997/98. STATION HYDROMETRY: Two peak levels recorded before weir finished but flows can be calculated from rating as station becomes velocity area at high flows. Velocity area station (affected by downstream weed growth) used to measure flows >1.55 m3/s. Flows >2m are less reliable. All but highest floods contained. Highest flows can be gauged at upstream bridge. Cableway cannot be used above 3.8 m, in which case road bridge is used, up to 4.25 m. Floodplain water does not flow appreciably, though may extend 200 m from river. Rating reviewed in Jan 2001. One rating applied across period of record.Bank repairs 1997/98 might have affected the rating and may influence cableway gaugings. FLOW REGIME: Sutton Bingham Reservoir in headwaters. Abstraction for public water supply. Medium & low flows influenced by variable abstractions & compensation.
+CATCHMENT,Fairly responsive catchment with Oxford Clay and Great Oolite in the upper catchment, Yeovil Sands and Inferior Oolite in the lower catchment. Land use is predominantly rural. No major catchment changes.
+Qmed Suitability,Gauged above QMED and to bank full.
+Pooling Suitability,Rating is uncertain beyond QMED.
+[END]

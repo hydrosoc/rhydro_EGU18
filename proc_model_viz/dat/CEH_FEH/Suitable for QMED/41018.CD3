@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 41018
+[END]
+[CDS DETAILS]
+NAME,Kird
+LOCATION,Tanyards
+NOMINAL AREA,   67.36
+NOMINAL NGR,5044,1256
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,504400,125550
+CENTROID NGR,GB,498550,128364
+DTM AREA,   67.36
+ALTBAR,  50
+ASPBAR,116
+ASPVAR,0.17
+BFIHOST,0.360
+DPLBAR, 12.30
+DPSBAR, 41.0
+FARL,0.961
+FPEXT,0.1070
+LDP, 22.93
+PROPWET,0.35
+RMED-1H, 11.2
+RMED-1D, 36.3
+RMED-2D, 47.9
+SAAR, 820
+SAAR4170, 811
+SPRHOST,45.71
+URBCONC1990,-9999.000
+URBEXT1990,0.0009
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0043
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Crump weir drainig impervious catchment with natural regime. Station closed from October 2001. GENERAL: Station closed from October 2001. Crump profile weir (8.7m broad - fall of 0.012m along crest due to settlement) with crest tapping (not used for most recent data before station closure). Located 3.23km upstream of confluence with River Arun. A low retention weir existed 305m downstream of the site at the time of construction. It was originally intended that the water upstream of the new weir could be drained through a 0.61m diameter pipe in order to facilitate maintenance on the upstream side. STATION HYDROMETRY: Structure is insensitive and subject to drowning at low flows - modular limit between 0.7 - 0.85m. Bypassed at high flows (February 1974 event overtopped by 0.15 - 0.3m). One rating applied across period of record using hydraulic modelling for high flows. FLOW RECORD: Subject to zero flow during prolonged dry periods. FLOW REGIME: Very minor impact of artificial influences on the responsive flow regime. Natural to within 10% at Q95.
+CATCHMENT,An impervious (Weald Clay) catchment given over to agriculture; some extensive woodland tracts. Slight urbanisation has occurred in the catchment.
+Qmed Suitability,Bo gaugings available. Hydraulic modelling thought to provide reasonable estimates to QMED.
+Pooling Suitability,No high flow gaugings to validate rating and site is known to drown and get bypassed.
+[END]

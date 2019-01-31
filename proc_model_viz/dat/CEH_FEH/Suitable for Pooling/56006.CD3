@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 56006
+[END]
+[CDS DETAILS]
+NAME,Usk
+LOCATION,Trallong
+NOMINAL AREA,  184.74
+NOMINAL NGR,2947,2295
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,294700,229550
+CENTROID NGR,GB,288961,227657
+DTM AREA,  184.74
+ALTBAR, 344
+ASPBAR, 37
+ASPVAR,0.05
+BFIHOST,0.477
+DPLBAR, 13.11
+DPSBAR,136.4
+FARL,0.963
+FPEXT,0.0365
+LDP, 24.81
+PROPWET,0.62
+RMED-1H, 12.2
+RMED-1D, 59.6
+RMED-2D, 82.1
+SAAR,1674
+SAAR4170,1674
+SPRHOST,40.54
+URBCONC1990,-9999.000
+URBEXT1990,0.0008
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0016
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station. Catchment includes the Cray and Usk Reservoirs, used for PWS. De-rated to level only in 1984; now used as a flood warning facility. GENERAL: Velocity area station in a straight reach. Situated in a valley with narrow floodplain bounded by moderately sloping hillsides. gravel bed control associated with a rock exposure. Approx channel width is 31m. The approach is through buttresses of road bridge and an abandoned railway bridge. De-rated to level only in 1984 due to instability at high flows; now used as a flood warning facility. STATION HYDROMETRY: All but very exceptional flows contained within banks. On rb water flows into flat fields at approx 3.3m. One peak flow rating applied across period of record. Rating fits gaugings very well. Upper limit set at highest current meter measurement (2.5m). FLOW RECORD: Computation of daily flows ceased in 1984. FLOW REGIME: Responsive flow regime. Catchment includes the Cray and Usk Reservoirs, used for PWS. River Usk is regulated and abstraction allowed downstream.
+CATCHMENT,Impervious catchment - mainly Old Red Sandstone - draining from the Brecon Beacons. Land use is mainly grazing, some forestry.
+Qmed Suitability,Gauged to within 7% of QMED. Excellent fit to rating.
+Pooling Suitability,Although no check gaugings beyond QMED, rating validated by hydraulic model up to 3.1 metres. Some bypassing at the highest AMAX (10% of the flow)
+[END]

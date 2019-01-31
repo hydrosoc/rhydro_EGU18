@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 28008
+[END]
+[CDS DETAILS]
+NAME,Dove
+LOCATION,Rocester Weir
+NOMINAL AREA,  397.97
+NOMINAL NGR,4112,3396
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,411250,339650
+CENTROID NGR,GB,412867,354823
+DTM AREA,  397.97
+ALTBAR, 270
+ASPBAR,147
+ASPVAR,0.14
+BFIHOST,0.555
+DPLBAR, 30.16
+DPSBAR,112.6
+FARL,0.991
+FPEXT,0.0405
+LDP, 53.62
+PROPWET,0.41
+RMED-1H, 10.4
+RMED-1D, 35.8
+RMED-2D, 45.3
+SAAR,1022
+SAAR4170,1020
+SPRHOST,24.77
+URBCONC1990,-9999.000
+URBEXT1990,0.0034
+URBLOC1990,-9999.000
+URBCONC2000, 0.659
+URBEXT2000,0.0073
+URBLOC2000, 0.676
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station with old mill weir acting as a rather insensitive control. GENERAL: Velocity area station approximately 19.8m wide. Hydro-electric power scheme and larinier fish pass added to control structure in 2011. STATION HYDROMETRY: Station bypassed when out of bank (3-4 times per year). Weir crest prone to algal growth and probably leaks. Gauging from a footbridge. No gaugings above bankfull hence little confidence in rating above this point. Two ratings cover period or record, revised in 2016. FLOW RECORD: Early flow data of lower quality than later records, due to readings taken from gauge boards. Period-of-record maximum flow is listed as 132.3 cumecs in Dec 1991. The Dec 1960 peak had a higher stage but the derivation of the flow cannot be verified. The two events were of a broadly similar magnitude. Flows during Oct-Nov 2011 corrected using donor site due to on-site works to modify fish pass added in 2010 - yet to determine if stage-discharge relationship affected. FLOW REGIME: Flows natural to within 10% at the 95 percentile flow.
+CATCHMENT,A predominantly upland catchment in which the headwaters drain Millstone Grit and Carboniferous Limestone. Lower reaches are Permain and Triassic Sandstones and Triassic Mudstone. Some superficial deposits within river valleys. Land use is predominantly moorland and pasture.
+Qmed Suitability,Gauged to QMED well.
+Pooling Suitability,Extrapolation of rating does not account for out of bank flow and gauging suggests rating is underestimating flows.
+[END]

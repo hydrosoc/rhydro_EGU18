@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 74008
+[END]
+[CDS DETAILS]
+NAME,Duddon
+LOCATION,Ulpha
+NOMINAL AREA,   47.05
+NOMINAL NGR,3209,4947
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,320900,494700
+CENTROID NGR,GB,323958,499154
+DTM AREA,   47.05
+ALTBAR, 373
+ASPBAR,229
+ASPVAR,0.15
+BFIHOST,0.323
+DPLBAR,  7.81
+DPSBAR,251.3
+FARL,0.974
+FPEXT,0.0470
+LDP, 14.82
+PROPWET,0.71
+RMED-1H, 13.2
+RMED-1D, 69.1
+RMED-2D, 95.0
+SAAR,2517
+SAAR4170,2604
+SPRHOST,54.72
+URBCONC1990,-9999.000
+URBEXT1990,0.0002
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0000
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Non-standard three bay compound broad-crested weir gauging a steeply sloping flashy catchment containing Seathwaite Tarn. GENERAL: Station opened 1971. Non-standard compound broad-crested weir, three different crest levels (heights zero, 0.31m, 0.54m) of varying widths and lengths. Structure at obtuse angle on a gentle right bend. Approach banks are man-made stone walls. STATION HYDROMETRY: The bed is concrete and there is no silting. Stony bed. Weir walls contain all flows. Levels may be affected by surging during high flows. No cableway. Waded current metering 100 m downstream of weir. One peak flow rating applied across period of record derived by current meter. Although well-gauged to around 0.72m, the two higher gaugings (around QMED) were obtained in 1979 using a portable cableway and accuracy is uncertain. FLOW REGIME: Major abstraction 10m upstream for Barrow public water supply. Compensation flow from Seathwaite Tarn 8km upstream.
+CATCHMENT,Geology of impervious Ordovician Andesitic Lavas, virtually drift free. Steeply sloping, thin soils, sheep pasture. No urbanisation. Catchment includes Seathwaite Tarn. No catchment changes known.
+Qmed Suitability,Gauged to QMED although only reliably at low flows.
+Pooling Suitability,Gauged to within 28% of AMAX3. However, rating uncertain due to lack of high flow gaugings, and no information on drowning
+[END]

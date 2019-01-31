@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 12005
+[END]
+[CDS DETAILS]
+NAME,Muick
+LOCATION,Invermuick
+NOMINAL AREA,  109.39
+NOMINAL NGR,3364,7947
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,336400,794750
+CENTROID NGR,GB,330719,785800
+DTM AREA,  109.39
+ALTBAR, 592
+ASPBAR, 12
+ASPVAR,0.15
+BFIHOST,0.512
+DPLBAR, 14.57
+DPSBAR,188.6
+FARL,0.896
+FPEXT,0.0293
+LDP, 28.24
+PROPWET,0.68
+RMED-1H,  9.0
+RMED-1D, 43.8
+RMED-2D, 59.6
+SAAR,1244
+SAAR4170,1354
+SPRHOST,43.00
+URBCONC1990,-9999.000
+URBEXT1990,0.0001
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0001
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station draining the south west Cairngorms and flowing into the Dee just downstream of 12003. GENERAL: Velocity area station, about 20m wide. STATION HYDROMETRY: Cableway rated, natural control. Problems with silting in well (until 1980) and ice in cold winters (flows may be estimated). Rating derived from current meter gaugings up to 1.7m (about QMED), simple extrapolation beyond. One peak flow rating applied to entire record. FLOW RECORD: Flows in 1976 invalid due to blocked pipe. FLOW REGIME: Natural regime - no abstractions.
+CATCHMENT,Upland catchment with mountainous headwaters, often snowy in winter. Bedrock Dalradian intrusive basics with more than half overlain by superficial deposits. Landuse pastoral and mountain moorland; some forestry and lochs. Forestry operations developed in the catchment.
+Qmed Suitability,No comment
+Pooling Suitability,No comment
+[END]

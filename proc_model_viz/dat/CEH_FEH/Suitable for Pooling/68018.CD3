@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 68018
+[END]
+[CDS DETAILS]
+NAME,Dane
+LOCATION,Congleton Park
+NOMINAL AREA,  142.57
+NOMINAL NGR,3861,3632
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,386100,363300
+CENTROID NGR,GB,394496,365488
+DTM AREA,  142.57
+ALTBAR, 270
+ASPBAR,258
+ASPVAR,0.21
+BFIHOST,0.408
+DPLBAR, 17.95
+DPSBAR,117.8
+FARL,0.979
+FPEXT,0.0440
+LDP, 32.99
+PROPWET,0.50
+RMED-1H, 10.4
+RMED-1D, 36.8
+RMED-2D, 46.0
+SAAR,1030
+SAAR4170,1064
+SPRHOST,39.65
+URBCONC1990, 0.709
+URBEXT1990,0.0183
+URBLOC1990, 0.359
+URBCONC2000, 0.837
+URBEXT2000,0.0228
+URBLOC2000, 0.372
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Broad-crested weir oblique to flow. The station gauges a similar catchment to Hulme Walfield (68006). GENERAL: Station opened February 1936 on an existing broad-crested mill weir oblique to flow (channel width 17.3m upstream, weir 46.3m across), with relatively narrow crest but a long sloping downstream face at approx 1:5 slope. Station closed in 1953 and re-opened in 1968 for flood forecasting. Flows available for a similar catchment from 1953 to 1986 at Hulme Walfield downstream (68006). STATION HYDROMETRY: Crest is approx 2.9m above downstream channel, which is comparatively narrow, so that extreme events (larger than recorded) might drown. Channel upstream of weir has high vertical walls, although slight spill over left bank at the weir above approx 1m. Sluice to the old mill (on right bank) reported in November 1971 as having been recently filled in - the offtake to the mill will have reduced flows, but probably had little effect on flood events. The station was included in FSR and FEH datasets, but was not originally included in HiFlows-UK because of the lack of gaugings. Station re-instated after hydraulic modelling and a few gaugings by ADCP to confirm rating. One rating applied across period of record, developed from hydraulic modelling which considered out of bank flow and confirmed by ADCP gaugings. FLOW RECORD: The chart datum was lowered by 1ft from 15/8/1940 to closure on 4/5/1953, and the original datum was used when station reopened in 1968. Stages presented in the peak flow holdings have been set to the original datum (i.e. recorded stages between 15/8/1940 to 4/5/1953 have been reduced by 1ft). FLOW REGIME: Bosley reservoir is in the catchment. Several groundwater abstractions.
+CATCHMENT,The north-east and south-west are made up of Millstone Grit and shale, overlain by coal measures. In the centre, the Yoredale series of shale and sandstones are exposed with Upper Triassic Keuper Marls in the west. The area is partly covered with glacial clays, sands and gravels. Alluvium occupies the bottom of the valleys. A mainly rural catchment. No catchment changes known.
+Qmed Suitability,Gauged above QMED. Rating fits to gaugings well.
+Pooling Suitability,Confidence in hydraulic model results beyond QMED.
+[END]

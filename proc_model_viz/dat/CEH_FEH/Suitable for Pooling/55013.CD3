@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 55013
+[END]
+[CDS DETAILS]
+NAME,Arrow
+LOCATION,Titley Mill
+NOMINAL AREA,  125.90
+NOMINAL NGR,3328,2585
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,332800,258500
+CENTROID NGR,GB,323593,254543
+DTM AREA,  125.90
+ALTBAR, 303
+ASPBAR,103
+ASPVAR,0.20
+BFIHOST,0.553
+DPLBAR, 14.84
+DPSBAR,130.1
+FARL,0.999
+FPEXT,0.0382
+LDP, 28.33
+PROPWET,0.49
+RMED-1H,  9.8
+RMED-1D, 37.5
+RMED-2D, 48.7
+SAAR, 962
+SAAR4170,1086
+SPRHOST,34.31
+URBCONC1990,-9999.000
+URBEXT1990,0.0030
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0046
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station with cableway with high flows out of bank but not bypassed draining a natural catchment. GENERAL: Velocity area station. Low flow control is a stable riffle; otherwise a three-bay road bridge 50m d/s is the control. Approx bankfull width is 13.25m. Bankfull on RHB is 2.5m, LHB is 2.0m. Cableway span is 21m. STATION HYDROMETRY: Cableway rated site that gets out of bank, LHB floodplain restricted to storage only, not bypassed. Intake pipes silted up during summer of 1994, treat data with caution. Two ratings applied across period of record, the most recent is valid from January-1996 (post gravel removal). Gaugings fit well to respective ratings. FLOW RECORD: Anomalous step changes (e.g. Sept 1975, Sept 1991, March - May 1992). Summer 1974 (July - Sept) low flows should be treated with caution; minima overestimated due to stilling well problem. Data estimated for July - Sept 1990 and June - July 1995. Intake pipes silted up during summer of 1994, treat data with caution. FLOW REGIME: Natural catchment to within 10% at Q95.
+CATCHMENT,Headwaters of moderate relief, draining durable Silurian slates and shales; otherwise, catchment underlain by ORS marls. Generally low permeability. Predominantly grassland, with sheep grazing on upland plateau and some patches of arable and forest in lower catchment. Station is in a transition zone between upland plateau supporting sheep grazing and the more productive lowlands.
+Qmed Suitability,Gauged above QMED. Good fit to ratings.
+Pooling Suitability,Gauged to within 5% of AMAX3 which is out of bank.
+[END]

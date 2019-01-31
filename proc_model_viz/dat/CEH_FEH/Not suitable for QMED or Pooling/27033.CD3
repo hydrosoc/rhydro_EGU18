@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 27033
+[END]
+[CDS DETAILS]
+NAME,Sea Cut
+LOCATION,Scarborough
+NOMINAL AREA,   32.91
+NOMINAL NGR,5027,4907
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,502700,490700
+CENTROID NGR,GB,499757,492773
+DTM AREA,   32.91
+ALTBAR,  96
+ASPBAR,129
+ASPVAR,0.24
+BFIHOST,0.466
+DPLBAR,  6.64
+DPSBAR, 79.4
+FARL,0.999
+FPEXT,0.0458
+LDP, 13.44
+PROPWET,0.33
+RMED-1H, 10.7
+RMED-1D, 34.4
+RMED-2D, 44.3
+SAAR, 753
+SAAR4170, 767
+SPRHOST,33.13
+URBCONC1990, 0.661
+URBEXT1990,0.0379
+URBLOC1990, 0.505
+URBCONC2000, 0.825
+URBEXT2000,0.0530
+URBLOC2000, 0.476
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Compound broad-crested weir in a diversion channel passing flood waters from the upper Derwent. This means the contributing area varies at high flows. GENERAL: Compound broad-crested weir 21m wide with central notch 2.9m wide and crest level of 20.6 mAOD; the flanking weirs are 0.152m higher. A cascade of weirs, making drowning highly unlikely. The channel was artificially extended in the last century. The Sea Cut is primarily a diversion channel which passes flood waters from the upper 88.8 sq.km of the Derwent, although it has a small catchment of its own as well. STATION HYDROMETRY: Many springs d/s of the gauge hinder estimation of flow without the Derwent contribution. A sluice allows a maximum of 5 cumecs to flow into the Derwent when fully open, but can be overtopped. Daily flows rated by model tests. One peak flow rating applied across period of record. Good fit to available gaugings. The catchment is unsuitable for pooling for flood estimation. Flood Studies Report assumed grade to be A2. FLOW REGIME: Sea Cut flows are controlled by a sluice; the channel was artificially extended in the 19th century to join the Derwent, and now acts as an overflow channel in high flows.
+CATCHMENT,The natural catchment drains part of the North York Moors. Contributing area varies by +/- 88.8 sq.km because of the artificial connection to the headwaters of the Derwent. Geology of natural catchment is Oolite Cornbrash, Oxford Clays and Corallian of the Jurassic Period, which dip south and are overlain in the east by thick Boulder Clay deposits. No known catchment changes.
+Qmed Suitability,Flood flows artificially diverted into the catchment from the Upper Derwent, therefore not to be used as an analogue without careful analysis of catchment area and other catchment descriptors.
+Pooling Suitability,As QMED. Flow measurement is thought to be fairly reliable but not recommended for pooling without careful consideration of the extended catchment area and characteristics.
+[END]

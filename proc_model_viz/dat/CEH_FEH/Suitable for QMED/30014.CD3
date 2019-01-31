@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 30014
+[END]
+[CDS DETAILS]
+NAME,Pointon Lode
+LOCATION,Pointon
+NOMINAL AREA,   10.93
+NOMINAL NGR,5127,3312
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,512800,331250
+CENTROID NGR,GB,508238,329901
+DTM AREA,   10.93
+ALTBAR,  43
+ASPBAR, 84
+ASPVAR,0.36
+BFIHOST,0.338
+DPLBAR,  5.99
+DPSBAR, 29.0
+FARL,1.000
+FPEXT,0.1033
+LDP, 10.67
+PROPWET,0.22
+RMED-1H, 11.8
+RMED-1D, 31.5
+RMED-2D, 40.5
+SAAR, 591
+SAAR4170, 624
+SPRHOST,42.10
+URBCONC1990, 0.431
+URBEXT1990,0.0078
+URBLOC1990, 0.606
+URBCONC2000, 0.682
+URBEXT2000,0.0141
+URBLOC2000, 0.676
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Crump weir gauging a rural, limestone catchment with minor artificial influences. GENERAL: British Standard Crump profile weir 2.445m wide, 2.667mAOD, at centre section. Raised walls at Crump weir sides, level 3.426mAOD, with flat concrete surface between each wall and channel bank 1.53m wide. STATION HYDROMETRY: When upstream level higher than Crump walls, whole structure acts as non-standard compound weir. Known to drown at high flows. No high flow gaugings are available and so higher flows should be treated with caution. Theoretical calibration. One rating applied across period of record. FLOW RECORD: GDF POR maximum listed as 5.69 cumecs in Jan 1998. Maximum peak flow of 12.9 cumecs registered in Jul 2001. This was undoubtedly a large event caused by >80mm rainfall, but considerable uncertainty surrounds the magnitude owing to extrapolation. Unusual pattern of flows in Apr 2007 thought to be due to accretion and weir cleaning. Some anomalous recessions in e.g. 1994, 1998, 1999, the reason for which is unknown. FLOW REGIME: Abstractions for irrigation have minor effect on summer low flows.
+CATCHMENT,Drainage channel in low lying area draining highland limestone, largely covered with Boulder Clay. Rural catchment with mixed farming and, mainly in upper catchment, significant woodland. Catchment area is 11.05 sq km in 1972 ref, 11.9 sq km in NRFA.
+Qmed Suitability,Gauged to within 17% of QMED.
+Pooling Suitability,Flow becomes non-modular and out of bank.
+[END]

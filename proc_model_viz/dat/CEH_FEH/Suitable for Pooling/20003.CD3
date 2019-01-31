@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 20003
+[END]
+[CDS DETAILS]
+NAME,Tyne
+LOCATION,Spilmersford
+NOMINAL AREA,  162.77
+NOMINAL NGR,3456,6688
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,345600,668900
+CENTROID NGR,GB,342843,663793
+DTM AREA,  162.77
+ALTBAR, 195
+ASPBAR,  5
+ASPVAR,0.26
+BFIHOST,0.520
+DPLBAR, 10.84
+DPSBAR, 65.6
+FARL,0.987
+FPEXT,0.0453
+LDP, 22.51
+PROPWET,0.43
+RMED-1H,  8.4
+RMED-1D, 32.7
+RMED-2D, 48.7
+SAAR, 724
+SAAR4170, 758
+SPRHOST,33.89
+URBCONC1990,-9999.000
+URBEXT1990,0.0026
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0045
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station, flood warning station. GENERAL: Velocity area station. The channel reach is within steep, high flood banks which contain all floods in record. Flows from this station are used as part of the Haddington flood warning system. STATION HYDROMETRY: In September 1975 an irregular broad-crested weir was installed (concrete-topped gabion weir with a V notch to increase sensitivity at low flows). Non-modular for high flows, weir drowns out. Before that date the low flow control was a gravel bar. The gauge board was lowered by 0.125m on 1/9/1969. Two ratings (before and after gabion control installation in 1972) both derived from current meter gaugings, simple extrapolation beyond.Rating revised in 2016. Some issues with fungal growth on the weir, but it is maintained regularly. FLOW RECORD: Full period of record peak flow data reviewed and released in April 2017 (WINFAP Files v5). FLOW REGIME: Flashy response. Low flows are affected by industrial and agricultural abstractions.
+CATCHMENT,The headwaters drain exposed moorland of the Lammermuir Hills. Bedrock mostly impermeable predominantly overlain by superficial deposits (thin soils). Silurian/Devonian sedimentaries. Land use predominantly arable with some forest. No significant catchment changes known.
+Qmed Suitability,Gauged above QMED
+Pooling Suitability,High flood banks contain all flow
+[END]

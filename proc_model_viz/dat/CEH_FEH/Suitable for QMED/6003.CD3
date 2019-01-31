@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+  6003
+[END]
+[CDS DETAILS]
+NAME,Moriston
+LOCATION,Invermoriston
+NOMINAL AREA,  398.45
+NOMINAL NGR,2416,8169
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,241600,817000
+CENTROID NGR,GB,221414,812368
+DTM AREA,  398.45
+ALTBAR, 408
+ASPBAR,127
+ASPVAR,0.12
+BFIHOST,0.362
+DPLBAR, 27.80
+DPSBAR,209.7
+FARL,0.813
+FPEXT,0.0398
+LDP, 49.27
+PROPWET,0.74
+RMED-1H, 11.2
+RMED-1D, 55.4
+RMED-2D, 81.5
+SAAR,2115
+SAAR4170,2146
+SPRHOST,52.51
+URBCONC1990,-9999.000
+URBEXT1990,0.0001
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0000
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station closed in 1945. GENERAL: Velocity area station. Station closed in 1945. STATION HYDROMETRY: The control is a broad, flat, gravel and boulder bar with a tree covered island and a steep gradient d/s. All flows contained on the left bank - the right bank is lower with a floodplain at about 3m. Peak flow rating derived from current meter gaugings (but no gaugings available). FLOW RECORD: Because of increasing breakdowns of the recorder, records became unreliable from 1944 onwards. FLOW REGIME: Natural regime (reservoirs in the hydroelectric scheme began impounding in 1957, after the station was closed). Loch Loyne and Loch Cluaine were natural pre-1957.
+CATCHMENT,Mountainous headwaters, often snowy in winter. Pre-Cambrian grits and schists. Mainly rough pasture and moorland, some forest cover. No significant catchment changes known.
+Qmed Suitability,No comment
+Pooling Suitability,Data quality unsure. Also out of bank flow likely for about a third of the Amax series.
+[END]

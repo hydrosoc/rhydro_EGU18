@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 33031
+[END]
+[CDS DETAILS]
+NAME,Broughton Brook
+LOCATION,Broughton
+NOMINAL AREA,   70.06
+NOMINAL NGR,4888,2409
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,488850,240950
+CENTROID NGR,GB,493718,237063
+DTM AREA,   70.06
+ALTBAR,  98
+ASPBAR,307
+ASPVAR,0.17
+BFIHOST,0.482
+DPLBAR, 10.75
+DPSBAR, 29.1
+FARL,0.967
+FPEXT,0.1439
+LDP, 21.62
+PROPWET,0.31
+RMED-1H, 10.4
+RMED-1D, 29.1
+RMED-2D, 37.4
+SAAR, 629
+SAAR4170, 621
+SPRHOST,40.87
+URBCONC1990, 0.427
+URBEXT1990,0.0110
+URBLOC1990, 0.972
+URBCONC2000, 0.786
+URBEXT2000,0.0379
+URBLOC2000, 0.794
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Station modified in 1977 gauging a flat catchment with greedsand bedrock, significant artificial influences due to public water supply abstraction. GENERAL: Flat V Crump profile weir 7.0m wide installed in 1977 when river realigned. Prior to 23/6/77 trapezoidal critical depth flume 7.4m wide, horizontal crest 1m wide, located at SP892405. STATION HYDROMETRY: Flume was subject to drowning but flows were corrected. Current rating includes floodplain flow and accounts for drowning. One peak flow rating applied across period of record. FLOW REGIME: Runoff influenced by groundwater abstraction and recharge. One Greensand groundwater puclic water supply abstraction accounts for virtually all the abstraction in the catchment. Station located near Cotton Valley STW. Runoff increased by effluent return.
+CATCHMENT,Predominantly flat, the edge just impinging on the Chiltern escarpment. Clay and Greensand catchment, with some Boulder Clay cover. Mixed agricultural land use with some forestry in S, and significant urban development.
+Qmed Suitability,Although not gauged to within 30% of QMED, all flows contained and theoretical rating expected to perform well.
+Pooling Suitability,All flows contained and theoretical rating expected to perform well.
+[END]

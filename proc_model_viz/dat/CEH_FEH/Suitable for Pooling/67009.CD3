@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 67009
+[END]
+[CDS DETAILS]
+NAME,Alyn
+LOCATION,Rhydymwyn
+NOMINAL AREA,   81.60
+NOMINAL NGR,3204,3667
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,320400,366750
+CENTROID NGR,GB,319020,357784
+DTM AREA,   81.60
+ALTBAR, 303
+ASPBAR, 38
+ASPVAR,0.12
+BFIHOST,0.615
+DPLBAR, 14.08
+DPSBAR,142.5
+FARL,0.990
+FPEXT,0.0328
+LDP, 27.08
+PROPWET,0.41
+RMED-1H, 10.0
+RMED-1D, 36.3
+RMED-2D, 47.6
+SAAR, 968
+SAAR4170, 959
+SPRHOST,27.71
+URBCONC1990,-9999.000
+URBEXT1990,0.0016
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0016
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Trapezoidal flume in concrete trapezoidal channel. Substantial losses of river flow through percolation to mine discharge tunnels. GENERAL: Trapezoidal flume in concrete trapezoidal channel. Discharge frequently zero due to flow entering swallow holes in limestone u/s of site - see 'Flow record'. STATION HYDROMETRY: Site is subject to rapid gravel accumulation, and so gravel is removed annually and after any mid year high flow events. One peak flow rating applied across period of record. Rating shows good fit to gaugings up to 4.77m. FLOW RECORD: Discharge frequently zero due to flow entering swallow holes in limestone u/s of site, hence rating only computes flows when stage exceeds 0.05m. Reprocessed flows for 2000-2008 loaded in 2012. Pre-1968 data is very suspect, not held on the NRFA. FLOW REGIME: Swallow holes frequent between Maeshafn and Rhydymwyn, substantial losses of river flow through percolation to mine discharge tunnels.
+CATCHMENT,Impermeable Silurian rocks in W half, Carboniferous Limestone escarpment to E. Mainly grass pasture, extensive forest cover.
+Qmed Suitability,Gauged above QMED. QMED within bank and well gauged.
+Pooling Suitability,Gauged beyond AMAX3. Flow rate at AMAX3 remains in bank.
+[END]

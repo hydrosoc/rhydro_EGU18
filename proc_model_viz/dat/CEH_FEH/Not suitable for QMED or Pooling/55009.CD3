@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 55009
+[END]
+[CDS DETAILS]
+NAME,Monnow
+LOCATION,Kentchurch
+NOMINAL AREA,  354.88
+NOMINAL NGR,3419,2251
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,341900,225100
+CENTROID NGR,GB,334939,231602
+DTM AREA,  354.88
+ALTBAR, 228
+ASPBAR,103
+ASPVAR,0.14
+BFIHOST,0.583
+DPLBAR, 19.70
+DPSBAR,129.9
+FARL,0.997
+FPEXT,0.0722
+LDP, 40.14
+PROPWET,0.41
+RMED-1H, 10.1
+RMED-1D, 39.8
+RMED-2D, 51.3
+SAAR, 956
+SAAR4170, 999
+SPRHOST,35.28
+URBCONC1990,-9999.000
+URBEXT1990,0.0034
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0030
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station. Closed and replaced by Grosmont (55029) in Apr 1972. GENERAL: Velocity area station. l/b is high and steep, r/b has floodplain at 2.44m. Closed and replaced by Grosmont (55029) in Apr 1972. STATION HYDROMETRY: One peak flow rating applied across period of record. Rating upper limit reduced from 4m to level of floodplain on r/b. No gaugings available to validate rating.
+CATCHMENT,Five parallel tributaries drain SE down the deeply dissected Old Red Sandstone plateau of the Black Mountains, the northern-most exposing the Old Red Sandstone marls. Moorland headwaters, arable lower reaches.
+Qmed Suitability,No gaugings available to validate rating performance at QMED.
+Pooling Suitability,No gaugings available to validate rating.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 38018
+[END]
+[CDS DETAILS]
+NAME,Upper Lee
+LOCATION,Water Hall
+NOMINAL AREA,  157.74
+NOMINAL NGR,5299,2099
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,530000,209950
+CENTROID NGR,GB,515263,216962
+DTM AREA,  157.74
+ALTBAR, 114
+ASPBAR, 93
+ASPVAR,0.11
+BFIHOST,0.686
+DPLBAR, 23.43
+DPSBAR, 40.5
+FARL,0.932
+FPEXT,0.0696
+LDP, 47.49
+PROPWET,0.30
+RMED-1H, 10.4
+RMED-1D, 30.0
+RMED-2D, 37.8
+SAAR, 663
+SAAR4170, 653
+SPRHOST,27.39
+URBCONC1990, 0.795
+URBEXT1990,0.1624
+URBLOC1990, 1.333
+URBCONC2000, 0.907
+URBEXT2000,0.1998
+URBLOC2000, 1.303
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Station located in the Upper Lee catchment above the confluences of tributary rivers. GENERAL: Crump weir (6.0m wide) within an artificial channel. STATION HYDROMETRY: Modular throughout the flow range. Standard Crump weir calculation. Rating has a good level of accuracy, according to the gaugings taken. FLOW RECORD: All flows contained. Some early data (of limited quality) from two nearby gauging stations. There was a station on the River Lee at Roxford (38801) which, started in November 1952. In order to produce a single record, some correlations were undertaken between these stations. They had an overlapping record from September 1971 to August 1972. These were compared and a formula was used to derive Water Hall values. FLOW REGIME: Luton STW effluent augments flows and strongly effects the low flow regime. Moderate net import of water.
+CATCHMENT,Catchment is mainly pervious (Chalk) but with glacial Drift in the headwaters. The land uses are principally agricultural with some important (expanding) urban centres.
+Qmed Suitability,Gauged to within 25% of QMED. All flows within bank.
+Pooling Suitability,Few high flow gaugings. Rating can not be validated beyond QMED.
+[END]

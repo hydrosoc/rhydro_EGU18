@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 45818
+[END]
+[CDS DETAILS]
+NAME,Withiel Florey Stream
+LOCATION,Bessom Bridge
+NOMINAL AREA,    9.55
+NOMINAL NGR,2980,1326
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,298050,132650
+CENTROID NGR,GB,299146,134045
+DTM AREA,    9.55
+ALTBAR, 338
+ASPBAR,214
+ASPVAR,0.37
+BFIHOST,0.578
+DPLBAR,  2.61
+DPSBAR,103.6
+FARL,1.000
+FPEXT,0.0055
+LDP,  4.61
+PROPWET,0.42
+RMED-1H, 11.9
+RMED-1D, 44.2
+RMED-2D, 61.5
+SAAR,1271
+SAAR4170,1340
+SPRHOST,32.48
+URBCONC1990,-9999.000
+URBEXT1990,0.0000
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0000
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Broad crested flat V weir opened in 1992. GENERAL: Station opened in 1992 as a broad crested Flat V weir, crest length approximately 4m. Relatively straight reach with stable river bed. Footbridge approx.12m downstream of the station. Velocity area station for higher flows. STATION HYDROMETRY: Well-built station and good control. Bypassing and weed growth are not an issue, but some drowning. Potential for blockage of culverts under footbridge downstream during high flows which may affect levels and drown out weir. One rating applied across period of record. Confirmed by gaugings to 0.6m, above which available gaugings fit poorly to rating and indicate overestimation of flows. FLOW REGIME: Fish farm upstream causes fluctuations in low flows.
+CATCHMENT,Small catchment area consists mainly of Upper Devonian siltstones and slates. Entirely rural catchment area with natural flow regime. Wimbleball Reservoir downstream of the station. No major catchment changes.
+Qmed Suitability,Gauged above QMED. Good fit to gauging
+Pooling Suitability,Few high flow gaugings which fit poorly to rating beyond QMED. Increasing uncertainty in rating beyond 0.6m.
+[END]

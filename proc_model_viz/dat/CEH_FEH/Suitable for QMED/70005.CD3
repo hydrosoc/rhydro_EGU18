@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 70005
+[END]
+[CDS DETAILS]
+NAME,Lostock
+LOCATION,Littlewood Bridge
+NOMINAL AREA,   54.19
+NOMINAL NGR,3496,4196
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,349700,419650
+CENTROID NGR,GB,356440,422277
+DTM AREA,   54.19
+ALTBAR,  71
+ASPBAR,274
+ASPVAR,0.40
+BFIHOST,0.474
+DPLBAR, 12.76
+DPSBAR, 37.3
+FARL,0.964
+FPEXT,0.1368
+LDP, 27.01
+PROPWET,0.51
+RMED-1H, 10.4
+RMED-1D, 34.5
+RMED-2D, 45.4
+SAAR,1022
+SAAR4170,1012
+SPRHOST,38.22
+URBCONC1990, 0.769
+URBEXT1990,0.1087
+URBLOC1990, 0.751
+URBCONC2000, 0.844
+URBEXT2000,0.1473
+URBLOC2000, 0.795
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station with shallow V control. Since 2009 the station has only been used for peak flows. GENERAL: Velocity area station opened 1974. A 3m wide shallow V sheet-piled control was constructed in February 1987. Since 01/01/2009 this has been a level-only station with rating for peak flows only. STATION HYDROMETRY: Bridge downstream also acts as partial control. Bypassing has been reported. Site is subject to tidal influence and weed growth, which led to the station downgrade. A permanent cableway was installed to improve gauging at higher flows, but has now been removed. Separate ratings for peak flows applied before and after sheet-piled control in 1987. Current rating gauged to QMED. FLOW RECORD: Low and medium flows are not generated. FLOW REGIME: Low flows are heavily influenced by a sewage treatment works at Leyland.
+CATCHMENT,Low relief catchment on Boulder Clay which blankets Mercia Mustone, Sherwood Sandstone with Millstone Grit in the extreme east. Isolated hill peat. Land use of mixed farming and substantial urban/suburban development, including the town of Leyland, with many motorways traversing the catchment. No significant catchment changes.
+Qmed Suitability,Gauged to QMED with acceptable scatter (although tidal influence is a known factor)
+Pooling Suitability,As few high flow gaugings, rating not sufficiently validated beyond QMED. During largest event on record banks were overtopped by significant margin and total flow measured much too low.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 65001
+[END]
+[CDS DETAILS]
+NAME,Glaslyn
+LOCATION,Beddgelert
+NOMINAL AREA,   66.95
+NOMINAL NGR,2591,3477
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,259200,347800
+CENTROID NGR,GB,261427,351195
+DTM AREA,   66.95
+ALTBAR, 338
+ASPBAR,205
+ASPVAR,0.07
+BFIHOST,0.406
+DPLBAR,  7.46
+DPSBAR,309.4
+FARL,0.895
+FPEXT,0.0486
+LDP, 16.62
+PROPWET,0.62
+RMED-1H, 13.0
+RMED-1D, 80.1
+RMED-2D,106.0
+SAAR,2810
+SAAR4170,3030
+SPRHOST,45.09
+URBCONC1990,-9999.000
+URBEXT1990,0.0002
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0003
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,River section with non-standard stone section control. Lakes and HEP discharge affect flow. GENERAL: A 20m wide river section with non-standard stone section control. STATION HYDROMETRY: Gravel removal may have produced abrupt level changes in the past but careful management and regular clearance now allows a more stable rating to be maintained. Multiple peak flow ratings applied to period of record. Station bypassed at high flows. Rated by c/m and, in the past, by dilution gauging. Rating tends to be insensitive at low flows due to subtle movements in the natural bed control but the non-standard stone section control improves stability. High flow gauging restricted to peaks and troughs because of rapid water level changes. A range of peak flow stage-discharge relationships applied over the period of record as bed is unstable. Does not consider out of bank flow. No peak flow gaugings exist prior to 1987, therefore early ratings unverified. FLOW RECORD: Flows since June 2006 reprocessed in 2011 due to new rating which better defines low flows. 2012 flows reprocessed in 2014, affecting low flows in particular. Peak flow data prior to 1967 has been entered but not included in the analysis as may be regarded as suspect. Full period of record peak flow data reviewed and released in April 2017 (WINFAP Files v5). FLOW REGIME: Lakes (Dinas and Gwynant) and HEP discharge from the higher Llyn Llydaw marginally affect records.
+CATCHMENT,Very wet, upland catchment draining southern flanks of Snowdonia with much bare rock exposure (impermeable Silurian volcanics). Otherwise, land use is mostly grassland and rough moorland grazing. Some forest.
+Qmed Suitability,Gauged to within 9% of QMED.
+Pooling Suitability,Few high flow gaugings. Known to bypass at ~2m which is not accounted for in rating.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 23003
+[END]
+[CDS DETAILS]
+NAME,North Tyne
+LOCATION,Reaverhill
+NOMINAL AREA, 1012.98
+NOMINAL NGR,3905,5732
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,390550,573200
+CENTROID NGR,GB,377080,589424
+DTM AREA, 1012.98
+ALTBAR, 278
+ASPBAR,125
+ASPVAR,0.14
+BFIHOST,0.310
+DPLBAR, 37.97
+DPSBAR, 92.3
+FARL,0.936
+FPEXT,0.0471
+LDP, 66.25
+PROPWET,0.50
+RMED-1H,  9.8
+RMED-1D, 34.7
+RMED-2D, 46.3
+SAAR,1023
+SAAR4170,1091
+SPRHOST,50.69
+URBCONC1990,-9999.000
+URBEXT1990,0.0005
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0005
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station, replaced 23015. Flow regime influenced by Kielder reservoir. GENERAL: Velocity area station with natural channel control on a straight, stable reach with a stony bed. Has a cableway. Replaced earlier station at Barrasford (23015) which was unreliable. STATION HYDROMETRY: Three ratings applied across period of record. Most recent is Rating D which is valid from 1989. Good fit to gaugings up to QMED. Flood Studies Report grade A1. FLOW REGIME: Predominantly natural regime but affected by Kielder releases - including pulsed hydropower releases. Hydropower releases influence natural low flow regime but little effect at high flows. Kielder reservoir has significant flood effect due to drawdown and attenuation. Catcleugh and Colt Crag Reservoirs in catchment (together control 56 sq.km) and intermittent abstraction at Barrasford result in net export of water. Smaller hydrographs have steep rise and slow fall, larger ones are curved before the peak probably due to bank slope.
+CATCHMENT,A very responsive upland catchment. Developed mainly on formations of the Carboniferous series (Fell Sandstone, Scremerston Group and Lower Limestone), around half of the catchment is overlain by Boulder Clay and peat in the headwaters. A predominantly natural regime until construction of Kielder reservoir (impounded 1982) which controls 24% of top of North Tyne catchment. Land use is rugged moorland and upland pasture, with significant afforestation in the west of the catchment since 1926. Pre-reservoir FARL is 0.993 and should be used with the pre-reservoir part of the records. Post-reservoir FARL is 0.936.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged to 33% of AMAX3. The hydraulic properties of the channel are not expected to change significantly above bank full.
+[END]

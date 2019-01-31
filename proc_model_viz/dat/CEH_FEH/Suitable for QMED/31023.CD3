@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 31023
+[END]
+[CDS DETAILS]
+NAME,West Glen
+LOCATION,Easton Wood
+NOMINAL AREA,    4.32
+NOMINAL NGR,4965,3258
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,496550,325800
+CENTROID NGR,GB,495229,325298
+DTM AREA,    4.32
+ALTBAR, 108
+ASPBAR, 85
+ASPVAR,0.36
+BFIHOST,0.320
+DPLBAR,  1.87
+DPSBAR, 32.8
+FARL,1.000
+FPEXT,0.0516
+LDP,  3.74
+PROPWET,0.27
+RMED-1H, 11.7
+RMED-1D, 33.1
+RMED-2D, 42.7
+SAAR, 641
+SAAR4170, 647
+SPRHOST,41.26
+URBCONC1990,-9999.000
+URBEXT1990,0.0000
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0000
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Ephemeral site installed to gauge a small rural catchment as part of study into recharge of Lincolnshire Limestone. GENERAL: Flat V weir with crest length of 8.05m. Installed as part of study into recharge of Lincolnshire L'st. STATION HYDROMETRY: There is a 90 degree bend in the channel immediately d/s of the crest. Theoretically rated to 10.7 cumecs. No out of bank flow rating. FLOW REGIME: Ephemeral regime. Natural to within 10% at Q95. No abstractions or returns.
+CATCHMENT,Small catchment entirely on Boulder Clay: flows disappear into l'st d/s of gauging station. Rural catchment, mixed farming with significant woodland component.
+Qmed Suitability,QMED contained and should be modular, theoretical rating expected to perform well.
+Pooling Suitability,Non-modular flow is not considered by current rating and there are no gaugings to confirm rating.
+[END]

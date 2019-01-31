@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 58001
+[END]
+[CDS DETAILS]
+NAME,Ogmore
+LOCATION,Bridgend
+NOMINAL AREA,  157.79
+NOMINAL NGR,2903,1794
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,290400,179450
+CENTROID NGR,GB,290379,188501
+DTM AREA,  157.79
+ALTBAR, 211
+ASPBAR,187
+ASPVAR,0.18
+BFIHOST,0.478
+DPLBAR, 13.93
+DPSBAR,171.3
+FARL,0.998
+FPEXT,0.0378
+LDP, 25.34
+PROPWET,0.52
+RMED-1H, 12.5
+RMED-1D, 54.4
+RMED-2D, 72.3
+SAAR,1775
+SAAR4170,1846
+SPRHOST,36.37
+URBCONC1990, 0.652
+URBEXT1990,0.0392
+URBLOC1990, 0.791
+URBCONC2000, 0.766
+URBEXT2000,0.0565
+URBLOC2000, 0.790
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station with Flat V weir. GENERAL: Velocity area station with Flat V weir (installed in July 1975). Channel width: 20m. STATION HYDROMETRY: Weir 1:20 cross-slope. Flows up to 170 cumecs contained. Two peak flow ratings applied across period of record, the most recent is valid from August 1975 after the installation of the Flat V weir. FLOW RECORD: Flows since 1 Jan 2005 reprocessed in 2013 due to new rating. Flows estimated for March-April 1986. FLOW REGIME: Abstractions for PWS and industrial/agricultural abstractions may reduce flows, but runoff also increased by effluent returns.
+CATCHMENT,Mainly Coal Measures, some Boulder Clay and alluvium in valleys. Peaty soils on hills, seasonally wet. Soils in lowland areas have permeable substrate. Land use is mainly grassland supporting livestock farming in uplands to N, dairy farming in S, with some forest cover throughout. Heavy urban and industrial development in valleys, including significant development just u/s of station.
+Qmed Suitability,Gauged above QMED. QMED consistent pre- & post- weir.
+Pooling Suitability,Gauged above QMED.  Structure expected to perform well at high flows
+[END]

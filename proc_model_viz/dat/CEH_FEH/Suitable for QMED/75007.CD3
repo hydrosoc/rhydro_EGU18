@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 75007
+[END]
+[CDS DETAILS]
+NAME,Glenderamackin
+LOCATION,Threlkeld
+NOMINAL AREA,   64.68
+NOMINAL NGR,3322,5247
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,332250,524800
+CENTROID NGR,GB,335867,526346
+DTM AREA,   64.68
+ALTBAR, 352
+ASPBAR,348
+ASPVAR,0.13
+BFIHOST,0.395
+DPLBAR,  9.26
+DPSBAR,179.8
+FARL,0.999
+FPEXT,0.0527
+LDP, 19.35
+PROPWET,0.62
+RMED-1H, 11.5
+RMED-1D, 55.7
+RMED-2D, 74.7
+SAAR,1723
+SAAR4170,1836
+SPRHOST,44.96
+URBCONC1990,-9999.000
+URBEXT1990,0.0003
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0005
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Non-standard shallow V weir gauging a natural, high relief catchment in the northern Lake District. Flow record contains large gaps. GENERAL: Opened April 1969 as a velocity-area station with gabion basket low flow control which was prone to erosion and drowning. A non-standard 13m wide weir was built in 1986. Non-standard shallow V concrete weir was constructed 1998, reduced by 0.2m in 2008. STATION HYDROMETRY: Significant bypass flow on the right bank from around 2.1m. High flows bypassed on right bank. 1987 and 2005 (Jan & Oct) peak flows are of comparable magnitude. Cableway present. Three peak flow ratings applied across period of record, the most recent is valid from July 2008 after lowering of weir. High flows can also be affected by downstream footbridge which is prone to blockage. FLOW RECORD: Station closed Jun 1981-Jan 1986, data quality poor pre-closure. Large gaps are present in the daily flow series. FLOW REGIME: No known artificial influences on flow regime.
+CATCHMENT,High relief, natural catchment in northern Lake District; broad main valley below 200m, flanking fells exceed 700m. Geology principally Skiddaw Slates, with Borrowdale volcanics on southern watershed and granite boss in the south. Extensive Boulder Clay overlies the geology with alluvium within the river valley and peat on upland reaches. Land-use rural and moorland.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged to within 20% of AMAX3. However, rating does not account for out of bank flow and high flow gaugings suggest current rating under-estimates flow.
+[END]

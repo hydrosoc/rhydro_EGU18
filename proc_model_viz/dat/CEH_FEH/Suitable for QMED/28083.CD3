@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 28083
+[END]
+[CDS DETAILS]
+NAME,Trent
+LOCATION,Darlaston
+NOMINAL AREA,  193.71
+NOMINAL NGR,3885,3355
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,388550,335500
+CENTROID NGR,GB,387612,346247
+DTM AREA,  193.71
+ALTBAR, 157
+ASPBAR,225
+ASPVAR,0.17
+BFIHOST,0.443
+DPLBAR, 16.58
+DPSBAR, 60.3
+FARL,0.942
+FPEXT,0.0742
+LDP, 31.05
+PROPWET,0.44
+RMED-1H,  9.9
+RMED-1D, 31.3
+RMED-2D, 40.0
+SAAR, 819
+SAAR4170, 829
+SPRHOST,33.54
+URBCONC1990, 0.810
+URBEXT1990,0.1973
+URBLOC1990, 1.048
+URBCONC2000, 0.879
+URBEXT2000,0.2175
+URBLOC2000, 1.040
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Multipath ultrasonic gauge gauging a relatively urban catchment near Stoke-on-Trent. GENERAL: Multipath US gauge installed beneath A34 road bridge on a gentle curve. STATION HYDROMETRY: Out-of-bank flow gauged by transducers between bridge abutments. Subject to siltation. Two peak flow rating applied across period of record - used for flood forecasting only. FLOW RECORD: Recorded data from 01/04/1985 - 24/08/1987 appears suspect - levels too low. Station undermined in 1987 flood, reconstructed 1990/1. In 2001-2002, gauge not performing v well. Transducers failing constantly, especially lower ones (due to silt). Problems in 2002-2003 with rubble in channel now creating skew flows & siltation. FLOW REGIME: Quite responsive but flow regime dominated by Strongford WRW discharge (Stoke-on-Trent).
+CATCHMENT,Moderate relief catchment, substantially urbanised with Stoke-on-Trent and Newcastle-under-Lyme. Geology mainly Coal Measures and Marls, Millstone Grit and subordinate Sherwood S'st, widely covered by Boulder Clay. Mining, industrial and mixed agricultural land use.
+Qmed Suitability,Gauged above QMED
+Pooling Suitability,Spot gaugings scattered at higher flows. Rating can not be validated above QMED and bankfull.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 28056
+[END]
+[CDS DETAILS]
+NAME,Rothley Brook
+LOCATION,Rothley
+NOMINAL AREA,   91.90
+NOMINAL NGR,4580,3121
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,458050,312150
+CENTROID NGR,GB,450442,307232
+DTM AREA,   91.90
+ALTBAR, 114
+ASPBAR,119
+ASPVAR,0.16
+BFIHOST,0.353
+DPLBAR, 15.25
+DPSBAR, 38.4
+FARL,0.962
+FPEXT,0.0774
+LDP, 27.94
+PROPWET,0.30
+RMED-1H, 11.0
+RMED-1D, 31.0
+RMED-2D, 39.4
+SAAR, 672
+SAAR4170, 688
+SPRHOST,43.22
+URBCONC1990, 0.754
+URBEXT1990,0.0618
+URBLOC1990, 0.791
+URBCONC2000, 0.860
+URBEXT2000,0.0767
+URBLOC2000, 0.748
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Crump profile Flat V weir in a trapezoidal channel GENERAL: Crump profile Flat V weir in a trapezoidal channel with possibility of bypassing on right bank at high flows. Well rated, but backs up from downstream road bridge at highest flows and weir drowns at high flows - above 1.1m (starts at 0.5m). STATION HYDROMETRY: Two ratings applied across period of record, the most recent is valid from Nov-1997. Difficult to justify the shift in ratings. Some scatter in gaugings in the 0.5-1mASD range (weir drowns at high flows - above 1.1m - starts at 0.5m) but high spot gaugings confirm rating beyond this. Possibility of bypassing on Rb. Well rated, but backs up from downstream road bridge at highest flows. FLOW RECORD: Unusual flow pattern in Oct 1978 due to drawdown of Thornton Reservoir. Generally good site got high flows but possibility of bypassing on right bank. FLOW REGIME: Substantial imports enter the river from WRW.
+CATCHMENT,Geology predominantly Mercia Mudstone overlain by Boulder Clay with ancient Charnwood Forest rocks outcrop to the N. Predominantly rural, but drains a portion of NW Leicester and contains number of small towns.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged to within 13% of AMAX3.
+[END]

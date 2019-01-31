@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 28082
+[END]
+[CDS DETAILS]
+NAME,Soar
+LOCATION,Littlethorpe
+NOMINAL AREA,  180.56
+NOMINAL NGR,4542,2973
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,454200,297300
+CENTROID NGR,GB,449049,294044
+DTM AREA,  180.56
+ALTBAR, 103
+ASPBAR, 64
+ASPVAR,0.10
+BFIHOST,0.445
+DPLBAR, 12.36
+DPSBAR, 26.0
+FARL,0.982
+FPEXT,0.1137
+LDP, 23.04
+PROPWET,0.30
+RMED-1H, 10.8
+RMED-1D, 31.3
+RMED-2D, 38.5
+SAAR, 637
+SAAR4170, 668
+SPRHOST,39.95
+URBCONC1990, 0.731
+URBEXT1990,0.0361
+URBLOC1990, 0.847
+URBCONC2000, 0.843
+URBEXT2000,0.0444
+URBLOC2000, 0.859
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Electromagnetic station downstream of a flood relief channel - replaced Narborough (28051) in 1982: records combined. GENERAL: Electromagnetic station in a straight reach. Flood relief channel joins on the right bank just upstream. Prone to weed growth. Very low velocities at lowest flows may yield unreliable data. Bypassed at high flows above 2.4mASD. Banks raised just upstream of station in 1998 to keep flows in bank to a higher stage. Replaced Narborough (28051) in 1982. STATION HYDROMETRY: Two ratings applied across period of record, the most recent is valid from August-1998 when banks raised. Rating used to derive flows above 2.3m when electromagnetic instrumentation underestimates. The electromagnetic levels/flows show a high degree of scatter above 2.3mASD - electromagnetic flows not reliable above this level. Prone to weed growth. Very low velocities at lowest flows may yield unreliable data. Bypassed at high flows above 2.4mASD. FLOW REGIME: Substantial imports via WRW.
+CATCHMENT,Predominantly agricultural catchment just south of Leicester. Geology predominantly Mercia Mudstones overlain by extensive Boulder Clay and glacial gravel cover. Significant river terraces and alluvium in lower reaches.
+Qmed Suitability,Gauged above QMED and contained.
+Pooling Suitability,Gauged beyond AMAX3. Well rated to highest recorded flows.
+[END]

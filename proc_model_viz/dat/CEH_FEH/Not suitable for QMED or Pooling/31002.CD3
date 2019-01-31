@@ -1,0 +1,49 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 31002
+[END]
+[CDS DETAILS]
+NAME,Glen
+LOCATION,Kates Br & King St Br
+NOMINAL AREA,  337.90
+NOMINAL NGR,5106,3148
+[END]
+[DESCRIPTORS]
+CENTROID NGR,GB,500549,323390
+DTM AREA,  337.90
+ALTBAR,  63
+ASPBAR,107
+ASPVAR,0.26
+BFIHOST,0.595
+DPLBAR, 23.88
+DPSBAR, 30.5
+FARL,0.990
+FPEXT,0.1320
+LDP, 52.96
+PROPWET,0.22
+RMED-1H, 11.6
+RMED-1D, 31.7
+RMED-2D, 40.7
+SAAR, 608
+SAAR4170, 618
+SPRHOST,26.96
+URBCONC1990, 0.006
+URBEXT1990,0.0063
+URBLOC1990, 0.881
+URBCONC2000, 0.611
+URBEXT2000,0.0081
+URBLOC2000, 0.867
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Compound structures gauging the total flow of the river Glen from a rural catchment with mixed geology and significant artificial influences. GENERAL: Compound structure site. Kates Bridge was originally a broad-crested weir, replaced in Nov 1971 by Flat V weir, 9.7m wide, Ultrasonic gauge for high flows installed in 1999. Combined with standing-wave flume at King Street. Ultrasonic measurement closed in February 2013. STATION HYDROMETRY: All recorded flows within modular limits. During flood periods, some flow is diverted from the Glen down the Greatford Cut, which is measured at King Street. The diversion is about 4 km upstream from Kates Bridge on the Glen. FLOW REGIME: The Glen is influent in upper reaches. Low flows reduced by irrigation abstractions, influenced by pumping from gravel works and groundwater abstraction outside the catchment. Flows also affected by Gwash-Glen transfer scheme since 1989.
+CATCHMENT,Mixed geology of clay and limestone in headwaters. Significant superficial deposits, mainly Boulder Clay. Rural catchment, mixed agricultural land use with some woodland. Glen becomes a Fenland river below the gauging stations, and is a losing stream in its upper reaches. Digital catchment created from separate DTM-derived catchments for compound structure sites.
+Qmed Suitability,Uncertainty in point of drowning on King Street Flume.
+Pooling Suitability,Uncertainty in point of drowning on King Street Flume.
+[END]

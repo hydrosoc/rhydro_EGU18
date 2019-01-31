@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 39006
+[END]
+[CDS DETAILS]
+NAME,Windrush
+LOCATION,Newbridge
+NOMINAL AREA,  361.60
+NOMINAL NGR,4401,2018
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,440200,201850
+CENTROID NGR,GB,418884,219840
+DTM AREA,  361.60
+ALTBAR, 178
+ASPBAR,141
+ASPVAR,0.21
+BFIHOST,0.790
+DPLBAR, 43.84
+DPSBAR, 60.5
+FARL,0.951
+FPEXT,0.0750
+LDP, 70.60
+PROPWET,0.33
+RMED-1H, 10.5
+RMED-1D, 33.7
+RMED-2D, 42.1
+SAAR, 744
+SAAR4170, 771
+SPRHOST,17.18
+URBCONC1990, 0.596
+URBEXT1990,0.0152
+URBLOC1990, 0.667
+URBCONC2000, 0.789
+URBEXT2000,0.0152
+URBLOC2000, 0.572
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Compound weir structure located just u/s of the confluence with the Thames. The catchment is mainly pervious limestone; flows are influenced by various abstractions. GENERAL: Compound broad-crested weir (total crest width 8.3m) with complementary side-spilling weir (14.9m wide) into bypass channel. A fish pass was established u/s of the weir in April 2010 following the modification of a bypass channel that was formerly controlled by a sluice from 1996. STATION HYDROMETRY: Large capacity weir but is subject to drowning. Both weirs drown and are bypassed at very high flows. Weed build up, especially during summer, on the crest of the main channel concrete control structure has been an historical problem. From 1962 a calibration based upon gaugings was adopted resulting in a good rating. Rating estimates flows to a good level of accuracy but needs confirmation at the highest flows where gauging is difficult. The weir rating is very insensitive at low flows for the main weir structure. Fish pas bypasses the existing gauge and an index velocity flow meter has been installed to quantify the bypass flow, although the rating may be insensitive due to variable weed growth within this narrow channel. FLOW RECORD: Estimated flood peak of 28-31 cumecs in March 1947 (07/03/1947). This was before the commissioning of the station. Early data may be overestimated due to lack of weed cutting. Improvements in the method of water level measurement were made in 1969. Flow data gap between 23/9/03 and 12/1/04 estimated by the EA. FLOW REGIME: Flows influenced by groundwater abstraction/recharge. Abstraction occurs for public water supply and industrial/agricultural uses. Runoff diminished by a small net export of water (minor bypassing via side channels also occurs).
+CATCHMENT,A predominantly pervious (Oolitic L'st) catchment on the dip-slope of the Cotswolds. Mainly rural but the lower valley contains Witney and extensive gravel pit workings.
+Qmed Suitability,MAIN - Rating good, and 9 gaugings within 40% of QMED. SIDE - Rating is a little inaccurate, and should be reviewed, but will not make too much difference to the overall flow at this stage.
+Pooling Suitability,MAIN - AMAX1 is very high and more gaugings are required to confirm rating, though flow is within bank full. SIDE - Current rating underestimates flow, though is within bank full.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 21019
+[END]
+[CDS DETAILS]
+NAME,Manor Water
+LOCATION,Cademuir
+NOMINAL AREA,   59.95
+NOMINAL NGR,3217,6368
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,321700,636900
+CENTROID NGR,GB,320823,631646
+DTM AREA,   59.95
+ALTBAR, 458
+ASPBAR, 10
+ASPVAR,0.17
+BFIHOST,0.482
+DPLBAR,  7.69
+DPSBAR,273.0
+FARL,0.997
+FPEXT,0.0312
+LDP, 14.18
+PROPWET,0.72
+RMED-1H,  9.9
+RMED-1D, 40.6
+RMED-2D, 52.6
+SAAR,1344
+SAAR4170,1466
+SPRHOST,40.54
+URBCONC1990,-9999.000
+URBEXT1990,0.0000
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0000
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station on Manor Water. Water surface can freeze in winter. GENERAL: Velocity area station (section ~10m wide). STATION HYDROMETRY: Artificial control - flat concrete bar with stone pitched banks. Site situated at end of straight reach with bend just below bar. Water surface can freeze in winter necessitating ice corrections. Bypassing occurs at flows above 1.8m on the lb. Peak flow rating derived from current meter gaugings up to 1.1m (about 0.8 QMED), simple extrapolation beyond. FLOW RECORD: monthly naturalised flows available. FLOW REGIME: Runoff is slightly diminished by an u/s abstraction (Langhaugh Intake). Very responsive catchment.
+CATCHMENT,Steep upland catchment developed on Silurian shale. some of which is overlain by superficial deposits. Land use mostly hill grazing; some forest. No significant catchment changes known.
+Qmed Suitability,No comment
+Pooling Suitability,No comment
+[END]

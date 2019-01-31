@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 76806
+[END]
+[CDS DETAILS]
+NAME,Eden
+LOCATION,Great Musgrave Bridge
+NOMINAL AREA,  223.03
+NOMINAL NGR,3764,5131
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,376500,513100
+CENTROID NGR,GB,379230,508220
+DTM AREA,  223.03
+ALTBAR, 352
+ASPBAR,304
+ASPVAR,0.15
+BFIHOST,0.443
+DPLBAR, 13.54
+DPSBAR,117.8
+FARL,0.997
+FPEXT,0.0471
+LDP, 29.71
+PROPWET,0.66
+RMED-1H, 11.0
+RMED-1D, 45.1
+RMED-2D, 62.5
+SAAR,1270
+SAAR4170,1318
+SPRHOST,42.36
+URBCONC1990,-9999.000
+URBEXT1990,0.0018
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0040
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station with non-standard shallow V weir. Gauges a steep, natural catchment. GENERAL: Velocity area station with non-standard shallow V weir, 30m across constructed July 2000. STATION HYDROMETRY: Originally, an island 15m upstream of the weir caused slack water on the left bank, but this island is now slowly encroaching onto the weir; improvement planned. The far bank suffers from vegetation which needs clearing to aid high flow gaugings. Inspite of this, generally a good station, and gaugings by cableway extend to high flows with little scatter. Rated by current meter. Good fit to gaugings across stage range. FLOW REGIME: No artificial influences known.
+CATCHMENT,Steep catchment, combined with local limestone gives a very rapidly rising stage. No known catchment changes.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged beyond AMAX3. High gaugings capture out of bank flow.
+[END]

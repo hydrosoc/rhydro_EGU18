@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 84025
+[END]
+[CDS DETAILS]
+NAME,Luggie Water
+LOCATION,Oxgang
+NOMINAL AREA,   92.28
+NOMINAL NGR,2665,6734
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,266550,673450
+CENTROID NGR,GB,271833,670394
+DTM AREA,   92.28
+ALTBAR, 102
+ASPBAR,304
+ASPVAR,0.12
+BFIHOST,0.318
+DPLBAR, 12.01
+DPSBAR, 47.7
+FARL,0.964
+FPEXT,0.1028
+LDP, 22.33
+PROPWET,0.58
+RMED-1H,  8.6
+RMED-1D, 33.5
+RMED-2D, 44.9
+SAAR,1068
+SAAR4170,1047
+SPRHOST,40.36
+URBCONC1990, 0.697
+URBEXT1990,0.0590
+URBLOC1990, 0.863
+URBCONC2000, 0.828
+URBEXT2000,0.0771
+URBLOC2000, 0.922
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station in a catchment of mixed land use, some urbanisation. GENERAL: Velocity area station; about 10m wide. STATION HYDROMETRY: Informal Flat V triangular profile weir control. Some sign of weir undercutting in 1992, not thought to affect flows. Two peak flow ratings derived from current meter gaugings, pre- and post-Jan 1980. Both have spot gaugings up to about 0.5 QMED, simple extrapolation beyond. FLOW RECORD: Most flows contained but some spillage in flood conditions (e.g. Dec 1994). FLOW REGIME: Until 2003, sewage discharge to Bothlin Burn joining u/s of station.
+CATCHMENT,Catchment is generally lowland and undulating. Predominantly Coal Measures with some dolerite and basalt intrusions extensively overlain by superficial deposits, mainly Boulder Clay. Mixed land use, farming, urban development and open cast mining. Urban development (Cumbernauld) d/s of the station in late 1970s leading to a shift in channel morphology.
+Qmed Suitability,Though some caution should be exercised
+Pooling Suitability,Spot gaugings less than 50% of QMED,
+[END]

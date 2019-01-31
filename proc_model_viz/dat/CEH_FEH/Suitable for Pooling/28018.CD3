@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 28018
+[END]
+[CDS DETAILS]
+NAME,Dove
+LOCATION,Marston on Dove
+NOMINAL AREA,  884.07
+NOMINAL NGR,4237,3288
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,423700,328800
+CENTROID NGR,GB,408549,349044
+DTM AREA,  884.07
+ALTBAR, 217
+ASPBAR,157
+ASPVAR,0.14
+BFIHOST,0.528
+DPLBAR, 52.73
+DPSBAR, 91.9
+FARL,0.976
+FPEXT,0.0748
+LDP, 87.71
+PROPWET,0.42
+RMED-1H, 10.4
+RMED-1D, 34.3
+RMED-2D, 43.1
+SAAR, 935
+SAAR4170, 935
+SPRHOST,30.17
+URBCONC1990, 0.606
+URBEXT1990,0.0091
+URBLOC1990, 0.899
+URBCONC2000, 0.765
+URBEXT2000,0.0143
+URBLOC2000, 0.901
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station replaced in 1974 with flat V Crump profile weir. Not reliable at high flows. GENERAL: Velocity area station up to 1974 (bankfull 3.0m), when a Flat V Crump profile weir was installed. Very wide floodplain. STATION HYDROMETRY: Site is prone to weed growth and not reliable at high flows as drowns out and has a very wide floodplain. Small bypass (Tutbury Mill Fleam) included in naturalised flow series (<10% of flow at low flows, not as important at high flows). Cableway 100 yards upstream, but river breaks out of bank upstream of cableway. Three peak flow ratings applied across period of record, the most recent is valid from November 2000. Ratings reviewed in 2016. Double bank produces 2 break points on curve. Upper limb of current rating derived from hydraulic model. High flow gaugings have been taken at full range of flows up to 151m3/s and give a good confidence of using rating 9 at all in bank flows. Cableway measures in bank flows only and gaugings have never been taken on the floodplain or Tutbury Mill Fleam and so out of bank flows are not represented. FLOW RECORD: Not reliable at high flows as weir subject to drowning and out of bank flows have not been measured. Fish pass constructed on the right bank side of the weir between 19/10/15 and 07/09/16. FLOW REGIME: Storage in alluvium, terrace and fluvio-glacial gravel. Reservoirs in the catchment together with significant public water supply abstractions from surface water and/or ground water affect runoff. Moderately affected by imports.
+CATCHMENT,Middle and upper reaches drain over Carboniferous Limestone and Millstone Grit. Lower reaches broad and meandering. Below Rocester, Sherwood Sandstone and Mercia Mudstone dominate. Land use is predominantly pasture, forestry and mixed farming.
+Qmed Suitability,Gauged above QMED. Good fit to gaugings.
+Pooling Suitability,Gauged to within 4% of AMAX3. Both pre and post weir fit gaugings well. Confident in model derived rating for period post weir.
+[END]

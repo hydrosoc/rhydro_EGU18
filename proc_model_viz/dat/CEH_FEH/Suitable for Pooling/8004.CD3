@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+  8004
+[END]
+[CDS DETAILS]
+NAME,Avon
+LOCATION,Delnashaugh
+NOMINAL AREA,  540.75
+NOMINAL NGR,3185,8351
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,318500,835200
+CENTROID NGR,GB,316610,817590
+DTM AREA,  540.75
+ALTBAR, 525
+ASPBAR, 10
+ASPVAR,0.10
+BFIHOST,0.451
+DPLBAR, 28.85
+DPSBAR,178.1
+FARL,0.989
+FPEXT,0.0257
+LDP, 65.00
+PROPWET,0.63
+RMED-1H,  9.3
+RMED-1D, 39.9
+RMED-2D, 55.5
+SAAR,1108
+SAAR4170,1234
+SPRHOST,43.44
+URBCONC1990,-9999.000
+URBEXT1990,0.0005
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0002
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station with headwaters draining the northern Cairngorm peaks. GENERAL: Velocity area station with cableway. Station control washed away during August 2014 spate, as a result station relocated 20m upstream. STATION HYDROMETRY: Natural control. Control destroyed during August 2014 event. Some bypassing at high flows at stages higher than 3m. High water velocities (steep catchment) during highest flows accompanied by large bed load movements. Rating liable to change after major floods. Improved hydrometric performance following station reconstruction in 1985. Two peak flow ratings have been applied to whole record. Ratings from current meter gaugings, simple extrapolation beyond. Rating revised in 2016. FLOW RECORD: Lowest levels during the period 1981-84 estimated from available gauge readings, as levels fell below inlet pipe. Low February 1955 flow thought to be due to a frozen catchment. Full period of record peak flow data reviewed and released in April 2017 (WINFAP Files v5). Chart data between 1952 & 1986 was digitised in 2016.
+CATCHMENT,Mountainous headwaters draining northern side of highest Cairngorm peaks, often snowy in winter. Geology of gneisses and metamorphosed limestones with some igneous, and some sandstone. Land use of forest cover with moorland, rough grazing and a little pastoral. Minimal floodplain. Plantation forestry has developed in the lower portions of the catchment.
+Qmed Suitability,Gauged above QMED
+Pooling Suitability,Post-1970 rating supported by gaugings, bypassing occurs above AMAX3
+[END]

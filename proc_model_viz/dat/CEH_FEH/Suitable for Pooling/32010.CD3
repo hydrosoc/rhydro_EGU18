@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 32010
+[END]
+[CDS DETAILS]
+NAME,Nene
+LOCATION,Wansford
+NOMINAL AREA, 1516.08
+NOMINAL NGR,5080,2995
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,508050,299600
+CENTROID NGR,GB,483491,272913
+DTM AREA, 1516.08
+ALTBAR,  93
+ASPBAR, 91
+ASPVAR,0.10
+BFIHOST,0.520
+DPLBAR, 74.13
+DPSBAR, 36.2
+FARL,0.915
+FPEXT,0.0984
+LDP,121.32
+PROPWET,0.28
+RMED-1H, 12.2
+RMED-1D, 30.7
+RMED-2D, 39.3
+SAAR, 620
+SAAR4170, 626
+SPRHOST,36.56
+URBCONC1990, 0.705
+URBEXT1990,0.0312
+URBLOC1990, 0.987
+URBCONC2000, 0.824
+URBEXT2000,0.0492
+URBLOC2000, 1.001
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,VA station superseded by an ultrasonic station in 1996 measuring peak flows only. Gauging a predominantly rural catchment with significant urban areas, with mixed geology, and with significant artificial influences. GENERAL: Cross, multiple path (6 velocity and 1 depth) ultrasonic gauge installed 01/06/1996. Previously was a 97m wide VA station with cable way for current metering and sounding, for flows over 28.3 cumecs, used for high flow measurement on River Nene, with low and medium flows measured at Nene at Orton (32001). STATION HYDROMETRY: Structure spills into a lake on the right bank. Bankfull was originally 9.4 mAOD, increasing to 10.3 mAOD after bank raising work in 1964. Datum used for majority of record is 7.9mAOD but discrepancies found over years (maximum 120mm), accepted level record accuracy +-50mm. Multiple peak flow ratings applied across period of record. Current rating unreliable above 1.9m with no out of bank limb post-1964 (2.34m). FLOW RECORD: Dataset up to October 1970 has been reset to same datum (7.9 mAOD). FLOW REGIME: Flows influenced by abstractions for public water supply. Water level below 8.36mAOD affected by mill operation at Water Newton. Navigation retention level is 8.0mAOD.
+CATCHMENT,Mixed geology, moderate to very low permeability. Predominantly agricultural land use but several small towns in the catchment. Northampton is completely within this catchment on R. Nene.
+Qmed Suitability,Gauged above QMED. Rating fits reasonably well to gaugings.
+Pooling Suitability,Gauged to within 23% of AMAX3. Good for use in pooling groups after 17/1/64. It is recommended to ignore the early part of the data for pooling analysis (when bankfull was 1.5m and no rating took bankfull into account).
+[END]

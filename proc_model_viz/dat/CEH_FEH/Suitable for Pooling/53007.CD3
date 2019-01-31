@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 53007
+[END]
+[CDS DETAILS]
+NAME,Frome (Somerset)
+LOCATION,Tellisford
+NOMINAL AREA,  263.76
+NOMINAL NGR,3805,1564
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,380500,156450
+CENTROID NGR,GB,373522,146517
+DTM AREA,  263.76
+ALTBAR, 143
+ASPBAR, 54
+ASPVAR,0.17
+BFIHOST,0.563
+DPLBAR, 21.09
+DPSBAR, 60.6
+FARL,0.960
+FPEXT,0.0545
+LDP, 40.59
+PROPWET,0.36
+RMED-1H, 11.2
+RMED-1D, 37.4
+RMED-2D, 48.9
+SAAR, 965
+SAAR4170, 965
+SPRHOST,29.94
+URBCONC1990, 0.649
+URBEXT1990,0.0161
+URBLOC1990, 0.771
+URBCONC2000, 0.764
+URBEXT2000,0.0229
+URBLOC2000, 0.842
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Trapezoidal critical depth flume opened in 1961. Ultrasonic gauge installed 2007. GENERAL: Station located 500m north of the village of Tellisford and was opened in 1961. Trapezoidal critical depth flume. Ultrasonic gauge installed 11/2007. STATION HYDROMETRY: Full range station. Deeply incised channel at station; all but extreme floods contained, although some over-bank upstream storage. It is believed station does not drown. Present rating based on the theoretical rating for flume. Few gaugings, all in the low flow range. Estimated 100-year flow would be contained by structure. FLOW REGIME: Substantial groundwater abstractions in catchment. Detention lakes 5 to 6km upstream may truncate peaks. Pumping station upstream of gauging station.
+CATCHMENT,Predominantly limestone with impermeable clays in Frome Gap and Coal Measures in Mells Valley. Responsive catchment, however detention lakes 5 to 6km upstream may truncate peaks. Land use is predominantly rural. No major catchment changes.
+Qmed Suitability,As majority of flows are contained within structure, theoretical rating is expected to perform well.
+Pooling Suitability,As majority of flows are contained within structure, theoretical rating is expected to perform well.
+[END]

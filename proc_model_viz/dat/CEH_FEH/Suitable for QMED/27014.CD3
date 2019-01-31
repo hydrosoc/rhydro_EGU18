@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 27014
+[END]
+[CDS DETAILS]
+NAME,Rye
+LOCATION,Little Habton
+NOMINAL AREA,  680.90
+NOMINAL NGR,4743,4771
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,474250,477100
+CENTROID NGR,GB,463599,488603
+DTM AREA,  680.90
+ALTBAR, 181
+ASPBAR,152
+ASPVAR,0.23
+BFIHOST,0.547
+DPLBAR, 27.49
+DPSBAR, 98.1
+FARL,0.996
+FPEXT,0.0924
+LDP, 57.87
+PROPWET,0.35
+RMED-1H, 10.4
+RMED-1D, 32.4
+RMED-2D, 43.0
+SAAR, 824
+SAAR4170, 849
+SPRHOST,31.50
+URBCONC1990,-9999.000
+URBEXT1990,0.0034
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0045
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station in a rural catchment with no know artificial influences. Station closed 1970, POT data available to 1974. GENERAL: Velocity area station located low in the Vale of Pickering. Discontinued 1970, however, POT data available to 1974. STATION HYDROMETRY: No bypassing due to high flood banks. Although the channel was regraded in 1965, there was little alteration to the high flow rating. Multiple peak flow ratings applied across period of record, the most recent is valid from June 1969. Ratings derived from current meter gaugings which show significant scatter. Rating shapes differ although with no known change in control. Flood Studies Report grade A2. FLOW REGIME: Natural regime with no known artificial influences.
+CATCHMENT,Mixed geology, mostly moderate permeability with low permeability outcrops, some superficial deposits. Alluvium at the lower end in the Vale of Pickering, and Lacustrine Clay overlaying Jurassic rocks in the north and west of the catchment. In the centre the geology is Corallian beds, with smaller areas of Oxford and Kimmeridge clay. Rural, with moorland headwaters in north, arable in lower areas to south. Catchment includes the Seven and Hodge Beck which drain the Yorkshire moors. No known catchment changes.
+Qmed Suitability,Although significant scatter in gaugings exist, QMED estimates are thought to be reasonable.
+Pooling Suitability,Although gauged beyond AMAX3, estimates in high flows are uncertain due to distinct differences in ratings and scatter in gaugings.
+[END]

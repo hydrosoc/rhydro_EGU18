@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 32008
+[END]
+[CDS DETAILS]
+NAME,Nene/Kislingbury
+LOCATION,Dodford
+NOMINAL AREA,  104.26
+NOMINAL NGR,4627,2607
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,462750,260700
+CENTROID NGR,GB,460644,266183
+DTM AREA,  104.26
+ALTBAR, 131
+ASPBAR,121
+ASPVAR,0.13
+BFIHOST,0.455
+DPLBAR, 10.42
+DPSBAR, 41.7
+FARL,0.958
+FPEXT,0.0863
+LDP, 18.25
+PROPWET,0.30
+RMED-1H, 12.3
+RMED-1D, 33.2
+RMED-2D, 41.6
+SAAR, 660
+SAAR4170, 687
+SPRHOST,42.75
+URBCONC1990, 0.674
+URBEXT1990,0.0231
+URBLOC1990, 1.396
+URBCONC2000, 0.822
+URBEXT2000,0.0411
+URBLOC2000, 1.305
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Gauging a catchment with mixed geology, predominantly rural land land use, and with some significant artificial influences. GENERAL: Crump profile weir with 2.667m crest replaced broad-crested weir with low flow notch in 1967. STATION HYDROMETRY: Weir theoretically calibrated, but bypassing begins at 7 cumecs (1.038m). Weir can drown at high flows, floodplain flow is considerable once the river is out of bank, so flows are significantly underestimated from about 1.1m stage. Two ratings applied across period of record, the most recent is valid from Dec 1966 when weir was replaced. No allowances for out of bank flow, thus ratings unreliable above 1.45m pre-1966 and 1.4m post-1966. Scatter in gaugings above 0.3m. High flows measured 2km upstream at Flore Hill. FLOW REGIME: Reservoirs and abstractions affect regime, and low flows influenced by returns from STW. Abstraction for supply to Grand Union Canal.
+CATCHMENT,Mostly clay with nearly half of the catchment covered with superficial deposits (Boulder Clay, glacial sand and gravel in lower valley). Predominantly rural with mixed farming but some urban areas present, especially in W. Daventry and Drayton reservoirs in catchment (8.65 sq.km), built in 1804. Motorways (M1, M45) cross the catchment.
+Qmed Suitability,Scatter in gaugings and uncertainty in modular limit reduces confidence in rating.
+Pooling Suitability,Scatter in gaugings and uncertainty in modular limit reduces confidence in rating.
+[END]

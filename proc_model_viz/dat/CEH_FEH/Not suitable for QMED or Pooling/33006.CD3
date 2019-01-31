@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 33006
+[END]
+[CDS DETAILS]
+NAME,Wissey
+LOCATION,Northwold Total
+NOMINAL AREA,  259.37
+NOMINAL NGR,5771,2965
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,577150,296550
+CENTROID NGR,GB,587983,301030
+DTM AREA,  259.37
+ALTBAR,  46
+ASPBAR,203
+ASPVAR,0.13
+BFIHOST,0.762
+DPLBAR, 23.26
+DPSBAR, 19.6
+FARL,0.946
+FPEXT,0.1360
+LDP, 39.39
+PROPWET,0.30
+RMED-1H, 11.2
+RMED-1D, 28.1
+RMED-2D, 36.1
+SAAR, 659
+SAAR4170, 665
+SPRHOST,20.18
+URBCONC1990, 0.592
+URBEXT1990,0.0136
+URBLOC1990, 1.208
+URBCONC2000, 0.724
+URBEXT2000,0.0137
+URBLOC2000, 1.140
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Single site until 1983, since then a compound site with flows calculated as summation of the main flume and a side flume. GENERAL: Flow record is summation of a rectangular critical depth flume (4.9m wide) and a flume on a separate side stream which takes approx. 10% of the runoff. Streams rejoin just d/s of gauges. Post-1983, the flow from the second weir (side stream) was recorded, and 33006 is the summation of both structures. STATION HYDROMETRY: Drowning common - flows adjusted. Flows are the summation of two weirs. In 1980, Northwold Brook was diverted into the Wissey and Little River equally. More recently, all flow has been diverted into the Little River. FLOW RECORD: DMF in Jun - Dec 2007 were anomalously high and therefore adjusted by the Environment Agency; values appear plausible but should be treated with caution. FLOW REGIME: Abstraction for public water supply, industry and agriculture. Effluent returns increase runoff. Limited net impact of abstractions and discharges but spray irrigation increasing (substantial proportion from groundwater).
+CATCHMENT,Chalk largely overlain by Boulder Clay (permeable in parts). Low population density. Largely arable in upper (northern) catchment, extensive grassland, heathland, and some woodland in lower (southern) part of catchment.
+Qmed Suitability,An out of bank rating exists for the main weir but does not fit the gaugings above a stage of 0.3 m on the main weir.
+Pooling Suitability,An out of bank rating exists for the main weir however this does not fit the gaugings above a stage of 0.3 m on the main weir.
+[END]

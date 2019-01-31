@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 68044
+[END]
+[CDS DETAILS]
+NAME,Dane
+LOCATION,Hug Bridge
+NOMINAL AREA,   72.56
+NOMINAL NGR,3930,3636
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,393100,363600
+CENTROID NGR,GB,398635,367269
+DTM AREA,   72.56
+ALTBAR, 353
+ASPBAR,231
+ASPVAR,0.18
+BFIHOST,0.373
+DPLBAR, 10.88
+DPSBAR,146.1
+FARL,0.997
+FPEXT,0.0250
+LDP, 18.34
+PROPWET,0.52
+RMED-1H, 10.6
+RMED-1D, 39.1
+RMED-2D, 49.0
+SAAR,1160
+SAAR4170,1208
+SPRHOST,43.96
+URBCONC1990,-9999.000
+URBEXT1990,0.0003
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0011
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Flat-V weir in responsive catchment draining the western Peak District. GENERAL: Flat V weir (1:20 cross-slopes) constructed in November 1991, continuous records from August 1992. STATION HYDROMETRY: Gravel accretion above the weir affects the rating at low flows. An arched road bridge 20 m downstream can cause the river to back up to the weir at high stages. Above bankfull at 0.95m, flow expands out onto a wide flood plain, and into and around the station hut on the right, bypassing the cableway on both banks. Not rated above bankfull. Multiple peak flow ratings derived from gaugings applied across period of record. FLOW RECORD: The level of the flood event of October 1998 is estimated from wrack marks in the gauging hut. This level is considerably above both bankfull and the applicability of the rating, and probably reflects control from the road bridge. The flow value is therefore very uncertain. FLOW REGIME: Very responsive regime. Abstraction immediately upstream of weir for water treatment works.
+CATCHMENT,A predominantly rural catchment with steep relief, draining the western flank of the Peak District. Mixed geology including Millstone Grit, Yoredale series, coal measures and sandstone. The area is partly covered with glacial clays, sands and gravels. No catchment changes known.
+Qmed Suitability,Yes - Rating confirmed by gaugings up to QMED.
+Pooling Suitability,No - Not rated above bank full.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 29005
+[END]
+[CDS DETAILS]
+NAME,Rase
+LOCATION,Bishopbridge
+NOMINAL AREA,   63.27
+NOMINAL NGR,5032,3911
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,503200,391150
+CENTROID NGR,GB,511930,389959
+DTM AREA,   63.27
+ALTBAR,  49
+ASPBAR,257
+ASPVAR,0.35
+BFIHOST,0.520
+DPLBAR, 12.43
+DPSBAR, 28.8
+FARL,0.996
+FPEXT,0.1926
+LDP, 21.99
+PROPWET,0.29
+RMED-1H, 10.7
+RMED-1D, 31.7
+RMED-2D, 38.5
+SAAR, 641
+SAAR4170, 655
+SPRHOST,38.09
+URBCONC1990, 0.567
+URBEXT1990,0.0156
+URBLOC1990, 1.010
+URBCONC2000, 0.751
+URBEXT2000,0.0166
+URBLOC2000, 0.929
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Structure gauging upper, more natural, parts of catchment. GENERAL: Crump profile weir (crest length 3.658m). STATION HYDROMETRY: Station drowns above about 9 cumecs, and relationship between u/s and d/s levels depends on weed growth and the disposition of sluices and gates at Harlam Weir d/s. Significant scatter in gaugings above 0.5m limits confidence in rating extrapolation. Theoretical calibration. One rating applied across period of record. FLOW REGIME: Abstractions for PWS in the upper reaches has some effect on summer low flows. Some effluent returns.
+CATCHMENT,Upper parts of the catchment elevated, highest point around 150mASL (Lincolnshire Wolds), but most of the catchment is flat and low lying. Predominantly clay, over half of the catchment is covered with superficial deposits of blown sand and Boulder Clay. Predominantly rural catchment, mixed arable and pasture.
+Qmed Suitability,Although gauged to QMED, significant scatter above 0.5m results in uncertainty around flow estimates.
+Pooling Suitability,More gaugings are required to validate rating at high flows.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 84019
+[END]
+[CDS DETAILS]
+NAME,North Calder Water
+LOCATION,Calderpark
+NOMINAL AREA,  129.34
+NOMINAL NGR,2680,6624
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,268100,662500
+CENTROID NGR,GB,277922,664752
+DTM AREA,  129.34
+ALTBAR, 151
+ASPBAR,248
+ASPVAR,0.23
+BFIHOST,0.326
+DPLBAR, 19.15
+DPSBAR, 49.9
+FARL,0.920
+FPEXT,0.0729
+LDP, 38.27
+PROPWET,0.58
+RMED-1H,  8.6
+RMED-1D, 31.7
+RMED-2D, 42.7
+SAAR, 973
+SAAR4170, 932
+SPRHOST,41.53
+URBCONC1990, 0.776
+URBEXT1990,0.1050
+URBLOC1990, 0.710
+URBCONC2000, 0.876
+URBEXT2000,0.1463
+URBLOC2000, 0.711
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station in central lowlands east of Glasgow. GENERAL: Velocity area station; about 12m wide section. Cableway was removed due to landslip and fallen tree on 24/07/1990. Recorder sited on U-shaped bend so velocity profile is not symmetrical. Outer bank is a steep cliff being undercut by river. The inner bank is quite steep. STATION HYDROMETRY: All flows contained. Rating derived from current meter gaugings up to 1.1m (0.5 QMED), simple extrapolation beyond. FLOW REGIME: Many artificial influences which mainly impact on low to medium flows. Contains several storage reservoirs for canal supply. Monkland Canal drains through catchment and affects low flows. Water is also exported to Forth & Clyde Canal.
+CATCHMENT,Lies in central lowlands east of Glasgow. Contains several small storage lochs. Sedimentary rocks of Carboniferous age; approx. 95% of which is overlain by superficial deposits. Land use: grassland, forestry, arable lands u/s; extensive urban area d/s. No significant catchment changes known. However changes in sewage discharges and abstraction policy of Scottish Water might have occurred and would have an impact on low flows.
+Qmed Suitability,But with some caution as the highest spot gaugings are only about half QMED
+Pooling Suitability,Spot gaugings are less than half QMED. Considerable uncertainty in the high flood flows.
+[END]

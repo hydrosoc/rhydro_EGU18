@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 47010
+[END]
+[CDS DETAILS]
+NAME,Tamar
+LOCATION,Crowford Bridge
+NOMINAL AREA,   77.77
+NOMINAL NGR,2290, 990
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,229050,99100
+CENTROID NGR,GB,228557,108389
+DTM AREA,   77.77
+ALTBAR, 145
+ASPBAR,192
+ASPVAR,0.16
+BFIHOST,0.386
+DPLBAR, 14.37
+DPSBAR, 53.1
+FARL,0.947
+FPEXT,0.0636
+LDP, 25.87
+PROPWET,0.50
+RMED-1H, 12.4
+RMED-1D, 37.8
+RMED-2D, 49.1
+SAAR,1181
+SAAR4170,1202
+SPRHOST,41.61
+URBCONC1990,-9999.000
+URBEXT1990,0.0038
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0016
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Compound Crump weir. GENERAL: Compound Crump profile weir, total crest length 11m. STATION HYDROMETRY: Piers submerge around 1.65m stage. Drowning occurs when stage > 0.6m, (5.5 cumecs); low confidence in flows above this. Entrainment banks. Poor site. Variable backwater. Recently installed sidelooker and gaugings carried out above modular limit are significantly greater than the rating flow. Hysteresis in rating due to d/s flood plain; reliable only for low flows. One peak flow rating applied across period of record. Above piers (>1.65m), theoretical 'within pier' rating extrapolated. Transit time of flight installed in 10/2013 has identified that the current rating is under-recording at high flows so a new high flow limb will be applied to the POR in 2015. FLOW RECORD: Piers submerge around 1.65m stage. FLOW REGIME: Unusual flood response, not indicative of upper Tamar conditions. Flows substantially modified by the impoundment of the Tamar Lakes 15km u/s. Runoff also reduced by public water supply abstraction.
+CATCHMENT,River drains coastal hills of West Cornwall; relief is quite subdued, and rocks outcropping are shales and sandstones of Carboniferous Culm Measures. Land use is wholly rural with some artificially induced vegetation, moorland and low-grade agriculture. Impoundment of the Tamar Lakes.
+Qmed Suitability,Although gauged beyond QMED, considerable scatter in gaugings and rating uncertain.
+Pooling Suitability,Rating uncertain at high flows.
+[END]

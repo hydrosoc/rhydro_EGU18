@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 54029
+[END]
+[CDS DETAILS]
+NAME,Teme
+LOCATION,Knightsford Bridge
+NOMINAL AREA, 1483.65
+NOMINAL NGR,3734,2557
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,373450,255750
+CENTROID NGR,GB,346634,279097
+DTM AREA, 1483.65
+ALTBAR, 212
+ASPBAR,132
+ASPVAR,0.12
+BFIHOST,0.600
+DPLBAR, 69.48
+DPSBAR,110.1
+FARL,0.994
+FPEXT,0.0618
+LDP,117.13
+PROPWET,0.35
+RMED-1H, 10.4
+RMED-1D, 33.6
+RMED-2D, 44.2
+SAAR, 818
+SAAR4170, 853
+SPRHOST,30.81
+URBCONC1990, 0.506
+URBEXT1990,0.0066
+URBLOC1990, 0.852
+URBCONC2000, 0.691
+URBEXT2000,0.0065
+URBLOC2000, 0.835
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Flat V weir with training banks to contain higher flows replaced earlier a velocity-area station in 1998 affected by weed growth at low flows. GENERAL: Flat V weir with training banks to contain higher flow with cableway for full range calibration. Velocity-area station prior to 1998 which had a gravel control affected by weed growth at low flows. STATION HYDROMETRY: Cableway rated for full range calibration. Training banks contain higher flows. Earlier low flows at the VA station were affected by weed growth. Two peak flow ratings applied across period of record, the most recent. Pre and post weir ratings well gauged to bank full. FLOW RECORD: Construction of the weir resulted in missing data during November and December 1998. FLOW REGIME: PWS abstractions and sewage returns insignificant. Natural catchment
+CATCHMENT,Left bank: high relief hills and broad valleys. Right bank: steep and narrow. Geology mainly Palaeozoic sediments with Pre-Cambrian crystalline rocks of the Longmynd. Relatively Drift free; some valley gravel and Boulder Clay along main tributaries. Land use predominantly moorland,forestry and grazing.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged beyond AMAX3. QMED remains in bank.
+[END]

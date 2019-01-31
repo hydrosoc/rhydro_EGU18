@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+  9002
+[END]
+[CDS DETAILS]
+NAME,Deveron
+LOCATION,Muiresk
+NOMINAL AREA,  961.45
+NOMINAL NGR,3705,8498
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,370550,849850
+CENTROID NGR,GB,348676,840600
+DTM AREA,  961.45
+ALTBAR, 244
+ASPBAR, 73
+ASPVAR,0.09
+BFIHOST,0.511
+DPLBAR, 45.87
+DPSBAR,100.9
+FARL,0.997
+FPEXT,0.0412
+LDP, 84.64
+PROPWET,0.46
+RMED-1H,  8.3
+RMED-1D, 34.8
+RMED-2D, 48.6
+SAAR, 928
+SAAR4170, 994
+SPRHOST,35.27
+URBCONC1990,-9999.000
+URBEXT1990,0.0022
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0024
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station, the most downstream on the Deveron, draining mountainous headwaters. GENERAL: Velocity area station, about 38m wide. STATION HYDROMETRY: Cableway rated, natural control. Lots of out of bank flow. Bypassing occurs on lb above about 3.2m; floodplain flows have been measured. Reasonably fitted rating derived from current meter gaugings, simple extrapolation beyond. Peak flow rating was revised in 1999 and a new single rating was judged to be suitable for the whole period of record. Rating revised in 2016. FLOW RECORD: Full period of record peak flow data reviewed and released in April 2017 (WINFAP Files v5). Chart data between 1960 & 1987 was digitised in 2016. FLOW REGIME: Natural regime. Water abstraction point immediately d/s; no visible effect on level records.
+CATCHMENT,Mountainous headwaters, often snowy in winter. Complex granite and older basic intrusives with Dalradian metamorphics. Some ORS. Mostly impermeable bedrock, >80% overlain by superficial deposits. Some high moorland, mainly pastoral and arable; forestry. Minimal floodplains, mostly downstream. No significant catchment changes known.
+Qmed Suitability,Gauged above QMED
+Pooling Suitability,Bypassing and scatter in gaugings above QMED
+[END]

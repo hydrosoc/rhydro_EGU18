@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 27030
+[END]
+[CDS DETAILS]
+NAME,Dearne
+LOCATION,Adwick
+NOMINAL AREA,  310.98
+NOMINAL NGR,4476,4020
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,447700,402050
+CENTROID NGR,GB,434277,406336
+DTM AREA,  310.98
+ALTBAR, 105
+ASPBAR, 86
+ASPVAR,0.20
+BFIHOST,0.533
+DPLBAR, 21.51
+DPSBAR, 61.5
+FARL,0.952
+FPEXT,0.0715
+LDP, 45.53
+PROPWET,0.32
+RMED-1H, 10.3
+RMED-1D, 33.8
+RMED-2D, 45.7
+SAAR, 696
+SAAR4170, 707
+SPRHOST,25.42
+URBCONC1990, 0.717
+URBEXT1990,0.0971
+URBLOC1990, 0.822
+URBCONC2000, 0.852
+URBEXT2000,0.1056
+URBLOC2000, 0.830
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Crump profile weir in a heavily urbanised and industrialised catchment. Flow regime controlled by washlands since the gradual closure of mines. GENERAL: Crump profile weir 5.5m wide with broad-crested flanking weirs (0.4m higher than central weir), total width 17.4m built in 1963, 400m d/s of Adwick Bridge. Cableway located 25m upstream of weir. Problems with draw down effect were remedied in 1968. Weir subject to mining subsidence. Fish pass installed June 2013. STATION HYDROMETRY: No known bypassing. Flows greater than the capacity of the Crump profile weir rated by cableway. Three peak flow ratings applied across period of record. Rated by model tests with additional calibration by current meter gauging using cableway 25m upstream. Separate rating for fish pass (installed 2013) and flow added to weir flow to calculate total flow. Flood Studies Report grade A2 to 1.4m then B for straight-line extrapolation. FLOW RECORD: Continuous level data from 1961. Flow data from November 1963 but data pre-1975 is not thought to be very reliable. Post-1975 flows reprocessed in 1996: low flows reduced, high flows increased. Pre-1975 not thought to be reliable. In major flood events, backwater effects from Don are apparent (e.g. 2000). A peak flow of 71-73 cumecs is estimated for this event. Flows above 56 cumecs are subject to considerable uncertainty. Increased flows 02/12/2013-05/12/2013 a result on contractors working on site affecting the water level. Data marked as estimated. FLOW REGIME: Abstraction to supply from Scout Dike reservoir group and Midhope reservoirs in the Don, discharged to Dearne. Reservoir influence from Worsborough and Bretton Lakes draining around 20% of the catchment. Moderately heavy industrialisation, mine drainage, sewage effluent augmentation and net import of water from Don. Hydrological characteristics altered by surface works and groundwater rebound in response to mine water pumping. The construction of washlands in the Dearne catchment has been an ongoing activity since the gradual closure of mines. Some of the washlands are controlled by two structures: A river regulator at Bolton (upstream of Adwick) and a side sluice gate at Dearne Mouth (downstream). Uncontrolled washlands operate at flows from QMED upwards, the sluice and regulator are operated only very infrequently (sluice was operated in November 2000).
+CATCHMENT,Geology: primarily Carboniferous Coal Measures. Lower Coal Measures dip gently east northeast under more extensive Middle Coal Measures. Shales, overlain by alluvium. Land use: arable farming and moorland pasture in the headwaters. Significant urban development in middle reaches and valleys, including Barnsely. Coal mining and subsequent subsidence of land. Decline of coal mining and manufacturing industries throughout the period of record. Barnsley's growing population (and thereby development) peaked with the mining economy in 1971 (a quarter of Barnsley's population of Barnsley worked in mining by 1981). All mines were closed by 1994 with population decline since. The death of the industry left a legacy of abandoned deep mining pits and opencast coalmines, their associated spoil tips and mine works.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Although gauged to within 24% of AMAX3, variable backwater from the Don distorts the very largest flood events as it drowns structure, Poor fit to gaugings beyond 1. 5m, possibly as a result of drowning.
+[END]

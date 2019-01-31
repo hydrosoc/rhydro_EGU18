@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 69020
+[END]
+[CDS DETAILS]
+NAME,Medlock
+LOCATION,London Road
+NOMINAL AREA,   57.09
+NOMINAL NGR,3848,3975
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,384900,397550
+CENTROID NGR,GB,392236,401692
+DTM AREA,   57.09
+ALTBAR, 147
+ASPBAR,236
+ASPVAR,0.44
+BFIHOST,0.382
+DPLBAR, 12.71
+DPSBAR, 58.5
+FARL,0.973
+FPEXT,0.1094
+LDP, 23.44
+PROPWET,0.55
+RMED-1H, 11.1
+RMED-1D, 37.6
+RMED-2D, 51.2
+SAAR,1025
+SAAR4170,1039
+SPRHOST,35.64
+URBCONC1990, 0.824
+URBEXT1990,0.2718
+URBLOC1990, 0.831
+URBCONC2000, 0.911
+URBEXT2000,0.3666
+URBLOC2000, 0.849
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,A non-standard short crested weir in rectangular concrete channel in heavily urbanised catchment. GENERAL: A non-standard short crested weir 8.5m wide with sloping downstream face. Weir located in a rectangular concrete channel with vertical walls, upstream of a large culvert. Although the station was operational from April 1969, works were not completed until Sept 1969. STATION HYDROMETRY: Debris collects on the weir in this urban environment. Some siltation around the inlet pipe. No bypassing. Modelling suggests weir drowns at the highest flows. Two periods of construction of the Mancunian Way (motorway) significantly altered the river channel downstream of the gauging station. During the second phase, the channel was narrowed and wooden crest blocks were attached to the weir to create a low flow notch. They proved unsuccessful and were removed in October 1992. Access is difficult and gauging hazardous, current meter gaugings above low flows are taken from an upstream bridge. Peak flow rating based on gaugings at low flows, with modelled extrapolation; more gaugings are needed. All gaugings are now carried out at Palmerston Street which is approximately half a kilometre upstream. Multiple peak flow ratings apply over the period of record. Pressure sensor in river. FLOW RECORD: There are large jumps in the stage record during the second phase of motorway construction, so data are not presented for this period. FLOW REGIME: Some runoff from artificial surfaces. Greatly affected by effluent discharges.
+CATCHMENT,A heavily urbanised and industrial catchment extending into parts of Manchester and the southerly Pennine hills. Geology consists of coal measures overlain with post glacial soils. No catchment changes known.
+Qmed Suitability,Although not gauged to within 30% of QMED, the modelled rating should be within QMED criteria.
+Pooling Suitability,Modelling extrapolation should be within pooling criteria.
+[END]

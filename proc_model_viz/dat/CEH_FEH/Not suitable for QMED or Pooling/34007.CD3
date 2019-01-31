@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 34007
+[END]
+[CDS DETAILS]
+NAME,Dove
+LOCATION,Oakley Park
+NOMINAL AREA,  139.37
+NOMINAL NGR,6175,2770
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,617500,277100
+CENTROID NGR,GB,610966,269867
+DTM AREA,  139.37
+ALTBAR,  51
+ASPBAR, 39
+ASPVAR,0.15
+BFIHOST,0.427
+DPLBAR, 14.37
+DPSBAR, 15.2
+FARL,0.996
+FPEXT,0.1802
+LDP, 25.73
+PROPWET,0.28
+RMED-1H, 10.6
+RMED-1D, 26.5
+RMED-2D, 34.8
+SAAR, 585
+SAAR4170, 601
+SPRHOST,37.28
+URBCONC1990, 0.404
+URBEXT1990,0.0101
+URBLOC1990, 1.055
+URBCONC2000, 0.643
+URBEXT2000,0.0120
+URBLOC2000, 1.005
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Gauging a rural, Chalk and clay catchment with Boulder Clay cover, significant gw abstraction in 1975-1979 due to the Waveney Groundwater Scheme. GENERAL: Compound Crump weir with low flow notch and crest tapping. STATION HYDROMETRY: Non-modular at 13 cumecs and bypassed at 18 cumecs. Obstructions on the weir have occasionally led to erroneously high summer flows. Good fit to gaugings below 0.7m The SG value of 1.74m is believed theoretical and the FQ of 38.6 cumecs is an estimate (including the bypass), not a gauging. One rating applied across period of record. Station was reviewed in 2014 but rating was not changed because no method for estimating non-modular flows was found. FLOW RECORD: No POT data are presented for this station as they have no non-modular flow correction applied. AMAX data have been corrected, but in some cases can be below the daily flow as these are not corrected. Three suspect events in spring 2015 (2015/03/26, 2015/03/26, 2015/04/26, 2015/04/27, 2015/05/25, 2015/05/26) which also affect HIF for those months. FLOW REGIME: Significant effects of gw abstraction 1975-1979 due to the Waveney Groundwater Scheme. Groundwater abstractions and effluent returns have a minor net effect on flows.
+CATCHMENT,Chalk and clay catchment, largely overlain with Boulder Clay. Predominately arable land.
+Qmed Suitability,Gauging suggest that QMED may be slightly over estimated once weir drowns.
+Pooling Suitability,Gauge reportedly non-modular and bypassed when flows are extremely high.
+[END]

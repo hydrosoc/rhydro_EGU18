@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 28081
+[END]
+[CDS DETAILS]
+NAME,Tame
+LOCATION,Bescot
+NOMINAL AREA,  174.46
+NOMINAL NGR,4014,2956
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,401400,295650
+CENTROID NGR,GB,398666,296742
+DTM AREA,  174.46
+ALTBAR, 149
+ASPBAR, 94
+ASPVAR,0.07
+BFIHOST,0.400
+DPLBAR,  9.72
+DPSBAR, 27.3
+FARL,0.940
+FPEXT,0.1463
+LDP, 18.87
+PROPWET,0.31
+RMED-1H, 11.0
+RMED-1D, 33.6
+RMED-2D, 41.1
+SAAR, 712
+SAAR4170, 713
+SPRHOST,38.20
+URBCONC1990, 0.877
+URBEXT1990,0.4206
+URBLOC1990, 0.980
+URBCONC2000, 0.957
+URBEXT2000,0.6663
+URBLOC2000, 0.989
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,An ultrasonic gauging station with trapezoidal flume. GENERAL: Ultrasonic site commissioned 03/89; to provide flow data for water resources, water quality monitoring and flood forecasting. US appears to be underestimating flows. Original flume never reached critical velocity since Tame dredging not carried out to anticipated depth. Previous electromagnetic gave poor flow data due to lack of calibration. STATION HYDROMETRY: Fully modular, has never been overtopped. Some trouble with left bank accretion, incised gauging section, and heavy undergrowth. One rating applied across period of record, based on rating tables not gaugings. Difficult to gauge higher flows the largest of which suggests rating underestimates flow. Rating revised in 2016. Rating revised in 2016. FLOW RECORD: Low flow data possibly inaccurate, as at best only two paths are in the river. FLOW REGIME: Very responsive. Substantial imports from water reclamation work. Above 70 cumecs washland overspill upstream operates.
+CATCHMENT,Almost entirely urbanised catchment just below confluence of upper Tame branches. Solid geology predominantly Coal Measures overlain by extensive Boulder Clay and sand and gravel.
+Qmed Suitability,Gauged above QMED pre-ultrasonics, and to 6.4% post installment.
+Pooling Suitability,Rating currently overestimating flows - unable to validate above QMED. Some scatter in spot gaugings.
+[END]

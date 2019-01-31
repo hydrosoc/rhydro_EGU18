@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 24004
+[END]
+[CDS DETAILS]
+NAME,Bedburn Beck
+LOCATION,Bedburn
+NOMINAL AREA,   74.12
+NOMINAL NGR,4117,5321
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,411800,532200
+CENTROID NGR,GB,405023,530533
+DTM AREA,   74.12
+ALTBAR, 316
+ASPBAR, 95
+ASPVAR,0.33
+BFIHOST,0.362
+DPLBAR,  9.84
+DPSBAR,109.0
+FARL,0.999
+FPEXT,0.0105
+LDP, 17.31
+PROPWET,0.59
+RMED-1H, 10.0
+RMED-1D, 34.8
+RMED-2D, 45.1
+SAAR, 895
+SAAR4170, 948
+SPRHOST,43.76
+URBCONC1990,-9999.000
+URBEXT1990,0.0007
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0006
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Compound Crump weir set in a deep valley with progresive afforestation and felling practices. GENERAL: Compound Crump profile weir, 2.4m low flow crest, 10.3m overall (2:1 u/s and 5:1 d/s slopes). No cableway. A steep drop d/s makes drowning unlikely. Set in a deep valley. STATION HYDROMETRY: May go out of bank on the right and go behind the gauging hut when flows reach wing walls (2.1m); well contained on left bank by steep slope. Hard to gauge at high flows. One peak flow rating applied across period of record. Good fit to available gaugings. Flood Studies Report grade A1 to 2m. FLOW REGIME: Natural regime, no known artificial influences.
+CATCHMENT,Predominantly upland catchment, on Millstone Grit in north and Coal Measures to south, a quarter of the catchment overlain by drift cover of Boulder Clay and peat. Land use is upland moorland, grass pasture and coniferous forest. Progressive afforestation and felling (Hamsterley Forest) since gauge established may have created changes in hydrological regime.
+Qmed Suitability,Although not gauged to within 30% of QMED, all flows are contained within the formal structure.
+Pooling Suitability,All flows are contained within the formal structure and rating expected to perform well.
+[END]

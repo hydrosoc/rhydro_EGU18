@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 27029
+[END]
+[CDS DETAILS]
+NAME,Calder
+LOCATION,Elland
+NOMINAL AREA,  340.75
+NOMINAL NGR,4124,4219
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,412400,421950
+CENTROID NGR,GB,400166,424872
+DTM AREA,  340.75
+ALTBAR, 292
+ASPBAR,103
+ASPVAR,0.14
+BFIHOST,0.455
+DPLBAR, 20.46
+DPSBAR,138.6
+FARL,0.931
+FPEXT,0.0256
+LDP, 35.53
+PROPWET,0.57
+RMED-1H, 11.2
+RMED-1D, 43.3
+RMED-2D, 58.7
+SAAR,1257
+SAAR4170,1264
+SPRHOST,38.53
+URBCONC1990, 0.663
+URBEXT1990,0.0338
+URBLOC1990, 0.555
+URBCONC2000, 0.749
+URBEXT2000,0.0477
+URBLOC2000, 0.628
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Broad-crested masonry weir in catchment with heavily urbanised valley floors and rural headwaters. GENERAL: Broad-crested masonry weir 53m wide with a 5m Crump-profile notch adjacent to the right wing wall for low flow measurement. In July 1969, deteriorating timber-crest replaced by concrete-cap. Low flow notch enlarged 1971 followed by recalibration. The weir is a short distance downstream of a bend and adjacent a fly-ash dump, which acts to contain high flows. When the old canal, 'Tag Cut' was infilled, historic problem of flows bypassing the station removed. STATION HYDROMETRY: Current metering of low-flows was originally from the footbridge 200m downstream in June 1954, then from 1962 using an adjacent cableway. A pressure-bulb recorder was installed to monitor high flows in 1969. Cableway burned 1989 replaced by rail on vehicle bridge 200m d/s, 1996. Water level recorder resited nearer the river in 1980. Flow out of bank at recorder is contained at cableway. Three peak flow ratings applied across the period of record. Crump weir formula for weir notch with main weir calibrated by current metering from bridge. Flood Studies Report grade of A2 downgraded to C when computed flows were compared with original rating in 1975. FLOW RECORD: Period-of-record maximum flow occurred in October 1967 but considerable uncertainty surrounds the event magnitude. The Measuring Authority record a figure of 520 cumecs, but this is known to have been extrapolated and may have been affected by hydrometric changes. Weir breached and repaired to same specifications in June 1982 necessitating a new rating curve. Flows reprocessed, resulting in a substantial increase in high flows and a decrease in low flows. Gaugings from 1987 were subject to systematic error and not used. Rating review in 2011 slightly increased flows above 0.6m stage (1971-present). FLOW REGIME: Heavily impounded with around 18 reservoirs controlling about 15.4% of total watershed, mainly by small impoundments, but including Walshaw Dean. Some abstraction to supply the Yorkshire Grid.
+CATCHMENT,Catchment draining the eastern flank of the Pennines, above Halifax. Geology comprises Upper Carboniferous Millstone Grit Series but includes a small area of Lower Coal Measures at Elland. The headwaters rise from peat-covered moorland. Very steep and often-wooded, headwater valleys cut down through Millstone Grit. Valley bottoms of lower catchment are heavily urbanised and industrialised. Valleys rise steeply to moorland predominantly covered by peat. Higher land is roughly grazed. The valley floors are urbanised and industrialised; the catchment contains Halifax and Elland. Increasing urbanisation in valley bottom towns during period of record.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Although not gauged beyond QMED, rating is theoretical and extrapolation in well-contained section expected to be good.
+[END]

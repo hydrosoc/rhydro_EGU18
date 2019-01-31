@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 36006
+[END]
+[CDS DETAILS]
+NAME,Stour
+LOCATION,Langham
+NOMINAL AREA,  571.36
+NOMINAL NGR,6020,2344
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,602050,234400
+CENTROID NGR,GB,579556,245068
+DTM AREA,  571.36
+ALTBAR,  75
+ASPBAR,122
+ASPVAR,0.12
+BFIHOST,0.509
+DPLBAR, 44.14
+DPSBAR, 33.6
+FARL,0.985
+FPEXT,0.0861
+LDP, 79.29
+PROPWET,0.25
+RMED-1H, 10.6
+RMED-1D, 27.7
+RMED-2D, 35.0
+SAAR, 580
+SAAR4170, 599
+SPRHOST,37.79
+URBCONC1990, 0.564
+URBEXT1990,0.0139
+URBLOC1990, 0.988
+URBCONC2000, 0.752
+URBEXT2000,0.0189
+URBLOC2000, 1.001
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Station provides high quality record from a rural catchment with minor urban areas, although some bypassing and artificial influences are significant. GENERAL: Twin-trapezoidal flume, throat tapping. Spillway channel with thin-plate weir constructed in 12/1985 takes some flow above 1.45m. Excellent site. STATION HYDROMETRY: Bypassing occurs over opposite bank above 1.85m. More bypassing possible from 0.5km u/s during extreme events. One rating applied across period of record. Rating combines all flow elements. FLOW RECORD: No POT data are presented for this station as they have no non-modular flow correction applied. AMAX data have been corrected, but in some cases can be below the daily flow as these are not corrected. June and July 2008 affected by PWS abstractions. Naturalised flows to September 1976. FLOW REGIME: Gw-influenced. Runoff reduced by surface water and ground water abstraction for PWS, industry and agriculture. Occasional augmentation from Stour Augmentation Groundwater Scheme (SAGS) borehole pumping, and intermittent pumping from Ely/Ouse Transfer Scheme. Occasional peaks due to mill operation.
+CATCHMENT,Chalk outcrops in N, London Clay in S, overlain by superficial deposits, mainly semi-pervious Boulder Clay. Mainly rural catchment, predominantly arable land, with minor urban development in valley bottom.
+Qmed Suitability,Gauged above QMED. Reasonable fit to gaugings.
+Pooling Suitability,Although gauged beyond AMAX3 and accounts for bypassing, significant scatter above 1.85m limits the rating confidence to this level. Extrapolation beyond is increasingly uncertain.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 42012
+[END]
+[CDS DETAILS]
+NAME,Anton
+LOCATION,Fullerton
+NOMINAL AREA,  186.16
+NOMINAL NGR,4378,1392
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,437900,139250
+CENTROID NGR,GB,431850,147740
+DTM AREA,  186.16
+ALTBAR, 113
+ASPBAR,159
+ASPVAR,0.27
+BFIHOST,0.931
+DPLBAR, 16.66
+DPSBAR, 40.1
+FARL,0.954
+FPEXT,0.0561
+LDP, 29.23
+PROPWET,0.34
+RMED-1H, 10.7
+RMED-1D, 32.8
+RMED-2D, 41.7
+SAAR, 773
+SAAR4170, 801
+SPRHOST, 8.10
+URBCONC1990, 0.624
+URBEXT1990,0.0244
+URBLOC1990, 0.744
+URBCONC2000, 0.804
+URBEXT2000,0.0358
+URBLOC2000, 0.736
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Combination of flows from main and side weir. Gauges a predominantly Chalk catchment with baseflow dominated regime. GENERAL: Combination of flows from main weir (4.75m Crump) and side weir (1m Crump). Full range station. STATION HYDROMETRY: Two weirs both rated using crump weir hydraulic calculations. FLOW RECORD: Annual maxima post-1981 derived by taking highest stage on main weir and using highest stage on corresponding day at side weir. Pre-1981, only data from 4.75m weir available. FLOW REGIME: Natural to within 10% at the 95 percentile flow. Baseflow-dominated regime but surface runoff can generate short-lived events. Significant groundwater abstraction. Water levels influenced by local mill sluice operation and, in the summer, by eel-traps. Cress beds in headwaters.
+CATCHMENT,The groundwater catchment exceeds the topographical catchment area. An unresponsive (Chalk) catchment of rolling downland - the upper reaches of the Anton are ephemeral. Land use is rural with some expanding urban centres - Andover is 5km upstream.
+Qmed Suitability,4.75 m weir rating confirmed at high flows. 1.0mweir rating not confirmed at high flow but combined makes up a minor part of the Fullerton Total flow.
+Pooling Suitability,4.75 m weir rating confirmed at high flows. 1.0mweir rating not confirmed at high flow but combined makes up a minor part of the Fullerton Total flow.
+[END]

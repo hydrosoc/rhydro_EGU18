@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 44801
+[END]
+[CDS DETAILS]
+NAME,Hooke
+LOCATION,Hooke
+NOMINAL AREA,   12.59
+NOMINAL NGR,3539, 999
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,353900,99900
+CENTROID NGR,GB,352148,101720
+DTM AREA,   12.59
+ALTBAR, 200
+ASPBAR,159
+ASPVAR,0.21
+BFIHOST,0.599
+DPLBAR,  3.41
+DPSBAR, 81.2
+FARL,0.928
+FPEXT,0.0173
+LDP,  7.48
+PROPWET,0.38
+RMED-1H, 11.5
+RMED-1D, 41.4
+RMED-2D, 51.4
+SAAR,1030
+SAAR4170,1067
+SPRHOST,37.76
+URBCONC1990,-9999.000
+URBEXT1990,0.0003
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0014
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,GRP flat V Crump weir built in 1989. Frequent silt / gravel accumulation occurs upstream of the weir and in approach channel. GENERAL: Station was built in 1989. GRP flat V Crump weir, 3.0m wide. Weir is not level but the effect on high flows is likely to be insignificant. STATION HYDROMETRY: Frequent silt / gravel accumulation occurs upstream of the weir and in approach channel. No known modularity problems. One theoretical rating applied which is confirmed by gaugings, though gaugings don't extend to QMED. Extreme flows are overbank. The upper limit at Hooke is at 0.43m / 1.45m3/s. It is extrapolated beyond that limit. FLOW REGIME: Some spring abstraction. Fish farm upstream of station.
+CATCHMENT,The catchment area consists mainly of Upper Cretaceous, Upper Chalk and Upper Greendsand. Top end is a chalk stream. Land use mostly rural. No major catchment changes.
+Qmed Suitability,Rating expected to perform well to QMED.
+Pooling Suitability,Few high flow gaugings. Rating can not be validated beyond QMED.
+[END]

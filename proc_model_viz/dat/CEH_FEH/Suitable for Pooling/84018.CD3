@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 84018
+[END]
+[CDS DETAILS]
+NAME,Clyde
+LOCATION,Tulliford Mill
+NOMINAL AREA,  938.36
+NOMINAL NGR,2893,6403
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,289400,640300
+CENTROID NGR,GB,293416,628982
+DTM AREA,  938.36
+ALTBAR, 330
+ASPBAR,  7
+ASPVAR,0.07
+BFIHOST,0.452
+DPLBAR, 42.73
+DPSBAR,126.2
+FARL,0.966
+FPEXT,0.0616
+LDP, 84.89
+PROPWET,0.61
+RMED-1H,  9.6
+RMED-1D, 38.5
+RMED-2D, 53.3
+SAAR,1205
+SAAR4170,1225
+SPRHOST,42.30
+URBCONC1990,-9999.000
+URBEXT1990,0.0013
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0024
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station on the River Clyde. GENERAL: Velocity area station; approx. 60m wide. STATION HYDROMETRY: Natural control. Weed growth at low flows affects the Clyde from May to September. Banks maybe overtopped at flows at extreme flows. Peak flow ratings derived from current meter gaugings up to 1.9m (about 1.2 QMED), simple extrapolation beyond. FLOW RECORD: Monthly naturalised flows available (1969-74). Flows from Jan 1978 reprocessed in 2013. FLOW REGIME: Catchment includes a number of PWS gathering grounds from which the yield is exported.
+CATCHMENT,The catchment ranges in height from 180-800m. Mixed geology - ancient sedimentaries (ORS/Ordovician) dominate the headwaters; mostly igneous formations below. Substantial superficial deposits. About one third is cultivated, the remainder is hill grazing and moorland, with some forestry. No significant catchment changes known. Small reservoirs in headwaters.
+Qmed Suitability,No comment
+Pooling Suitability,No comment
+[END]

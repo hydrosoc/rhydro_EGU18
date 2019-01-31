@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 84002
+[END]
+[CDS DETAILS]
+NAME,Calder
+LOCATION,Muirshiel
+NOMINAL AREA,   12.05
+NOMINAL NGR,2309,6638
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,230900,663800
+CENTROID NGR,GB,228547,664724
+DTM AREA,   12.05
+ALTBAR, 359
+ASPBAR, 49
+ASPVAR,0.38
+BFIHOST,0.272
+DPLBAR,  4.41
+DPSBAR, 95.1
+FARL,0.988
+FPEXT,0.0399
+LDP,  8.35
+PROPWET,0.61
+RMED-1H, 12.5
+RMED-1D, 57.5
+RMED-2D, 80.4
+SAAR,2316
+SAAR4170,2246
+SPRHOST,58.06
+URBCONC1990,-9999.000
+URBEXT1990,0.0000
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0000
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Compound sharp-edged weir. Poor quality and patchy record. GENERAL: Compound sharp-edged weir approx. 20m wide. 7km above the river outfall to Castle Semple Loch. Station closed in 1976. SEPA re-opened the station in Dec 1993 with main purpose of pollution prevention and control; but the data is of poor quality. Re-opened station closed in 2003. STATION HYDROMETRY: U/s of station is a very active gravel/silt bank. Limit of measurement 16cumecs; no information on hydrometric performance. Theoretical rating (Lea rated). FLOW RECORD: Calder Reservoir was breached in 1984, it controlled about 50% of the catchment. Very patchy record but includes most of the 1950s-60s. FLOW REGIME: Very flashy response. Runoff reduced by major u/s abstraction.
+CATCHMENT,Carboniferous basalt on igneous intrusions, overlain by Boulder Clay. Peat in some upland areas. Upland catchment. Land use comprises of moorland and rough grazing.No significant catchment changes known.
+Qmed Suitability,slightly doubtful
+Pooling Suitability,quality of data not known, (charts were truncated and high flows estimated)
+[END]

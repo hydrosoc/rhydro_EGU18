@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 29001
+[END]
+[CDS DETAILS]
+NAME,Waithe Beck
+LOCATION,Brigsley
+NOMINAL AREA,  108.75
+NOMINAL NGR,5252,4016
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,525300,401600
+CENTROID NGR,GB,520794,395903
+DTM AREA,  108.75
+ALTBAR,  94
+ASPBAR, 37
+ASPVAR,0.19
+BFIHOST,0.880
+DPLBAR, 13.94
+DPSBAR, 52.2
+FARL,0.961
+FPEXT,0.0416
+LDP, 24.30
+PROPWET,0.29
+RMED-1H, 10.3
+RMED-1D, 32.1
+RMED-2D, 40.1
+SAAR, 691
+SAAR4170, 730
+SPRHOST,11.46
+URBCONC1990,-9999.000
+URBEXT1990,0.0045
+URBLOC1990,-9999.000
+URBCONC2000, 0.587
+URBEXT2000,0.0064
+URBLOC2000, 0.928
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Structure is able to contain all flows, gauging a rural, predominantly Chalk, catchment with significant artificial influences. GENERAL: Broad trapezoidal flume (1.83m wide at base) with theoretical rating confirmed to 0.9 cumecs. All recorded flows have been contained within the structure. STATION HYDROMETRY: Theoretical rating applied across period of record. FLOW REGIME: Gw abstraction near Grimsby and irrigation abstractions have significant effect on low flows. Also abstractions for PWS and industry. Runoff increased by effluent returns.
+CATCHMENT,Predominantly Chalk catchment with rural (mainly arable) land use.
+Qmed Suitability,Gauged above QMED. Reasonable fit to gaugings.
+Pooling Suitability,Few high flow gaugings. Rating can not be validated beyond QMED.
+[END]

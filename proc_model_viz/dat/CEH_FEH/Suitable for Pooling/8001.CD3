@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+  8001
+[END]
+[CDS DETAILS]
+NAME,Spey
+LOCATION,Aberlour
+NOMINAL AREA, 2645.63
+NOMINAL NGR,3277,8439
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,327800,844000
+CENTROID NGR,GB,292140,810489
+DTM AREA, 2645.63
+ALTBAR, 474
+ASPBAR, 15
+ASPVAR,0.06
+BFIHOST,0.484
+DPLBAR, 77.19
+DPSBAR,157.5
+FARL,0.956
+FPEXT,0.0526
+LDP,147.04
+PROPWET,0.65
+RMED-1H,  9.3
+RMED-1D, 36.6
+RMED-2D, 51.7
+SAAR,1133
+SAAR4170,1195
+SPRHOST,44.47
+URBCONC1990,-9999.000
+URBEXT1990,0.0006
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0011
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station in largely mountainous catchment. HEP production and loch storage in catchment. GENERAL: Velocity area station about 45 m wide. STATION HYDROMETRY: Natural control. Bank collapse in 1995 blocked off both inlet pipes. Peak flow rating derived from current meter gaugings up to 2.4m (about 1.1QMED), simple extrapolation beyond. Rating not developed since 1974. Assumed suitable for application to present. FLOW RECORD: Daily flows not archived since 1974. FLOW REGIME: 15% of catchment controlled for HEP production - but limited net export of water (relative to annual runoff). Reservoirs for hydropower: Spey Dam (1944), Loch an T-Seilich (1941) and Cuaich (1961). Storage at Loch Insh and Insh marshes - at high flows floodplain becomes part of loch.
+CATCHMENT,Catchment is largely mountainous (includes all north-facing slopes of Cairngorms). Geology of granites and Moinian metamorphics. Dalradian with a little Old Red Sandstone. Diverse land use of moorland, hill grazing, some arable land in lower valley, forest cover. No significant catchment changes known.
+Qmed Suitability,Suitable for QMED estimation.
+Pooling Suitability,Although gaugings do not extend beyond QMED, rating assumed to still apply to high flows.
+[END]

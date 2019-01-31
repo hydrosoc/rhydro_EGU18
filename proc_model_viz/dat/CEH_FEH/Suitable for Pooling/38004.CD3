@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 38004
+[END]
+[CDS DETAILS]
+NAME,Rib
+LOCATION,Wadesmill
+NOMINAL AREA,  136.79
+NOMINAL NGR,5359,2174
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,535950,217450
+CENTROID NGR,GB,537727,228616
+DTM AREA,  136.79
+ALTBAR, 112
+ASPBAR,163
+ASPVAR,0.15
+BFIHOST,0.470
+DPLBAR, 19.55
+DPSBAR, 38.4
+FARL,0.999
+FPEXT,0.0539
+LDP, 30.41
+PROPWET,0.30
+RMED-1H, 11.2
+RMED-1D, 31.7
+RMED-2D, 38.9
+SAAR, 625
+SAAR4170, 646
+SPRHOST,38.01
+URBCONC1990, 0.512
+URBEXT1990,0.0127
+URBLOC1990, 0.829
+URBCONC2000, 0.714
+URBEXT2000,0.0147
+URBLOC2000, 0.895
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Compound structured gauging station located in the lower Rib catchment. GENERAL: Trapezoidal flume plus side-spilling Crump weir on the overflow channel. STATION HYDROMETRY: One rating applied across the POR. Reasonable fit to gaugings although evidence suggests rating underestimates flow slightly. Modular calibration has applied during rare periods of drowned flow. FLOW RECORD: All except highest floods contained. GDF data available (1957-83) for d/s limited range station (Rib at Herts Training School - 38006). FLOW REGIME: Flows influenced by significant gw abstractions for industrial and agricultural purposes (net export). The channel is weeded and dredged regularly as debris gets caught on weir occasionally.
+CATCHMENT,Solid geology Upper Chalk, extensively overlain by boulder clay; glacial sands and gravel in the valleys. Predominantly a rural catchment. Significant runoff generated from the towns of Buntingford and Thundridge as well as clays high up the catchment.
+Qmed Suitability,Gauged within 31% of QMED. Flow is within bank and standard weir expected to perform well.
+Pooling Suitability,Although no high flow gaugings, standard weir expected to perform well.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 28048
+[END]
+[CDS DETAILS]
+NAME,Amber
+LOCATION,Wingfield Park
+NOMINAL AREA,  128.64
+NOMINAL NGR,4375,3520
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,437550,352000
+CENTROID NGR,GB,438855,358998
+DTM AREA,  128.64
+ALTBAR, 158
+ASPBAR,135
+ASPVAR,0.16
+BFIHOST,0.464
+DPLBAR, 12.16
+DPSBAR, 68.1
+FARL,0.945
+FPEXT,0.0560
+LDP, 24.12
+PROPWET,0.36
+RMED-1H, 10.7
+RMED-1D, 34.0
+RMED-2D, 42.7
+SAAR, 800
+SAAR4170, 783
+SPRHOST,29.55
+URBCONC1990, 0.712
+URBEXT1990,0.0415
+URBLOC1990, 0.915
+URBCONC2000, 0.857
+URBEXT2000,0.0732
+URBLOC2000, 0.898
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Crump profile Flat V weir draining catchment containing coal measures and moorland and PWS reservoir. GENERAL: Crump profile Flat V weir in trapezoidal channel. Higher flows gauged from bridge upstream. Extreme flows bypass on right bank. Fairly low modular limit. Stream joins downstream, which causes drowning of gauging station weir. Pumped Eel pass installed 2015. STATION HYDROMETRY: Two ratings applied across period of record which are identical above 0.5m. The top section of the curve (out of bank) is theoretical and derived using channel cross sections and slopes but requires validation. Gauging limited to low and mid flows with higher flows gauged from bridge upstream. Extreme flows bypass on Rb. June 2007 peak flows estimated using flood curve. Fairly low modular limit. FLOW RECORD: Extreme flows bypass on Rb with June 2007 peak flows estimated using flood curve. FLOW REGIME: Contains Ogston PWS reservoir; substantial augmentation from mine pumping and sewage.
+CATCHMENT,Upland catchment with moorland headwaters. Upper half of catchment drains Millstone Grit, partially blanketed with Boulder Clay. Bisects limestone and tuff inlier of Ashover. Lower half predominantly Coal Measures. Landuse predominantly moorland in the headwaters.
+Qmed Suitability,Not gauged to within 30% of QMED. Rating cannot be confirmed above 2m.
+Pooling Suitability,No high flow gaugings to validate high flow curve.
+[END]

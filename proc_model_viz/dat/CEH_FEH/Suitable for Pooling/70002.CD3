@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 70002
+[END]
+[CDS DETAILS]
+NAME,Douglas
+LOCATION,Wanes Blades Bridge
+NOMINAL AREA,  189.78
+NOMINAL NGR,3476,4125
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,347600,412550
+CENTROID NGR,GB,355863,408690
+DTM AREA,  189.78
+ALTBAR,  97
+ASPBAR,260
+ASPVAR,0.07
+BFIHOST,0.459
+DPLBAR, 20.06
+DPSBAR, 49.0
+FARL,0.880
+FPEXT,0.1159
+LDP, 43.61
+PROPWET,0.51
+RMED-1H, 11.4
+RMED-1D, 35.7
+RMED-2D, 47.9
+SAAR,1028
+SAAR4170,1023
+SPRHOST,33.40
+URBCONC1990, 0.763
+URBEXT1990,0.1005
+URBLOC1990, 0.895
+URBCONC2000, 0.859
+URBEXT2000,0.1337
+URBLOC2000, 0.890
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Ultrasonic station with weir. Flow regime affected by headwater reservoirs which divert flow. GENERAL: Station opened in 1969 as velocity-area station with bed control. Non-standard shallow V weir installed in 1984. Station affected by tides so ultrasonics added in 1996. STATION HYDROMETRY: Installation of the weir in 1984 stabilised the control at low flows, but the weir is still drowned by tides. Scatter in gaugings is so large that peak flows are only presented since 1996. High flow gaugings are taken from a road bridge upstream or with portable cableway, or using an ADCP at the station. Rating also affected by weed growth downstream. Bypassing prevented by road embankments. Flood Studies Report grade B. FLOW RECORD: Peak flow data from the ultrasonic is thought to be acceptable. Pre-1996, peak flows are less reliable and are not presented. FLOW REGIME: Flow regime and effective catchment modified by the Integrated Complex of eight reservoirs at Rivington which divert flow from the natural catchment of the River Yarrow to River Douglas. Wigan Flood Control Scheme (catchment area ~67.3km2) has restricted flows since March 2011.
+CATCHMENT,Moderate to low relief catchment. Geology is Boulder Clay, peat and blown sand, underlain by Coal Measures in upper parts and Permo-Triassic sandstones lower down. Land-use predominantly rural; urban areas include Wigan and Skelmersdale. No significant catchment changes.
+Qmed Suitability,Ultrasonic flow gauge is thought to be reasonably accurate over the full range.
+Pooling Suitability,Ultrasonic flow gauge is thought to be reasonably accurate over the full range; however, expect some change in flows after Wigan Flood control Scheme in March 2011
+[END]

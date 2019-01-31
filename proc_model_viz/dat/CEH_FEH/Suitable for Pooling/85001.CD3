@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 85001
+[END]
+[CDS DETAILS]
+NAME,Leven
+LOCATION,Linnbrane
+NOMINAL AREA,  786.11
+NOMINAL NGR,2394,6803
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,239400,680350
+CENTROID NGR,GB,240564,696549
+DTM AREA,  786.11
+ALTBAR, 238
+ASPBAR,188
+ASPVAR,0.13
+BFIHOST,0.436
+DPLBAR, 31.32
+DPSBAR,179.6
+FARL,0.681
+FPEXT,0.0549
+LDP, 64.99
+PROPWET,0.71
+RMED-1H, 10.7
+RMED-1D, 50.3
+RMED-2D, 69.7
+SAAR,2023
+SAAR4170,2040
+SPRHOST,44.00
+URBCONC1990,-9999.000
+URBEXT1990,0.0025
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0037
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station substantially regulated during summer. GENERAL: Velocity area station, about 35m wide. STATION HYDROMETRY: Channel control at outflow from Loch Lomond. No bypassing occurs. Two peak flow ratings for periods pre & post-Jun 1982 due to datum change. From current meter gaugings: pre-1982 up to about QMED, post-1982 up to about 1.2 QMED, simple extrapolation beyond. Stable rating but recalibration for low flows after erosion by 1990 floods. FLOW RECORD: A problem with the gauging winch was identified, which means that all gaugings between 1991-2000 should be viewed as suspect. Naturalised monthly flows available (1963-74). FLOW REGIME: Natural regime until loch outfall control weir built in 1971, now substantially regulated during summer. Barrage does not operate in winter, and does not affect high flows. Three main lochs are located in catchment - Loch Sloy with a hydroelectric power scheme, Loch Lomond with barrage and Loch Arklet. All three provide a PWS.
+CATCHMENT,Large, wet, upland catchment with mountainous headwaters, often snowy in winter. Bedrock geology dominated by ancient metamorphic formations - overlain by superficial deposits in the west. The land use is rough pasture and moorland u/s, improved pasture d/s, small amount of arable land, some forestry. Several water bodies. The catchment outflow is controlled by Loch Lomond (surface area 71sq.km).
+Qmed Suitability,No comment
+Pooling Suitability,No comment
+[END]

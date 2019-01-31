@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 54014
+[END]
+[CDS DETAILS]
+NAME,Severn
+LOCATION,Abermule
+NOMINAL AREA,  574.54
+NOMINAL NGR,3164,2957
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,316550,295800
+CENTROID NGR,GB,300198,289854
+DTM AREA,  574.54
+ALTBAR, 288
+ASPBAR, 75
+ASPVAR,0.10
+BFIHOST,0.449
+DPLBAR, 31.90
+DPSBAR,146.1
+FARL,0.970
+FPEXT,0.0597
+LDP, 61.67
+PROPWET,0.52
+RMED-1H, 10.0
+RMED-1D, 42.7
+RMED-2D, 54.9
+SAAR,1256
+SAAR4170,1231
+SPRHOST,39.67
+URBCONC1990,-9999.000
+URBEXT1990,0.0031
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0045
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station in a straight reach with rock/gravel bed. Flow regime dominated by Clywedog releases when regulation in operation at low flows (from 1968). GENERAL: Velocity area station in a straight reach with rock/gravel bed. STATION HYDROMETRY: Some weed growth but not severe. Some flow occurs through gravel bed, noticeable at low flows. Control shifts slightly during highest floods. Five peak flow ratings applied across period of record. Good fit to gaugings and rating accounts for out of bank flow. FLOW RECORD: Daily flow rating reviewed in 2011 to take account of changes in downstream gravel beds: flows from 01/11/2004 to 01/01/2011 reprocessed, leading to an increase in flows. FLOW REGIME: Flow regime dominated by Clywedog reservoir; regulation releases are in operation at low flows (from 1968). Flow regime also influenced by flood drawdown releases from Clywedog for downstream flood attenuation. Significant abstraction for canal feeder at Penarth weir, but unlikely to affect high flows.
+CATCHMENT,High relief headwaters but broad main channels of moderate slope with Boulder Clay and fluvial gravel. Solid geology predominantly Ordovician slates and shales. Responsive catchment.
+Qmed Suitability,Gauged above QMED, flows contained.
+Pooling Suitability,Gauged to within 25% of AMAX3. Out of bank gaugings lend confidence to rating.
+[END]

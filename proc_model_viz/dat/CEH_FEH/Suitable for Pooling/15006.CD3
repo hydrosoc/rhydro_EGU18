@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 15006
+[END]
+[CDS DETAILS]
+NAME,Tay
+LOCATION,Ballathie
+NOMINAL AREA, 4586.79
+NOMINAL NGR,3147,7366
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,314750,736700
+CENTROID NGR,GB,283585,754073
+DTM AREA, 4586.79
+ALTBAR, 411
+ASPBAR,136
+ASPVAR,0.07
+BFIHOST,0.473
+DPLBAR, 70.01
+DPSBAR,166.7
+FARL,0.847
+FPEXT,0.0534
+LDP,130.36
+PROPWET,0.58
+RMED-1H,  9.4
+RMED-1D, 41.6
+RMED-2D, 57.6
+SAAR,1424
+SAAR4170,1442
+SPRHOST,42.87
+URBCONC1990,-9999.000
+URBEXT1990,0.0014
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0015
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station, the most downstream on the Tay. Station has the highest gauged daily flow in the UK. GENERAL: Velocity area station with cableway; 90m wide. The most d/s station on the Tay which records the highest gauged daily flow in the UK. STATION HYDROMETRY: Control is bed slope and channel cross-section. To date all flows have been contained. Rating derived from c/m gaugings up to 4.7m (above QMED), simple extrapolation beyond. Some hydraulic re-constructions analysis undertaken to estimate highest floods. FLOW REGIME: Since end of 1957, 1980 sq.km (43%) controlled for HEP. From mid-nineties there may be an influence on flood frequency lower down the Tay due to change in HEP management of levels to accommodate greater storage for flood water. Some control prior to this. 73 sq.km controlled for water supply. Significant winter snow cover.
+CATCHMENT,Mountainous headwater catchment, often snowy in winter. Catchment is mostly steep (mountains and moorland), exceptions are lower valleys. Bedrock mainly metamorphics and granite, but the lower catchment (Isla Valley) is ORS. Over half of the catchment is overlain by superficial deposits (mostly Boulder Clay). Landuse is mainly rough grazing and forestry. Several large lochs in catchment (Ericht, Tummel, Tay and Rannoch).
+Qmed Suitability,No comment
+Pooling Suitability,No comment
+[END]

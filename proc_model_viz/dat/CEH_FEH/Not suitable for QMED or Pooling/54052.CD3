@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 54052
+[END]
+[CDS DETAILS]
+NAME,Bailey Brook
+LOCATION,Ternhill
+NOMINAL AREA,   38.50
+NOMINAL NGR,3628,3314
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,362900,331500
+CENTROID NGR,GB,359575,335174
+DTM AREA,   38.50
+ALTBAR,  91
+ASPBAR,181
+ASPVAR,0.24
+BFIHOST,0.572
+DPLBAR,  7.97
+DPSBAR, 22.3
+FARL,0.970
+FPEXT,0.1799
+LDP, 15.02
+PROPWET,0.34
+RMED-1H,  9.3
+RMED-1D, 28.2
+RMED-2D, 35.9
+SAAR, 707
+SAAR4170, 738
+SPRHOST,31.03
+URBCONC1990, 0.533
+URBEXT1990,0.0091
+URBLOC1990, 0.982
+URBCONC2000, 0.719
+URBEXT2000,0.0141
+URBLOC2000, 1.196
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Rectangular notch with side contractions, which act as broad-crested weirs above notch full used for monitoring the Shropshire Groundwater Scheme - site shares a recorder hut with the gauge (54044) on the adjacent river. GENERAL: Rectangular notch, 1m wide, 0.63m deep with side contractions, which act as broad-crested weirs above notch full. Shares a recorder hut with the gauge on the adjacent River Tern gauge (54052), confluence 10m d/s. Site used for monitoring the Shropshire Groundwater Scheme. STATION HYDROMETRY: Hi flows in bank. Shares a recorder hut with the gauge on the adjacent River Tern gauge (54052), confluence 10m d/s. One rating applied across period of record.No gaugings above structure full (0.6m). FLOW RECORD: Significant drop in flow on Dec 2011 caused by in-channel operations. FLOW REGIME: Baseflow dominated regime but can be responsive. Minimal flow augmentation from WRW. Affected by irregular discharges and storage effects of Sandford Hall Lake.
+CATCHMENT,Small, low relief catchment instrumented for monitoring the Shropshire Groundwater Scheme. Solid geology: argillaceous rocks of the Lower Lias and Mercia Mudstones. Extensively overlain by Boulder Clay and glacial sand and gravel.
+Qmed Suitability,Not gauged to within 30% of QMED. No gaugings able to verify rating above structure full.
+Pooling Suitability,No gaugings able to verify rating above structure full.
+[END]

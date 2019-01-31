@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 33028
+[END]
+[CDS DETAILS]
+NAME,Flit
+LOCATION,Shefford
+NOMINAL AREA,  119.43
+NOMINAL NGR,5142,2393
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,514250,239300
+CENTROID NGR,GB,504373,235236
+DTM AREA,  119.43
+ALTBAR,  89
+ASPBAR, 79
+ASPVAR,0.18
+BFIHOST,0.574
+DPLBAR, 14.28
+DPSBAR, 36.6
+FARL,0.987
+FPEXT,0.1030
+LDP, 25.43
+PROPWET,0.29
+RMED-1H, 10.5
+RMED-1D, 30.1
+RMED-2D, 38.1
+SAAR, 598
+SAAR4170, 598
+SPRHOST,36.94
+URBCONC1990, 0.654
+URBEXT1990,0.0341
+URBLOC1990, 0.936
+URBCONC2000, 0.810
+URBEXT2000,0.0466
+URBLOC2000, 0.946
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Trapezoidal critical depth flume gauging predominantly greedsand catchment with mixed land use and some artificial influences including effluent from Luton. GENERAL: Trapezoidal critical depth flume, 9.8m broad; 2.1m broad at horizontal crest. Structurefull 0.76m stage. STATION HYDROMETRY: Subject to drowning at medium flows. Includes un-calibrated floodplain flow but, in practice, rating above 1.1m is not reliable. One peak flow rating applied across period of record. FLOW RECORD: According to the EA, the highest peak flow on record is 33 cumecs on 03/01/2003, although uncertainty attends this value as there was considerable ungauged floodplain flow. FLOW REGIME: Flows affected by u/s mill operation. Surface water abstraction for spray irrigation. Abstraction for PWS closed in 1985. Flows augmented by effluent from Luton.
+CATCHMENT,Predominantly Greensand with some Boulder Clay cover. Mixed agricultural land use with patches of woodland. Several small towns in catchment.
+Qmed Suitability,Not gauged to within 30% of QMED.
+Pooling Suitability,Few high flow gaugings. Rating can not be validated beyond QMED.
+[END]

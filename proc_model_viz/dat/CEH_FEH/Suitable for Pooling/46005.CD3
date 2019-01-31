@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 46005
+[END]
+[CDS DETAILS]
+NAME,East Dart
+LOCATION,Bellever
+NOMINAL AREA,   22.27
+NOMINAL NGR,2657, 775
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,265700,77550
+CENTROID NGR,GB,263052, 81181
+DTM AREA,   22.27
+ALTBAR, 459
+ASPBAR,145
+ASPVAR,0.25
+BFIHOST,0.363
+DPLBAR,  6.46
+DPSBAR, 95.0
+FARL,1.000
+FPEXT,0.0420
+LDP, 13.73
+PROPWET,0.46
+RMED-1H, 14.2
+RMED-1D, 67.1
+RMED-2D, 91.2
+SAAR,2095
+SAAR4170,1998
+SPRHOST,47.42
+URBCONC1990,-9999.000
+URBEXT1990,0.0000
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0004
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station, channel width approximately 11.5m; cableway approximately 26m. GENERAL: Velocity area station, channel width approximately 11.5m; cableway approximately 26m. Flood warning station. STATION HYDROMETRY: A natural rock step provides the control, with a containment berm on the lb. Small bypassing on lb in highest floods. A three-arched bridge is present 0.8km downstream. Several ratings applied across period of record due to shifting natural control, the most recent is velocity-area rating valid from 11/1982. FLOW REGIME: Runoff natural to within 10% at Q95.
+CATCHMENT,Steep, very wet, responsive, upland catchment on open moor, draining peat covered Dartmoor Granite moorland. Natural catchment. The whole river length consists of a series of rapids & short pools formed by natural or semi-natural boulder weirs & falls. The channel is large enough to contain most floods. Land use is moorland in the upper catchment and low grade agriculture and woodland in the lower. No major catchment changes.
+Qmed Suitability,Gauged above QMED. Good fit to gaugings.
+Pooling Suitability,Gauged to AMAX3 (above bankfull). Some bypassing evident.
+[END]

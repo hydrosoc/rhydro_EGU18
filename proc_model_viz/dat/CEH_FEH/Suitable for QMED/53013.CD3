@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 53013
+[END]
+[CDS DETAILS]
+NAME,Marden
+LOCATION,Stanley
+NOMINAL AREA,   99.46
+NOMINAL NGR,3955,1729
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,395550,173000
+CENTROID NGR,GB,401464,172406
+DTM AREA,   99.46
+ALTBAR, 110
+ASPBAR,280
+ASPVAR,0.12
+BFIHOST,0.559
+DPLBAR, 10.46
+DPSBAR, 50.6
+FARL,0.980
+FPEXT,0.0732
+LDP, 18.06
+PROPWET,0.34
+RMED-1H, 10.3
+RMED-1D, 32.7
+RMED-2D, 42.1
+SAAR, 724
+SAAR4170, 770
+SPRHOST,32.44
+URBCONC1990, 0.592
+URBEXT1990,0.0233
+URBLOC1990, 0.958
+URBCONC2000, 0.782
+URBEXT2000,0.0278
+URBLOC2000, 0.953
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Trapezoidal critical depth flume with US gauge. Some of the vegetation and trees on banks encroach on the river and possibly restrict flow. GENERAL: Station located approx. 2km east of Chippenham and was opened in 1970. Trapezoidal critical depth flume. Ultrasonic gauge installed 11/2007. STATION HYDROMETRY: Full range station. Level only station prior to 07/1969. Stanley Bridge, 100 - 150m upstream, causes throttling at high flows. Significant bypassing occurs at highest flows (e.g. 07/2007). The state of the banks suggests backing-up effects. The river bed is composed of gravel and is lined with trees and vegetation, some of the vegetation and trees encroach on the river and possibly restrict flow. One peak flow rating rating applied across period of record. Water levels frequently reach the structures capacity. Few high flow gaugings. FLOW REGIME: Minor surface water abstractions and discharges in catchment. Some milling takes place.
+CATCHMENT,The catchment is predominantly rural with the towns of Calne and Lyneham the only significant urban areas. Geologically, the catchment is dominated by Oxford Clay and other impermeables with Chalk outcrops in headwaters. No major catchment changes.
+Qmed Suitability,Good fit to available gaugings and theoretical rating expected to perform well.
+Pooling Suitability,Only a single gauging beyond QMED which does not fit well to theoretical rating.
+[END]

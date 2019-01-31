@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 69028
+[END]
+[CDS DETAILS]
+NAME,Mersey
+LOCATION,Brinksway
+NOMINAL AREA,  517.28
+NOMINAL NGR,3884,3900
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,388500,390050
+CENTROID NGR,GB,401519,392649
+DTM AREA,  517.28
+ALTBAR, 289
+ASPBAR,267
+ASPVAR,0.19
+BFIHOST,0.409
+DPLBAR, 31.91
+DPSBAR,137.1
+FARL,0.892
+FPEXT,0.0441
+LDP, 52.20
+PROPWET,0.53
+RMED-1H, 10.9
+RMED-1D, 40.5
+RMED-2D, 54.2
+SAAR,1199
+SAAR4170,1183
+SPRHOST,39.23
+URBCONC1990, 0.744
+URBEXT1990,0.0564
+URBLOC1990, 0.597
+URBCONC2000, 0.842
+URBEXT2000,0.0815
+URBLOC2000, 0.640
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity-area station in Stockport. Only peak flow data are held on the NRFA. GENERAL: Velocity-area station in Stockport opened in 1955. Immediately downstream of a bridge. Station has had two huts since June 2003, one with a shaft encoder in a well and the other for an in-river pressure transducer. Station is downstream of the confluences of the Goyt, Etherow, and Tame. STATION HYDROMETRY: A gravel bar and associated mid-channel bar downstream act as control at most flows, with a small drop at Cheadle Weir (an old mill weir) approx 130m downstream of the station. All flows contained. No high flow gaugings historically, some around QMED now taken by ADCP. Some occasional blockage of the inlet pipe, thought not to reduce flow estimates significantly. Rating developed from gaugings and hydraulic model. No gaugings above 2m until 2008. The top 3 limbs of the current rating have been applied over period of record. Some changes are likely to have occurred to the rating over time due to deposition (e.g. after the December 1991 event) and vegetation growth. FLOW RECORD: The highest event, in 1973, corresponds with the only known flooding in Stockport from the Mersey. FLOW REGIME: Major reservoirs upstream - the Longendale Chain (plus Arnfield) on the Etherow, and Fernilee and Errwood reservoirs on the Goyt. Errwood Reservoir was completed in 1967. All other major reservoirs were built before the station was opened in 1955.
+CATCHMENT,Upper catchment in the Pennine hills. Geology comprises mostly peat-covered Millstone Grit in the headwaters, Coal Measures, and Boulder Clay in the lower catchment. Catchment includes towns such as Glossop and Chapel-en-le-Frith upstream, with parts of Greater Manchester, including Stockport and Tameside lower down. The lower catchment has mixed farmland, urban and industry.
+Qmed Suitability,Gauged above QMED
+Pooling Suitability,Although no high flow gaugings to confirm rating, rating extended by hydraulic modelling. All flows contained.
+[END]

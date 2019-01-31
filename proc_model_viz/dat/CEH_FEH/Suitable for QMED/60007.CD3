@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 60007
+[END]
+[CDS DETAILS]
+NAME,Tywi
+LOCATION,Dolau Hirion
+NOMINAL AREA,  220.28
+NOMINAL NGR,2761,2362
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,276150,236250
+CENTROID NGR,GB,276709,250235
+DTM AREA,  220.28
+ALTBAR, 351
+ASPBAR,167
+ASPVAR,0.11
+BFIHOST,0.431
+DPLBAR, 21.25
+DPSBAR,185.5
+FARL,0.933
+FPEXT,0.0302
+LDP, 39.11
+PROPWET,0.64
+RMED-1H, 11.2
+RMED-1D, 51.1
+RMED-2D, 68.0
+SAAR,1685
+SAAR4170,1741
+SPRHOST,43.85
+URBCONC1990,-9999.000
+URBEXT1990,0.0001
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0002
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station. Stable section with natural control. Regulated by Llyn Brianne Reservoir. GENERAL: Velocity area station. Stable section with natural control and fairly steep and high banks; lb is 3.8m, rb is 4.5m. Channel width: 38m. STATION HYDROMETRY: One peak flow rating applied across period of record. Good fit to gauging. River regulated - Llyn Brianne Reservoir in upper catchment. Reservoir is used to augment low flows for PWS abstractions downstream, also for HEP generation in winter. FLOW RECORD: Flows since 1969 reprocessed in 2010 due to rating change, leading to increase in low flows and decrease in high flows, most significant since 1988. Flows since 31 Jan 2008 reprocessed in 2013 due to rating change, with main affect lowering of low flow GDFs and HIFs. AMAX from 67 to 71 water years should probably be excluded from QMED calculation; they are from before Llyn Brianne reservoir first filled - began to fill in March 1972 and full by December 1972. FLOW REGIME: Regulated by Llyn Brianne Reservoir.
+CATCHMENT,Upland area of Cambrian Hills. Principally impermeable Ordovician strata. Mainly peaty soils, seasonally wet. Grassland (mostly hill farming with some livestock at lower levels); extensive forest cover, very dense in NE.
+Qmed Suitability,Gauged to within 4% of QMED. Good agreement in rating with check gaugings.
+Pooling Suitability,Few high flow gaugings. Rating can not be validated beyond QMED.
+[END]

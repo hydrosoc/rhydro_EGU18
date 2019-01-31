@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 27027
+[END]
+[CDS DETAILS]
+NAME,Wharfe
+LOCATION,Ilkley
+NOMINAL AREA,  445.29
+NOMINAL NGR,4112,4481
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,411200,448150
+CENTROID NGR,GB,398529,466712
+DTM AREA,  445.29
+ALTBAR, 354
+ASPBAR,161
+ASPVAR,0.13
+BFIHOST,0.366
+DPLBAR, 32.95
+DPSBAR,137.1
+FARL,0.976
+FPEXT,0.0363
+LDP, 61.97
+PROPWET,0.62
+RMED-1H, 11.1
+RMED-1D, 43.4
+RMED-2D, 57.9
+SAAR,1369
+SAAR4170,1385
+SPRHOST,46.48
+URBCONC1990,-9999.000
+URBEXT1990,0.0019
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0044
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station. Net inflow to the catchment from springs and sink holes. Station closed December 1975. GENERAL: Velocity area station 20m u/s of Ilkley Old Bridge, the paved invert of which is low flow control for station. Open channel 37m wide. Replaced by Addingham (27043) 3.3km upstream in 1973. Discontinued as flow station in 1975 but level record continues. Cableway still used for calibration of Addingham. STATION HYDROMETRY: Bypassing begins at 3.6m over the left flood bank and flows on the flood plain. Minor draw-down problem in float well. Multiple peak flow ratings applied across period of record, the most recent is valid from January 1970. Rated by current meter gauging from bridge and correlation with Addingham record, adjusted for abstractions and greater catchment area. Flood Studies Report grade A1. FLOW REGIME: There are many springs and sink holes, and an examination of the catchment losses suggests there may be net inflow to the catchment. Water supply reservoirs at Barden and Chelker result in net export of water from the catchment, returns are through the Aire and Calder system. Grimwith reservoir upstream (catchment area about 25 sq.km) provided compensation releases to augment low flows.
+CATCHMENT,Predominantly Lower Carboniferous Limestone and shales in the upper two-thirds of the catchment, and Upper Carboniferous grits and sandstones in the lower parts near Addingham. Extensive Boulder Clay and alluvium. No known catchment changes.
+Qmed Suitability,Gauged to within 8% of QMED. Rating extrapolation should be reasonable as there are no changes in channel cross-section up to bankfull.
+Pooling Suitability,Gauged to within 22% of AMAX3. Rating extrapolation should be reasonable as there are no changes in channel cross-section up to bankfull. Good correlation with Addingham.
+[END]

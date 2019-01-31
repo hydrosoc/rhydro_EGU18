@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 15003
+[END]
+[CDS DETAILS]
+NAME,Tay
+LOCATION,Caputh
+NOMINAL AREA, 3211.23
+NOMINAL NGR,3082,7395
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,308300,739550
+CENTROID NGR,GB,268184,753767
+DTM AREA, 3211.23
+ALTBAR, 460
+ASPBAR,124
+ASPVAR,0.06
+BFIHOST,0.437
+DPLBAR, 67.40
+DPSBAR,185.9
+FARL,0.807
+FPEXT,0.0406
+LDP,117.55
+PROPWET,0.69
+RMED-1H,  9.9
+RMED-1D, 43.4
+RMED-2D, 61.1
+SAAR,1609
+SAAR4170,1611
+SPRHOST,45.36
+URBCONC1990,-9999.000
+URBEXT1990,0.0007
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0007
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station gauging a catchment with steep, mountainous headwaters. 62% of the catchment controlled for HEP. GENERAL: Velocity area station, about 95m wide. Original station (with bridge control) was moved u/s in 1975. Flows at the old station were all contained. STATION HYDROMETRY: Cableway present, span 120m. Natural control. Bypassing occurs mostly on the left bank at levels above 3.15m - new temporary channel created in 1993 flood. Peak flow ratings derived from current meter gaugings up to 5.3m (about 2.3QMED), simple extrapolation beyond. Data transfer from old site and hydraulic re-construction also used for the highest floods. Peak flow ratings reviewed in 2003. FLOW RECORD: Twice daily stage readings from July 1937, continuous recording from October 1951. Monthly naturalised data available 1973-1987. FLOW REGIME: 62% of catchment controlled for HEP; developed from 1930s to 1957 - reservoirs and water transfers throughout the Tay and Tummel catchments. Net water import. Substantial surface storage; numerous lochs, largest are Ericht, Rannoch, Tummel and Tay.
+CATCHMENT,Steep, mountainous headwaters, often snowy in winter. Bedrock mostly metamorphics and granites with more than half overlain by superficial deposits. Landuse mountains and moorland, rough grazing and forestry. Upstream of Dunkeld there are agricultural floodbanks within a reach spanning some 15km including the confluence of the Upper Tay with River Tummel.
+Qmed Suitability,No comment
+Pooling Suitability,No comment
+[END]

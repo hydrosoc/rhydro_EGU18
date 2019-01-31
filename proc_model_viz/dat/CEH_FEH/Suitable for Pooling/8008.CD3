@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+  8008
+[END]
+[CDS DETAILS]
+NAME,Tromie
+LOCATION,Tromie Bridge
+NOMINAL AREA,  131.61
+NOMINAL NGR,2789,7996
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,278900,799650
+CENTROID NGR,GB,276491,786794
+DTM AREA,  131.61
+ALTBAR, 622
+ASPBAR,  7
+ASPVAR,0.10
+BFIHOST,0.448
+DPLBAR, 18.71
+DPSBAR,211.8
+FARL,0.898
+FPEXT,0.0312
+LDP, 29.50
+PROPWET,0.72
+RMED-1H, 10.1
+RMED-1D, 38.0
+RMED-2D, 56.7
+SAAR,1436
+SAAR4170,1450
+SPRHOST,53.49
+URBCONC1990,-9999.000
+URBEXT1990,0.0000
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0000
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station on a tributary of the Spey. Large proportion of catchment controlled for HEP. GENERAL: Velocity area station, about 15m wide. Cableway rated. Station closed in 2010. No significant catchment changes. STATION HYDROMETRY: Problems with rock/boulder control due to spates. Control has been re-built twice in 1990s. Normal shifting of gravels may slight influence ratings. The river bed was subject to major erosion and scour during floods of September and November 2009. New peak flow rating in 1996, applied from 1953 to the spate of April 1990 (from current meter gaugings up to 1.2m (QMED), simple extrapolation beyond). Post-1990 rating based on few gaugings (up to 0.5QMED) and will need revision. FLOW RECORD: Data post-2009 floods is not held on the NRFA. FLOW REGIME: Very turbulent flow. Large proportion (>70%) of the catchment developed for hydro-power with major diversions out of catchment. Reservoir for hydropower: Loch an T-Seilich (1941)
+CATCHMENT,Mountainous (part of Cairngorms), often snowy in winter. Mountains, moorland, almost no tree cover.
+Qmed Suitability,No comment
+Pooling Suitability,With the caveat that flow data from Feb 1990 onwards has been estimated using a rating curve based on only 4 gaugings the maximum of which is only about 30 cumecs.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 57008
+[END]
+[CDS DETAILS]
+NAME,Rhymney
+LOCATION,Llanedeyrn
+NOMINAL AREA,  185.61
+NOMINAL NGR,3224,1821
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,322450,182100
+CENTROID NGR,GB,315340,195333
+DTM AREA,  185.61
+ALTBAR, 224
+ASPBAR,154
+ASPVAR,0.17
+BFIHOST,0.521
+DPLBAR, 27.45
+DPSBAR,125.7
+FARL,0.981
+FPEXT,0.0538
+LDP, 51.98
+PROPWET,0.48
+RMED-1H, 11.9
+RMED-1D, 50.6
+RMED-2D, 66.5
+SAAR,1409
+SAAR4170,1445
+SPRHOST,33.17
+URBCONC1990, 0.684
+URBEXT1990,0.0479
+URBLOC1990, 1.008
+URBCONC2000, 0.786
+URBEXT2000,0.0767
+URBLOC2000, 0.976
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Flat V weir with vertical side walls, velocity area station for high flows. Impounding reservoirs for PWS, groundwater abstraction/recharge and effluent returns all affect flow. GENERAL: Flat V weir with vertical side walls, velocity area station for high flows. STATION HYDROMETRY: Weir width: 15m, cross-slope 1:20, 1:5 u/s, 1:2 d/s. Full range. Extensive floodplains on both banks. Cardiff Eastern Avenue bypass (200m d/s) keeps flow on floodplain. Three peak flow ratings applied across period of record. FLOW RECORD: Flows since Nov 1991 reprocessed in 2013 following rating change, causing minor decreases in GDFs and HIFs in period 2002-2011. FLOW REGIME: Impounding reservoirs for PWS in upper catchment affect flow. Flows also influenced by groundwater abstraction/recharge and effluent returns.
+CATCHMENT,Mainly Coal Measures (moderate permeability). Peaty soils on hills, seasonally wet. Majority grassland with upland heath at highest elevations in N, some forest (in lower valley to S). Livestock farming on uplands; dairy and livestock farming in lower catchment. Significant urban and industrial development in the valleys.
+Qmed Suitability,Gauged to within 13% of QMED. Gaugings beyond bank full lend some confidence to the rating until QMED.
+Pooling Suitability,Rating does not fully account for bypassing and insufficient gaugings beyond QMED making it unsuitable for pooling.
+[END]

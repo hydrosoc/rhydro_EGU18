@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 73014
+[END]
+[CDS DETAILS]
+NAME,Brathay
+LOCATION,Jeffy Knotts
+NOMINAL AREA,   56.58
+NOMINAL NGR,3359,5034
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,336000,503400
+CENTROID NGR,GB,329854,504713
+DTM AREA,   56.58
+ALTBAR, 291
+ASPBAR, 96
+ASPVAR,0.17
+BFIHOST,0.435
+DPLBAR,  9.03
+DPSBAR,299.8
+FARL,0.907
+FPEXT,0.0751
+LDP, 15.39
+PROPWET,0.71
+RMED-1H, 14.4
+RMED-1D, 84.4
+RMED-2D,122.2
+SAAR,2757
+SAAR4170,2867
+SPRHOST,49.37
+URBCONC1990,-9999.000
+URBEXT1990,0.0013
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0002
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station. Bed movement and weed growth require frequent rating changes. Data should be treated with some caution. GENERAL: Velocity area station in a straight section with stony bed, opened July 1970. STATION HYDROMETRY: Rock bar downstream acts as control. All flows contained. Bed dredged between 19-24/07/1994 causing water levels to fall by approx. 0.2m. Flows seriously affected by weed growth and heavily vegetated banks (which restrict flow at high levels to centre of the channel). No permanent cableway or suitable bridge nearby, though flows above wade height can now be gauged by ADCP. Multiple peak flow ratings applied over period of record. FLOW RECORD: Revised daily data from 02/06/2001 to 31/12/2007 loaded on 11/08/2009: low flows reduced (esp. summer 2005), high flows increased (notably 07/01/05 DMF from 47.0 to 77.0 m3s-1); runoff over the period increased by about 11%. FLOW REGIME: Natural catchment, draining through Elterwater.
+CATCHMENT,Steep, very wet moorland catchment, draining Langdale Fell in centre of Lake District, running into Windermere. Solid geology Silurian and Ordovician Volcanics and lavas, much exposed at outcrop. Some hill peat and boulder clay cover. Catchment contains four small, natural waterbodies. No catchment changes known.
+Qmed Suitability,Only gauged to about 50% of QMED; all flow is contained but accuracy of extrapolation to QMED not known.
+Pooling Suitability,Too little evidence to suggest rating is applicable beyond QMED (max gauged flow is 25% of AMAX3).
+[END]

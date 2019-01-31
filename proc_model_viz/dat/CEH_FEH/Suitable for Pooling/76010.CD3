@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 76010
+[END]
+[CDS DETAILS]
+NAME,Petteril
+LOCATION,Harraby Green
+NOMINAL AREA,  157.58
+NOMINAL NGR,3411,5545
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,341200,554500
+CENTROID NGR,GB,346103,539272
+DTM AREA,  157.58
+ALTBAR, 161
+ASPBAR, 28
+ASPVAR,0.22
+BFIHOST,0.590
+DPLBAR, 27.50
+DPSBAR, 51.5
+FARL,0.993
+FPEXT,0.0768
+LDP, 48.14
+PROPWET,0.64
+RMED-1H, 10.2
+RMED-1D, 32.4
+RMED-2D, 43.0
+SAAR, 940
+SAAR4170, 933
+SPRHOST,30.52
+URBCONC1990, 0.562
+URBEXT1990,0.0051
+URBLOC1990, 0.279
+URBCONC2000, 0.629
+URBEXT2000,0.0074
+URBLOC2000, 0.368
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station with thin plate rectangular notch weir as control. Station closed 2014. GENERAL: Opened December 1969. Velocity area station with thin plate rectangular notch weir as control, 10m wide (nearly full width of channel). Weir notch full at 0.7m. River Petteril joins the Eden 0.7 km downstream of station. Station closed in 2014, replaced by Newbiggin Bridge (76020). STATION HYDROMETRY: Permanent cableway. The river bed is very silty and requires the stilling well to be flushed regularly. Some leakage beneath the weir which may affect low flows. The weir is good for medium and high flows, overtopping the right bank at 1.3m although there is not significant bypassing flow. Weed growth affects rating (severely in 1973 and 1974). One peak flow rating applied across period of record. Upper limbs of rating developed by hydraulic modelling. FLOW RECORD: Accuracy of December 2010 flows affected by freezing conditions. FLOW REGIME: Natural catchment with no known artificial influences.
+CATCHMENT,Long, thin catchment rising in moorland W of Penrith, flowing north to Carlisle. Carboniferous Limestone in headwaters; the remainder is Millstone Grit and Penrith Sandstones covered with Boulder Clay and valley gravel. No significant catchment changes.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged to within 7% of AMAX3. Bypassing accounted for in rating.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 36008
+[END]
+[CDS DETAILS]
+NAME,Stour
+LOCATION,Westmill
+NOMINAL AREA,  222.82
+NOMINAL NGR,5827,2463
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,582750,246350
+CENTROID NGR,GB,569914,247315
+DTM AREA,  222.82
+ALTBAR,  89
+ASPBAR,121
+ASPVAR,0.12
+BFIHOST,0.413
+DPLBAR, 22.13
+DPSBAR, 33.3
+FARL,0.994
+FPEXT,0.0684
+LDP, 41.22
+PROPWET,0.26
+RMED-1H, 10.7
+RMED-1D, 28.7
+RMED-2D, 36.3
+SAAR, 589
+SAAR4170, 606
+SPRHOST,42.95
+URBCONC1990, 0.587
+URBEXT1990,0.0152
+URBLOC1990, 0.965
+URBCONC2000, 0.761
+URBEXT2000,0.0234
+URBLOC2000, 0.985
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Record of low accuracy from a rural, Upper Chalk catchment with major artificial influences. GENERAL: Compound trapezoidal critical depth flume with d/s level recorder. STATION HYDROMETRY: Affected by weed growth but rarely drowns out. Above 1.15m some flow passes over a broad-crested weir 100m u/s into a spillway. The gaugings for this station are float runs and are less accurate than standard methods and result in some scatter around the rating. One rating applied across period of record. Affected by non-modular flow. FLOW RECORD: No POT data are presented for this station as they have no non-modular flow correction applied. AMAX data have been corrected, but in some cases can be below the daily flow as these are not corrected. Archived daily flows adjusted for the effects of Ely/Ouse Transfer Scheme until 1976. Peak flow in December 2014 not available (non-modular). FLOW REGIME: Gw-influenced regime. Since 22/3/1971, flow augmented by intermittent pumping from the Ely/Ouse Transfer Scheme. Runoff also influenced by industrial/agricultural abstraction from surface and groundwater, and effluent returns.
+CATCHMENT,Upper Chalk overlain by superficial deposits, mainly semi-pervious Boulder Clay and some sand and gravel. Rural, predominantly arable land.
+Qmed Suitability,On balance rating is thought to be representative with a reasonable fit to gaugings.
+Pooling Suitability,On balance rating is thought to be representative with a reasonable fit to gaugings.
+[END]

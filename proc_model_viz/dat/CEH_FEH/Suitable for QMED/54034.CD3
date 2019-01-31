@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 54034
+[END]
+[CDS DETAILS]
+NAME,Dowles Brook
+LOCATION,Oak Cottage
+NOMINAL AREA,   44.16
+NOMINAL NGR,3771,2764
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,377100,276400
+CENTROID NGR,GB,372211,276712
+DTM AREA,   44.16
+ALTBAR, 127
+ASPBAR, 67
+ASPVAR,0.13
+BFIHOST,0.634
+DPLBAR,  8.02
+DPSBAR, 91.9
+FARL,0.997
+FPEXT,0.0114
+LDP, 15.18
+PROPWET,0.32
+RMED-1H, 11.2
+RMED-1D, 33.1
+RMED-2D, 44.2
+SAAR, 714
+SAAR4170, 755
+SPRHOST,18.84
+URBCONC1990,-9999.000
+URBEXT1990,0.0042
+URBLOC1990,-9999.000
+URBCONC2000, 0.750
+URBEXT2000,0.0114
+URBLOC2000, 0.880
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Flat V Crump profile weir with cableway with flood banks on a 36m wide floodplain that should contain high flows but with some bypassing. GENERAL: Flat V Crump profile weir 6m wide, with a cableway to allow high flow gauging. STATION HYDROMETRY: Mostly modular even at high flows. Flood banks on a 36m wide floodplain should contain most flows but bypassing does occur- high range defined by few gaugings of dubious quality (weir only 1m deep). Cableway rated for high flows. Very few gaugings at high flows, but reasonably good fit at most levels. FLOW RECORD: Reliability of summer 2007 high flows uncertain due to station bypassing and possible elevated levels through backing up. FLOW REGIME: Flashy response. No significant abstractions or returns but flow patterns can be affected by sluice operation.
+CATCHMENT,The catchment is mostly Drift free, situated on sandstones and marls of Upper Carboniferous age. The river bisects the Wyre Forest; all but the headwaters are afforested.
+Qmed Suitability,Gauged to within 5% of QMED. QMED contained and good fit to gaugings.
+Pooling Suitability,Few high flow gaugings. Rating can not be validated beyond structure full.
+[END]

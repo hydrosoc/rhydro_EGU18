@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 45817
+[END]
+[CDS DETAILS]
+NAME,Unnamed Stream
+LOCATION,Upton
+NOMINAL AREA,    1.74
+NOMINAL NGR,2988,1289
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,298850,128950
+CENTROID NGR,GB,299064,130043
+DTM AREA,    1.74
+ALTBAR, 287
+ASPBAR,178
+ASPVAR,0.46
+BFIHOST,0.603
+DPLBAR,  1.40
+DPSBAR, 67.8
+FARL,1.000
+FPEXT,0.0172
+LDP,  2.74
+PROPWET,0.54
+RMED-1H, 11.7
+RMED-1D, 41.6
+RMED-2D, 61.2
+SAAR,1207
+SAAR4170,1295
+SPRHOST,31.55
+URBCONC1990,-9999.000
+URBEXT1990,0.0000
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0022
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Flat V weir opened in 1993. GENERAL: Station opened in 1993 with a Flat V weir, approximately 2m wide. Relatively straight approach. Velocity area station for higher flows. STATION HYDROMETRY: One rating applied across period of record confirmed to 0.33m by spot flow gaugings. FLOW RECORD: Bypassed in 2000 due to branches in the river. FLOW REGIME: Natural catchment.
+CATCHMENT,Small natural catchment, consisting mostly of Upper Devonian sandstones, siltstones and slates. Land use is mainly rural and agricultural. No major urbanisation in the catchment. Wimbleball Reservoir is further downstream. No major catchment changes.
+Qmed Suitability,No check gaugings close to bank full, but as all flows contained within uniform section rating expected to perform well up to flows around QMED.
+Pooling Suitability,Station vulnerable to blockage and bypass. High flow rating is based on extrapolation and remains un-validated beyond QMED.
+[END]

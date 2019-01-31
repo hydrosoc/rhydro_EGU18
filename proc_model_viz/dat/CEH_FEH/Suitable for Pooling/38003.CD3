@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 38003
+[END]
+[CDS DETAILS]
+NAME,Mimram
+LOCATION,Panshanger Park
+NOMINAL AREA,  130.20
+NOMINAL NGR,5282,2132
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,528250,213300
+CENTROID NGR,GB,518267,220346
+DTM AREA,  130.20
+ALTBAR, 121
+ASPBAR,134
+ASPVAR,0.18
+BFIHOST,0.720
+DPLBAR, 16.81
+DPSBAR, 44.2
+FARL,0.985
+FPEXT,0.0498
+LDP, 32.06
+PROPWET,0.30
+RMED-1H, 10.6
+RMED-1D, 30.0
+RMED-2D, 38.1
+SAAR, 656
+SAAR4170, 641
+SPRHOST,27.49
+URBCONC1990, 0.661
+URBEXT1990,0.0431
+URBLOC1990, 0.857
+URBCONC2000, 0.838
+URBEXT2000,0.0649
+URBLOC2000, 0.781
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Station located in the lower catchment of the River Mimram. GENERAL: Critical-depth flume; 5m wide. All flows are contained. STATION HYDROMETRY: One rating applied across period of record. Rating is reasonably accurate, though overestimates flow. Theoretical calibration confirmed by gaugings but computed flows may be slightly overestimated by as much as 10%. The gauge was reviewed in 2014. FLOW RECORD: Frequent discharges caused by fish farm are eliminated to produce naturalised flows. FLOW REGIME: Appreciable net export of water. Considerable gw abstraction for industry & agriculture occurs in the headwaters. Very high baseflow component but peak flows increasing due to urbanisation. AMAX is commonly recorded during the summer half-year.
+CATCHMENT,A predominantly permeable catchment (Upper Chalk overlain by glacial deposits near headwaters). Mainly rural but substantial urban growth in the lower valley - the Mimram drains Welwyn Garden City.
+Qmed Suitability,Gauged to within 18% of QMED.
+Pooling Suitability,Although no gaugings beyond QMED, flows are well within wing walls and theoretical rating thought to be reliable.
+[END]

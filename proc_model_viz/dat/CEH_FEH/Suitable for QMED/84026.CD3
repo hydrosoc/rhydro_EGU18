@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 84026
+[END]
+[CDS DETAILS]
+NAME,Allander Water
+LOCATION,Milngavie
+NOMINAL AREA,   30.65
+NOMINAL NGR,2558,6735
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,255850,673550
+CENTROID NGR,GB,251814,677505
+DTM AREA,   30.65
+ALTBAR, 187
+ASPBAR,109
+ASPVAR,0.35
+BFIHOST,0.368
+DPLBAR,  8.10
+DPSBAR,101.0
+FARL,0.896
+FPEXT,0.0513
+LDP, 15.93
+PROPWET,0.61
+RMED-1H, 10.1
+RMED-1D, 39.8
+RMED-2D, 54.3
+SAAR,1422
+SAAR4170,1389
+SPRHOST,44.17
+URBCONC1990, 0.883
+URBEXT1990,0.0397
+URBLOC1990, 0.252
+URBCONC2000, 0.904
+URBEXT2000,0.0422
+URBLOC2000, 0.268
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station. The catchment contains a number of natural and artificial storages but the flow regime remains responsive. GENERAL: Velocity area station; 8m wide section. Operated by SDD as a level-only station from 1960's until SEPA took over on 01/11/1972. STATION HYDROMETRY: Station has flat V triangular profile weir for low flow control (installed 1973). Peak flow rating derived from current meter gaugings up to 1.1m (about 0.35 QMED), simple extrapolation beyond. FLOW REGIME: The catchment contains a number of natural and artificial storages but the flow regime remains responsive.
+CATCHMENT,Hilly catchment developed mostly on Carboniferous formations (basaltic lava and Scottish Carboniferous L'st predominate); overlain by Boulder Clay in the lower catchment. Upland grazing is the main land use; some afforestation and also urban development (Milngavie) near the outfall. No significant catchment changes known.
+Qmed Suitability,With caution - spot gaugings only up to about a third of QMED
+Pooling Suitability,Spot gaugings are much lower than QMED, and bankfull close to QMED
+[END]

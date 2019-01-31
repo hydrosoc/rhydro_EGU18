@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 27087
+[END]
+[CDS DETAILS]
+NAME,Derwent
+LOCATION,Low Marishes
+NOMINAL AREA,  475.94
+NOMINAL NGR,4832,4774
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,483300,477400
+CENTROID NGR,GB,493361,484722
+DTM AREA,  475.94
+ALTBAR, 101
+ASPBAR,182
+ASPVAR,0.14
+BFIHOST,0.684
+DPLBAR, 24.16
+DPSBAR, 67.3
+FARL,0.996
+FPEXT,0.1876
+LDP, 55.68
+PROPWET,0.34
+RMED-1H, 10.6
+RMED-1D, 33.2
+RMED-2D, 42.9
+SAAR, 741
+SAAR4170, 751
+SPRHOST,25.95
+URBCONC1990, 0.575
+URBEXT1990,0.0106
+URBLOC1990, 0.905
+URBCONC2000, 0.744
+URBEXT2000,0.0100
+URBLOC2000, 0.983
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Electromagnetic station. High flows diverted to the Sea Cut (measured at 27033). GENERAL: Electromagnetic (overhead coil) gauging station in formalised reach (13.5m wide), installed 1989. Cableway. Located close to the Rye confluence which produces a marked backwater effect. Station installed between old bridge abutments. Early problems encountered with tapping pipe siltation, resolved by installation of new pipe at higher level. Problems of weed growth in summer. STATION HYDROMETRY: Significant amount of spill and ponding on floodplains, however old railway embankment ensures most flow passes through the measuring section. Subject to backwater influence from the Rye confluence (downstream); flow reversal is observed occasionally. Small amount of bypassing. Diversion of high flows to the Sea Cut make peak flow estimates difficult at this site. Peak and daily flows measured directly using electromagnetic gauge. FLOW RECORD: Drop-outs on 12/10/2012, 21/12/2012 and 15/09/2015 a result of the Rye backing up causing backwards flow on the Derwent. FLOW REGIME: Flow regime is sensibly natural apart from the diversion of high flows from upper part of catchment (20% of catchment area) that the Sea Cut (27033) and the effect of spray irrigation.
+CATCHMENT,The catchment drains the eastern part of the North York Moors. The influence of the Sea Cut reduces the contributing catchment area by 20% at high flows. Geology: mostly permeable Oolite and Corallian formations, superficial deposits (lacustrine clays) in low-lying areas in south. Largely rural with moorland and wooded headwaters, predominantly arable in lower reaches. No known catchment changes.
+Qmed Suitability,Full range EM station capable of measuring QMED accurately. However, the confluence with the river Rye downstream causes water to push back upstream into the Derwent during flood events, resulting in zero or negative flows. Caution is advised.
+Pooling Suitability,Well contained electromagnetic station able to measure a full range of flows. However see QMED comment regarding zero/negative flows due to backwater from the Rye.
+[END]

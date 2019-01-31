@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+203033
+[END]
+[CDS DETAILS]
+NAME,Upper Bann
+LOCATION,Bannfield
+NOMINAL AREA,  101.64
+NOMINAL NGR,3233,3340
+[END]
+[DESCRIPTORS]
+IHDTM NGR,Ireland,323400,334050
+CENTROID NGR,Ireland,324615,329707
+DTM AREA,  101.64
+ALTBAR, 202
+ASPBAR,328
+ASPVAR,0.22
+BFIHOST,0.471
+DPLBAR,  9.84
+DPSBAR,118.3
+FARL,0.951
+FPEXT,0.0616
+LDP, 17.71
+PROPWET,0.53
+RMED-1H, 11.4
+RMED-1D, 51.9
+RMED-2D, 70.3
+SAAR,1261
+SAAR4170,1341
+SPRHOST,36.86
+URBCONC1990,-0.002
+URBEXT1990,0.0049
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0012
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station with cableway and Flat V control (installed in 1989), natural control previously. GENERAL: Flat V weir constructed and made operational in 1989, velocity-area station prior to this. The station is used to monitor a prescribed flow of 18Ml/d. STATION HYDROMETRY: For high flows, the station is treated as velocity-area as weir drowns at moderate flows. The same high flow rating is therefore applied to the full period of record, with level adjustment for the datum shift due to the weir. Rating is derived from current meter gaugings. Simple extrapolation occurs above approx 46m3/s. More high flow gaugings would be useful. FLOW RECORD: Daily flows for full POR reprocessed in 2002. Period of missing flows between January and March 2009 caused by instrument failure. Flows for late December 2010 considered suspect due to likely freezing in stilling well. FLOW REGIME: Reservoir storage (Spelga Dam) in catchment with abstractions for public water supply the net effect of which is minor. The station is used to monitor a prescribed flow designated for the river below which compensation flows are received from Spelga Dam and Lough Island Reavey.
+CATCHMENT,The Upper Bann drains the Mourne Mountains. The catchment is predominantly grassland with some shrub heath; no significant urban fraction. Solid geology - area underlain by indurated Silurian greywacke sandstones and shales intruded by Devonian and Palaeogene granites impermeable (granite and quartzite). Drift geology - rock near surface, drumlinised glacial till is overlain by river alluvium. Peaty alluvium is common to inter-drumlin lows.
+Qmed Suitability,Highest recent gaugings (two at 2.66m) suggest that rating overestimates flow. Extrapolation to QMED is thought to be reasonable.
+Pooling Suitability,unmeasured floodplain flow is neglible
+[END]

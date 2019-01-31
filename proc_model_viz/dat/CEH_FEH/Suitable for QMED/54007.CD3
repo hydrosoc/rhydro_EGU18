@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 54007
+[END]
+[CDS DETAILS]
+NAME,Arrow
+LOCATION,Broom
+NOMINAL AREA,  320.84
+NOMINAL NGR,4086,2535
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,408650,253600
+CENTROID NGR,GB,411025,265693
+DTM AREA,  320.84
+ALTBAR, 102
+ASPBAR,153
+ASPVAR,0.15
+BFIHOST,0.374
+DPLBAR, 21.20
+DPSBAR, 45.2
+FARL,0.963
+FPEXT,0.0945
+LDP, 35.30
+PROPWET,0.28
+RMED-1H, 10.7
+RMED-1D, 32.4
+RMED-2D, 41.6
+SAAR, 689
+SAAR4170, 695
+SPRHOST,41.21
+URBCONC1990, 0.658
+URBEXT1990,0.0358
+URBLOC1990, 0.975
+URBCONC2000, 0.798
+URBEXT2000,0.0437
+URBLOC2000, 0.990
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Crump profile weir opened in 1976 to replace Broom (54907) and provide higher containment capacity than old site. GENERAL: Opened in 1976 and replaced Broom (Old) (54907). Crump profile weir (12m) with a higher containment capacity than old site - high wing walls (1.7m) and banks. STATION HYDROMETRY: Multiple peak flow ratings applied across period of record, with upper limbs derived from gaugings. Up to 1976 rated section; not rated above bankfull when extensive inundation. FLOW RECORD: July 2007 high flows likely to be overestimated, flows beyond capacity of measuring structure. Flows reprocessed for period 01/03/1995 to 01/01/2011 following review of rating in 2011. FLOW REGIME: Sewage effluent maintains low flows. Groundwater pumping for PWS significantly augments low flow through effluent returns. Responsive catchment.
+CATCHMENT,Low relief, predominantly agricultural catchment upon Mercia Mudstone, with small glacial gravel deposits in the eastern headwaters. Responsive; sewage effluent maintains low flows. Contains Redditch and Alcester.
+Qmed Suitability,Gauged above QMED. Some scatter in gaugings evident but estimates thought to be reasonable..
+Pooling Suitability,Although gauged to within 14% of AMAX3, maximum gauging is above wing walls and does not fit well to theoretical rating.
+[END]

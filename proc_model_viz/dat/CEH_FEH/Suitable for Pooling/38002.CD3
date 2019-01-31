@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 38002
+[END]
+[CDS DETAILS]
+NAME,Ash
+LOCATION,Mardock
+NOMINAL AREA,   78.00
+NOMINAL NGR,5393,2148
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,539350,214850
+CENTROID NGR,GB,543211,222694
+DTM AREA,   78.00
+ALTBAR,  93
+ASPBAR,165
+ASPVAR,0.21
+BFIHOST,0.505
+DPLBAR, 12.79
+DPSBAR, 34.5
+FARL,1.000
+FPEXT,0.0489
+LDP, 24.92
+PROPWET,0.31
+RMED-1H, 11.2
+RMED-1D, 31.5
+RMED-2D, 38.8
+SAAR, 619
+SAAR4170, 629
+SPRHOST,35.75
+URBCONC1990, 0.475
+URBEXT1990,0.0134
+URBLOC1990, 0.770
+URBCONC2000, 0.676
+URBEXT2000,0.0138
+URBLOC2000, 0.847
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Flat V weir that is located in the lower Ash catchment. GENERAL: Flat V weir (1:10 cross-slope) 3.9m wide, constructed in 1979. The current station replaced the original hump flume weir that was built in 1939. The old station was not good due to the obstruction caused by the old gate at the mill bypass channel. It was insensitive, subject to bypassing and was inaccurate at low flows. Hence discharges was assessed at the d/s station at Easneye (38005). STATION HYDROMETRY: Standard Flat V calculation. Remains modular and is virtually full range. Peak flow rating is reasonably accurate, but all gaugings are at low flows. FLOW REGIME: Baseflow dominated regime but significant runoff generated from the clays in the headwaters. U/s lake storage, sluice activity and gw abstractions for industry/agriculture have a minor effect on flows.
+CATCHMENT,Solid geology of Upper Chalk extensively overlain by boulder clay, glacial sands & gravel and alluvium in the valleys. Rural catchment in character.
+Qmed Suitability,Gauged to within 5% of QMED. Flow is within bank and standard weir expected to perform well.
+Pooling Suitability,Although no high flow gaugings, standard weir expected to perform well.
+[END]

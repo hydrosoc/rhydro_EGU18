@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 12008
+[END]
+[CDS DETAILS]
+NAME,Feugh
+LOCATION,Heugh Head
+NOMINAL AREA,  232.84
+NOMINAL NGR,3687,7928
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,368700,792800
+CENTROID NGR,GB,360827,787475
+DTM AREA,  232.84
+ALTBAR, 330
+ASPBAR, 39
+ASPVAR,0.15
+BFIHOST,0.427
+DPLBAR, 16.90
+DPSBAR,146.5
+FARL,0.998
+FPEXT,0.0381
+LDP, 30.41
+PROPWET,0.54
+RMED-1H,  8.8
+RMED-1D, 44.0
+RMED-2D, 59.7
+SAAR,1130
+SAAR4170,1185
+SPRHOST,44.79
+URBCONC1990,-9999.000
+URBEXT1990,0.0000
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0002
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station in rugged mountainous catchment. Low flows affected by abstraction for PWS. GENERAL: Velocity area station, about 20m wide. STATION HYDROMETRY: Station has cableway and natural control. Flows may be influenced by a fishing jetty a short distance d/s from gauging station. Rating derived from current meter gaugings up to 3.4m (about QMED), simple extrapolation beyond. One peak flow rating has been applied to the entire record. FLOW REGIME: Flashy response. Abstraction (at Charr, PWS for Stonehaven) accounts for <5% of Q95 flow. Off-line storage reservoir installed in early 1990s with connection back to the river, which might have an influence on flows.
+CATCHMENT,Rugged topography. Mountainous headwaters, often snowy in winter. Developed largely on granites and metamorphics with almost complete superficial deposit cover. Mostly moorland and upland pasture. Some forest cover due to afforestation in Glen Dye.
+Qmed Suitability,No comment
+Pooling Suitability,No comment
+[END]

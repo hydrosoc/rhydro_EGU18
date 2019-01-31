@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 54018
+[END]
+[CDS DETAILS]
+NAME,Rea Brook
+LOCATION,Hookagate
+NOMINAL AREA,  172.85
+NOMINAL NGR,3465,3092
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,346550,309250
+CENTROID NGR,GB,336282,305666
+DTM AREA,  172.85
+ALTBAR, 183
+ASPBAR, 52
+ASPVAR,0.18
+BFIHOST,0.508
+DPLBAR, 16.57
+DPSBAR, 89.5
+FARL,0.991
+FPEXT,0.0756
+LDP, 30.32
+PROPWET,0.42
+RMED-1H,  9.7
+RMED-1D, 32.0
+RMED-2D, 41.0
+SAAR, 757
+SAAR4170, 781
+SPRHOST,31.56
+URBCONC1990, 0.028
+URBEXT1990,0.0048
+URBLOC1990, 0.038
+URBCONC2000, 0.677
+URBEXT2000,0.0213
+URBLOC2000, 0.709
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Model tested trapezoidal flume and flanking broad-crested weirs within vertical sidewalls, built in the 1960s and now suffering erosion and is in need of repair. GENERAL: Model tested trapezoidal flume and flanking broad-crested weirs within vertical sidewalls 7.3m apart. Built in 1960s, but now eroding and in need of rebuilding. STATION HYDROMETRY: Lb inundated at high flows but velocities low and rating extrapolation reasonable. All flows contained by d/s road bridge. Theoretical rating applied across period of record confirmed by gaugings to 1m. Rating thought to be reliable to 1.5mASD but there are no gaugings to confirm this yet. Gauging difficult at high flows - can't gauge above 0.25mASD. FLOW REGIME: Substantially natural catchment. Minor effects from sewage at lowest flows.
+CATCHMENT,Broad, flat main channel flanked by steeply graded streams. Complex geology; s'sts and shales (Pre-Cambrian to Silurian). Lower reaches entirely covered by Boulder Clay and fluvio-glacial sand and gravel. Moorland and low grade agriculture.
+Qmed Suitability,Only gauged to within 40% of QMED but theoretical rating expected to perform well.
+Pooling Suitability,Few high flow gaugings. Rating can not be validated beyond QMED.
+[END]

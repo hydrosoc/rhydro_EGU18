@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 56004
+[END]
+[CDS DETAILS]
+NAME,Usk
+LOCATION,Llandetty
+NOMINAL AREA,  545.44
+NOMINAL NGR,3126,2203
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,312700,220400
+CENTROID NGR,GB,297275,229570
+DTM AREA,  545.44
+ALTBAR, 328
+ASPBAR,101
+ASPVAR,0.06
+BFIHOST,0.547
+DPLBAR, 30.17
+DPSBAR,148.6
+FARL,0.974
+FPEXT,0.0370
+LDP, 53.06
+PROPWET,0.57
+RMED-1H, 11.4
+RMED-1D, 52.2
+RMED-2D, 70.2
+SAAR,1478
+SAAR4170,1492
+SPRHOST,35.03
+URBCONC1990,-9999.000
+URBEXT1990,0.0020
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0039
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station, natural river section. Cray and Usk Reservoirs in catchment affect runoff. GENERAL: Velocity area station, natural river section. Downgraded to a flood warning level-only station in October 1985. Relocated 50m d/s and upgraded in Oct 1999. Natural bankfull stage is 3.7m. STATION HYDROMETRY: There is a raised cableway stanchion on the lb. Banks in the measurement section are reinforced with boulders. Floods are contained (5.49m) and guided by longitudinal spur dyke on left bank and transverse bank on right, where recorder and cable are located. Inlet pipes are prone to blockage. Ratings are likely to under-estimate flow for events that go out of bank. Three peak flow ratings are applied over the period of record. FLOW RECORD: NRFA record for original station ends Dec 1981 (now including 1980-81 data added in Aug 2014). The flow record for the reopened station available from Jan 2000. Peak flow data throughout missing period. Full period of record peak flow data reviewed and released in April 2017 (WINFAP Files v5). FLOW REGIME: Cray and Usk Reservoirs in catchment affect runoff.
+CATCHMENT,Geology predominantly impermeable Old Red Sandstone. Land use is mainly grazing and some forestry.
+Qmed Suitability,Gauged above QMED. Good fit to rating
+Pooling Suitability,Gauged to within 27% of AMAX3.
+[END]

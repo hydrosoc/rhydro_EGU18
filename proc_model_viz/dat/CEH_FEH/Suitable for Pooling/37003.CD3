@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 37003
+[END]
+[CDS DETAILS]
+NAME,Ter
+LOCATION,Crabbs Bridge
+NOMINAL AREA,   77.76
+NOMINAL NGR,5786,2107
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,578600,210750
+CENTROID NGR,GB,573431,217810
+DTM AREA,   77.76
+ALTBAR,  59
+ASPBAR,149
+ASPVAR,0.21
+BFIHOST,0.461
+DPLBAR, 13.81
+DPSBAR, 18.6
+FARL,0.994
+FPEXT,0.1153
+LDP, 29.29
+PROPWET,0.31
+RMED-1H, 11.5
+RMED-1D, 28.8
+RMED-2D, 36.9
+SAAR, 570
+SAAR4170, 591
+SPRHOST,41.76
+URBCONC1990, 0.432
+URBEXT1990,0.0074
+URBLOC1990, 0.854
+URBCONC2000, 0.752
+URBEXT2000,0.0116
+URBLOC2000, 0.994
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Long period of record from a rural catchment, includes record of a former, less accurate station Hatfield Peverel. GENERAL: Trapezoidal flume with throat tapping, replaced less accurate station - Hatfield Peverel, 900m d/s, in 1964. Hatfield Peverel record held with this station (1932-1964). STATION HYDROMETRY: Theoretically rated. Modular limit 0.95m, no level yet recorded above 1.6m (structurefull). Rating accounts for drowning and increased scatter in gaugings beyond QMED. One peak flow rating applied across period of record. FLOW RECORD: No POT data are presented for this station as they have no non-modular flow correction applied. AMAX data have been corrected, but in some cases can be below the daily flow as these are not corrected. Records in 1932-1964 are from a former, less accurate Hatfield Peverel station. FLOW REGIME: Minor surface water abstractions for spray irrigation, small discharges from STW but net export through PWS.
+CATCHMENT,London Clay, overlain with superficial deposits, mainly Boulder Clay and some sands and gravels. Rural, predominantly arable land.
+Qmed Suitability,Gauged above QMED. Rating accounts for drowning.
+Pooling Suitability,Although greater scatter above QMED, rating estimates are thought to be reasonable as all flows contained within the structure.
+[END]

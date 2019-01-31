@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+203012
+[END]
+[CDS DETAILS]
+NAME,Ballinderry
+LOCATION,Ballinderry Bridge
+NOMINAL AREA,  429.20
+NOMINAL NGR,2926,3798
+[END]
+[DESCRIPTORS]
+IHDTM NGR,Ireland,292650,379800
+CENTROID NGR,Ireland,278143,377304
+DTM AREA,  429.20
+ALTBAR, 119
+ASPBAR,118
+ASPVAR,0.15
+BFIHOST,0.523
+DPLBAR, 26.40
+DPSBAR, 61.4
+FARL,0.996
+FPEXT,0.0910
+LDP, 46.75
+PROPWET,0.56
+RMED-1H,  8.8
+RMED-1D, 32.8
+RMED-2D, 43.9
+SAAR,1077
+SAAR4170,1132
+SPRHOST,34.32
+URBCONC1990,-2.000
+URBEXT1990,0.0227
+URBLOC1990, 0.779
+URBCONC2000, 0.767
+URBEXT2000,0.0055
+URBLOC2000, 0.769
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station with cableway and natural control. GENERAL: Velocity area station with cableway and natural control. STATION HYDROMETRY: Stable bed. Contained for all but extreme flows. Two ratings apply to period of record. Simple extrapolation is used above approx 71m3/s. More high flow gaugings would be advantageous. FLOW RECORD: Daily flows for full period of record reprocessed in 2002. New rating applied in 2004 to take account of raised bed caused by underpinning of Ballinderry Bridge, data reprocessed back to Sept 1995. Late December 2010 flows considered suspect due to likely freezing in stilling well.
+CATCHMENT,Solid geology - Ordovician igneous complexes form generally impermeable basement overlain by indurated Ordovician and Silurian greywacke sandstones and shales. Much of south is composed of Devonian and Carboniferous conglomerate, sandstone, mudstone and limestone that are generally indurated. Permeable Triassic sandstone (Sherwood) occurs to the east and is overlain by impermeable Triassic mudston (Mercia). Thin Cretaceous chalk is indurated and overlain by Palaeogene basalt lava flows and Oligocene clay and lignite. Drift geology - Extensive glacial till, sand and gravel particularly in the west. Extensive rock near surface and post-glacial peat cover on high ground with variable development of river alluvium in valleys. Mainly rural catchment (grassland or heath) with significant upland area. Cookstown has cement manufacturing works.
+Qmed Suitability,Needs some more high flow gaugings as the ratio of Maximum gauged flow to QMED is 0.55. Station is fully contained at QMED.
+Pooling Suitability,Maximum Gauging well below QMED although flows are contained at high flows for all but the most extreme. However unmeasured floodplain flow for the highest recorded level was < 10%.
+[END]

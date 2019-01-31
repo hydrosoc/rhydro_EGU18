@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 55002
+[END]
+[CDS DETAILS]
+NAME,Wye
+LOCATION,Belmont
+NOMINAL AREA, 1894.26
+NOMINAL NGR,3485,2387
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,348500,238750
+CENTROID NGR,GB,306152,255939
+DTM AREA, 1894.26
+ALTBAR, 297
+ASPBAR,128
+ASPVAR,0.08
+BFIHOST,0.472
+DPLBAR, 95.63
+DPSBAR,134.4
+FARL,0.967
+FPEXT,0.0693
+LDP,157.73
+PROPWET,0.50
+RMED-1H, 10.2
+RMED-1D, 42.4
+RMED-2D, 56.1
+SAAR,1230
+SAAR4170,1269
+SPRHOST,39.67
+URBCONC1990,-9999.000
+URBEXT1990,0.0020
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0029
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Channel control velocity-area station that does not contain extreme events with extrapolated flows probably under-estimated as rating does not take account of floodplain flow. GENERAL: Channel control velocity-area station, width at bankfull approx. 49 m; cableway span 62 m. Embankment constructed in 1966 on the left extends flood containment. STATION HYDROMETRY: Extreme events spill out. Severe weed growth problems. Extrapolated flows probably under-estimated as rating does not take account of floodplain flow. Originally, stages taken from 1908 at Hereford, 1.2km d/s; flows were measured at current site. Prior to 1932, data unreliable. Variations in stage-discharge relationship at flood flows due to works on floodplain and adjacent to river in Hereford i.e. modification of Old Wye Bridge - enlarged footings and additional internal arches; dates of remedial works unknown. One rating now applied across period of record. Upper limit set to bank full. Rating fits well to available gaugings. FLOW RECORD: Highest flood peak believed to have been in Oct 1998 (estimated at c.700 cumecs in modelling work by WS Atkins) but this is subject to ongoing investigation. FLOW REGIME: Moderate flow modification, high levels of agricultural abstraction u/s. Naturalised discharges take into account reservoirs in the Elan Valley.
+CATCHMENT,Above Erwood (55007) are wet uplands draining Palaeozoic rocks; the lower third is a narrow corridor draining Old Red Sandstone, marls and subordinate glacial gravels, which supports arable farming. Upper catchment is predominantly grassland with some forest.
+Qmed Suitability,Gauged above QMED. Rating provides a good match to current check gaugings
+Pooling Suitability,Suitable from 1966 (after flood embankment constructed). AMAX3 is out of bank with several gaugings to validate rating.
+[END]

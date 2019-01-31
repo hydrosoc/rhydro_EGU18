@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 41011
+[END]
+[CDS DETAILS]
+NAME,Rother
+LOCATION,Iping Mill
+NOMINAL AREA,  156.94
+NOMINAL NGR,4852,1229
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,485200,122900
+CENTROID NGR,GB,477887,125009
+DTM AREA,  156.94
+ALTBAR,  91
+ASPBAR,126
+ASPVAR,0.12
+BFIHOST,0.675
+DPLBAR, 14.13
+DPSBAR, 75.1
+FARL,0.973
+FPEXT,0.0779
+LDP, 27.36
+PROPWET,0.35
+RMED-1H, 10.2
+RMED-1D, 39.6
+RMED-2D, 51.0
+SAAR, 921
+SAAR4170, 935
+SPRHOST,26.84
+URBCONC1990, 0.500
+URBEXT1990,0.0119
+URBLOC1990, 1.082
+URBCONC2000, 0.737
+URBEXT2000,0.0287
+URBLOC2000, 1.077
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Compound Crump profile weir, bypassing occurs at the mill channel. Flow regime has a large groundwater component. GENERAL: Compound Crump profile weir (crest widths 3.05m and 2 x 5.03m), central bay 0.3m lower. New ultrasonic gauge present downstream at Fittleworth to measure high flows. Prior to 1968 an existing penstock weir was in place, consisting of 5 irregularly shaped masonry piers & abutments, constructed in the late 18th century. The 6 wooden ratchet operated doors had fallen into disuse. STATION HYDROMETRY: Weir was originally designed to measure flows up to 51 cumecs, actual capacity when built 45 cumecs. Upstream approach not central, probably affecting uniformity of flows in weir section. Non-modular only during high flows (conveyance affected by growth of trees obstructing a downstream bridge; downstream siltation may also be a factor). Sept 2000 visit notes suggest flood flows during Dec 1999 had deposited up to 0.6m of sand on the right bank downstream of the structure, adding to effects of the bridge downstream causing drowning. Bankfull stage 1.9m above weir crest. One rating applied across period of record. Derived from hydraulic modelling, it fits well to the maximum gauging of 0.6m. FLOW RECORD: 1968 is largest high flow event on record, when the channel was overtopped a maximum level 0.7m above structure full was obtained; flow was estimated at 100-150 cumecs. Significantly greater than late 2000 maxima when all flows were contained with no overtopping or bypassing. FLOW REGIME: Many springs provide a large baseflow component but the Rother is very responsive to rainfall. Runoff influenced by groundwater abstraction/recharge. Petersfield forms a significant urban area. Abstractions for spray irrigation and sewage treatment works discharges affect the flow regime, particularly low flows - but limited impact overall. The Rother is influent above Iping Mill.
+CATCHMENT,Mixed geology; 2/3 pervious, 1/3 naturally impervious. Large tracts of Lower Greensand. A mainly rural catchment with some urban development. The river originates by Liss, flows southwest to Petersfield then east towards confluence with the River Arun. The main river is confined to the sandy measures of Lower Greensand which comprise almost 50% of catchment area giving rise to very fine silty and sandy alluvium. North of the Rother the area is mainly occupied by an outcrop of the Hythe Formation and to the south by an outcrop of the Folkestone Formation. Numerous fed springs originate at the Chalk and Gault Clay boundary, drain northwards into the Rother and cut across the Folkestone Formation. The catchment is predominantly rural with some urban development, mixed woodland & arable use.
+Qmed Suitability,Although not gauged to within 30% of QMED, model derived rating expected to perform reasonably..
+Pooling Suitability,Few high flow gaugings. Rating can not be validated beyond QMED.
+[END]

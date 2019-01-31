@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 81002
+[END]
+[CDS DETAILS]
+NAME,Cree
+LOCATION,Newton Stewart
+NOMINAL AREA,  366.21
+NOMINAL NGR,2412,5653
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,241250,565350
+CENTROID NGR,GB,237614,579411
+DTM AREA,  366.21
+ALTBAR, 238
+ASPBAR,204
+ASPVAR,0.23
+BFIHOST,0.341
+DPLBAR, 23.78
+DPSBAR,118.7
+FARL,0.932
+FPEXT,0.0697
+LDP, 45.88
+PROPWET,0.69
+RMED-1H, 11.9
+RMED-1D, 50.2
+RMED-2D, 65.9
+SAAR,1757
+SAAR4170,1713
+SPRHOST,50.86
+URBCONC1990,-9999.000
+URBEXT1990,0.0008
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0017
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station, lowest on the River Cree. GENERAL: Velocity area station with cableway located on long, reasonably straight, gravel bedded reach. STATION HYDROMETRY: Channel control but gravel riffle 50m below site controls lower flows. Peak flow rating derived with current meter gaugings. Highest known gaugings are at about QMED. Simple extrapolation above this. FLOW REGIME: Natural catchment.
+CATCHMENT,Natural catchment with a few small lochs, moorland and forestry. Impermeable bedrock with approx. half overlain by superficial deposits. Silurian shales for much of the catchment. Minimal floodplains. No significant catchment changes known.
+Qmed Suitability,No comment
+Pooling Suitability,No comment
+[END]

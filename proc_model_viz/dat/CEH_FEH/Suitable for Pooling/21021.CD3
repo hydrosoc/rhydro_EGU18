@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 21021
+[END]
+[CDS DETAILS]
+NAME,Tweed
+LOCATION,Sprouston
+NOMINAL AREA, 3345.76
+NOMINAL NGR,3752,6354
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,375250,635400
+CENTROID NGR,GB,340987,628413
+DTM AREA, 3345.76
+ALTBAR, 296
+ASPBAR, 67
+ASPVAR,0.09
+BFIHOST,0.496
+DPLBAR, 64.05
+DPSBAR,148.8
+FARL,0.978
+FPEXT,0.0460
+LDP,125.01
+PROPWET,0.53
+RMED-1H,  9.5
+RMED-1D, 35.9
+RMED-2D, 47.1
+SAAR,1014
+SAAR4170,1077
+SPRHOST,38.70
+URBCONC1990,-9999.000
+URBEXT1990,0.0028
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0035
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station, on the River Tweed in the Scottish Borders. GENERAL: Velocity area station. Wide section (about 100m) on gentle bend in river. New cableway (2003) can gauge flows up to 4.35m stage. STATION HYDROMETRY: Natural channel controls. Reservoirs in the headwaters have a very minor impact on the flow regime. To date all flows contained. Significant seasonal weed growth effects on rating. Seasonal ratings used for low flows. Peak flow rating derived from current meter gaugings up to 2.8m (about 0.8 QMED), simple extrapolation beyond. FLOW RECORD: Monthly naturalised flows available. FLOW REGIME: Public water supply reservoirs in headwaters have a minor impact on the flow regime.
+CATCHMENT,A mix of upland and lowland. The bedrock geology is dominated by impervious Silurian formations (with some deposits). Hill grazing predominates with improved grassland and arable farming in the lower catchment; some forest in headwaters. Some reservoirs in the headwaters were established during the period of record (Fruid Reservoir 1968, Megget Reservoir 1982).
+Qmed Suitability,No comment
+Pooling Suitability,No comment
+[END]

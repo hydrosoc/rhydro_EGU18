@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 28033
+[END]
+[CDS DETAILS]
+NAME,Dove
+LOCATION,Hollinsclough
+NOMINAL AREA,    7.92
+NOMINAL NGR,4063,3668
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,406300,366850
+CENTROID NGR,GB,404549,368132
+DTM AREA,    7.92
+ALTBAR, 408
+ASPBAR,108
+ASPVAR,0.22
+BFIHOST,0.403
+DPLBAR,  3.14
+DPSBAR,166.7
+FARL,1.000
+FPEXT,0.0075
+LDP,  6.11
+PROPWET,0.52
+RMED-1H, 10.5
+RMED-1D, 41.6
+RMED-2D, 55.6
+SAAR,1346
+SAAR4170,1361
+SPRHOST,42.50
+URBCONC1990,-9999.000
+URBEXT1990,0.0000
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0000
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Compound Crump profile weir built to investigate the water balance of a Millstone Grit catchment typical of the area south of the High Peak. GENERAL: Small compound Crump profile weir, crest lengths 1.2 and 3.02m in rocky channel. Originally an experimental catchment with associated comprehensive climate station. Station out of action Oct 1986-Oct 1996. STATION HYDROMETRY: Fully modular, has never been overtopped. Some trouble with left bank accretion, incised gauging section, and heavy undergrowth. One rating applied across period of record, based on rating tables not gaugings. Difficult to gauge higher flows the largest of which suggests rating underestimates flow. Rating revised in 2016. FLOW RECORD: Zero flow in Jan 1986 thought to be due to frozen catchment. FLOW REGIME: Natural to within 10% at the 95 percentile flow with flashy regime.
+CATCHMENT,Headwater gauge for the River Dove. Steep slopes and flashy regime. Namurian Grits and Shales with some Dinantian limestone (about 10%). Highland catchment, steep gradients. Mainly rural grazing land. Catchment heavily instrumented for rainfall and evaporation measurements.
+Qmed Suitability,Theoretical rating should be reasonable to QMED,
+Pooling Suitability,All recorded flows are contained by the structure and remain modular. Theoretical rating thought to be OK.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 43806
+[END]
+[CDS DETAILS]
+NAME,Wylye
+LOCATION,Brixton Deverill
+NOMINAL AREA,   50.04
+NOMINAL NGR,3856,1379
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,385600,137950
+CENTROID NGR,GB,382845,136389
+DTM AREA,   50.04
+ALTBAR, 189
+ASPBAR,106
+ASPVAR,0.20
+BFIHOST,0.931
+DPLBAR,  5.96
+DPSBAR, 76.5
+FARL,1.000
+FPEXT,0.0367
+LDP, 12.76
+PROPWET,0.35
+RMED-1H, 11.0
+RMED-1D, 35.1
+RMED-2D, 47.0
+SAAR, 968
+SAAR4170,1003
+SPRHOST, 8.34
+URBCONC1990,-9999.000
+URBEXT1990,0.0019
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0031
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Flat V Crump weir with an ultrasonic multipath for periods of non-modularity frequently caused by downstream weed growth. GENERAL: Flat V Crump weir 4.5m wide for low flows with an ultrasonic multipath for periods of non-modularity. STATION HYDROMETRY: The ultrasonic gauge has been operational since 27/9/2002. Low flow gauge with flood warning alarm. Drowns out at 0.58m. Theoretical original rating until flow becomes non-modular when upstream ultrasonic takes over (installed Sept 2002). Prior to 09/2002, rating for the weir performs reasonably and was confirmed at high flows by gaugings in 2000 event. Extrapolated above 0.4m. Frequently non-modular between April and October due to downstream weed growth. FLOW REGIME: Abstraction for public water supply, and stream support upstream of gauge.
+CATCHMENT,The catchment area consists mainly of Cretaceous Chalk (Upper and Lower Chalk). Land use mostly rural.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged to within 8% of AMAX3. No bypassing reported with fairly good fit to gaugings across stage range.
+[END]

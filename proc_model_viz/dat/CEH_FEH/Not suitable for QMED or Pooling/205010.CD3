@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+205010
+[END]
+[CDS DETAILS]
+NAME,Lagan
+LOCATION,Banoge
+NOMINAL AREA,  178.55
+NOMINAL NGR,3123,3540
+[END]
+[DESCRIPTORS]
+IHDTM NGR,Ireland,312350,353950
+CENTROID NGR,Ireland,322506,350516
+DTM AREA,  178.55
+ALTBAR, 131
+ASPBAR,310
+ASPVAR,0.10
+BFIHOST,0.423
+DPLBAR, 19.69
+DPSBAR, 75.5
+FARL,0.992
+FPEXT,0.0808
+LDP, 36.26
+PROPWET,0.53
+RMED-1H, 10.5
+RMED-1D, 37.5
+RMED-2D, 48.7
+SAAR, 927
+SAAR4170, 986
+SPRHOST,41.03
+URBCONC1990,-2.000
+URBEXT1990,0.0223
+URBLOC1990, 0.747
+URBCONC2000, 0.776
+URBEXT2000,0.0065
+URBLOC2000, 0.646
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station, once with cableway, but now calibrated by wading. GENERAL: Velocity area station. Original station by-passed by millrace but was then moved downstream. Station closed in 1994 and replaced by Feney. STATION HYDROMETRY: Station previously had cableway, but subsequently calibrated by wading. Station subject to weed problems at low summer flows and goes out of bank at high flows. The rating is derived from current meter gaugings carried out by wading. Simple extrapolation occurs beyond 1.94m (highest gauged level). Poor range of gaugings, few high flow gaugings. FLOW RECORD: Daily flows from start of 1985 onwards reprocessed in 2002. FLOW REGIME: No water abstractions. The town of Dromore's effluent is returned to river with minor impact.
+CATCHMENT,Upland heath rising to over 500m. Remainder is agricultural grassland except for the town of Dromore. Geology - entirely Silurian overlain with till.
+Qmed Suitability,No - Not suitable for QMED estimation as the maximum gauged flow is only 0.28 times the flow at QMED.
+Pooling Suitability,No - Not suitable for use in pooling groups. River gets out of bank at high flows on both sides of the river, floodplain flow is ungauged.
+[END]

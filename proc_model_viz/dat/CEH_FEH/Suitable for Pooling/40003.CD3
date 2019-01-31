@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 40003
+[END]
+[CDS DETAILS]
+NAME,Medway
+LOCATION,Teston / East Farleigh
+NOMINAL AREA, 1261.31
+NOMINAL NGR,5708,1530
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,570850,153050
+CENTROID NGR,GB,561620,142337
+DTM AREA, 1261.31
+ALTBAR,  73
+ASPBAR, 80
+ASPVAR,0.05
+BFIHOST,0.440
+DPLBAR, 36.27
+DPSBAR, 53.6
+FARL,0.954
+FPEXT,0.1275
+LDP, 67.28
+PROPWET,0.35
+RMED-1H, 11.7
+RMED-1D, 33.3
+RMED-2D, 44.3
+SAAR, 743
+SAAR4170, 755
+SPRHOST,41.31
+URBCONC1990, 0.614
+URBEXT1990,0.0186
+URBLOC1990, 0.962
+URBCONC2000, 0.804
+URBEXT2000,0.0335
+URBLOC2000, 1.030
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Combined flow series from two separate stations Teston (low flows) and East Farleigh (high flows). Gauges a mixed geology catchment with complex water utilisation. GENERAL: Combination of low flows from Teston (Fish Pass and Crump Weir) and flows > 17 cumecs from East Farleigh (velocity-area station) 2km downstream. STATION HYDROMETRY: The river is canalised from the tidal sluices near Maidstone to Tonbridge and there are several controls both automatic and manually operated. Site is subject to some tidal influence under certain conditions, and vegetation can cause gauging problems. Rating developed using gaugings with hydraulic model beyond gauged range. Confidence in extrapolation to bankfull, & beyond this to 9m. FLOW RECORD: Combination of flows from Teston and East Farleigh may not be complete on National River Flow Archive. Peak flows given are exclusively from East Farleigh data. Patchy daily flow record 1966-1973. Pre-1970, errors in data caused by leakage and blockage of sluices - this was later dealt with through reconstruction. Naturalised flows available. No POTs shown after water year 2011-12. FLOW REGIME: Locally important aquifers feed springs which provide the baseflow for the headwaters of the tributaries of the Medway, but a responsive regime. Complex water utilisation with significant artificial disturbance. Three public water supply reservoirs exist in the Medway catchment upstream of the gauging station: Weir Wood Reservoir on the Upper Medway, Bough Beech Reservoir on a tributary of the Eden, Bewl Water Reservoir on the River Bewl, a tributary of the River Teise. These reservoirs affect the runoff within the catchment, occupying 0.5% of the total catchment area. Runoff is also affected by groundwater abstraction and/or recharge, regulation and by industrial abstraction. Radial flood gates at Yalding can alter flow frequently. Leigh Barrier (22.16km upstream of Teston) constructed 1981, consists of a flood storage reservoir capable of retaining up to 5.58 million cubic metres of water and is the largest 'on line' flood storage reservoir of its kind in the UK.
+CATCHMENT,Main tributaries upstream include the Rivers Eden, Bourne, Teise & Beult. Mixed geology comprising Hastings Beds, Weald Clay & Lower Greensand. The Hastings Beds are composed of Sandstones, Siltstones & Clays. Impervious formations constitute up to half of the catchment. Diverse land use; predominantly rural with significant areas of woodland and orchard; several substantial towns also (including East Grinstead, Forest Row, Crowborough and Tunbridge Wells).
+Qmed Suitability,Gauged above QMED. reasonable fit to gaugings.
+Pooling Suitability,Gauged to within 2% of AMAX3. Out of bank flows gauged and accounted for in rating.
+[END]

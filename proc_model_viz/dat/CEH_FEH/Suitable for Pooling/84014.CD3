@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 84014
+[END]
+[CDS DETAILS]
+NAME,Avon Water
+LOCATION,Fairholm
+NOMINAL AREA,  263.07
+NOMINAL NGR,2753,6518
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,275350,651900
+CENTROID NGR,GB,268833,641743
+DTM AREA,  263.07
+ALTBAR, 245
+ASPBAR, 37
+ASPVAR,0.15
+BFIHOST,0.376
+DPLBAR, 23.40
+DPSBAR, 62.0
+FARL,0.986
+FPEXT,0.0568
+LDP, 43.09
+PROPWET,0.59
+RMED-1H,  9.2
+RMED-1D, 37.8
+RMED-2D, 53.0
+SAAR,1264
+SAAR4170,1269
+SPRHOST,44.00
+URBCONC1990, 0.641
+URBEXT1990,0.0056
+URBLOC1990, 0.445
+URBCONC2000, 0.813
+URBEXT2000,0.0102
+URBLOC2000, 0.495
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station on the Avon Water. GENERAL: Velocity area station; approx. 25m wide section in a very straight uniform reach. STATION HYDROMETRY: Rock platform below a bridge forms the control. All flows contained. Ratings derived from current meter gaugings up to 2.2m (about QMED), simple extrapolation beyond. Two ratings due to a datum change only. FLOW RECORD: Some monthly naturalised flows (1964-74). FLOW REGIME: Flashy response. Two small reservoirs in the catchment but flow pattern remains responsive.
+CATCHMENT,Predominantly upland catchment. Mostly ORS and Carboniferous formations extensively overlain by superficial deposits; mainly Boulder Clay with peat in the headwaters. Land use hill grazing, moorland, rough and improved pasture, and some forest cover. No significant catchment changes known.
+Qmed Suitability,No comment
+Pooling Suitability,No comment
+[END]

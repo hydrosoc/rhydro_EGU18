@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 54024
+[END]
+[CDS DETAILS]
+NAME,Worfe
+LOCATION,Burcote
+NOMINAL AREA,  255.22
+NOMINAL NGR,3746,2953
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,374600,295350
+CENTROID NGR,GB,377365,302083
+DTM AREA,  255.22
+ALTBAR,  96
+ASPBAR,171
+ASPVAR,0.09
+BFIHOST,0.642
+DPLBAR, 19.62
+DPSBAR, 39.9
+FARL,0.943
+FPEXT,0.0806
+LDP, 36.66
+PROPWET,0.34
+RMED-1H, 10.5
+RMED-1D, 29.6
+RMED-2D, 36.3
+SAAR, 687
+SAAR4170, 712
+SPRHOST,30.56
+URBCONC1990, 0.641
+URBEXT1990,0.0308
+URBLOC1990, 1.231
+URBCONC2000, 0.822
+URBEXT2000,0.0525
+URBLOC2000, 1.302
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Crump profile weir with crest tapping that contains all recorded floods within structure. GENERAL: Crump profile weir, 5.5m wide, with crest tapping (unused). STATION HYDROMETRY: Flows always contained - weir does not drown. Few gaugings above 0.3mASD. One rating applied across period of record. All recorded flows contained by structure. Good fit to available gaugings. FLOW REGIME: Substantial impact from surface and groundwater abstractions for PWS, industry, irrigation and the Shropshire Groundwater Scheme.
+CATCHMENT,Predominantly agricultural, low relief catchment draining Triassic sandstones; intermittent Boulder Clay and glacial sand and gravel cover.
+Qmed Suitability,All flows contained by the structure.
+Pooling Suitability,Although no gaugings available to confirm theoretical rating at high flows, all flows are contained by the structure and theoretical rating expected to hold.
+[END]

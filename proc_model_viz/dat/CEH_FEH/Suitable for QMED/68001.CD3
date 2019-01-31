@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 68001
+[END]
+[CDS DETAILS]
+NAME,Weaver
+LOCATION,Ashbrook
+NOMINAL AREA,  622.68
+NOMINAL NGR,3671,3635
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,367150,363500
+CENTROID NGR,GB,365240,350713
+DTM AREA,  622.68
+ALTBAR,  79
+ASPBAR, 13
+ASPVAR,0.07
+BFIHOST,0.513
+DPLBAR, 33.03
+DPSBAR, 29.6
+FARL,0.955
+FPEXT,0.1575
+LDP, 64.77
+PROPWET,0.34
+RMED-1H,  9.5
+RMED-1D, 29.8
+RMED-2D, 39.4
+SAAR, 732
+SAAR4170, 766
+SPRHOST,32.72
+URBCONC1990, 0.723
+URBEXT1990,0.0231
+URBLOC1990, 0.759
+URBCONC2000, 0.819
+URBEXT2000,0.0273
+URBLOC2000, 0.760
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Non-standard shallow V weir draining a catchment that includes the towns of Nantwich and Crewe but is largely rural. GENERAL: Opened in 1937 as a velocity area station which suffered from a mobile bed and weed problems. Station was relocated 400m downstream in August 1978 with a non-standard timber shallow V weir as bed control, 16.5m wide located just u/s of a bend in the river. There was a brief overlap between the stations. STATION HYDROMETRY: Cableway present. Mobile control. Weir drowns at relatively low flows. Bypassing on right bank above 3.5m; inundates adjacent fields, but not regularly. Prone to weed and algal growth, and sedimentation. There have been significant changes to the channel, including works immediately upstream of the station, and collapse of the right bank bank during the winter 1992/93 with channel improvements some years later. Peak flow ratings derived from gaugings, extrapolated when overtopping the right bank. Multiple ratings applied to reflect changes in bank profile, maintenance, sedimentation and downstream conditions. Early gaugings lost; rating accuracy unknown. Flood Studies Report grade A2. FLOW RECORD: Data before 1972, particularly low flows, are unreliable. Revised daily flow data from 15/08/1979 to 12/2008 loaded in 03/2010: new values are lower, especially at high flows - some reduced by over 25%; annual runoff typically reduced by 15%; max GDF unchanged, as it was in 1946. FLOW REGIME: The flat catchment tends to produce sluggish hydrographs, though some rise rapidly. High flows can be protracted, with recession delayed.
+CATCHMENT,A generally low relief catchment below the headwaters with steep upper reaches. Mixed geology, consisting of Keuper Marl overlain with mostly post-glacial deposits. Lower Lias shales in the south with Coal Measures, Permian Sandstones and Bunter Pebble Beds in the east; mostly low permeability with extensive Drift cover. Land use is largely agricultural but catchment includes Nantwich and parts of Crewe.
+Qmed Suitability,Gauged above QMED. Reasonable fit to gaugings although some scatter.
+Pooling Suitability,Rating can not be validated beyond QMED. Scatter in gaugings over time and flow above bankfull is ungauged.
+[END]

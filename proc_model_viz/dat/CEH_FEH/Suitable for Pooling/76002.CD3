@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 76002
+[END]
+[CDS DETAILS]
+NAME,Eden
+LOCATION,Warwick Bridge
+NOMINAL AREA, 1374.85
+NOMINAL NGR,3470,5567
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,346950,556700
+CENTROID NGR,GB,360654,522446
+DTM AREA, 1374.85
+ALTBAR, 284
+ASPBAR,330
+ASPVAR,0.08
+BFIHOST,0.509
+DPLBAR, 62.71
+DPSBAR,124.8
+FARL,0.955
+FPEXT,0.0619
+LDP,107.50
+PROPWET,0.65
+RMED-1H, 10.9
+RMED-1D, 42.8
+RMED-2D, 58.4
+SAAR,1272
+SAAR4170,1326
+SPRHOST,36.88
+URBCONC1990,-9999.000
+URBEXT1990,0.0028
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0050
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station, replaced in 1996 by Great Corby (76017). GENERAL: Velocity area station, opened November 1959, channel width 40m. Station replaced in December 1996 by Great Corby (76017). Closed June 1998. STATION HYDROMETRY: Cableway for high flows. Bypassed on left bank floodplain above 3.8m. Seasonal weed growth very problematic in the later half of each calendar year (May - December). 0.01m discrepancy between actual and recorded stage during winter. One rating applied across period of record. Above bankfull rating limbs based on hydraulic modelling. The highest gaugings do not include floodplain flow. FLOW RECORD: WINFAP files combine Great Corby and Warwick Bridge - numbered as the current station, Great Corby 76017. FLOW REGIME: Very responsive catchment, in spite of its comparatively large area. Catchment includes Ullswater, Haweswater Reservoir and Wet Sleddale Reservoir.
+CATCHMENT,Large catchment with mixed geology. Horseshoe shaped outcrop of Carboniferous Limestone forms south and east watersheds in Pennines; lakes drain Ordovician Borrowdale volcanics. Main Vale of Eden is Boulder Clay overlying Sherwood sandstone. Land-use variable; moorland to arable with little urbanisation. No known catchment changes.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged to within 14% of AMAX3. Some bypassing begins at 400m3s-1.
+[END]

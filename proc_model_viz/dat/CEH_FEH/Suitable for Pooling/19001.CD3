@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 19001
+[END]
+[CDS DETAILS]
+NAME,Almond
+LOCATION,Craigiehall
+NOMINAL AREA,  379.51
+NOMINAL NGR,3165,6752
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,316550,675250
+CENTROID NGR,GB,303345,665781
+DTM AREA,  379.51
+ALTBAR, 177
+ASPBAR, 21
+ASPVAR,0.25
+BFIHOST,0.399
+DPLBAR, 24.66
+DPSBAR, 45.6
+FARL,0.966
+FPEXT,0.0850
+LDP, 46.96
+PROPWET,0.50
+RMED-1H,  8.6
+RMED-1D, 34.9
+RMED-2D, 46.1
+SAAR, 892
+SAAR4170, 905
+SPRHOST,44.41
+URBCONC1990, 0.735
+URBEXT1990,0.0339
+URBLOC1990, 0.749
+URBCONC2000, 0.834
+URBEXT2000,0.0609
+URBLOC2000, 0.739
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station, the most downstream on the Almond. GENERAL: Velocity area station with cableway. STATION HYDROMETRY: Recorder is well sited on straight even reach with steep banks containing all recorded floods. Low flow control is a stable bar. A weir some 2km d/s and several meanders d/s are probably high flow control. Weed growth in summer - some adjustment to stage required. Stable rating. Peak flow rating derived from current meter gaugings up to 3.3m (about 1.1 QMED), extrapolated above. Gaugings from 1957 not included in derivation of rating. FLOW REGIME: There are three water supply reservoirs in the headwaters (Cobbinshaw, Crosswood and Morton). Low flows substantially affected by sewage effluent esp. from Mid Calder and Newbridge STW and six smaller STWs. Abstraction at Almondell to feed Union canal.
+CATCHMENT,Mostly lowland catchment. Bedrock predominantly Carboniferous rocks; predominantly overlain by superficial deposits. Land use rural (grassland, arable, forest), with extensive urban development around Livingston, esp. industrial estates, and several small mining towns. No significant catchment changes known. Possible future change: expansion of Edinburgh Airport.
+Qmed Suitability,No comment
+Pooling Suitability,No comment
+[END]

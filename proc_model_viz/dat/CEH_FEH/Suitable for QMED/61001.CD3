@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 61001
+[END]
+[CDS DETAILS]
+NAME,Western Cleddau
+LOCATION,Prendergast Mill
+NOMINAL AREA,  197.83
+NOMINAL NGR,1954,2177
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,195400,217700
+CENTROID NGR,GB,195049,226903
+DTM AREA,  197.83
+ALTBAR, 108
+ASPBAR,203
+ASPVAR,0.10
+BFIHOST,0.560
+DPLBAR, 16.45
+DPSBAR, 67.9
+FARL,0.996
+FPEXT,0.0444
+LDP, 30.57
+PROPWET,0.44
+RMED-1H, 11.6
+RMED-1D, 42.5
+RMED-2D, 57.7
+SAAR,1276
+SAAR4170,1282
+SPRHOST,32.56
+URBCONC1990,-9999.000
+URBEXT1990,0.0012
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0043
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station. Generally natural flow regime - affected by tides and backwater issues. GENERAL: Velocity area station. Channel width: 10.5m. STATION HYDROMETRY: Lb is steep and high, rb has low flood bank that allows occasional overtopping to an extensive floodplain. Natural heavy shoaling, increasing flows. Current rating thought to overestimate flows. One peak rating applied across period of record. FLOW RECORD: Tidally affected but this is edited out. Flow data was merged with 61004 Redhill to produce a continuous record, held as 61001 (Jan 74 - May 90 data is from 61004). Appears to be a trend in the early peak flow record. Reason unknown, though has been suggested related to land drainage schemes upstream in late 1960's & early 1970's. Only peak flow data from Oct 1971 presented in download files due to suspect data pre-1971. Some concerns about quality of flow data since January 2004, particularly low flow data. 2008 and 2012 data highly suspect. FLOW REGIME: Generally natural flow regime, some effects of abstractions and effluent returns. Also affected by tides and backwater issues.
+CATCHMENT,Mostly lowland catchment. Impermeable, Ordovician formations with igneous intrusions. Soils in southern area have permeable substrates. Predominantly grassland with dairy farming, patchy arable in lower areas.
+Qmed Suitability,Gauged to within 17% of QMED. Scatter exists around rating, use with caution.
+Pooling Suitability,Few high flow gaugings. Rating can not be validated beyond QMED.
+[END]

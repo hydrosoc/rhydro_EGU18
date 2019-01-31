@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 40007
+[END]
+[CDS DETAILS]
+NAME,Medway
+LOCATION,Chafford / Colliersland Bridge
+NOMINAL AREA,  252.08
+NOMINAL NGR,5517,1405
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,551750,140600
+CENTROID NGR,GB,547687,135186
+DTM AREA,  252.08
+ALTBAR, 109
+ASPBAR, 32
+ASPVAR,0.06
+BFIHOST,0.441
+DPLBAR, 15.15
+DPSBAR, 82.5
+FARL,0.937
+FPEXT,0.0429
+LDP, 30.14
+PROPWET,0.35
+RMED-1H, 11.7
+RMED-1D, 34.8
+RMED-2D, 47.2
+SAAR, 831
+SAAR4170, 852
+SPRHOST,42.34
+URBCONC1990, 0.601
+URBEXT1990,0.0200
+URBLOC1990, 1.224
+URBCONC2000, 0.827
+URBEXT2000,0.0397
+URBLOC2000, 1.212
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Combined flow series from two separate stations Chafford (low flows) and Colliersland Bridge (high flows). Gauging a mixed geology catchment with responsive regime despite significant baseflow. GENERAL: Combination of low flows from Chafford (humped trapezoidal flume) and high flows from Colliers Land Bridge (Time of Flight Ultrasonic and velocity-area station). Located ~3km upstream of confluence with River Eden at Penshurst and ~9km upstream of the Leigh flood barrier. STATION HYDROMETRY: As of 21/02/2012 flow measurement methodology at Colliers Land Bridge has changed significantly. The site has now been upgraded to a full range station with time of flight ultrasonics being up to a stage of 3.4m. Flows above this stage are calculated using a velocity area model that was developed by consultants using new LIDAR information. The cableway has been removed at Colliers Land Bridge. Flows from Colliers Land Bridge and Chafford are still currently being combined until new equipment at Colliers Land Bridge has been fully calibrated and commissioned. Channel subject to erosion. In major historic events (1960, 2000) bypassing over Spring Hill road has covered full width of grass floodplain. The flows for the 1968 and 2000 events show flat topping, the EA advise that this was due to the exceedence of the stilling well. The stilling well has been modified following the 2000 event and should no longer flat top at high flows. One rating applied across period of record. Rating uses hydraulic modelling for low and high flows. Good fit to gaugings across the available range. EA felt that the upper limb of the rating, modelled using ISIS, underestimated flows based on the flow through the Leigh barrier during the 2000 event. FLOW RECORD: The flows for the 1968 and 2000 events show flat topping, the EA advise that this was due to the exceedence of the stilling well.EA felt that the upper limb of the rating, modelled using ISIS, underestimated flows based on the flow through the Leigh barrier during the 2000 event. No POTs shown after water year 2011-12. FLOW REGIME: Quite a responsive regime despite significant baseflow - locally important aquifers feed the numerous springs which provide the baseflow for the headwaters. Catchment includes Weir Wood Reservoir, which provides compensation flows. Small net export of water. Sluices upstream can influence levels. Runoff increased by effluent returns. Leigh Barrier constructed downstream 1981, consists of a flood storage reservoir capable of retaining up to 5.58 million cubic metres of water & is the largest 'online' flood storage reservoir of its kind in the UK. Colliers Land Bridge is used as one of the main flood warning stations for input to the Leigh Barrier. Bewl Water reservoir constructed in 1975.
+CATCHMENT,The Medway originates as a spring just above Turners Hill (West Sussex) and flows in a north easterly direction to Colliers Land Bridge. Geology is mixed but mainly Ashdown Sands and Wadhurst Clay. Also Upper Tunbridge Wells Sand, Grinstead clay and Lower Tunbridge Wells Sands. Catchment is one third of the catchment is naturally impervious, two thirds pervious. The Medway drains from Ashdown Forest and the catchment is predominantly rural in character, apart from East Grinstead, Forest Row and Crowborough which occupy approximately 3% of the catchment area.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged beyond AMAX3. Gaugings confirm high flow rating.
+[END]

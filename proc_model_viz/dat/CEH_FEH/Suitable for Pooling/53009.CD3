@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 53009
+[END]
+[CDS DETAILS]
+NAME,Wellow Brook
+LOCATION,Wellow
+NOMINAL AREA,   73.64
+NOMINAL NGR,3740,1579
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,374050,158000
+CENTROID NGR,GB,367772,153803
+DTM AREA,   73.64
+ALTBAR, 135
+ASPBAR, 46
+ASPVAR,0.22
+BFIHOST,0.643
+DPLBAR, 10.66
+DPSBAR, 68.4
+FARL,0.983
+FPEXT,0.0329
+LDP, 18.49
+PROPWET,0.37
+RMED-1H, 11.3
+RMED-1D, 38.3
+RMED-2D, 52.1
+SAAR, 999
+SAAR4170,1018
+SPRHOST,27.31
+URBCONC1990, 0.625
+URBEXT1990,0.0382
+URBLOC1990, 0.966
+URBCONC2000, 0.782
+URBEXT2000,0.0550
+URBLOC2000, 0.954
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Trapezoidal critical depth flume on incised channel. Bed-mounted hydro-acoustic gauge installed 2007. GENERAL: Station opened in 1966. Trapezoidal critical depth flume on incised channel. Two bridges approx. 50 m downstream. Bed-mounted hydro-acoustic gauge installed 07/2007. STATION HYDROMETRY: Full range station. Slight bypassing on right-hand bank. The river bed is composed of river alluvium and gravel and is lined with trees and vegetation. Algal growth affects sensitivity at low flows. Unadjusted step-changes in summer months due to weir cleaning and weed management are evident throughout the record. Mean Annual Flood adequately gauged; 100-year flow estimate within modular limit of the flume. Theoretical rating applied across whole period of record. FLOW RECORD: Backing up from bridge downstream occurred during 07/1968 flood (flow ~30 cumecs. FLOW REGIME: Natural to within 10% at Q95.
+CATCHMENT,The catchment area upstream of the gauging station is characterised as predominantly rural but with urban centres at Midsomer Norton and Radstock. The watercourse lies on a thin band of the Trias and Lias that overlays the coal measures of the Somerset coal field and the catchment is dominated by geology of Lias and Oolitic Limestone. Very steep-sided valleys and rapid rainfall response. No major catchment changes.
+Qmed Suitability,Although not gauged to within 30% of QMED, theoretical rating expected to perform well.
+Pooling Suitability,Designed as a full range station, although few high flow gaugings have since been collected, so theoretical rating is unconfirmed and should be used with caution.
+[END]

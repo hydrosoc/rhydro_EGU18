@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 73011
+[END]
+[CDS DETAILS]
+NAME,Mint
+LOCATION,Mint Bridge
+NOMINAL AREA,   65.44
+NOMINAL NGR,3524,4944
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,352400,494450
+CENTROID NGR,GB,355574,498635
+DTM AREA,   65.44
+ALTBAR, 231
+ASPBAR,214
+ASPVAR,0.16
+BFIHOST,0.512
+DPLBAR, 10.65
+DPSBAR,138.0
+FARL,0.993
+FPEXT,0.0615
+LDP, 20.56
+PROPWET,0.71
+RMED-1H, 11.1
+RMED-1D, 50.5
+RMED-2D, 69.3
+SAAR,1599
+SAAR4170,1674
+SPRHOST,36.87
+URBCONC1990,-9999.000
+URBEXT1990,0.0005
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0009
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Flat V weir gauging steep, very wet natural catchment. Weir likely to drown at high flows but all flows are contained. GENERAL: Station opened in 1969. Flat V weir, 10.9m across, cross-slope 1:10, originally with stainless steel crest which disappeared in 1987; replaced 1990 but negligible effect, weir repaired summer 2002, 2007 and 2013. Weir situated just upstream of the bridge. STATION HYDROMETRY: Low flow weir - likely to drown at high flows. All flows contained. Site can be waded to 0.7m. High flow gaugings all done 1998/1999 using portable cableway, more are required. Two ratings applied across period of record with a change on 01/01/1990 attributed to gravel accretion upstream. FLOW RECORD: Significant gaps in daily mean flow record: 1978, 1980 and 1988. Peak flows: Although calendar years 1980 and 1988 are largely missing, comparison of dates and magnitudes at Sprint Mill suggests that water year AMAX series presented are reasonable. FLOW REGIME: Natural catchment. Low flows slightly affected by Meal Bank mill sluice operation from 21/7/67 to 3/1/69 and periodic releases from sludge disposal works.
+CATCHMENT,A steep, very wet natural catchment. Geology predominantly impervious Silurian Slate with bands of Flags and Shale, small patches of Carboniferous Limestone and Basal Conglomerate. Patchy boulder clay cover in the middle and lower reaches. Sheep grazing with peat moorland in the extreme north. No known catchment changes.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Rating extrapolation should be reasonable in the well-contained channel.
+[END]

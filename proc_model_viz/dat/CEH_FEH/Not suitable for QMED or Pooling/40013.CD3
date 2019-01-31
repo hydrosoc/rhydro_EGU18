@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 40013
+[END]
+[CDS DETAILS]
+NAME,Darent
+LOCATION,Otford
+NOMINAL AREA,   98.19
+NOMINAL NGR,5524,1584
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,552500,158450
+CENTROID NGR,GB,550180,155434
+DTM AREA,   98.19
+ALTBAR, 136
+ASPBAR, 31
+ASPVAR,0.09
+BFIHOST,0.800
+DPLBAR,  7.96
+DPSBAR, 70.7
+FARL,0.909
+FPEXT,0.0394
+LDP, 15.87
+PROPWET,0.36
+RMED-1H, 11.7
+RMED-1D, 34.3
+RMED-2D, 46.7
+SAAR, 771
+SAAR4170, 782
+SPRHOST,18.09
+URBCONC1990, 0.608
+URBEXT1990,0.0405
+URBLOC1990, 0.628
+URBCONC2000, 0.829
+URBEXT2000,0.0739
+URBLOC2000, 0.654
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Compound Crump profile weir in baseflow-dominated catchment, but responsive to storms. GENERAL: Compound Crump profile weir; main crest width 3.04m with two side crests each 2.286m; crest tapping and u/s, d/s gauge boards. Relatively straight reach with a bend 30 m d/s. Floodplain is extensive on the right bank, but narrow on the left. Replaced velocity-area station in 1969. STATION HYDROMETRY: Modular limit between 3 and 10 m3/s; central section may become non-modular at very different stage to outer sections. Structure drowns completely before bankfull. Reliable over full range. Structure width exceeds natural channel width, in the past this has caused bank encroachment and upstream accretion of berms with mature weed growth. This reduced area of approach influences weir performance, possibly causing stilling well lag, which is exacerbated by poor velocity distribution in approach section. Berms encroach on approach section almost to the divide piers. Silting can occur on d/s slope of central crest. D/s levels affected by summer weed growth. Channel was dredged in 1967 by 0.3m. Bypass channel constructed 1964 around one of the principal gravel workings to reduce the siltation load. Peak flow rating reviewed in 2002 and applied to full record. Accounts for drowning & extended to include levels above wing wall height. Rating deviates from gaugings beyond 0.2m. FLOW RECORD: Data since January 2014 is highly erroneous due to downstream weeds causing a backup of water and non-modular conditions during the majority of the year. With no way to identify the significant and variable modular limit, flow data from this site should not be used until channel conditions can be improved. POT data only from April 1990 - prior to this daily mean flows available from February 1969, but no daily maxima. 2000 event gaugings taken from the road bridges in Otford High Street, as the channel splits into two branches downstream of the gauging station. September 1968 floods estimated at 23 m3/s. FLOW REGIME: Baseflow-dominated regime but responsive to storms. Upstream groundwater abstractions, which showed a substantial historical increase, have been reduced - helping increase flows during dry periods. New roads constructed late 1960s (M25), have greatly influenced runoff. Minor regulation by 'Morley' (a tile company) (1988). The River Darent flows through a number of gravel pits upstream of station, which have a balancing effect on flood flows. Backwater effects caused in the past by Otford Mill and a drainage culvert which passes beneath river channel 0.91km downstream of the station.
+CATCHMENT,A mainly pervious catchment (Chalk 15%) with considerable areas of Gault (25%) and Lower Greensand (60%) u/s of station. Baseflow almost entirely from Folkestone Beds of the Lower Greensand. Runoff from Gault during heavy rainfall. Responsive regime (for a pervious catchment). Predominantly rural with some expanding urban centres, including Sevenoaks and Westerham.
+Qmed Suitability,Rating beyond 0.2m fits poorly to available gaugings.
+Pooling Suitability,Rating beyond 0.2m fits poorly to available gaugings.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 30005
+[END]
+[CDS DETAILS]
+NAME,Witham
+LOCATION,Saltersford Total
+NOMINAL AREA,  123.46
+NOMINAL NGR,4927,3335
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,492700,333500
+CENTROID NGR,GB,490684,325071
+DTM AREA,  123.46
+ALTBAR, 120
+ASPBAR, 81
+ASPVAR,0.23
+BFIHOST,0.760
+DPLBAR, 13.42
+DPSBAR, 31.0
+FARL,0.973
+FPEXT,0.0925
+LDP, 26.17
+PROPWET,0.27
+RMED-1H, 11.6
+RMED-1D, 32.7
+RMED-2D, 42.2
+SAAR, 646
+SAAR4170, 652
+SPRHOST,16.58
+URBCONC1990,-9999.000
+URBEXT1990,0.0035
+URBLOC1990,-9999.000
+URBCONC2000, 0.660
+URBEXT2000,0.0137
+URBLOC2000, 1.224
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Compound structure gauging a rural catchment u/s of Grantham, mixed geology and significant artificial influences. GENERAL: Compound weir with round-crested low flow weir, 1.83m wide, and broad-crested high flow portion, 8.25m wide. The Measuring Authority recorded these structures separately until 1985. STATION HYDROMETRY: Discharge computed from a single stage recorder to 1973, when it was discovered that a trout screen diverted flow over high flow weir. Second recorder installed, which was removed in Feb 1985 when trout screen was removed. One rating applied across period of record. FLOW RECORD: Data prior to 1973 should not be used; data from 1973 to 1985 calculated from addition of high & low flow weir. FLOW REGIME: Runoff influenced by groundwater abstraction/recharge. Major abstractions for PWS immediately u/s, with significant effect on low flows.
+CATCHMENT,Flat catchment, underlain by l'st and clay with about quarter of the area covered with Boulder Clay on E margin and in S. Predominantly rural.
+Qmed Suitability,Gauged to within 27% of QMED. Reasonable fit to gaugings.
+Pooling Suitability,Few high flow gaugings. Rating can not be validated beyond QMED when weir is likely to drown.
+[END]

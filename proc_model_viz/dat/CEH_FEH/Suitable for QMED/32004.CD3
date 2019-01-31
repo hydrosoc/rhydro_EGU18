@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 32004
+[END]
+[CDS DETAILS]
+NAME,Ise Brook
+LOCATION,Harrowden
+NOMINAL AREA,  194.36
+NOMINAL NGR,4899,2712
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,489900,271250
+CENTROID NGR,GB,482561,278470
+DTM AREA,  194.36
+ALTBAR, 108
+ASPBAR, 97
+ASPVAR,0.16
+BFIHOST,0.542
+DPLBAR, 18.99
+DPSBAR, 40.0
+FARL,0.974
+FPEXT,0.0605
+LDP, 44.65
+PROPWET,0.29
+RMED-1H, 12.6
+RMED-1D, 30.8
+RMED-2D, 39.2
+SAAR, 635
+SAAR4170, 631
+SPRHOST,35.15
+URBCONC1990, 0.750
+URBEXT1990,0.0355
+URBLOC1990, 0.601
+URBCONC2000, 0.865
+URBEXT2000,0.0630
+URBLOC2000, 0.644
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Site with several diferent structures installed throughout POR, gauging a rural catchment with mixed geology and some artificial influences. GENERAL: A weir existed already in 1936, rectangular notch was cut in Oct 1936. In Jun-Dec 1943, the rectangular notch was replaced by a flume with low flow notch and the bypass channel was straightened. Then the structure was replaced by compound Crump weir (its construction started 25/08/1964). Finally, in Jan-Apr 1976, a flat V weir with 5.15m crest was constructed. STATION HYDROMETRY: Considerable flood plain flow above bankful. All ratings probably overestimate high flows (see Rating Description for Gauging Authority suggested max limits). Crump weir was modular to 15.6 cumecs (but bypassed at 14.2 cumecs). Flat V is also bypassed. Multiple ratings for various structures applied across period of record, the most recent is valid from April-1976. 1943-1965 rating considered unreliable above 1.6m, 1965-1976 rating unreliable above 1.39m, 1976-date rating unreliable above 1.4m. FLOW REGIME: Two small storage reservoirs with minor influence on low flows; receives Kettering effluent.
+CATCHMENT,Underlain by clay and sandstone, nearly half covered with superficial deposits, mainly in higher areas on catchment margins. Predominantly rural catchment of mixed farming, but includes Kettering in lower catchment.
+Qmed Suitability,Flow contained by formal structure and remains modular. QMED estimates thought to be reasonable.
+Pooling Suitability,Out of bank flow not considered and all ratings unreliable at high flows.
+[END]

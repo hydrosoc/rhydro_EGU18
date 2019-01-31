@@ -1,0 +1,49 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+205034
+[END]
+[CDS DETAILS]
+NAME,Woodburn
+LOCATION,Control
+NOMINAL AREA,    5.74
+NOMINAL NGR,3370,3900
+[END]
+[DESCRIPTORS]
+CENTROID NGR,Ireland,337255,391528
+DTM AREA,    5.74
+ALTBAR, 242
+ASPBAR,174
+ASPVAR,0.29
+BFIHOST,0.410
+DPLBAR,  2.17
+DPSBAR, 53.9
+FARL,0.901
+FPEXT,0.0514
+LDP,  4.38
+PROPWET,0.52
+RMED-1H, 10.9
+RMED-1D, 39.8
+RMED-2D, 52.4
+SAAR,1177
+SAAR4170,1207
+SPRHOST,33.84
+URBCONC1990, 0.000
+URBEXT1990,0.0000
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0000
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Thin plate 90 degree V notch weir. GENERAL: Lined rectangular concrete channel with thin plate 90 degree V notch weir. Station located downstream of concrete channel connecting two reservoirs. STATION HYDROMETRY: Theoretical calibration for thin plate weir. Catchment water flows under this channel in concrete pipe. Catchment area taken as upstream of reservoir connecting channel. A1 rating in FSR. FLOW RECORD: Flows (1961 -1970) did not exceed weir's capacity.
+CATCHMENT,
+Qmed Suitability,No information on the rating or check gaugings available. Station was given an A1 rating by FSR.
+Pooling Suitability,Small catchment <0.5 km2, not suitable for pooling
+[END]

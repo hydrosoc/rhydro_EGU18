@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 57014
+[END]
+[CDS DETAILS]
+NAME,Rhymney
+LOCATION,Bargoed
+NOMINAL AREA,   63.57
+NOMINAL NGR,3155,1983
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,315600,198400
+CENTROID NGR,GB,312138,205441
+DTM AREA,   63.57
+ALTBAR, 351
+ASPBAR,156
+ASPVAR,0.26
+BFIHOST,0.439
+DPLBAR, 10.08
+DPSBAR,144.0
+FARL,0.959
+FPEXT,0.0258
+LDP, 20.08
+PROPWET,0.53
+RMED-1H, 11.7
+RMED-1D, 53.8
+RMED-2D, 71.4
+SAAR,1502
+SAAR4170,1552
+SPRHOST,38.42
+URBCONC1990, 0.656
+URBEXT1990,0.0370
+URBLOC1990, 0.708
+URBCONC2000, 0.730
+URBEXT2000,0.0541
+URBLOC2000, 0.708
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Flat V weir constructed 30m u/s of original site. Previously named 'Gilfach Bargoed'. Flood warning station. GENERAL: Bargoed gauging station (previously called Gilfach Bargoed) opened in 1967, measuring stage in a natural river section; a weir was constructed in 1975 and a cableway added in 1977. The rating was unstable due to silting and, from 1986, the station operated as a flood warning station only. A new gauging station with a flat V weir was constructed in 2001, 30m u/s of the original site. Still used as flood warning station. STATION HYDROMETRY: The gauging station is constructed from pre-fabricated fiberglass and houses a stilling well and shaft encoder system for measuring the river level. Bed at gauging site is rocky and underlain by concrete weir approach channel. Fish baffles installed on downstream side of weir in 2001. One peak flow rating applies to period of record. Rating based on recent gaugings has reasonable confidence only at low-medium flows (flows less than median annual flood). FLOW REGIME: Impounding reservoirs for PWS in upper catchment; some effluent returns.
+CATCHMENT,Mainly Coal Measures. Peaty soils on hills with livestock farming and heathland. Significant urban and industrial development, with some forestry in valley bottoms.
+Qmed Suitability,OK for QMED
+Pooling Suitability,AMAX 3 out of bank
+[END]

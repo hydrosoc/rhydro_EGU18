@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 28070
+[END]
+[CDS DETAILS]
+NAME,Burbage Brook
+LOCATION,Burbage
+NOMINAL AREA,    8.46
+NOMINAL NGR,4259,3804
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,425950,380350
+CENTROID NGR,GB,426300,382091
+DTM AREA,    8.46
+ALTBAR, 386
+ASPBAR,213
+ASPVAR,0.33
+BFIHOST,0.426
+DPLBAR,  2.63
+DPSBAR, 85.3
+FARL,1.000
+FPEXT,0.0310
+LDP,  5.83
+PROPWET,0.38
+RMED-1H, 10.1
+RMED-1D, 38.8
+RMED-2D, 52.3
+SAAR,1006
+SAAR4170, 988
+SPRHOST,40.33
+URBCONC1990,-9999.000
+URBEXT1990,0.0000
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0000
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Compound rectangular thin-plate weir draining a natural peat based catchment. GENERAL: Compound rectangular thin plate weir (1.5 m wide section at right bank, 4.5 m section 0.15 m higher at left bank, separated by sheet steel divide plate between crests; overall width 6 m). Wing wall stage 1.09 m for small section, over 2m for large weir. No cableway, but footbridge; site unlikely to ever be gauged during events. STATION HYDROMETRY: One theoretical (modular flow) rating applied across period of record. Lower weir crest around 0.8m above downstream bed, but the very highest events likely to have been drowned due to the narrow channel of gentle slope downstream No spot gaugings. FLOW REGIME: Very responsive, natural regime. Natural to within 10% at the 95 percentile flow.
+CATCHMENT,Natural peat based catchment on Millstone Grit. Lower parts of catchment steep while upper parts flatter.
+Qmed Suitability,Theoretical rating believed to be adequate up to the wing wall top, QMED below this.
+Pooling Suitability,Top three events above wing walls and not adequately defined by current rating.
+[END]

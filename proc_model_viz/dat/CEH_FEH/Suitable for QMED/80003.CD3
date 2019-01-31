@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 80003
+[END]
+[CDS DETAILS]
+NAME,White Laggan Burn
+LOCATION,Loch Dee
+NOMINAL AREA,    5.74
+NOMINAL NGR,2467,5781
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,246800,578100
+CENTROID NGR,GB,246866,576717
+DTM AREA,    5.74
+ALTBAR, 440
+ASPBAR,  2
+ASPVAR,0.36
+BFIHOST,0.385
+DPLBAR,  2.19
+DPSBAR,246.0
+FARL,0.996
+FPEXT,0.0179
+LDP,  4.39
+PROPWET,0.69
+RMED-1H, 14.3
+RMED-1D, 71.9
+RMED-2D, 99.9
+SAAR,2468
+SAAR4170,2141
+SPRHOST,49.12
+URBCONC1990,-9999.000
+URBEXT1990,0.0000
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0000
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station upstream of Loch Dee. GENERAL: Velocity area station. Gauge on long straight section with gravel bed and low grassy banks. STATION HYDROMETRY: Informal wooden asymmetrical Flat V weir controls most flows. Occasional backwater effects from Loch Dee after prolonged wet periods. Bypassing may occur above 1.2m through forest drainage channels. Peak flow rating derived from current meter gaugings. Highest known gauging 1.3m, 6.7 cumecs (0.9 QMED). No cableway at station - not possible to gauge high flows. FLOW RECORD: Icing affects data in Jan, Nov, Dec 2010. FLOW REGIME: Natural catchment.
+CATCHMENT,Very wet rugged upland catchment. Lower catchment Loch Doon Granite; mid catchment metamorphosed country rocks giving way to unaltered Ordovician and Silurian shales and greywackes to the S. Land use is mainly grassland and forestry. Minimal floodplains. No significant catchment changes known.
+Qmed Suitability,No comment
+Pooling Suitability,Bypassing may occur through forest drainage channels
+[END]

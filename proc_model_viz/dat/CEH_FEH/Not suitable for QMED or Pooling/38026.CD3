@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 38026
+[END]
+[CDS DETAILS]
+NAME,Pincey Brook
+LOCATION,Sheering Hall
+NOMINAL AREA,   52.68
+NOMINAL NGR,5495,2127
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,549550,212700
+CENTROID NGR,GB,554022,216717
+DTM AREA,   52.68
+ALTBAR,  82
+ASPBAR,215
+ASPVAR,0.10
+BFIHOST,0.387
+DPLBAR, 10.49
+DPSBAR, 24.0
+FARL,0.984
+FPEXT,0.0894
+LDP, 21.07
+PROPWET,0.31
+RMED-1H, 11.3
+RMED-1D, 31.0
+RMED-2D, 38.8
+SAAR, 599
+SAAR4170, 617
+SPRHOST,46.91
+URBCONC1990, 0.427
+URBEXT1990,0.0129
+URBLOC1990, 1.263
+URBCONC2000, 0.658
+URBEXT2000,0.0268
+URBLOC2000, 1.340
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Station located on a tributary of the River Stort. Flow regime affected by abstractions and irrigation. GENERAL: Flat V weir (1:10.9 cross-slope) 4.02m wide. STATION HYDROMETRY: Bypassing occurs at high flows (e.g. Oct 2001 flood). Flows > 17 cumecs exceed the capacity of the structure. At tail recorder was added in February 2011, to account for issues with non-modular flow. Non-modularity may have been increasing during the POR. Flows derived from standard Flat V calculation. Rating is accurate, though more gauging is required (no current meter readings above 0.6m). FLOW RECORD: Data for period of record re-processed to correct for non-modularity. In the peak flow data, this correction has only been applied for 1982 onwards. For the daily flow data relevant modern levels of non-modularity were utilised to derive reprocessed flows. FLOW REGIME: Flows reduced by pws abstraction. Spray irrigation can be significant (especially in the upper part of the catchment). Balancing ponds at Stansted Airport provide some headwater regulation.
+CATCHMENT,Pervious (Chalk) headwaters, mainly London Clay in lowest reaches. Land use mainly agricultural but the Pincey Brook drains Stansted Airport and Hatfield Forest.
+Qmed Suitability,All flow is within bank, but by-passing does occur during floods. Some scatter in gaugings around 0.5m
+Pooling Suitability,Rating cannot be validated for high flows. Bypassing occurs during floods.
+[END]

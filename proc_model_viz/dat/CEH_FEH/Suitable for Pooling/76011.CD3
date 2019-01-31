@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 76011
+[END]
+[CDS DETAILS]
+NAME,Coal Burn
+LOCATION,Coalburn
+NOMINAL AREA,    1.63
+NOMINAL NGR,3693,5777
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,369350,577750
+CENTROID NGR,GB,369386,578507
+DTM AREA,    1.63
+ALTBAR, 305
+ASPBAR,160
+ASPVAR,0.46
+BFIHOST,0.196
+DPLBAR,  1.30
+DPSBAR, 47.2
+FARL,1.000
+FPEXT,0.0736
+LDP,  2.21
+PROPWET,0.62
+RMED-1H, 10.6
+RMED-1D, 39.2
+RMED-2D, 52.4
+SAAR,1096
+SAAR4170,1162
+SPRHOST,58.93
+URBCONC1990,-9999.000
+URBEXT1990,0.0000
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0000
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Compound broad-crested weir in experimental catchment to study afforestation. GENERAL: Opened in 1965 as a compound Crump profile weir, 18.5ft wide overall, central notch 2.5ft wide with flanking crests 1ft higher & 7ft wide. Structure was affected by deterioration leading to its replacement by a compound broad-crested weir (with V-notch for low flows) in 1991. Small experimental catchment (with boundary ditches) to show the effects of afforestation from planting to canopy closure. Experiments jointly managed by EA, CEH and the Forestry Commission. Central climate station and areal rainfall derived by CEH using a small network of within-catchment raingauges. Record exceeds 40 years in length; a time series of major strategic importance. STATION HYDROMETRY: Weir does not drown at high flows. Two theoretical ratings (for Crump and broad-crested weirs) applied across relevant periods of record. Ratings checked against current meterings, but site has never been check-gauged at extreme flows. Difficulties in gauging at high flows, therefore a gauging platform was built 30m upstream where flow is confined and there is reasonable approach. FLOW RECORD: Recent gaugings suggest that peak flows may be underestimated by up to 10%, and that further investigation is required. Exceptional August 1975 flood (triggered by 70-80 mm rain; percentage runoff approached 70%) was fully contained. Two extended periods of missing data in the peak flow record; from Oct 1972 to July 1973, and from Dec 1983 to July 1991. FLOW REGIME: Natural, very responsive regime with zero flows common in the summer months and no abstractions or additions. Drained summer 1972 in preparation for planting, creating stream density of about 200 km/km2 (about 60 times greater than original stream network). Sitka spruce planted 1973. Runoff (especially low and moderate flows) calculated to have increased after drainage; baseflow index also increased.
+CATCHMENT,Undulating upland catchment on Carboniferous L'st with Boulder Clay and blanket peat cover. Usage was entirely moorland before being afforested.
+Qmed Suitability,Gauged to within 18% of QMED.
+Pooling Suitability,Few high flow gaugings available to validate theoretical rating beyond QMED, however weir rating considered broadly reliable, such that AMAX data suitable for pooling.
+[END]

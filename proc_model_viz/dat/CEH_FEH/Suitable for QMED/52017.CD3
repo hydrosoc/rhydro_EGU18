@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 52017
+[END]
+[CDS DETAILS]
+NAME,Congresbury Yeo
+LOCATION,Iwood
+NOMINAL AREA,   55.37
+NOMINAL NGR,3451,1630
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,345200,163050
+CENTROID NGR,GB,349706,160122
+DTM AREA,   55.37
+ALTBAR, 107
+ASPBAR,327
+ASPVAR,0.22
+BFIHOST,0.592
+DPLBAR,  7.48
+DPSBAR, 85.7
+FARL,0.878
+FPEXT,0.0593
+LDP, 16.48
+PROPWET,0.35
+RMED-1H, 11.1
+RMED-1D, 37.6
+RMED-2D, 49.1
+SAAR, 982
+SAAR4170, 963
+SPRHOST,26.09
+URBCONC1990, 0.554
+URBEXT1990,0.0109
+URBLOC1990, 0.813
+URBCONC2000, 0.658
+URBEXT2000,0.0147
+URBLOC2000, 0.743
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Crump Weir 200m south of Iwood farm. Extensive out of bank flow. GENERAL: Station located 200m south of Iwood Farm and was opened in 1966 as a rated section. Between 08/1971 and 03/1973 a Crump weir was installed, crest 5m broad. Flood warning station for Congresbury approx. 1km downstream. STATION HYDROMETRY: Bankfull 1.3m, with bypassing at high flows and extensive out of bank flow on surrounding pasture during large events. Bypasses at high flows. Peak flow rating revised 2010. Theoretical rating for weir not valid for out of bank flow. More gaugings needed to establish the rating curve for the middle and high flow ranges. Extensive out of bank flow at site not represented by rating. FLOW RECORD: Station closed 02/1975 to 08/1985; reopened with telemetry facilities. Very patchy record before 1975. FLOW REGIME: Runoff reduced by public water supply abstraction. Blagdon reservoir (approx. 2 sq.km) situated in headwaters.
+CATCHMENT,River rises from western slopes of the Mendips. Catchment geology comprises carboniferous limestone, Keuper Marl and estuarine alluvium. Land use is predominantly rural with some small settlements. No major changes to catchment.
+Qmed Suitability,Reasonable ft to gaugings.
+Pooling Suitability,Although gauged to within 11% of AMAX3., extensive out of bank flows not considered by current rating.
+[END]

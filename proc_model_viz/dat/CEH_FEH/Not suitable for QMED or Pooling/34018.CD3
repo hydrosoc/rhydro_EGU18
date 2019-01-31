@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 34018
+[END]
+[CDS DETAILS]
+NAME,Stiffkey
+LOCATION,Warham
+NOMINAL AREA,   86.13
+NOMINAL NGR,5944,3413
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,594450,341400
+CENTROID NGR,GB,594886,335342
+DTM AREA,   86.13
+ALTBAR,  50
+ASPBAR,346
+ASPVAR,0.07
+BFIHOST,0.787
+DPLBAR, 12.44
+DPSBAR, 26.4
+FARL,0.997
+FPEXT,0.0672
+LDP, 29.11
+PROPWET,0.31
+RMED-1H, 11.1
+RMED-1D, 30.4
+RMED-2D, 39.2
+SAAR, 662
+SAAR4170, 658
+SPRHOST,17.18
+URBCONC1990, 0.473
+URBEXT1990,0.0139
+URBLOC1990, 1.130
+URBCONC2000, 0.634
+URBEXT2000,0.0063
+URBLOC2000, 1.022
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Gauging a rural, Chalk catchment, largely covered with Boulder Clay, with gw-influenced regime and significant artificial influences. GENERAL: Flat V weir with crest tapping, 4m wide. ADCP installed in 2012 and used when the structure becomes non-modular. STATION HYDROMETRY: Drowns above 0.8 cumecs. Riffle constructed d/s. One rating applied across period of record. Prior to 1978 (when dredging took place) d/s weed growth during summer months could cause complete drowning of gauging structure at lower flows. FLOW RECORD: No POT data are presented for this station as they have no non-modular flow correction applied. AMAX data have been corrected, but in some cases can be below the daily flow as these are not corrected. HIF in July 2015 is not aligned with the highest GDF for that month. FLOW REGIME: Groundwater-influenced regime. Large gw abstractions for PWS, in addition to industrial/agricultural abstractions, cause a significant reduction in the natural runoff.
+CATCHMENT,Chalk catchment largely covered with Boulder Clay. Rural, predominantly arable.
+Qmed Suitability,Site drowns below QMED and no gaugings to confirm rating beyond 0.4m
+Pooling Suitability,Site drowns below QMED and no gaugings to confirm rating beyond 0.4m
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 60002
+[END]
+[CDS DETAILS]
+NAME,Cothi
+LOCATION,Felin Mynachdy
+NOMINAL AREA,  298.73
+NOMINAL NGR,2508,2224
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,250900,222450
+CENTROID NGR,GB,260063,237727
+DTM AREA,  298.73
+ALTBAR, 231
+ASPBAR,183
+ASPVAR,0.11
+BFIHOST,0.500
+DPLBAR, 28.16
+DPSBAR,173.4
+FARL,0.997
+FPEXT,0.0315
+LDP, 52.53
+PROPWET,0.56
+RMED-1H, 11.6
+RMED-1D, 51.0
+RMED-2D, 68.1
+SAAR,1551
+SAAR4170,1637
+SPRHOST,37.89
+URBCONC1990, 0.000
+URBEXT1990,0.0002
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0008
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station; straight reach and natural rock control. Natural flow regime. GENERAL: Velocity area station. Straight reach and natural rock control. Channel width: 20m. STATION HYDROMETRY: Stable section. All but very extreme flows contained. Single peak flow rating applied over period of record. FLOW RECORD: POR max is believed to be Oct 1987, when bypassing occurred on rb. Magnitude subject to uncertainty owing to rating extrapolation, estimated to be c.430 cumecs. Flows from 1 Jun 2007 to 31 Dec 2012 reprocessed in 2014 due to rating change, increasing GDFs below approx 5 cumecs and, as a consequence, Summer HIFs in this period. FLOW REGIME: Natural to within 10% at Q95.
+CATCHMENT,Impermeable strata, mainly Silurian with Ordovician along SE boundary. Mostly grassland; upland pastures. Livestock and dairy farming below. Significant forest cover.
+Qmed Suitability,Gauged above QMED. Rating agrees with available gaugings.
+Pooling Suitability,Gauged to within 4% of AMAX3. AMAX3 at approximately bank full
+[END]

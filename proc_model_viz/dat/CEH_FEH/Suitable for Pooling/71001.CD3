@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 71001
+[END]
+[CDS DETAILS]
+NAME,Ribble
+LOCATION,Samlesbury
+NOMINAL AREA, 1144.70
+NOMINAL NGR,3589,4304
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,358900,430400
+CENTROID NGR,GB,376535,447200
+DTM AREA, 1144.70
+ALTBAR, 220
+ASPBAR,220
+ASPVAR,0.08
+BFIHOST,0.371
+DPLBAR, 52.65
+DPSBAR, 94.7
+FARL,0.974
+FPEXT,0.0777
+LDP,102.03
+PROPWET,0.56
+RMED-1H, 10.9
+RMED-1D, 43.9
+RMED-2D, 59.6
+SAAR,1350
+SAAR4170,1321
+SPRHOST,42.13
+URBCONC1990, 0.742
+URBEXT1990,0.0248
+URBLOC1990, 0.880
+URBCONC2000, 0.824
+URBEXT2000,0.0376
+URBLOC2000, 0.874
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station; the most downstream on the Ribble, just upstream of the tidal limit. GENERAL: Velocity area station built in 1960. Cableway. An additional station was built 1km upstream in October 1970 to measure low/medium flows; a compound Flat V weir with flanking crests. This additional station closed 1981 due to vandalism; subsequently re-opened July 1991 and closed again February 2010. STATION HYDROMETRY: Natural gravel shoal control affected by silt and summer weed, just u/s of the tidal limit. No bypassing. Good high flow rating from permanent cableway. Inlet blockage has been a continual problem, affecting many peaks. Multiple ratings applied across period of record. Works downstream between 1993-95, required different low flow ratings applied before, during, and after these works. FLOW RECORD: All data presented are for the velocity area station, with some infilling from the additional station. December 2010 measurements affected by ice. March 2010: re-rated daily flow data loaded for 1998 to 2008; this primarily affected the low flows, eliminating the previous inconsistency with upstream station 71009. FLOW REGIME: Some small reservoirs in the catchment, but without significant impact on flow regime.
+CATCHMENT,A large catchment of mixed geology with Carboniferous Limestone, Millstone Grit and Coal Measures overlain with Boulder Clay. Predominantly rural, apart from urban areas of Burnley and Nelson. No significant catchment changes.
+Qmed Suitability,Gauged above QMED. No bypassing reported.
+Pooling Suitability,Gauged to within 6% of AMAX3. Site is well contained and rating can be extrapolated beyond the gauged range with confidence.
+[END]

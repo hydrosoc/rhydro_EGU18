@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 54023
+[END]
+[CDS DETAILS]
+NAME,Badsey Brook
+LOCATION,Offenham
+NOMINAL AREA,   93.93
+NOMINAL NGR,4062,2449
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,406300,244900
+CENTROID NGR,GB,409678,241837
+DTM AREA,   93.93
+ALTBAR,  78
+ASPBAR,316
+ASPVAR,0.37
+BFIHOST,0.331
+DPLBAR,  8.38
+DPSBAR, 42.7
+FARL,0.988
+FPEXT,0.1528
+LDP, 16.26
+PROPWET,0.29
+RMED-1H, 10.9
+RMED-1D, 32.5
+RMED-2D, 41.8
+SAAR, 653
+SAAR4170, 682
+SPRHOST,47.79
+URBCONC1990, 0.648
+URBEXT1990,0.0349
+URBLOC1990, 0.779
+URBCONC2000, 0.742
+URBEXT2000,0.0312
+URBLOC2000, 0.758
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Flat V weir in straightened cut with cableway replacing original trapezoidal flume (1968-95) that suffered from weed growth and poor state of repair. GENERAL: Original trapezoidal flume (1968-95) replaced in 1995 (poor state of repair and weed growth problems affecting low flows). New weir is a flat V crump profile (1:10) weir in straightened cut 5m wide, with wing walls at 0.7m and has cableway. STATION HYDROMETRY: Cableway rated with flood banks containing all but the highest flows but inundation occurs u/s. Flat V weir drowns at medium levels but rating fits gaugings well below 2 m stage. Constriction upstream will increase approach velocity. Original trapezoidal flume rating supported by c/m gaugings but poor state of repair and weedgrowth problems affecting low flows. Two ratings applied across period of record, the most recent is valid from July-1995 when flume replaced. Uncertainty over accuracy of upper limb - further analysis required. FLOW RECORD: Earlier record under review. April 1998 flood at 3.14m, estimated as 100 cumec, well above rating limit so considerable uncertainty in this magnitude. July 2007 flood 0.5m above April 1998. Such flows are outside design range of site and degree of rating extrapolation means peak flows are considered inaccurate. FLOW REGIME: PWS from headwater springs; river abstractions for horticulture. Sewage works short way upstream. Net result moderate, significant at low flows.
+CATCHMENT,River rises from springs on Cotswolds scarp; steep headwaters. Drift free, mostly Liassic argillaceous rocks. Agriculture and horticulture dominate.
+Qmed Suitability,Gauged above QMED. Good fit to gaugings.
+Pooling Suitability,Although gauged to within 15% AMAX3, top limb overestimates peak flows significantly.
+[END]

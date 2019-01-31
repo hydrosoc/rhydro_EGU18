@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 39057
+[END]
+[CDS DETAILS]
+NAME,Crane
+LOCATION,Cranford Park
+NOMINAL AREA,   52.78
+NOMINAL NGR,5103,1778
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,510300,177850
+CENTROID NGR,GB,511239,184691
+DTM AREA,   52.78
+ALTBAR,  43
+ASPBAR,180
+ASPVAR,0.19
+BFIHOST,0.230
+DPLBAR, 11.25
+DPSBAR, 15.3
+FARL,0.997
+FPEXT,0.1945
+LDP, 22.73
+PROPWET,0.29
+RMED-1H, 11.2
+RMED-1D, 32.0
+RMED-2D, 41.0
+SAAR, 639
+SAAR4170, 654
+SPRHOST,48.30
+URBCONC1990, 0.877
+URBEXT1990,0.3508
+URBLOC1990, 1.034
+URBCONC2000, 0.933
+URBEXT2000,0.4891
+URBLOC2000, 1.020
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Flume located on the mid reaches of the River Crane. The regime is affected by complex water utilisation. GENERAL: Non-standard critical depth flume improvised from the invert of a footbridge. Straight reach, banks stabilised by timber revetments. STATION HYDROMETRY: Bypassing occurs on left bank above a stage of about 1.3m. Structure drowns at 1.2 m, equivalent to a flow of 17 cumecs. Two ratings applied across period of record, the most recent is valid from April, 1978. Non-standard structure with a rating derived partly from hydraulic theory that does not accurately estimate flows. FLOW RECORD: Pre-1984 flows generally less reliable. FLOW REGIME: Complex water utilisation. Small natural import of water from the Colne catchment along the Duke of Northumberland's River. A relatively responsive regime.
+CATCHMENT,A flat, generally impervious (mostly London Clay) catchment of urban / suburban character. It includes Northolt Airport.
+Qmed Suitability,Not gauged to within 30% of QMED. Gaugings indicate that the flume may be non-modular before QMED which is not accounted for in the current rating.
+Pooling Suitability,Gaugings indicate that the flume may be non-modular before QMED which is not accounted for in the current rating.
+[END]

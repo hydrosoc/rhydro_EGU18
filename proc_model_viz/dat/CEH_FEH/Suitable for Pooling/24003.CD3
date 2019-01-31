@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 24003
+[END]
+[CDS DETAILS]
+NAME,Wear
+LOCATION,Stanhope
+NOMINAL AREA,  173.49
+NOMINAL NGR,3983,5390
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,398350,539050
+CENTROID NGR,GB,388681,539355
+DTM AREA,  173.49
+ALTBAR, 472
+ASPBAR, 75
+ASPVAR,0.17
+BFIHOST,0.300
+DPLBAR, 13.24
+DPSBAR,132.2
+FARL,0.978
+FPEXT,0.0195
+LDP, 23.47
+PROPWET,0.59
+RMED-1H, 10.4
+RMED-1D, 42.4
+RMED-2D, 55.3
+SAAR,1279
+SAAR4170,1313
+SPRHOST,50.81
+URBCONC1990,-9999.000
+URBEXT1990,0.0016
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0015
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Compound Crump profile weir. History of modifications and instrument relocations. Flow regime influenced by Burnhope reservoir. GENERAL: Compound Crump profile weir overall width 19.1m, central low crest width 7.6m. Steep rocky section. Wing walls raised in 1967. Left bank wing wall raised 2007. A temporary cableway was used d/s of the weir in late 1960s-early 1970s. Instruments moved several times between lb and rb. Originally on lb but well suffered from drawdown at stages >1.5m; then to rb but poor for measuring low flows due to sand and gravel. Located on the rb in 2003. Flows contained on left bank above 2.74m, spill from left bank at 3.1m. Weir suffers periodic upstream gravel accumulation, formerly limited by a gravel trap, now ineffective. STATION HYDROMETRY: Bypassing only at extreme levels. To alleviate problem right bank, inlet pipe extended to central wing wall in 2007. For a period lb was used as primary information source, with rb for peak flows. One peak flow rating applied across period of record. Refined using hydraulic modelling confident in rating performing well at high flows. Flood Studies Report grade A1. FLOW RECORD: Period-of-record max flow in January 2005 may be an underestimate, levels may have been under-recorded due to problems with stilling well. FLOW REGIME: Very flashy response and extremely peaked flows. Burnhope reservoir (catchment area 19 sq.km) has noticeable effect; net export of water.
+CATCHMENT,Steep Pennine catchment. Mainly Lower Carboniferous Limestone, overlain by peat in headwaters and boulder clay and alluvium in valley. Some forestry but around three quarters grass pasture and moorland and some arable farming. No known catchment changes.
+Qmed Suitability,QMED contained in wing walls, confirmed by current meter gaugings and hydraulic modelling.
+Pooling Suitability,Recent hydraulic model improves confidence in high flow estimates.
+[END]

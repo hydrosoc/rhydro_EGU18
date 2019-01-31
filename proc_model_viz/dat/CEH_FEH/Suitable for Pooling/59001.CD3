@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 59001
+[END]
+[CDS DETAILS]
+NAME,Tawe
+LOCATION,Ynystanglws
+NOMINAL AREA,  227.45
+NOMINAL NGR,2685,1997
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,268550,199800
+CENTROID NGR,GB,277705,212027
+DTM AREA,  227.45
+ALTBAR, 287
+ASPBAR,195
+ASPVAR,0.26
+BFIHOST,0.407
+DPLBAR, 21.50
+DPSBAR,143.1
+FARL,0.996
+FPEXT,0.0503
+LDP, 39.86
+PROPWET,0.62
+RMED-1H, 12.1
+RMED-1D, 58.0
+RMED-2D, 81.0
+SAAR,1890
+SAAR4170,1940
+SPRHOST,42.54
+URBCONC1990, 0.566
+URBEXT1990,0.0167
+URBLOC1990, 0.560
+URBCONC2000, 0.702
+URBEXT2000,0.0238
+URBLOC2000, 0.580
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station. Industrial and agricultural groundwater abstractions. Some effluent returns. GENERAL: Velocity area station. STATION HYDROMETRY: Gravel bed provides unstable control. Pressure transducer installed in 2005 with logger attached. All but extreme floods contained since construction of floodbanks in 1959; embankments and concrete side weir (to control flow to flood plain storage) built in 1973 - side weir raised by ~1m to match embankment height in 1998.; floodbanks raised following Dec 1979 flood. Flood storage area d/s built in early 1980s, controlled by d/s side weir on rb (water returns through valve d/s with no effect on flow at station). Weir now removed. During low flow events (level below 0.448m), well intake pipe often out of water due to significant bed erosion. It is unclear when problem started, but results in limited low flow sensitivity; levels adjusted as necessary to be realistic though flow repetitions may occur (e.g. Aug 2006). Since Aug 2010 secondary sensor installed u/s of existing intake pipe to facilitate measurement at low water levels. FLOW REGIME: Limestone outcrop at north of catchment has partial effect on baseflow; GW and industrial abstractions also. Industrial and agricultural groundwater abstractions. Some effluent returns.
+CATCHMENT,Principally Coal Measures. Mostly mixed permeability, with impermeable strata in headwaters. Some Boulder Clay cover. Mainly upland area with livestock farming. Forest and some Urban and industrial development at lower levels. 1/3 of catchment lies in Brecon Beacons National Park.
+Qmed Suitability,Gauged above QMED. Sufficient gaugings to support ratings. Suitable for QMED for whole period of record
+Pooling Suitability,Gauged to within 21% of AMAX3. Suitable for Pooling from 1973
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 39002
+[END]
+[CDS DETAILS]
+NAME,Thames
+LOCATION,Days Weir
+NOMINAL AREA, 3480.00
+NOMINAL NGR,4568,1936
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,456850,193600
+CENTROID NGR,GB,430925,212890
+DTM AREA, 3480.00
+ALTBAR, 122
+ASPBAR,131
+ASPVAR,0.15
+BFIHOST,0.650
+DPLBAR, 80.59
+DPSBAR, 37.1
+FARL,0.953
+FPEXT,0.1758
+LDP,137.94
+PROPWET,0.31
+RMED-1H, 10.1
+RMED-1D, 32.3
+RMED-2D, 40.5
+SAAR, 690
+SAAR4170, 716
+SPRHOST,27.04
+URBCONC1990, 0.678
+URBEXT1990,0.0265
+URBLOC1990, 0.896
+URBCONC2000, 0.813
+URBEXT2000,0.0298
+URBLOC2000, 0.872
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Gauging station complex situated in the mid reaches of the main River Thames. Naturalised flows are available for part of the period of record. Sutton Courtenay (39046) with an ultrasonic gauging system (US) was intended to be a replacement for this site. GENERAL: Adjustable thin-plate weir (5.48m wide) plus 15 radial gates, replaced a barrage of radial and buck gates in 1969. An US 8.5 km u/s at Sutton Courtenay (39046) also measures flow in the Thames (US since 1982, records from 1973), immediately below the abstraction point and u/s of the o/f point for Didcot Power Station. STATION HYDROMETRY: Non-standard weir calculation for peak flows that is specific to this site. Rating formulae based upon gaugings - tailwater calibration applies for flows > 70 cumecs; above 100 cumecs overspill occurs. Tail levels are recorded relative to standard head level. FLOW RECORD: Daily naturalised flows for part of the POR (equal to gauged flows up to 1973) - allow for Didcot Power Station losses only. Hydraulic modelling has indicated that the exceptional March 1947 flood may be overestimated. FLOW REGIME: Runoff reduced by abstraction for public water supply and industrial/agricultural abstraction; increased by effluent returns. River levels affected by lock movements and gates. D/s confluence with the Thame may also cause backwater effects.
+CATCHMENT,Mixed geology (Oolitic Limestone headwaters, Oxford Clay downstream). Predominantly rural with development concentrated along the valley. Swindon and Oxford are large urban areas within the catchment.
+Qmed Suitability,Calculated flows are within 5% of measured flows, though this can increase to 10% over 100 m3/s.
+Pooling Suitability,Calculated flows are within 5% of measured flows, though this can increase to 10% over 100 m3/s.
+[END]

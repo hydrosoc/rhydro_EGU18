@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 55023
+[END]
+[CDS DETAILS]
+NAME,Wye
+LOCATION,Redbrook
+NOMINAL AREA, 4016.25
+NOMINAL NGR,3527,2110
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,352750,211100
+CENTROID NGR,GB,326243,248368
+DTM AREA, 4016.25
+ALTBAR, 227
+ASPBAR,127
+ASPVAR,0.10
+BFIHOST,0.542
+DPLBAR,130.34
+DPSBAR,116.1
+FARL,0.979
+FPEXT,0.0824
+LDP,244.16
+PROPWET,0.38
+RMED-1H, 10.1
+RMED-1D, 38.7
+RMED-2D, 50.3
+SAAR,1010
+SAAR4170,1054
+SPRHOST,35.60
+URBCONC1990, 0.571
+URBEXT1990,0.0067
+URBLOC1990, 0.665
+URBCONC2000, 0.723
+URBEXT2000,0.0072
+URBLOC2000, 0.682
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station, channel control. Modification of flows by reservoir regulation, public water supply abstraction and effluent returns. GENERAL: Channel control velocity-area station replacing Cadora (55001, 1937-71; 4040 sq.km. which was tidally affected; flows incorporated in the Redbrook series). Width at bankfull stage approx 69m. STATION HYDROMETRY: All but extreme floods contained. Severe summer weed growth problems causes gaugings to be increasingly undertaken by ADCP just u/s of Bigsweir Bridge, 7km d/s where channel is clearer. Gaugings at Redbrook are done by cableway. Flow regime moderately modified by exports and regulation. Some naturalised data available. One peak flow rating applied. Recent gauged high flows (1998 onwards) indicate backing up problem (possibly vegetation growth) leading to scatter above 4.5m. FLOW RECORD: Some naturalised data available. In 2013, comprehensive rating review resulted in new ratings dating back to 1977, affecting both GDFs throughout the entire flow range (some increases in flow, some decreases) and HIFs (largely decreases). FLOW REGIME: Modification of flows by exports and reservoir regulation, public water supply abstraction and effluent returns.
+CATCHMENT,Very large catchment; wet in upland areas to the west, drier in lower-lying areas in east and south. Mixed Palaeozoic geology, impermeable rocks of Ordovician to Carboniferous age. Catchment is mainly grassland, with moorland, forestry and grazing on higher ground; mixed farming with greater proportion of arable land in lower reaches. Little industrial development.
+Qmed Suitability,QMED is in bank and within upper limit of rating.
+Pooling Suitability,Amax3 is out of bank, and above the upper limit of rating. Wide spread in the high flow gaugings.
+[END]

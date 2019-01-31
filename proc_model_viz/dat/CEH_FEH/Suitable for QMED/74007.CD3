@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 74007
+[END]
+[CDS DETAILS]
+NAME,Esk
+LOCATION,Cropple How
+NOMINAL AREA,   70.04
+NOMINAL NGR,3131,4977
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,313100,497800
+CENTROID NGR,GB,319338,501765
+DTM AREA,   70.04
+ALTBAR, 318
+ASPBAR,251
+ASPVAR,0.19
+BFIHOST,0.416
+DPLBAR, 11.43
+DPSBAR,231.8
+FARL,0.964
+FPEXT,0.0582
+LDP, 21.54
+PROPWET,0.71
+RMED-1H, 12.8
+RMED-1D, 66.4
+RMED-2D, 90.3
+SAAR,2308
+SAAR4170,2431
+SPRHOST,45.51
+URBCONC1990,-9999.000
+URBEXT1990,0.0003
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0001
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station gauging steep, rural flashy catchment in the western Lake District. GENERAL: Velocity area station, opened October 1974. Channel 17.3m across, banks about 2m. STATION HYDROMETRY: Stony bed. Stone ford forms low/medium flow control approx. 50m downstream, insensitive at low flows. No weed problem, uniform flow. Flows above bankfull uncertain - flow comes out of bank upstream, and bypassing flow cannot be gauged. Gauged by wading at low/medium flows. Cableway removed 2002/03. One rating applied to peak flows across period of record. Gaugings above bankfull don't include bypassing flow. Rating is poor at extremely high flows (>100 m3/s). FLOW REGIME: Flashy regime with no known artificial influences.
+CATCHMENT,A steep rural, flashy, catchment with geology comprising impervious Ordovician andesitic lavas and tuffs with massive granitic intrusion, virtually drift free. Mountainous catchment (maximum altitude at Scafell Pike), with no industry or urbanisation, supports rough pasture and moorland for sheep grazing; grassland in valley. Catchment includes Burnmoor Tarn. No catchment changes known.
+Qmed Suitability,Gauged to within 4% of QMED. Good fit to gaugings.
+Pooling Suitability,Gauged to within 15% of AMAX3. However, gaugings above bank full do not include bypassing flow.
+[END]

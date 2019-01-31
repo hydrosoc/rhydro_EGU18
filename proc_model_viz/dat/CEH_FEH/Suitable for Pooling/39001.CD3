@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 39001
+[END]
+[CDS DETAILS]
+NAME,Thames
+LOCATION,Kingston
+NOMINAL AREA, 9930.80
+NOMINAL NGR,5177,1698
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,517750,169850
+CENTROID NGR,GB,462899,187850
+DTM AREA, 9930.80
+ALTBAR, 109
+ASPBAR,108
+ASPVAR,0.08
+BFIHOST,0.653
+DPLBAR,139.87
+DPSBAR, 42.0
+FARL,0.942
+FPEXT,0.1476
+LDP,269.55
+PROPWET,0.30
+RMED-1H, 10.8
+RMED-1D, 32.7
+RMED-2D, 41.5
+SAAR, 706
+SAAR4170, 724
+SPRHOST,26.94
+URBCONC1990, 0.682
+URBEXT1990,0.0426
+URBLOC1990, 0.734
+URBCONC2000, 0.844
+URBEXT2000,0.0664
+URBLOC2000, 0.675
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,The Thames at Kingston, replacing the d/s Teddington weir measurement structures, has one of the longest flow records associated with any UK flow gauging station. Dating from 1883, it is of major historical and modern day significance. Naturalised flows are available for the period of record. GENERAL: Until 1974 the GDFs was derived from Teddington Weir (a 150m long complex of gates, sluices, weirs and locks that span 70m across the river), where a tailwater rating was used with twice-daily levels (at low tide) to compute flows >85 cumecs. In 1974 a single path US was commissioned 2km upstream to replace the weir as the primary method for flow derivation. This was upgraded to a multi-path configuration (6 paths) US in 1986, and a second US was installed in 1991 to confirm the performance of the primary gauge. STATION HYDROMETRY: Kingston: US (6 paths) with back-up to confirm the performance of the primary gauge. During warm weather the gauge can malfunction as the ultrasonic beam is bent by temperature gradients in the river, however this is unlikely to affect high flows but can effect gauge performance at low flows. Increased channel capacity means that bank-full is now very rarely exceeded and the ultrasonic gauge is capable of measuring all within bank flows. Generally, accuracy is good at peak flows, although less so for flows below 5 cumecs. Teddington Weir: Only DMFs are estimated. High hydrometric accuracy is made difficult by leakage, lockages and the general complexity of the site. Significant structural improvements have been made since 1883, but high hydrometric accuracy not achievable for the pre-1951 record. The history of flow measurement at Teddington is detailed in Chapter 6 of Hydrometry: Principles and Practices (1978), Ed. R. W. Herschy, John Wiley & Sons. FLOW RECORD: Daily naturalised flows available. Daily abstractions between Windsor (39072) and Teddington are added to the DMFs. Leakage and lockages were allowed for in the Teddington flow calculation, but may have resulted in the underestimation of early low flows This was likely to have been a particular problem in the 1930s and 1940s. Gauged flow fell to zero in August 1976. The 1894 peak GDF was re-assessed in 2002 (800 cumecs). The AMAX provided are derived from the definitive natural annual maximum mean daily flow series (not instantaneous AMAX). FLOW REGIME: Baseflow sustained mainly from the Chalk and the Oolites. Regulation from surface water and/or ground water and reservoir(s) in the catchment affect runoff. Flashy response from tributaries draining the clay dominated catchments. Some effluent derived from outside the catchment increases runoff but overall this is substantially less than major PWS and industrial/agricultural abstractions. Gw abstraction/recharge may also contribute to runoff patterns.
+CATCHMENT,Diverse topography, geology and land use, which, together with the pattern of water utilisation, has undergone important historical changes.
+Qmed Suitability,Gaugings generally agree with ultrasonic readings, though there is evidence of a shift.
+Pooling Suitability,Gaugings generally agree with ultrasonic readings, though there is evidence of a shift.
+[END]

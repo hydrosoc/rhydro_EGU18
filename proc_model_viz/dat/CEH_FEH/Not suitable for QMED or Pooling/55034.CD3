@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 55034
+[END]
+[CDS DETAILS]
+NAME,Cyff
+LOCATION,Cyff flume
+NOMINAL AREA,    3.12
+NOMINAL NGR,2824,2842
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,282350,284200
+CENTROID NGR,GB,281009,284946
+DTM AREA,    3.12
+ALTBAR, 480
+ASPBAR,121
+ASPVAR,0.39
+BFIHOST,0.397
+DPLBAR,  2.04
+DPSBAR,182.5
+FARL,1.000
+FPEXT,0.0088
+LDP,  4.01
+PROPWET,0.66
+RMED-1H, 13.4
+RMED-1D, 78.2
+RMED-2D,106.0
+SAAR,2415
+SAAR4170,2413
+SPRHOST,46.94
+URBCONC1990,-9999.000
+URBEXT1990,0.0000
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0000
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Rectangular, side contracted critical depth flume. Long term CEH research catchment. Natural flow regime. GENERAL: Rectangular, side contracted critical depth flume designed by Hydraulics Research Ltd, suitable for streams with steep gradients, heavy sediment loads and high flood/drought flow ratios. Long term CEH research catchment nested within Cefn Brwyn (55008). Primary 15 minute dataset available. STATION HYDROMETRY: Shoal formation common, requiring prompt removal to avoid drowning. Check gauged by c/m, and volumetrically at lowest flows. FLOW REGIME: Responsive flow regime. Natural to within 10% at Q95.
+CATCHMENT,Very wet catchment; drains Plynlimon massif. Composed of Ordovician grits, shales and slates and Silurian mudstones, mostly covered by peaty soils. Mainly natural or partly reseeded grassland, supporting sheep grazing.
+Qmed Suitability,No rating or gaugings available.
+Pooling Suitability,No rating or gaugings available.
+[END]

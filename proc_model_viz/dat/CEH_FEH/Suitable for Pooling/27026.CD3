@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 27026
+[END]
+[CDS DETAILS]
+NAME,Rother
+LOCATION,Whittington
+NOMINAL AREA,  167.03
+NOMINAL NGR,4393,3744
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,439350,374500
+CENTROID NGR,GB,436202,371290
+DTM AREA,  167.03
+ALTBAR, 163
+ASPBAR, 79
+ASPVAR,0.22
+BFIHOST,0.491
+DPLBAR, 10.57
+DPSBAR, 73.3
+FARL,0.973
+FPEXT,0.0424
+LDP, 18.80
+PROPWET,0.38
+RMED-1H, 10.4
+RMED-1D, 35.2
+RMED-2D, 43.6
+SAAR, 811
+SAAR4170, 796
+SPRHOST,27.91
+URBCONC1990, 0.744
+URBEXT1990,0.1064
+URBLOC1990, 0.738
+URBCONC2000, 0.876
+URBEXT2000,0.1459
+URBLOC2000, 0.779
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Flat-V weir in an open channel. Flow regime influenced by numerous abstractions and diversions. GENERAL: Flat-V weir in an open-channel, on a straight, stable reach, just downstream of Chesterfield. Cableway located 50m u/s rebuilt 2003; new cableway covers larger cross-section of river. Replaced a shallow masonry V weir located a short distance upstream in October 1979. Improvements in water quality may be responsible for heavy, summer weed-growth. STATION HYDROMETRY: Flows greater than the capacity of the weir rated using cableway 50m u/s. Railway embankment and high river wall at sewage treatment works thought to fully contain high flows, but hydraulic modelling suggests peak flows (>60 cumecs) may be underestimated. Flows bypassing station via Chesterfield Canal were measured at Wheeldon Mill Lock from October 1963 to 1989. Three peak flow ratings applied across period of record. Rating reviewed in 2012 and modified to increase flows slightly above bankfull stage, based on gauging during 2007 flood event - applied back to to November 1979. The previous rating was valid from November 1979 when masonry weir replaced. Flood Studies Report grade A1 in 1975, now graded A1 to 2.9m and B above. FLOW RECORD: Flows from November 1979 reprocessed in 1996 and 2012. FLOW REGIME: Runoff affected by Rother Valley reservoirs and imports/exports of water. Water resource abstractions made in the Pennine headwater areas include the North Derbyshire water supply reservoirs. Small compensatory flows. Additional abstraction made from groundwater at Crowhole Reservoir. Limited discharge bypasses the station via Chesterfield Canal, diverted at Tapton weir, 3km upstream towards industrial usage. Flow in canal now gauged by V-notch weir at Wheeldon Mill. Whilst appreciable, not thought to be significant in comparison to flood flows. A sewage treatment works effluent outfall is located just upstream of the site.
+CATCHMENT,A catchment draining moors and fertile farming valleys to the southwest of Sheffield, including Dronfield and Chesterfield. Comprising mostly Pennine uplandsGeology: mainly Coal Measures with underlying Millstone Grit outcropping in the southwest of the catchment, except for a narrow alluvial strip, down the axis of a geosyncline in the valley. Mixed agriculture predominates, some moorland in headwaters (Peak District). Substantial urban development - population has grown fourfold since 1945. Industry has developed alongside residential growth. Once commonplace, now few traces of coal mining in the area remain. Chesterfield is immediately u/s of station.
+Qmed Suitability,Gauged above QMED. No bypassing reported.
+Pooling Suitability,Gauged to within 9% of AMAX3. All flow contained; drowned flow over weir should be accounted for by high gaugings.
+[END]

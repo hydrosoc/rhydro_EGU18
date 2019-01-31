@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 39019
+[END]
+[CDS DETAILS]
+NAME,Lambourn
+LOCATION,Shaw
+NOMINAL AREA,  235.43
+NOMINAL NGR,4470,1682
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,447050,168250
+CENTROID NGR,GB,437608,178282
+DTM AREA,  235.43
+ALTBAR, 163
+ASPBAR,134
+ASPVAR,0.22
+BFIHOST,0.839
+DPLBAR, 19.66
+DPSBAR, 59.2
+FARL,0.979
+FPEXT,0.0340
+LDP, 34.52
+PROPWET,0.32
+RMED-1H, 10.3
+RMED-1D, 34.3
+RMED-2D, 43.5
+SAAR, 736
+SAAR4170, 737
+SPRHOST,16.08
+URBCONC1990, 0.486
+URBEXT1990,0.0050
+URBLOC1990, 0.647
+URBCONC2000, 0.669
+URBEXT2000,0.0051
+URBLOC2000, 0.540
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,The lowest gauging station in the Lambourn Valley, a crump weir that measures this baseflow dominated catchment. GENERAL: Crump weir (10.67m wide) with auxiliary d/s recorder. A pond discharge ditch, running parallel to the main river, bypasses the weir. An ultrasonic flow gauge has been installed into the discharge ditch d/s of the weir and below the A339 road bridge (mean flow 0.2 cumecs). Another multi-path ultrasonic has also been installed within the road bridge structure for future operational reasons. STATION HYDROMETRY: There is a possibility of bypassing (overspilling) on the left bank upstream of weir in high floods when storage may be provided by Donnington Lake. Most flows in the modular range. Modular limit reduced to 4.8 cumecs following habitat enhancement d/s (January 2010). Theoretical Crump weir rating confirmed by gaugings. FLOW RECORD: The impact of a bypass drainage ditch on gauged flows is currently under investigation. FLOW REGIME: Runoff influenced by gw abstraction/recharge. PWS abstraction occurs in the headwaters. D/s sluices (occasionally) influence flows. Net artificial disturbance to the regime is limited (apart from periods during which the WBGS is operating to provide low flow support, e.g. Autumn, 1976 & October/November 2012).
+CATCHMENT,A rural catchment in the Chalk of the Berkshire Downs. However there are significant Clay-with-Flints cover with alluvium in the valleys. Local suburban growth near the gauging station but it is primarily a rural catchment dominated by agricultural land use (predominantly arable and grassland).
+Qmed Suitability,Gauged above QMED, within bank full and flow estimates thought to be reliable.
+Pooling Suitability,Gauged to within 16% of AMAX3, within bank full and flow estimates thought to be reliable.
+[END]

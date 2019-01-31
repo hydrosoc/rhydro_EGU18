@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 29003
+[END]
+[CDS DETAILS]
+NAME,Lud
+LOCATION,Louth
+NOMINAL AREA,   55.72
+NOMINAL NGR,5337,3879
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,533650,387900
+CENTROID NGR,GB,529502,384953
+DTM AREA,   55.72
+ALTBAR,  91
+ASPBAR, 69
+ASPVAR,0.24
+BFIHOST,0.820
+DPLBAR,  7.70
+DPSBAR, 59.9
+FARL,0.958
+FPEXT,0.0247
+LDP, 13.54
+PROPWET,0.29
+RMED-1H, 10.6
+RMED-1D, 35.4
+RMED-2D, 42.6
+SAAR, 698
+SAAR4170, 729
+SPRHOST,14.11
+URBCONC1990, 0.026
+URBEXT1990,0.0256
+URBLOC1990, 0.304
+URBCONC2000, 0.837
+URBEXT2000,0.0223
+URBLOC2000, 0.240
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Station located in an urban area but gauging a predominantly rural, Chalk catchment with some artificial influences. GENERAL: Crump profile weir, 4.569m wide, at u/s end of long culvert (capacity limited to 20 cumecs - yet to be exceeded). Flows recorded 1966-1968 at sharp-crested weir at Bridge Street. Charted data started at Tathwell Nov 1968, and South Elkington Mar-Nov 1968. STATION HYDROMETRY: Theoretical rating supported by current metering, but gaugings needed to confirm the high flow rating. Two ratings applied across period of record, the most recent is valid from January-1968 when theoretical rating applied. Rating confirmed by current metering. FLOW RECORD: Flood of 1920 estimated at approx. 140 cumecs. FLOW REGIME: Groundwater abstraction has a modest impact on flows; mill regulation can also produce short-term artificial spikes. Work is underway to construct two retention ponds on the Lud.
+CATCHMENT,Catchment is predominantly Chalk, with around one third covered with superficial deposits, mainly Boulder Clay. Largely rural catchment with mainly arable farming, although there is urban development (Louth) just upstream of station.
+Qmed Suitability,Gauged to within 2% of QMED. Good fit to gaugings.
+Pooling Suitability,Few high flow gaugings. Rating does not consider bypassing or drowned flow and can not be validated beyond QMED.
+[END]

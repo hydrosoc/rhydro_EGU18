@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 24005
+[END]
+[CDS DETAILS]
+NAME,Browney
+LOCATION,Burnhall
+NOMINAL AREA,  179.00
+NOMINAL NGR,4259,5386
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,425900,538650
+CENTROID NGR,GB,416161,544505
+DTM AREA,  179.00
+ALTBAR, 197
+ASPBAR, 90
+ASPVAR,0.25
+BFIHOST,0.331
+DPLBAR, 20.28
+DPSBAR, 77.5
+FARL,0.999
+FPEXT,0.0265
+LDP, 35.43
+PROPWET,0.41
+RMED-1H,  9.9
+RMED-1D, 33.3
+RMED-2D, 43.0
+SAAR, 743
+SAAR4170, 752
+SPRHOST,39.28
+URBCONC1990, 0.648
+URBEXT1990,0.0273
+URBLOC1990, 0.794
+URBCONC2000, 0.806
+URBEXT2000,0.0314
+URBLOC2000, 0.778
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Compound broad-crested weir in a deep valley. Diurnal flow regime influenced by minewater discharge up to 1997. GENERAL: Compound broad-crested weir (17.6m broad, low crest 5.5m) within a deep valley and has a steep fall d/s (makes drowning and bypassing unlikely). All crests are 0.3 m long in direction of flow. Divide piers inserted and wing walls raised in 1968. Two flight Larinier pass (600mm wide with 100mm baffles) installed in a by-pass channel on the left bank Aug-Sep 2016. STATION HYDROMETRY: No cableway but some boat gaugings carried out. Theoretical daily flow rating with check gaugings. Multiple peak flow ratings applied across period of record. Originally rating theoretical and refined when piers and wing walls altered (1968). A temporary rating is applied between 30/01/1990 and 04/02/1990 whilst tree stuck on weir. The fish pass has a separate stage measurement gauge and rating, flows will be calculated by addition of the weir flow and the Larinier flow from their respective rating curves. Flood Studies Report grade A1. FLOW RECORD: Minewater discharges stopped in 1997 which has affected homogeneity of low flow record; record 2003 low flow sequence, whilst in a notably dry period, eclipses previous minima. Engineering works 28/10/1988 - 21/11/1988: daily flows removed from NRFA. Low flow drop outs in September 2016 are beyond the limits of the rating but may also be a result of engineering works on a fish pass. FLOW REGIME: Minewater discharges influence low flows and create distinct diurnal pattern although impact on annual runoff is limited.
+CATCHMENT,Coal Measures with just under half the catchment overlain by superficial deposits (mainly Boulder Clay). Half land use is improved grass pasture, with some woodland, and arable in lower-lying areas. No known catchment changes.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged to 34% of AMAX3 with all but the largest flows contained within wing walls.
+[END]

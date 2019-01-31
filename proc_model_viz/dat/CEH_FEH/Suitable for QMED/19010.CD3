@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 19010
+[END]
+[CDS DETAILS]
+NAME,Braid Burn
+LOCATION,Liberton
+NOMINAL AREA,   15.40
+NOMINAL NGR,3272,6707
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,327250,670800
+CENTROID NGR,GB,323455,668381
+DTM AREA,   15.40
+ALTBAR, 190
+ASPBAR,  2
+ASPVAR,0.45
+BFIHOST,0.514
+DPLBAR,  6.25
+DPSBAR,113.6
+FARL,0.948
+FPEXT,0.0327
+LDP, 12.37
+PROPWET,0.49
+RMED-1H,  8.8
+RMED-1D, 35.4
+RMED-2D, 47.9
+SAAR, 770
+SAAR4170, 767
+SPRHOST,39.60
+URBCONC1990, 0.815
+URBEXT1990,0.1532
+URBLOC1990, 0.760
+URBCONC2000, 0.874
+URBEXT2000,0.1595
+URBLOC2000, 0.777
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Compound Crump weir on Braid Burn. Some small reservoirs in headwaters that are drawn down for flood prevention. GENERAL: Compound Crump weir without a cableway. STATION HYDROMETRY: Flows were originally measured by a Crump profile weir and trapezoidal flume in parallel. The flume suffered from choking by domestic refuse and children's dams and so was replaced in Oct 1985 by a second Crump profile weir d/s of the first. Culverts present about 300m d/s and may back up in flood situations. Theoretical rating with current meter gaugings up to 0.4m (0.4 QMED). Changed after new structure built in 1985. Possible new hydraulic model rating once flood prevention scheme complete. Crump weir can be affected by deposition when only the lower crest is in use (but this clears once the higher crest is also in use). FLOW RECORD: Flows during the flood prevention works are still under review and therefore not held on the NRFA. FLOW REGIME: Flood prevention works affected the site (completed in 2011). Torduff, Clubbiedean and Bonaly are small reservoirs in headwaters that are drawn down for flood prevention. Combined sewer overflows discharge into the stream.
+CATCHMENT,Mostly low-lying catchment with the headwater tributaries steeply rising in the Pentland Hills. Complex bedrock geology - Silurian/Devonian sedimentaries and igneous intrusions; with half overlain by superficial deposits. The lower part of the catchment is extensively urbanised. There are several small reservoirs in the headwaters with forest and some arable landuse. Progressive urbanisation.
+Qmed Suitability,Treat with caution. Will only give an approximate estimate of QMED
+Pooling Suitability,No - Not suitable
+[END]

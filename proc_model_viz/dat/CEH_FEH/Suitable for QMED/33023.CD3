@@ -1,0 +1,49 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 33023
+[END]
+[CDS DETAILS]
+NAME,Lea Brook
+LOCATION,Beck Bridge
+NOMINAL AREA,  105.95
+NOMINAL NGR,5662,2732
+[END]
+[DESCRIPTORS]
+CENTROID NGR,GB,569954,262061
+DTM AREA,  105.95
+ALTBAR,  65
+ASPBAR,352
+ASPVAR,0.28
+BFIHOST,0.561
+DPLBAR,  7.14
+DPSBAR, 22.4
+FARL,0.996
+FPEXT,0.1287
+LDP, 34.06
+PROPWET,0.21
+RMED-1H, 10.9
+RMED-1D, 30.5
+RMED-2D, 38.1
+SAAR, 579
+SAAR4170, 599
+SPRHOST,18.95
+URBCONC1990, 0.009
+URBEXT1990,0.0089
+URBLOC1990, 0.810
+URBCONC2000, 0.660
+URBEXT2000,0.0069
+URBLOC2000, 0.684
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Crump profile weir gauiging a rural, Chalk catchment with some Boulder Clay and terrace deposits and with some artificial influences, all but the very highest flows are contained. GENERAL: Crump profile weir 4m wide, situated approx. 20m u/s of new road bridge. STATION HYDROMETRY: All but the very highest flows are contained. There is some doubt about the high flow calibration owing to two large concrete blocks which spoil the entry condition. High flows may be affected by Beck Bridge and railway embankment in the floodplain, but no flood this large has been recorded so far. Low flow calibration has been confirmed by current meter. One rating applied across period of record. FLOW RECORD: The POR maximum flow is believed to have been in Sept 1968, estimated as 17.5 cumecs by the EA but likely to have been extrapolated. FLOW REGIME: Some groundwater abstraction for PWS, also industrial/agricultural abstraction. Runoff increased by effluent returns.
+CATCHMENT,A rural Chalk catchment with Boulder Clay cover in upper (S) part of catchment. Some river terrace deposits in N. Mixed agricultural land use.
+Qmed Suitability,Although not gauged to within 30% of QMED, theoretical rating expected to perform well to QMED.
+Pooling Suitability,Few high flow gaugings. Rating can not be validated beyond QMED.
+[END]

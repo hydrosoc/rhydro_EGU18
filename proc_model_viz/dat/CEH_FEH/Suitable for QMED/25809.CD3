@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 25809
+[END]
+[CDS DETAILS]
+NAME,Bog Hill
+LOCATION,Moor House
+NOMINAL AREA,    0.05
+NOMINAL NGR,3773,5327
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,377350,532650
+CENTROID NGR,GB, -9999, -9999
+DTM AREA,    0.05
+ALTBAR, 530
+ASPBAR,110
+ASPVAR,0.72
+BFIHOST,0.228
+DPLBAR,  0.17
+DPSBAR,100.4
+FARL,1.000
+FPEXT,-9999.0000
+LDP,  0.36
+PROPWET,0.64
+RMED-1H, 11.8
+RMED-1D, 55.5
+RMED-2D, 79.9
+SAAR,1757
+SAAR4170,1997
+SPRHOST,59.90
+URBCONC1990, 0.000
+URBEXT1990,0.0000
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0000
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,A V-notch weir level only station. Peak flow only station. Closed December 1962. GENERAL: A V-notch weir with stilling pool and water level recorder. Peak flow only station. Station closed 31/12/1962. STATION HYDROMETRY: Imprecise at low flows, and inaccurate at high flows once water level rises above the top of the V notch at 0.324m. Zero of V notch is 0.627m on staff gauge. Single peak flow theoretical rating applied throughout. Confirmed by check gaugings. FLOW RECORD: Runoff likely to be low during wintry conditions. FLOW REGIME: No known artificial influences.
+CATCHMENT,A very small upland catchment draining into the Tees via the Trout Beck. During the experimental period of recording the catchment was neither burnt nor artificially drained.
+Qmed Suitability,QMED is contained within V notch, plus check gaugings confirm rating to above QMED.
+Pooling Suitability,Although gauged beyond AMAX3, high flows are not contained within the structure of the weir making rating extrapolation unreliable.
+[END]

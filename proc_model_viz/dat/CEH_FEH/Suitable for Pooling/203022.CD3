@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+203022
+[END]
+[CDS DETAILS]
+NAME,Blackwater
+LOCATION,Derrymeen Bridge
+NOMINAL AREA,  183.94
+NOMINAL NGR,2625,3530
+[END]
+[DESCRIPTORS]
+IHDTM NGR,Ireland,262500,353050
+CENTROID NGR,Ireland,253650,352289
+DTM AREA,  183.94
+ALTBAR, 140
+ASPBAR, 84
+ASPVAR,0.10
+BFIHOST,0.460
+DPLBAR, 16.07
+DPSBAR, 78.2
+FARL,0.977
+FPEXT,0.0861
+LDP, 29.18
+PROPWET,0.58
+RMED-1H,  9.0
+RMED-1D, 32.0
+RMED-2D, 42.4
+SAAR,1142
+SAAR4170,1143
+SPRHOST,37.20
+URBCONC1990,-2.000
+URBEXT1990,0.0056
+URBLOC1990, 0.827
+URBCONC2000,-9999.000
+URBEXT2000,0.0009
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station. GENERAL: Originally opened 1970, but closed after a few months due to the political climate in Northern Ireland. Re-opened early 1980s. Channel deepened in 1986 as part of River Blackwater Drainage Scheme. STATION HYDROMETRY: Fisheries boulders may cause blockage and affect low-flow rating. Low flow gaugings are difficult because of wide bed; good range of gaugings (50m3/s). Unusual catchment geology means station has flat growth curve; does not often get out of bank upstream. Rating derived from current meter gaugings. Simple extrapolation occurs above 50m3/s. Single high rating flow post scheme calibration from 1 July 1987 to date. Last high flow gauging carried out in 1986. FLOW RECORD: Peak flow data presented for period after major arterial drainage scheme and channel improvements completed in 1990. Data in December 2010 to be considered suspect due to the stilling well freezing. FLOW REGIME: Major arterial drainage scheme completed 1985-89; substantial impact on channel and calibration.
+CATCHMENT,Catchment contains town of Coalisland. Currently brickmaking and agricultural land use, formerly mining area. Solid geology - bedrock composed of generally indurated Maydown Carboniferous Limestone Formation with some Lower Old Red Sandstone. Drift geology - upstream, drumlinised glacial till and an area of sand and gravel are overlain by river alluvium. Extensive rock near surface with some peat on high ground.
+Qmed Suitability,Maximum gauged flow is similar to QMED (ratio = 1.0). However not contained at this flow. It has been estimated that the unmeasured floodplain flow is 13% of the total flow hence the site has been accepted for QMED analysis
+Pooling Suitability,Not contained at high flows however rating is still applicable at out of bank flows.
+[END]

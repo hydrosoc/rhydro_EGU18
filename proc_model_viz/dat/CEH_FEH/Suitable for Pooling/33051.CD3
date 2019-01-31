@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 33051
+[END]
+[CDS DETAILS]
+NAME,Cam
+LOCATION,Chesterford
+NOMINAL AREA,  140.02
+NOMINAL NGR,5505,2426
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,550500,242650
+CENTROID NGR,GB,551710,236033
+DTM AREA,  140.02
+ALTBAR,  93
+ASPBAR, 29
+ASPVAR,0.04
+BFIHOST,0.576
+DPLBAR, 12.81
+DPSBAR, 40.5
+FARL,0.993
+FPEXT,0.0518
+LDP, 22.76
+PROPWET,0.29
+RMED-1H, 10.8
+RMED-1D, 29.1
+RMED-2D, 36.7
+SAAR, 599
+SAAR4170, 611
+SPRHOST,31.24
+URBCONC1990, 0.602
+URBEXT1990,0.0188
+URBLOC1990, 0.839
+URBCONC2000, 0.780
+URBEXT2000,0.0253
+URBLOC2000, 0.789
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Compound broad-crested weir gauging a rural predominantly Chalk catchment largely overlain with Boulder Clay, significant artificial influences. GENERAL: Compound broad-crested weir, 22.3m broad (in trapezoidal section) with central notch 3m broad, 0.23m deep. Previously called Chesterford Mill, and included millstream flow through old mill on the side of existing river channel. STATION HYDROMETRY: Flow remains modular to 1.06m. One rating applied across period of record. Prior to 1964, millstream flow was added to main weir rating using a rating table. FLOW REGIME: Significant gw abstractions for PWS, with additional abstractions for industry/agriculture. Runoff increased by effluent returns.
+CATCHMENT,Predominantly Chalk largely overlain by Boulder Clay. Rural, predominantly arable land use.
+Qmed Suitability,Although not gauged to within 30% of QMED, flow is contained and remains modular. Theoretical rating is expected to perform well.
+Pooling Suitability,Although no gaugings beyond QMED, flow is contained and remains modular throughout. Theoretical rating is expected to perform well.
+[END]

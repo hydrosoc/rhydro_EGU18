@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 28049
+[END]
+[CDS DETAILS]
+NAME,Ryton
+LOCATION,Worksop
+NOMINAL AREA,   75.38
+NOMINAL NGR,4575,3794
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,457500,379500
+CENTROID NGR,GB,451974,381775
+DTM AREA,   75.38
+ALTBAR,  97
+ASPBAR, 89
+ASPVAR,0.24
+BFIHOST,0.748
+DPLBAR, 10.57
+DPSBAR, 34.2
+FARL,0.942
+FPEXT,0.0904
+LDP, 19.66
+PROPWET,0.38
+RMED-1H, 11.3
+RMED-1D, 32.4
+RMED-2D, 42.0
+SAAR, 664
+SAAR4170, 648
+SPRHOST,15.71
+URBCONC1990, 0.771
+URBEXT1990,0.0647
+URBLOC1990, 0.966
+URBCONC2000, 0.835
+URBEXT2000,0.0660
+URBLOC2000, 1.001
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Crump profile Flat V weir draining mixed farming, industry and forestry catchment. GENERAL: Crump profile Flat V weir, 4.57m at V-full, in trapezoidal channel. Downstream bridge provokes early non-modularity. Modified stage discharge curve produced for non-modularity at high flows. STATION HYDROMETRY: Two similar applied across period of record, the reason for change unknown. Ratings fit well to gaugings which are quite scattered, however all flows are contained. D/s bridge provokes early non-modularity. Modified stage discharge curve produced for non-modularity at high flows. FLOW RECORD: June 2007 flows should be treated with caution as levels exceeded bankfull. FLOW REGIME: Significant flow augmentation via groundwater pumping and WRW, and abstractions for canal use. High baseflow component and subdued hydrographs.
+CATCHMENT,Catchment of moderate relief on dip slope of Magnesian L'st outcrop with a narrow band of Permian Marl near the gauge. Extractive industries in the west otherwise mixed farming and forestry.
+Qmed Suitability,QMED contained and confirmed by gaugings.
+Pooling Suitability,Gauged to within 6% of AMAX3. Good fit to gaugings.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 34005
+[END]
+[CDS DETAILS]
+NAME,Tud
+LOCATION,Costessey Park
+NOMINAL AREA,   72.11
+NOMINAL NGR,6169,3112
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,616950,311250
+CENTROID NGR,GB,605696,311919
+DTM AREA,   72.11
+ALTBAR,  46
+ASPBAR, 63
+ASPVAR,0.15
+BFIHOST,0.598
+DPLBAR, 14.34
+DPSBAR, 20.3
+FARL,0.973
+FPEXT,0.1578
+LDP, 25.48
+PROPWET,0.31
+RMED-1H, 11.3
+RMED-1D, 28.6
+RMED-2D, 36.1
+SAAR, 649
+SAAR4170, 644
+SPRHOST,32.65
+URBCONC1990, 0.679
+URBEXT1990,0.0313
+URBLOC1990, 1.215
+URBCONC2000, 0.793
+URBEXT2000,0.0288
+URBLOC2000, 1.304
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Structure gauging a Chalk catchment with gw catchment smaller than topographical catchment, some artificial influences. GENERAL: Four trapezoidal standing-wave flumes under a road bridge. STATION HYDROMETRY: Dam boards placed across the two outer arches to increase the sensitivity of low flow measurements. Dam boards are only used at very low flows, less than 1 cumec. Thought to be drowned above 10.5 cumecs (April 1981 flood). The rating is valid when all flumes are open. An alternative rating is used when dam boards are placed across the two outer arches for very low flows. Early part of the record affected by a mill structure u/s. FLOW RECORD: Thought to be drowned above 10.5 cumecs during April 1981 flood. FLOW REGIME: Runoff influenced by groundwater abstraction/recharge, reduced by industrial/agricultural abstraction.
+CATCHMENT,Gw catchment is smaller than the topographical catchment with consequent losses to adjacent catchments and low annual gauged runoff. Chalk catchment with superficial deposits, predominantly Boulder Clay, also sands and gravels and alluvium. Rural catchment with mixed farming, mostly arable.
+Qmed Suitability,Gauged above QMED. Good fit to rating.
+Pooling Suitability,Although not gauged to within 30% of AMAX3, structure modular limit is above AMAX3 and AMAX3 is contained so rating expected to perform well.
+[END]

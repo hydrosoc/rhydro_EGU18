@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 69032
+[END]
+[CDS DETAILS]
+NAME,Alt
+LOCATION,Kirkby
+NOMINAL AREA,   96.61
+NOMINAL NGR,3391,3983
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,339150,398350
+CENTROID NGR,GB,341519,396197
+DTM AREA,   96.61
+ALTBAR,  35
+ASPBAR,319
+ASPVAR,0.23
+BFIHOST,0.486
+DPLBAR,  8.12
+DPSBAR, 13.2
+FARL,0.983
+FPEXT,0.2346
+LDP, 15.26
+PROPWET,0.37
+RMED-1H, 11.0
+RMED-1D, 32.1
+RMED-2D, 43.4
+SAAR, 860
+SAAR4170, 895
+SPRHOST,32.66
+URBCONC1990, 0.878
+URBEXT1990,0.2649
+URBLOC1990, 1.015
+URBCONC2000, 0.905
+URBEXT2000,0.2712
+URBLOC2000, 0.965
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Open channel, velocity area station with non-standard shallow V bed control which drowns at a low level. GENERAL: A non-standard shallow V bed control (side slopes 1:20) opened in September 1977. This superseded an open channel, velocity area station (1963) which suffered from erosion and deposition of silt. There is a broad-crested weir 800m d/s. STATION HYDROMETRY: The weir drowns at a low level and all high flows are measured under drowned conditions. No bypassing reported. Siltation may cause inlet pipe blockage and lag between stilling well and river level. Transducer (PTX) in-river from 26 Nov 1998 to 24 Nov 2003 as comparison with stilling well record. Gaugings taken from upstream footbridge using bridge gauging equipment or an ADCP. Separate peak flow ratings apply before and after the construction of the weir in 1977, and there is a good fit to gaugings in both periods, although no pre-weir gaugings were taken during high flows. FLOW RECORD: Gap in data 1/4/1986 to 30/10/1986 while station repaired after vandalism. Record from open channel station (i.e. before weir was built in 1977) of unknown quality due to silt deposition and removal and lack of high flow gaugings. AMAX and POT data are therefore excluded from analysis pre-1977. FLOW REGIME: Industrial abstractions and discharges. Large sewage treatment works upstream at Fazakerley can cause fluctuations in daily mean flows.
+CATCHMENT,Very flat catchment; boundary on SW side difficult to define. Geology mostly of blown sand deposits with Boulder Clay over Sherwood Sandstone. Highly urbanised, containing parts of north Liverpool and Kirkby. No significant catchment changes.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged beyond AMAX3 although some scatter in gaugings exists.
+[END]

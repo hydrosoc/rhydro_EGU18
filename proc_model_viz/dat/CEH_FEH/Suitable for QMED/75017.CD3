@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 75017
+[END]
+[CDS DETAILS]
+NAME,Ellen
+LOCATION,Bullgill
+NOMINAL AREA,  102.57
+NOMINAL NGR,3096,5384
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,309600,538400
+CENTROID NGR,GB,319585,538599
+DTM AREA,  102.57
+ALTBAR, 164
+ASPBAR,322
+ASPVAR,0.30
+BFIHOST,0.487
+DPLBAR, 15.96
+DPSBAR, 78.4
+FARL,0.982
+FPEXT,0.0720
+LDP, 31.13
+PROPWET,0.62
+RMED-1H, 10.7
+RMED-1D, 39.9
+RMED-2D, 51.5
+SAAR,1106
+SAAR4170,1152
+SPRHOST,34.38
+URBCONC1990,-9999.000
+URBEXT1990,0.0039
+URBLOC1990,-9999.000
+URBCONC2000, 0.621
+URBEXT2000,0.0064
+URBLOC2000, 0.665
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Flat V weir gauging catchment with steep headwaters in the Uldale Fells. Some abstractions and effluents with limited impact on runoff. GENERAL: Flat V weir (1:20 side slopes) 11m wide installed in 1975. Right bank 1.77 m high, left bank 1.67m high. STATION HYDROMETRY: Full range covered with stable rating; drowns above 0.63m. Some bypassing below road bridge, cutting off bend on left bank. Suffers from slight accretion. It has been suggested that reductions in channel maintenance in recent years have increased water levels. Permanent cableway, and gauged above banktop (though only inbank). The photos include one taken during gaugings in the November 2009 event, with significant water on both floodplains. One rating applied across period of record. Station rated by current meter to 1.92 m, though out-of-bank flows aren't included. Some scatter in the gaugings. FLOW REGIME: Chapel House reservoir near the top of the catchment along with several groundwater abstractions and discharges of sewage and industrial effluent impact the flow regime somewhat however the impact is fairly small. Flashy runoff regime.
+CATCHMENT,Steep headwaters drain Uldale Fells and flow westward. Lower reaches follow the E-W trend of the Coal Measures with Carboniferous Limestone to the south. Extensively overlain by Boulder Clay with alluvium within the main river valley. No catchment changes known.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Although gauged to a high level, floodplain flow isn't included in the rating.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 21006
+[END]
+[CDS DETAILS]
+NAME,Tweed
+LOCATION,Boleside
+NOMINAL AREA, 1505.54
+NOMINAL NGR,3498,6333
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,349800,633350
+CENTROID NGR,GB,323622,631476
+DTM AREA, 1505.54
+ALTBAR, 358
+ASPBAR, 77
+ASPVAR,0.07
+BFIHOST,0.496
+DPLBAR, 43.88
+DPSBAR,191.9
+FARL,0.963
+FPEXT,0.0443
+LDP, 83.97
+PROPWET,0.58
+RMED-1H,  9.6
+RMED-1D, 38.3
+RMED-2D, 50.7
+SAAR,1164
+SAAR4170,1232
+SPRHOST,38.34
+URBCONC1990,-9999.000
+URBEXT1990,0.0021
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0023
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station, central in the Tweed basin and marks the divide between hilly uplands and lowland areas. GENERAL: Good rated straight section (~55m wide) with stable gravel bed and a uniform cross section and velocity profile. Cableway (25m d/s). Reach is used for salmon fishing. STATION HYDROMETRY: Station is only gauged by cableway as it it too deep to wade, even at low flows. Downstream gravel bar acts as low flow control. Calibration affected by seasonal weed growth. Bypassing could occur on rb, but has not been witnessed. Peak flow rating derived from current meter rating, simple extrapolation beyond. Rating revised in 2016. FLOW RECORD: Monthly naturalised flows available. Full period of record peak flow data reviewed and released in April 2017 (WINFAP Files v5). Exceptionally high flow on 31/10/1977 supported by analogue station 21011 upstream. FLOW REGIME: Reservoir storage for public water supply modifies natural flow regime but overall impact is minor. Freshets are released from Fruid and Talla Reservoirs into the Yarrow Water (tributary of the Tweed). Rise in stage from these releases can be ~50mm at Boleside and are visible in the hydrograph.
+CATCHMENT,Gauging site is central in Tweed basin and marks divide between hilly uplands and lowland areas. Bedrock mainly impervious Silurian formations with roughly half superficial deposit cover. Land use is hill grazing with forestry and a little arable land. Fruid Reservoir (1968) and Megget Reservoir (1982). Notable floodplains.
+Qmed Suitability,Gauged to QMED
+Pooling Suitability,Possible bypassing above 2.5m
+[END]

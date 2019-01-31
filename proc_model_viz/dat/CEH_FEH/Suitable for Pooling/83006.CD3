@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 83006
+[END]
+[CDS DETAILS]
+NAME,Ayr
+LOCATION,Mainholm
+NOMINAL AREA,  579.04
+NOMINAL NGR,2361,6216
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,236200,621600
+CENTROID NGR,GB,256487,622725
+DTM AREA,  579.04
+ALTBAR, 219
+ASPBAR,288
+ASPVAR,0.15
+BFIHOST,0.330
+DPLBAR, 41.43
+DPSBAR, 74.0
+FARL,0.992
+FPEXT,0.0582
+LDP, 69.48
+PROPWET,0.62
+RMED-1H,  9.4
+RMED-1D, 36.2
+RMED-2D, 51.7
+SAAR,1212
+SAAR4170,1221
+SPRHOST,46.09
+URBCONC1990,-9999.000
+URBEXT1990,0.0034
+URBLOC1990,-9999.000
+URBCONC2000, 0.748
+URBEXT2000,0.0061
+URBLOC2000, 0.844
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station, lowest on the River Ayr. Winter icing can affect flows. GENERAL: Velocity area station approx. 30m wide located in a long straight section. Very steep banks (approx. 6m); most flows contained - overspilling occurs on lb. STATION HYDROMETRY: Channel control. Ratings derived from current meter gaugings up to 3.6m (about QMED), simple extrapolation beyond. Lower end of ratings (<0.615m) recalibrated in 2006 as gaugings since 2001 showed flows were being slightly overestimated. FLOW RECORD: December 1981 flows may be affected by ice build-up and are under review. Severe icing in December 2010 led to ice floes in river and stage increase of c.1m at station - flows are estimated. Flows since Jan 2000 reprocessed in 2012. FLOW REGIME: Responsive, natural catchment.
+CATCHMENT,Catchment topography approx. 2/3 lowland and 1/3 upland. Complex bedrock geology; Carboniferous sediments (chiefly Coal Measures) dominate, but some igneous formations and Permian sandstones in upper reaches. Extensively overlain by superficial deposits (mostly Boulder Clay and peat). No major urban centres. Hill grazing and forestry in upland headwaters, mixed farming in lowlands. No significant catchment changes known although previously mined for coal.
+Qmed Suitability,No comment
+Pooling Suitability,No comment
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 25810
+[END]
+[CDS DETAILS]
+NAME,Sike Hill
+LOCATION,Moor House
+NOMINAL AREA,    0.04
+NOMINAL NGR,3772,5332
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,377200,533200
+CENTROID NGR,GB, -9999, -9999
+DTM AREA,    0.04
+ALTBAR, 534
+ASPBAR, 88
+ASPVAR,0.78
+BFIHOST,0.275
+DPLBAR,  0.18
+DPSBAR, 79.9
+FARL,1.000
+FPEXT,-9999.0000
+LDP,  0.33
+PROPWET,0.64
+RMED-1H, 11.8
+RMED-1D, 55.4
+RMED-2D, 79.8
+SAAR,1757
+SAAR4170,1995
+SPRHOST,55.00
+URBCONC1990, 0.000
+URBEXT1990,0.0000
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0000
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,A V-notch weir level only station, affected by heavy silting. Peak flow only station. Closed December 1962. GENERAL: A V-notch weir with stilling pool and water level recorder. Prone to heavy silting, with 80 cubic feet removed in five years. Peak flow only station. Station closed 31/12/1962. STATION HYDROMETRY: Imprecise at low flows, and inaccurate at high flows once water level rises above the top of the V notch at 0.332m. Zero of V notch is 0.551m on staff gauge. At 0.361m above the zero of the V bypassing begins over the horizontal top of the weir board, and on the left bank, bypassing the recorder. Single peak flow theoretical rating applied throughout. Confirmed by check gaugings. FLOW RECORD: Runoff likely to be low during wintry conditions. FLOW REGIME: No known artificial influences.
+CATCHMENT,A small upland catchment draining into the Tees via the Trout Beck. During the experimental period of recording the catchment was artificially surface drained.
+Qmed Suitability,QMED is contained within V notch, plus check gaugings confirm rating to above QMED.
+Pooling Suitability,Although gauged beyond AMAX3, high flows are not contained within the structure of the weir making rating extrapolation unreliable.
+[END]

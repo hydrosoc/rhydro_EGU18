@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 39026
+[END]
+[CDS DETAILS]
+NAME,Cherwell
+LOCATION,Banbury
+NOMINAL AREA,  204.59
+NOMINAL NGR,4458,2410
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,445850,241100
+CENTROID NGR,GB,449514,249774
+DTM AREA,  204.59
+ALTBAR, 139
+ASPBAR,159
+ASPVAR,0.11
+BFIHOST,0.410
+DPLBAR, 16.91
+DPSBAR, 42.5
+FARL,0.950
+FPEXT,0.1056
+LDP, 32.10
+PROPWET,0.30
+RMED-1H, 11.4
+RMED-1D, 33.8
+RMED-2D, 41.9
+SAAR, 664
+SAAR4170, 700
+SPRHOST,42.78
+URBCONC1990, 0.548
+URBEXT1990,0.0132
+URBLOC1990, 0.849
+URBCONC2000, 0.747
+URBEXT2000,0.0164
+URBLOC2000, 0.732
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Asymmetrical compound Crump-type weir within a largely rural catchment that is influenced by abstraction, STWs and the Oxford canal. GENERAL: Asymmetrical non standard compound Crump-type weir (crest widths: 3.08m, 8.99m). U/s gradient 1:2; d/s gradient 1:3. Design and built dimensions differ so rating under review. The low flow weir is separated from the wider high flow weir by a vertical steel plate that is supported by metal struts fastened to the rb abutment. STATION HYDROMETRY: Modular limit is approximately 22 cumecs (c. 1.1m). Rated by standard Crump weir equation using tail levels. D/s tail level monitoring only introduced in 1992 but tail water levels fall below intake pipe (low to medium flows) so only applied at peak flows. Rating is fairly accurate up to modular limit (approx 1.1m). Peak flow flood forecasting rating available, thought to be more accurate than tail water corrections. FLOW RECORD: April 1998 peak estimated at around 90 cumecs (but level exceeded structure-full by c. 1.5m). FLOW REGIME: A relatively responsive regime but flows influenced by public water supply abstraction and STW. A large u/s abstraction (Grimsbury) can appreciably distort the low flow hydrograph. Sewage effluent also appreciable. Approx. 50 sq.km of the catchment drains directly to the Oxford Canal; some of this runoff returns (via an overfall weir) u/s of Banbury. A large flood storage area had been built u/s of Banbury which will affect larger peak flows.
+CATCHMENT,A largely impermeable catchment mainly of Liassic formations. Mainly rural but with considerable urban development near the catchment outfall.
+Qmed Suitability,Gauged above QMED. Rating is reasonably accurate up to a stage of around 1.1m.
+Pooling Suitability,Although gauged beyond AMAX3, at high flows weir drowns easily and cannot estimate flows accurately.
+[END]

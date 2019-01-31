@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 71014
+[END]
+[CDS DETAILS]
+NAME,Darwen
+LOCATION,Blue Bridge
+NOMINAL AREA,  136.21
+NOMINAL NGR,3564,4277
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,356450,427750
+CENTROID NGR,GB,366053,425519
+DTM AREA,  136.21
+ALTBAR, 163
+ASPBAR,311
+ASPVAR,0.24
+BFIHOST,0.408
+DPLBAR, 18.89
+DPSBAR, 76.9
+FARL,0.946
+FPEXT,0.0645
+LDP, 32.10
+PROPWET,0.51
+RMED-1H, 11.1
+RMED-1D, 40.3
+RMED-2D, 53.8
+SAAR,1199
+SAAR4170,1154
+SPRHOST,38.85
+URBCONC1990, 0.747
+URBEXT1990,0.0996
+URBLOC1990, 1.145
+URBCONC2000, 0.861
+URBEXT2000,0.1375
+URBLOC2000, 1.125
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station; some bypassing on both banks during extreme events. GENERAL: A rated velocity area station, opened 1974. Ultrasonics (4 cross-paths) from July 1997 until early 2015. STATION HYDROMETRY: Main control is an old mill weir 370m downstream, which was modified in 1974 into a V profile. During extreme events the station is bypassed on the left and right banks - modelling confirms that this is not a large percentage of the total flow. Uneven bed profile can affect accuracy of low flows. Rating derived from gaugings, supported by ultrasonics, with a modelled top-end. Historically high flow gaugings were carried out from a footbridge just downstream of the site but are now undertaken using an ADCP just upstream of the station. Three ratings applied to period of record. FLOW RECORD: Ultrasonics (1997-2015) often cut out at the higher flows. The flow record presented is for the rated station. FLOW REGIME: Low flows heavily influenced by effluent discharges.
+CATCHMENT,Glacial clays and gravels blanket Coal Measures and Millstone Grit with Sherwood Sandstone near the gauge. Upper catchment almost wholly urbanised (Blackburn, Darwen); agricultural in lower half. No significant catchment changes.
+Qmed Suitability,Rating fits gaugings well up to QMED.
+Pooling Suitability,Gauged to within 6% of AMAX3, ultrasonic record, and modelled top-end.
+[END]

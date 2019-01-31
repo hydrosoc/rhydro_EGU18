@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 51001
+[END]
+[CDS DETAILS]
+NAME,Doniford Stream
+LOCATION,Swill Bridge
+NOMINAL AREA,   74.23
+NOMINAL NGR,3088,1428
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,308850,142900
+CENTROID NGR,GB,309711,137416
+DTM AREA,   74.23
+ALTBAR, 145
+ASPBAR,  1
+ASPVAR,0.14
+BFIHOST,0.629
+DPLBAR,  9.03
+DPSBAR,129.9
+FARL,0.988
+FPEXT,0.0382
+LDP, 15.38
+PROPWET,0.35
+RMED-1H, 11.4
+RMED-1D, 37.4
+RMED-2D, 48.5
+SAAR, 911
+SAAR4170, 978
+SPRHOST,27.63
+URBCONC1990, 0.569
+URBEXT1990,0.0077
+URBLOC1990, 0.573
+URBCONC2000, 0.678
+URBEXT2000,0.0105
+URBLOC2000, 0.532
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station with Flat V weir for low flows. GENERAL: Opened in 1967 as velocity-area station with rock control. Flat V weir installed in August 1983 for low flows. STATION HYDROMETRY: Rated section at high flows. High flows measured from a gauging bridge constructed upstream of the weir. No problems with backing up from the bridge. Gauged to 13 cumecs. Comparison with nearby stations suggest pre-83 flows are underestimated. Two peak flow ratings across period of record, derived from a best fit through check gaugings; changes when weir was installed in 1983. FLOW RECORD: Flow data unavailable 1982-83 due to stilling well leak. Flow data unavailable 1/08/83-31/3/84. Between 01/1967-12/1982 only daily mean flows available on EA archive. FLOW REGIME: Runoff natural to within 10% at Q95. Some abstraction upstream for fish farming but flows not affected.
+CATCHMENT,Catchment drains Devonian/Triassic sandstones between Quantock and Brendon Hills. Rapidly responsive catchment. Land-use is mostly rural with some urbanisation. No major changes in catchment.
+Qmed Suitability,Check gaugings available beyond QMED.
+Pooling Suitability,Although no bypassing reported and most flows contained, rating cannot be validated beyond QMED. Use for pooling but apply caution.
+[END]

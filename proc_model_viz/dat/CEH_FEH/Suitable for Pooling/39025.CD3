@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 39025
+[END]
+[CDS DETAILS]
+NAME,Enborne
+LOCATION,Brimpton
+NOMINAL AREA,  142.01
+NOMINAL NGR,4567,1647
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,456800,164750
+CENTROID NGR,GB,448696,160991
+DTM AREA,  142.01
+ALTBAR, 120
+ASPBAR, 38
+ASPVAR,0.28
+BFIHOST,0.500
+DPLBAR, 14.75
+DPSBAR, 53.6
+FARL,0.978
+FPEXT,0.0753
+LDP, 28.02
+PROPWET,0.32
+RMED-1H, 11.2
+RMED-1D, 33.2
+RMED-2D, 43.5
+SAAR, 789
+SAAR4170, 794
+SPRHOST,32.78
+URBCONC1990, 0.455
+URBEXT1990,0.0094
+URBLOC1990, 0.912
+URBCONC2000, 0.722
+URBEXT2000,0.0199
+URBLOC2000, 0.930
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,The station is located in the responsive Enbourne catchment. GENERAL: Station comprises asymmetrical compound Crump weir (crest widths 3.0m and 4.56m, separated by 0.3m wide divide pier). A timber baffle fish pass has been installed below the crest of the low flow crump weir (lb). STATION HYDROMETRY: Generally good high flow calibration (the station remains modular up to 18 cumecs) but the highest flows are underestimated due to bypassing over the left bank. Between 1967 and 1977, the rating was a standard Crump formula with no correction for drowned flows. In 1977, the rating was altered to allow for drowned flows (where levels were greater than 0.96m) and flows were revised. However, this underestimated flow when the river was out of bank. In 1992, a d/s tail recorder was installed and the standard Theoretical Crump weir rating using head and tail levels was used to adjust for non-modularity and to correct for drowned flows. Still no adjustment made for out of bank flow. A total flow flood forecasting rating is available. FLOW REGIME: Responsive regime. Runoff is influenced by gw abstraction/recharge but overall this is moderate and there is a net export of water. Abstractions occur for industrial/agricultural use. From 1989 the impact of WBGS may be evident on low flows with a specific example being between October and November, 2012.
+CATCHMENT,Catchment is mainly impervious (Tertiary clays), and responsive. Chalk outcrops and Upper Greensand in the headwaters. Land use is principally agricultural with significant woodland and scattered settlements.
+Qmed Suitability,QMED is between modular limit and bank full flow, but flow estimate accurate enough for QMED.
+Pooling Suitability,6% error only at high flows.
+[END]

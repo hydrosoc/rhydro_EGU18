@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 28041
+[END]
+[CDS DETAILS]
+NAME,Hamps
+LOCATION,Waterhouses
+NOMINAL AREA,   37.04
+NOMINAL NGR,4082,3501
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,408300,350200
+CENTROID NGR,GB,405264,353964
+DTM AREA,   37.04
+ALTBAR, 327
+ASPBAR,110
+ASPVAR,0.22
+BFIHOST,0.302
+DPLBAR,  8.54
+DPSBAR, 86.2
+FARL,1.000
+FPEXT,0.0328
+LDP, 16.63
+PROPWET,0.44
+RMED-1H, 10.1
+RMED-1D, 35.4
+RMED-2D, 44.5
+SAAR,1085
+SAAR4170,1065
+SPRHOST,47.08
+URBCONC1990,-9999.000
+URBEXT1990,0.0033
+URBLOC1990,-9999.000
+URBCONC2000, 0.377
+URBEXT2000,0.0045
+URBLOC2000, 0.204
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Flat V weir with poor, rocky, approach. GENERAL: Flat vee weir. Poor approach to weir - rocks and shoal. Station closed 1982-2000. STATION HYDROMETRY: Mostly contained within bank except for Aug-71 maximum. One rating applied across period of record, partially theoretical. FLOW RECORD: Station closed 1982-2000. High flows in August 1971 missing from GDF record. FLOW REGIME: Runoff increased by effluent returns. Natural to within 10% at the 95 percentile flow.
+CATCHMENT,
+Qmed Suitability,Gauged above QMED and remains in bank.
+Pooling Suitability,Gauged to within 17% of AMAX3. Majority of flows contained, rating fits well to gaugings and is confirmed to 1.5m.
+[END]

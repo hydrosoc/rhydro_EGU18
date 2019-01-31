@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 73009
+[END]
+[CDS DETAILS]
+NAME,Sprint
+LOCATION,Sprint Mill
+NOMINAL AREA,   34.70
+NOMINAL NGR,3514,4961
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,351500,496100
+CENTROID NGR,GB,349718,503263
+DTM AREA,   34.70
+ALTBAR, 334
+ASPBAR,158
+ASPVAR,0.18
+BFIHOST,0.452
+DPLBAR, 10.17
+DPSBAR,224.5
+FARL,0.997
+FPEXT,0.0609
+LDP, 18.39
+PROPWET,0.71
+RMED-1H, 12.2
+RMED-1D, 61.3
+RMED-2D, 86.6
+SAAR,2013
+SAAR4170,2069
+SPRHOST,44.14
+URBCONC1990,-9999.000
+URBEXT1990,0.0002
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0000
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Flat V weir gauging a very wet, high relief catchment. Predominantly natural flow regime. GENERAL: Station opened Oct 1969. Flat V weir 14m wide, cross-slopes 1:20; wingwalls to 0.61m, with sloping ground above. Weir was repaired in 1990 and 2000. Flood warning station for Kendal. STATION HYDROMETRY: Cableway used for medium to high flows. Modular limit not known, but above 1m (see photos). Two ratings applied across period of record thought to be a result of small datum shift in January\February 1995. Good fit to gaugings. FLOW REGIME: Predominantly natural flow regime. In the past, low flows were slightly influenced by mill sluice operations.
+CATCHMENT,High relief, very wet catchment drains an area of peat moss growing on Borrowdale Volcanics in extreme north, through grazing lands on Silurian and Ordovician slate, flags and shales to Boulder Clay covered lower reaches. No catchment changes known.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged to within 7% of AMAX3. Extrapolated rating thought to be reasonable.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 37001
+[END]
+[CDS DETAILS]
+NAME,Roding
+LOCATION,Redbridge
+NOMINAL AREA,  301.05
+NOMINAL NGR,5414,1883
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,541500,188350
+CENTROID NGR,GB,552213,204601
+DTM AREA,  301.05
+ALTBAR,  68
+ASPBAR,123
+ASPVAR,0.10
+BFIHOST,0.331
+DPLBAR, 34.34
+DPSBAR, 29.9
+FARL,0.983
+FPEXT,0.0901
+LDP, 65.58
+PROPWET,0.29
+RMED-1H, 11.2
+RMED-1D, 31.2
+RMED-2D, 39.4
+SAAR, 607
+SAAR4170, 610
+SPRHOST,46.64
+URBCONC1990, 0.734
+URBEXT1990,0.0495
+URBLOC1990, 0.425
+URBCONC2000, 0.840
+URBEXT2000,0.0694
+URBLOC2000, 0.403
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,A non standard 'Essex' profile Flat V Crump Weir based in a rural catchment influenced by urban development. The flow regime has artificial influences. GENERAL: Non-standard 'Essex' profile (modified Flat V Crump) weir superseded insensitive broad-crested weir in 1962. STATION HYDROMETRY: One peak flow rating applied across period of record. Rating may not estimate flow accurately above 1m. Calibration above 35 cumecs is based upon model tests. FLOW RECORD: Weir almost washed away during a flood in 1970. FLOW REGIME: Pattern of low flows influenced by abstractions and effluent returns. Flows augmented by moderate net import of water from Thames Water Utilities but this was eliminated to produce naturalised flows between 1951-1975. The diversion of Luxborough Lane STW effluent, completed in 1987, reduced DMFs in Redbridge.
+CATCHMENT,Low lying, mainly impervious (London Clay and superficial deposits) catchment. Land use is rural with significant urban development close to the G/s.
+Qmed Suitability,Rating does underestimate flows at QMED though this is minimal.
+Pooling Suitability,Rating tends to underestimate flows above 1m, possibly due to bypassing. This error could be significant at very high flows.
+[END]

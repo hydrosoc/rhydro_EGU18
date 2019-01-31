@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 67013
+[END]
+[CDS DETAILS]
+NAME,Hirnant
+LOCATION,Plas Rhiwedog
+NOMINAL AREA,   32.47
+NOMINAL NGR,2946,3349
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,294600,334950
+CENTROID NGR,GB,296007,331068
+DTM AREA,   32.47
+ALTBAR, 435
+ASPBAR,335
+ASPVAR,0.24
+BFIHOST,0.415
+DPLBAR,  6.21
+DPSBAR,222.9
+FARL,1.000
+FPEXT,0.0182
+LDP, 10.73
+PROPWET,0.71
+RMED-1H, 10.5
+RMED-1D, 47.8
+RMED-2D, 66.0
+SAAR,1756
+SAAR4170,1762
+SPRHOST,45.06
+URBCONC1990,-9999.000
+URBEXT1990,0.0000
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0000
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Rated section on a small steep stream that enters the Dee d/s of Bala Sluices. Natural flow regime. GENERAL: Rated section on a small steep stream that enters the Dee d/s of Bala Sluices. STATION HYDROMETRY: The control consists of a number of very large boulders. Gravel movements during large floods affect the rating. Bypassing of station at high flood flows. One peak flow rating applied across period of record. Gaugings match rating well. FLOW REGIME: Natural to within 10% at Q95.
+CATCHMENT,Upland catchment, developed on impermeable Silurian geology. The south and west flanks of the catchment are comprised of the Wenlock series of rocks - mainly thick cross-bedded hard shales and coarser heavily indurated sandstones with very poor storage properties. The west flanks and the north parts of the catchment where the station is situated are formed of impermeable rocks with a very sparse drift cover.The catchment is very heavily wooded with rough pasture.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Station by passed at high flows. Amax3 above bankfull. Extent of bypass flow not well defined.
+[END]

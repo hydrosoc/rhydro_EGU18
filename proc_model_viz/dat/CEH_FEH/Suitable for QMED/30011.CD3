@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 30011
+[END]
+[CDS DETAILS]
+NAME,Bain
+LOCATION,Goulceby Bridge
+NOMINAL AREA,   64.55
+NOMINAL NGR,5245,3794
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,524600,379450
+CENTROID NGR,GB,523660,386198
+DTM AREA,   64.55
+ALTBAR, 108
+ASPBAR,149
+ASPVAR,0.11
+BFIHOST,0.841
+DPLBAR, 10.51
+DPSBAR, 44.7
+FARL,0.950
+FPEXT,0.0522
+LDP, 18.45
+PROPWET,0.29
+RMED-1H, 10.7
+RMED-1D, 33.3
+RMED-2D, 41.1
+SAAR, 695
+SAAR4170, 744
+SPRHOST,16.18
+URBCONC1990,-9999.000
+URBEXT1990,0.0048
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0018
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Gauging a rural catchment with mixed geology, located in the Lincolnshire Wolds. GENERAL: Free-fall drop under bridge calibrated by c/m until Dec 1969 and standard full-range Crump profile weir (crest length 4.877m) since Aug 1971 (no records between). STATION HYDROMETRY: Current rating fits well to maximum gauging of 0.5m. Two ratings applied across period of record, the most recent is valid from May-1971 when crump weir installed. FLOW REGIME: Regime influenced by gw abstraction/recharge. Abstraction for irrigation could have significant effect on low flows in dry summers. Reservoir(s) in catchment affect runoff.
+CATCHMENT,Catchment on the scarp slope of the Lincolnshire Wolds. Underlain by Chalk and s'st with with more than half of the catchment covered with superficial deposits, mainly Boulder Clay and some sands and gravels. Rural catchment, predominantly arable farming.
+Qmed Suitability,Gauged above QMED. Weir remains modular.
+Pooling Suitability,Few high flow gaugings. Rating can not be validated beyond QMED when weir drowns.
+[END]

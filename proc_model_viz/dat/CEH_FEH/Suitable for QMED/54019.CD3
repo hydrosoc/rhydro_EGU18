@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 54019
+[END]
+[CDS DETAILS]
+NAME,Avon
+LOCATION,Stareton
+NOMINAL AREA,  346.06
+NOMINAL NGR,4332,2715
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,433300,271550
+CENTROID NGR,GB,453917,278534
+DTM AREA,  346.06
+ALTBAR, 119
+ASPBAR,272
+ASPVAR,0.13
+BFIHOST,0.424
+DPLBAR, 38.44
+DPSBAR, 30.3
+FARL,0.950
+FPEXT,0.1080
+LDP, 61.60
+PROPWET,0.29
+RMED-1H, 11.5
+RMED-1D, 31.6
+RMED-2D, 39.6
+SAAR, 654
+SAAR4170, 692
+SPRHOST,42.53
+URBCONC1990, 0.758
+URBEXT1990,0.0350
+URBLOC1990, 0.821
+URBCONC2000, 0.852
+URBEXT2000,0.0455
+URBLOC2000, 0.840
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Crump profile weir with crest tapping, with moderate influence from abstractions and returns. The highest floods overtop the right bank and follow the old river channel. GENERAL: Crump profile weir, 7.3m wide with crest tapping. STATION HYDROMETRY: Highest floods overtop right bank and follow old river channel. One rating applied across period of record.Rating fits reasonably well to maximum gauging at gauging 1.75mASD. Higher flows cannot be measured as the ability to gauge from the footbridge upstream is limited. Current metering from footbridge U/s. FLOW REGIME: Early record to 1971 had Coventry sewage outfall diverted through station. Augmentation by groundwater pumping and surface transfers. Moderate influence from abstractions and returns.
+CATCHMENT,Geology: from Upper Lias in the headwaters through Middle and Lower Lias with Mercia Mudstones and Triassic Sandstones in the lower reaches. Extensive covering of superficial deposits. Predominantly agricultural, low relief catchment, containing Rugby.
+Qmed Suitability,Gauged above QMED. QMED contained.
+Pooling Suitability,Few high flow gaugings. Rating can not be validated beyond QMED.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 76004
+[END]
+[CDS DETAILS]
+NAME,Lowther
+LOCATION,Eamont Bridge
+NOMINAL AREA,  156.10
+NOMINAL NGR,3525,5285
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,352500,528550
+CENTROID NGR,GB,350891,515614
+DTM AREA,  156.10
+ALTBAR, 360
+ASPBAR, 48
+ASPVAR,0.26
+BFIHOST,0.405
+DPLBAR, 19.03
+DPSBAR,153.2
+FARL,0.901
+FPEXT,0.0549
+LDP, 30.52
+PROPWET,0.69
+RMED-1H, 12.3
+RMED-1D, 57.4
+RMED-2D, 79.9
+SAAR,1828
+SAAR4170,1810
+SPRHOST,45.63
+URBCONC1990,-9999.000
+URBEXT1990,0.0011
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0015
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station gauging rural catchment including Haweswater and Wet Sleddale reservoirs. GENERAL: Velocity area station, opened 1962, channel approximately 15m wide, with open channel control (gravel bed). In-river sensor added July 2013 to monitor well performance. STATION HYDROMETRY: Permanent cableway. Affected by seasonal weed growth. Spill onto right bank above around 2.1m. Site of gauging station was landscaped in 1988, resulting in a deepening of the channel. Original station building rebuilt July - October 1973; possible change in datum. One peak flow rating applied across period of record. Gauged inbank to above bankfull, with modelled rating including floodplain flow at the top end. Flood Studies report grade B. FLOW RECORD: Some gaps in the early flow record. Monthly naturalised flows from 1962-1965. FLOW REGIME: Strongly influenced by Haweswater and Wet Sleddale reservoirs, which naturally control approx. 26% of the catchment, although the actual proportion may be much higher (approx. 60%) due to diversions from Lowther tributaries.
+CATCHMENT,Majority of the catchment drains Ordovician Borrowdale Volcanics of the peat moorland headwaters. The centre of the catchment is dominated by a broad band of Carboniferous Limestone followed by Millstone Grit and Permian Sandstone close to the gauging gstation. Extensive Boulder Clay in the valleys and lower third of the catchment. Land-use mostly grazing. No catchment changes known.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged to a reasonably high flow, with a modelled rating at the top-end.
+[END]

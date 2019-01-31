@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 30006
+[END]
+[CDS DETAILS]
+NAME,Slea
+LOCATION,Leasingham Mill
+NOMINAL AREA,   51.53
+NOMINAL NGR,5088,3484
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,508800,348450
+CENTROID NGR,GB,500529,343853
+DTM AREA,   51.53
+ALTBAR,  58
+ASPBAR, 83
+ASPVAR,0.32
+BFIHOST,0.809
+DPLBAR, 14.35
+DPSBAR, 27.9
+FARL,0.964
+FPEXT,0.1063
+LDP, 24.88
+PROPWET,0.23
+RMED-1H, 11.3
+RMED-1D, 31.7
+RMED-2D, 41.7
+SAAR, 601
+SAAR4170, 629
+SPRHOST,18.51
+URBCONC1990, 0.676
+URBEXT1990,0.0275
+URBLOC1990, 0.567
+URBCONC2000, 0.752
+URBEXT2000,0.0393
+URBLOC2000, 0.628
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Rectangular thin plate weir gauging a predominantly rural catchment with gw-dominated regime and very low summer flows. Significant artificial influences. GENERAL: Rectangular thin-plate weir 1.372m wide set in old gate site, modified in 1984. STATION HYDROMETRY: Weir does not drown - modular limit pre weir 3 cumecs and post weir 12 cumecs. Theoretical rating, with section above thin-plate treated as broad-crested weir. Gaugings taken at footbridge in Sleaford (below Carre Lane). Three peak flow ratings applied across period of record. Current rating accounts for bypassing flow. FLOW REGIME: Unresponsive, gw-dominated catchment. Runoff influenced by gw abstraction/recharge, including abstraction for industry, and agriculture. Gw abstraction has potential for reducing summer low flows. Limestone spring flow rises and falls rapidly depending on groundwater level.
+CATCHMENT,Predominantly l'st with some superficial deposits including river terrace deposits (sand and gravel) in valley. Rural catchment, mixed agriculture, some urban development in lower catchment u/s of station.
+Qmed Suitability,Gauged above QMED. QMED remains within modular limit.
+Pooling Suitability,Gauged to within 28% of AMAX3. Post 1984 all flows remain within modular range.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 39081
+[END]
+[CDS DETAILS]
+NAME,Ock
+LOCATION,Abingdon
+NOMINAL AREA,  233.60
+NOMINAL NGR,4481,1966
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,448150,196650
+CENTROID NGR,GB,437190,192524
+DTM AREA,  233.60
+ALTBAR,  88
+ASPBAR, 58
+ASPVAR,0.22
+BFIHOST,0.623
+DPLBAR, 16.97
+DPSBAR, 23.8
+FARL,0.986
+FPEXT,0.2022
+LDP, 34.06
+PROPWET,0.31
+RMED-1H,  9.7
+RMED-1D, 32.2
+RMED-2D, 39.6
+SAAR, 639
+SAAR4170, 647
+SPRHOST,29.95
+URBCONC1990, 0.630
+URBEXT1990,0.0186
+URBLOC1990, 0.942
+URBCONC2000, 0.759
+URBEXT2000,0.0182
+URBLOC2000, 0.912
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,It is the main flow measuring structure on the River Ock, just upstream of another peak flow station within Abingdon (39018) that it superseded. GENERAL: Crump weir, 7.79m wide, with auxiliary d/s tapping. Superseded original compound structure in 1979 (with associated gaps in the record). STATION HYDROMETRY: Substantial channel improvements but drowning now more frequent again. Standard Crump weir calculation using tail levels. Part of the weir is subject to non-modular flow conditions (0.5m), as the channel splits into a high and low level channel on the d/s side of the weir. Inaccurate at low flows, but otherwise reasonably accurate. Slight overestimation could result in anomalies at higher flows. A flood forecasting rating is available which estimates total flows including those on the flood plain. Sandford Brook flows into the side channel just downstream of the structure (piped from left bank under the channel). FLOW RECORD: Although hydrometrically much improved it is still imprecise at low flows. Substantial channel improvements were completed but the the weir drowns during floods and overspill can occur into Sandford Brook. This was more common pre-1979. There are doubt about the homogeneity of peak flows. No flow adjustment made. FLOW REGIME: Runoff influenced by a significant number gw abstraction/recharge. Runoff augmented by sewage effluent (derived from outside catchment).
+CATCHMENT,Flat, rural valley in Vale of The White Horse. Largely flat, rural valley in Vale of The White Horse. Mixed geology that is largely pervious. Chalk downland forms southern watershed while the remainder mostly Tertiary clays. Geology includes Corallian Beds, Greensand, Chalk, Kimmeridge Clay, Gault & Alluvium. Contributing area exceeds topographical catchment.
+Qmed Suitability,Gauged to within 9% of QMED. Within bank full and reasonably accurate rating (slight overestimation).
+Pooling Suitability,Station drowned by large events, and overwhelmed by 2007 event, with large uncertainty on flow.
+[END]

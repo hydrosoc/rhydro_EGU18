@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 55004
+[END]
+[CDS DETAILS]
+NAME,Irfon
+LOCATION,Abernant
+NOMINAL AREA,   73.01
+NOMINAL NGR,2890,2460
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,289050,246000
+CENTROID NGR,GB,284963,252747
+DTM AREA,   73.01
+ALTBAR, 412
+ASPBAR,152
+ASPVAR,0.19
+BFIHOST,0.402
+DPLBAR, 11.67
+DPSBAR,188.7
+FARL,1.000
+FPEXT,0.0284
+LDP, 23.04
+PROPWET,0.65
+RMED-1H, 11.4
+RMED-1D, 52.8
+RMED-2D, 70.0
+SAAR,1845
+SAAR4170,1913
+SPRHOST,46.25
+URBCONC1990,-9999.000
+URBEXT1990,0.0009
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0033
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station. Natural flow regime. Downgraded in 1982 to flood warning station only. GENERAL: Velocity area station. Approx width at bankfull stage is 20m. Long record, downgraded in 1982 to flood warning station only. STATION HYDROMETRY: Cableway span is 22m. Multiple peak flow ratings applied across period of record, the most recent is valid from May 1965. This rating fits all gaugings but limited as station de-rated in 1982. Upper limit set at bank full as no gaugings above. FLOW REGIME: Natural to within 10% at Q95.
+CATCHMENT,Located on edge of upland area, steep valley sides rising to plateau level between 450m and 600m. Underlain by Ordovician strata. Extensive sheep grazing and forestry.
+Qmed Suitability,Gauged above QMED. Rating provides a good match to current check gaugings.
+Pooling Suitability,Highest gauging is almost within 31% of AMAX3. There is confidence in the rating performing well at high flows.
+[END]

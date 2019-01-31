@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+203025
+[END]
+[CDS DETAILS]
+NAME,Callan
+LOCATION,Martin's Bridge
+NOMINAL AREA,  166.70
+NOMINAL NGR,2891,3524
+[END]
+[DESCRIPTORS]
+IHDTM NGR,Ireland,289200,352400
+CENTROID NGR,Ireland,287797,339530
+DTM AREA,  166.70
+ALTBAR, 128
+ASPBAR,330
+ASPVAR,0.19
+BFIHOST,0.385
+DPLBAR, 20.93
+DPSBAR, 71.9
+FARL,0.958
+FPEXT,0.0814
+LDP, 35.56
+PROPWET,0.53
+RMED-1H,  9.7
+RMED-1D, 33.1
+RMED-2D, 44.8
+SAAR, 933
+SAAR4170, 983
+SPRHOST,38.22
+URBCONC1990,-2.000
+URBEXT1990,0.0281
+URBLOC1990, 0.647
+URBCONC2000, 0.791
+URBEXT2000,0.0190
+URBLOC2000, 0.689
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station with cableway; natural control. GENERAL: Velocity area station. STATION HYDROMETRY: Cableway present. High flows are truncated by upstream road bridge and are ungauged during out of bank flows. Rating derived from current meter gaugings from cableway. Simple extrapolation occurs above approx 40m3/s. FLOW RECORD: Daily flows from 1975 onwards reprocessed in 2002. This station was rejected from the FEH analysis but has been included in the flood peak dataset. FLOW REGIME: Reservoir storage in catchment (Seagahan 13.64Ml/d) with abstractions for public water supply and industrial use; minor net effect.
+CATCHMENT,Solid geology - southern area underlain by indurated Ordovician/Silurian greywacke sandstones and shales. North-western area underlain by indurated Permian and Carboniferous conglomerates, sandstone and shale, that are overlain in turn by permeable Triassic sandstone (Sherwood) at the north-eastern margin of the catchment. Drift geology - glacial till (drumlinised) covers much of the area with sand and gravel. Alluvium is common to inter-drumlin lows. Rock near surface and peat associated with Ordovician/Silurian bedrock area. Predominantly grassland and heath, limited arable use. Small amount of upland with limited afforestation. Urban area Armagh with some light industry and Keady.
+Qmed Suitability,Gauged above QMED. Bridge causes some scatter in gaugigns but maximum gauging agrees with rating and is therefore thought to provide reasonable estimates of QMED.
+Pooling Suitability,Flows are altered by upstream bridge, not suitable
+[END]

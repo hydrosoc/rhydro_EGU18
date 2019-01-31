@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 56019
+[END]
+[CDS DETAILS]
+NAME,Ebbw
+LOCATION,Aberbeeg
+NOMINAL AREA,   71.65
+NOMINAL NGR,3209,2014
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,320950,201450
+CENTROID NGR,GB,318912,208278
+DTM AREA,   71.65
+ALTBAR, 381
+ASPBAR,184
+ASPVAR,0.20
+BFIHOST,0.490
+DPLBAR,  9.42
+DPSBAR,187.6
+FARL,0.957
+FPEXT,0.0377
+LDP, 19.27
+PROPWET,0.54
+RMED-1H, 11.5
+RMED-1D, 53.0
+RMED-2D, 70.1
+SAAR,1482
+SAAR4170,1559
+SPRHOST,34.19
+URBCONC1990, 0.638
+URBEXT1990,0.0623
+URBLOC1990, 1.083
+URBCONC2000, 0.722
+URBEXT2000,0.0795
+URBLOC2000, 1.026
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Non-standard weir with notch for fish passage. Open channel immediately upstream of a vertical-drop weir. GENERAL: Non-standard weir. Station rebuilt in 2014/15, located closer to bank than previous station. STATION HYDROMETRY: Channel sides reinforced with concrete in a trapazoidal contruction for 30m u/s of weir. 'Rocky Ramp' fish passage built in 2013 d/s of weir, plus a 1m wide x 0.3m deep notch cut in to the centre of the weir for fish passage. Cableway added in 2015 for high flow gauging. Two peak flwo ratings applied over period of record. Provides good fit to gaugings up to ~0.4m. FLOW RECORD: Some estimated flow between 7th August and 23rd September 2012, caused by in-river works re-profiling the river channel gradient and weir.
+CATCHMENT,Mixed geology of varying permeability, predominantly Pennant and Upper Coal Series overlying Lower Coal Series. Upland catchment with moorland and rough grazing, but with significant urban development in the valley
+Qmed Suitability,Not gauged to within 30% of QMED. QMED remains in bank but gaugings required to confirm rating.
+Pooling Suitability,Few high flow gaugings. Rating can not be validated beyond QMED.
+[END]

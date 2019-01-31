@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 27858
+[END]
+[CDS DETAILS]
+NAME,Derwent
+LOCATION,Malton A64 Road Bridge
+NOMINAL AREA, 1382.89
+NOMINAL NGR,4812,4731
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,481200,473100
+CENTROID NGR,GB,476537,485977
+DTM AREA, 1382.89
+ALTBAR, 138
+ASPBAR,162
+ASPVAR,0.17
+BFIHOST,0.611
+DPLBAR, 35.12
+DPSBAR, 80.5
+FARL,0.995
+FPEXT,0.1470
+LDP, 73.72
+PROPWET,0.35
+RMED-1H, 10.5
+RMED-1D, 32.6
+RMED-2D, 42.7
+SAAR, 779
+SAAR4170, 798
+SPRHOST,28.45
+URBCONC1990, 0.528
+URBEXT1990,0.0068
+URBLOC1990, 0.769
+URBCONC2000, 0.714
+URBEXT2000,0.0073
+URBLOC2000, 0.808
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Full range multi-path ultrasonic gauge. Flood flows diverted to the Sea Cut (measured at 27033). GENERAL: Full range multipath ultrasonic gauge, installed in 2001 under the A64 road bridge. Flood flows diverted to the Sea Cut (measured at 27033). STATION HYDROMETRY: Contains all flows. Flow measured directly by ultrasonic equipment. FLOW RECORD: Issues with the ultrasonic gauge 19/02/10 to 26/04/10, data during this period inaccurate and marked as suspect. FLOW REGIME: Flood flows from 88.8 sq.km of Derwent the headwaters are diverted (~6% of the catchment) via the Sea Cut (27033) - relatively small impact downstream of Rye confluence.
+CATCHMENT,Catchment drains the southern slopes of the North Yorkshire moors, which consist of Sandstones, grits and limestone of the Middle Oolites. Contributing catchment area varies due to Sea Cut diversion. Extensive floodplain upstream of gauge. No known catchment changes.
+Qmed Suitability,Good quality station with reliable estimates of QMED.
+Pooling Suitability,Gauged above AMAX3 and, although relatively short record, should be enough to warrant use for pooling.
+[END]

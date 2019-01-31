@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 73012
+[END]
+[CDS DETAILS]
+NAME,Kent
+LOCATION,Victoria Bridge
+NOMINAL AREA,  183.20
+NOMINAL NGR,3517,4931
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,351700,493150
+CENTROID NGR,GB,350452,500549
+DTM AREA,  183.20
+ALTBAR, 257
+ASPBAR,177
+ASPVAR,0.17
+BFIHOST,0.496
+DPLBAR, 13.59
+DPSBAR,165.5
+FARL,0.972
+FPEXT,0.0711
+LDP, 25.78
+PROPWET,0.71
+RMED-1H, 11.7
+RMED-1D, 55.7
+RMED-2D, 77.2
+SAAR,1787
+SAAR4170,1824
+SPRHOST,39.88
+URBCONC1990,-9999.000
+URBEXT1990,0.0037
+URBLOC1990,-9999.000
+URBCONC2000, 0.619
+URBEXT2000,0.0051
+URBLOC2000, 0.207
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station opened in 1974 to replace Nether Bridge. Flows pre-1978 affected by Kendal flood alleviation scheme. GENERAL: Velocity area station in a stone wall lined open channel. Opened January 1974, replacing an earlier station at Nether Bridge (1963-1981) downstream. The original Victoria Bridge site had to be closed, and a new site was opened some 40m downstream in February 2010, with a temporary site being used from 2007 to 2010. The effect of the change is being investigated. STATION HYDROMETRY: High flows affected by Stramongate Bridge and Stramongate Weir just downstream. Kendal flood alleviation scheme (1972-1978) improved conveyance through Kendal. Gravel trap upstream of Kendal, constructed as part of the flood relief scheme, is believed to have reduced gravel input, causing significant scour through the gauging section, with a deeper channel. Although there were no works to Stramongate Weir itself, and little change between Stramongate Weir and the gauging station, flow data before the scheme agrees less well with Sedgwick downstream. Few gaugings before 1995. Portable cableway used for rating in the early 1980s, but few gaugings and some uncertainty in results. One rating applied to period of record (although no reliable high-flow rating available pre-scheme to 1978) valid post-scheme, based on gaugings and hydraulic modelling, and compared with Sedgwick. Few gaugings to confirm use of rating for lower flows before 1991. FLOW RECORD: Peak flow data pre-1978 has been marked as rejected due to Kendal flood alleviation scheme.
+CATCHMENT,A steep, very wet catchment draining the south of the Lake District massif. Geology is predominately impervious Ordovician Silurian Slate with bands of flags and shale, small patches of Carboniferous Limestone and basal conglomerate. Patchy boulder clay cover in the middle and lower reaches. Sheep grazing with peat moorland in the extreme north.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,From 1978 - Post-scheme rating extended by modelling and compared with Sedgwick. Gauged to within 6% of AMAX3. Confident in model derived rating.
+[END]

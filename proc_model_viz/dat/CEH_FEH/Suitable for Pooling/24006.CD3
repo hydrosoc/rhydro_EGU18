@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 24006
+[END]
+[CDS DETAILS]
+NAME,Rookhope Burn
+LOCATION,Eastgate
+NOMINAL AREA,   36.60
+NOMINAL NGR,3952,5390
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,395250,539100
+CENTROID NGR,GB,391863,542749
+DTM AREA,   36.60
+ALTBAR, 451
+ASPBAR,116
+ASPVAR,0.19
+BFIHOST,0.293
+DPLBAR,  7.19
+DPSBAR,119.4
+FARL,0.994
+FPEXT,0.0177
+LDP, 14.56
+PROPWET,0.59
+RMED-1H, 10.2
+RMED-1D, 39.8
+RMED-2D, 50.8
+SAAR,1126
+SAAR4170,1217
+SPRHOST,52.02
+URBCONC1990,-9999.000
+URBEXT1990,0.0026
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0001
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Compound Crump weir. Station closed in 1980, but reopened as a level-only site in February 2000 for flood warning purposes. GENERAL: Two-stage compound Crump weir, 8.8m broad, low crest 1.5m wide, on a natural waterfall 0.6km u/s of confluence with the River Wear. Discontinued 1980; re-opened February 2000 as a level-only flood warning site. Wing walls were removed on closure, and central low-flow crest raised to level of flanking weirs on reopening. Subject to considerable gravel accretion. STATION HYDROMETRY: Modular throughout the range. Bypassed on both banks above wing walls.One peak flow rating applied across period of record. Gaugings confirm theoretcial rating. Flood Studies Report grade A1. FLOW REGIME: Flashy response with peaked hydrographs. No known artificial influences.
+CATCHMENT,A steep moorland catchment. No known catchment changes.
+Qmed Suitability,Not gauged to within 30% of QMED but station is a formal structure that does not drown and contains almost all flows.
+Pooling Suitability,Formal structure that does not drown and contains almost all flows.
+[END]

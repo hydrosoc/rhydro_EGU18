@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 57004
+[END]
+[CDS DETAILS]
+NAME,Cynon
+LOCATION,Abercynon
+NOMINAL AREA,  103.30
+NOMINAL NGR,3079,1956
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,307950,195650
+CENTROID NGR,GB,299657,203435
+DTM AREA,  103.30
+ALTBAR, 270
+ASPBAR,172
+ASPVAR,0.11
+BFIHOST,0.421
+DPLBAR, 15.26
+DPSBAR,142.3
+FARL,0.972
+FPEXT,0.0522
+LDP, 28.85
+PROPWET,0.54
+RMED-1H, 13.1
+RMED-1D, 66.9
+RMED-2D, 90.0
+SAAR,1773
+SAAR4170,1762
+SPRHOST,40.18
+URBCONC1990, 0.626
+URBEXT1990,0.0392
+URBLOC1990, 0.790
+URBCONC2000, 0.757
+URBEXT2000,0.0698
+URBLOC2000, 0.731
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Flat V weir. Station located 900m upstream of confluence with Taff. Flow influenced by reservoirs for PWS and effluent returns from industrial areas in valley. GENERAL: Flat V weir from June 1966 - channel control at high flows. Located 900m upstream of confluence with Taff. Station opened Sept 1957 as rated section. STATION HYDROMETRY: Weir width: 14.24m; cross-slope 1:20, u/s 1:2, d/s 1:5. Over-topped by extreme floods - e.g 1979; no gaugings above bankfull. Multiple peak flow ratings applied across period of record. Provides good fit to available gaugings. FLOW RECORD: Data prior to 1962 of poorer quality than those since, although Sept / Oct 1959 minima realistic. Flow minima during period of missing data in 1960 likely to have been 0.30-0.35 cumecs. FLOW REGIME: Small impounding reservoirs for PWS, effluent returns from industrial areas in valley.
+CATCHMENT,Coal Measures with Millstone Grit on northern boundary. Carboniferous Limestone occurs in Penderyn area. Boulder Clay cover and alluvium in valley. Lower part of Cynon Valley is steep sided but in the north it is less steep. Livestock farming and heathland in upland area of peaty soils, seasonally wet. Extensive forest, mainly in S half. Extensive urban and industrial development in valley, which is generally steep-sided. Open cast coal abstraction in upper areas.
+Qmed Suitability,Gauged above QMED. Good fit to the rating.
+Pooling Suitability,Few high flow gaugings. Rating can not be validated beyond QMED.
+[END]

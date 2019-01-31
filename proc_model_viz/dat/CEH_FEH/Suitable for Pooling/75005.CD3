@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 75005
+[END]
+[CDS DETAILS]
+NAME,Derwent
+LOCATION,Portinscale
+NOMINAL AREA,  237.24
+NOMINAL NGR,3251,5238
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,325200,523850
+CENTROID NGR,GB,330426,519656
+DTM AREA,  237.24
+ALTBAR, 365
+ASPBAR,334
+ASPVAR,0.13
+BFIHOST,0.408
+DPLBAR, 15.96
+DPSBAR,245.8
+FARL,0.846
+FPEXT,0.0627
+LDP, 30.59
+PROPWET,0.64
+RMED-1H, 12.6
+RMED-1D, 66.4
+RMED-2D, 89.9
+SAAR,2238
+SAAR4170,2372
+SPRHOST,47.61
+URBCONC1990,-9999.000
+URBEXT1990,0.0021
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0029
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station located between Derwent and Bassenthwaite lakes. GENERAL: Opened December 1971 as a velocity area station located between Derwent (upstream) and Bassenthwaite (downstream) lakes. Non-standard shallow V weir installed in March 1993. STATION HYDROMETRY: Initially, a mobile gravel shoal immediately downstream acted as a control, with bank stability provided by wooden shuttering. This was not stable and a trench-piled non-standard shallow V weir was installed in March 1993 with bank stability provided by stone embankments. The station may be bypassed a little before the bankfull level at the station - roughly, a little above QMED. Bypassing is significant in the larger floods. Station has permanent cableway. Shifting ratings particularly at the low end. Results also appear reasonable in relation to Ouse Bridge downstream, allowing for attenuation. Mean daily flows have multiple ratings before weir construction, one thereafter. For peak flows, ratings simplified to separate (though similar) ratings before and after weir construction. Rated inbank by current meter to approximately 2.6m and out of bank by hydraulic model. Significant out-of-bank flow and hysteresis at the very largest events. FLOW REGIME: Regime affected by controlled releases from Derwent Water and spill and controlled releases from Thirlmere reservoir.
+CATCHMENT,Geology mainly Borrowdale Volcanic series with Skiddaw Slates in the north and igneous intrusions east of Keswick (e.g. Castlehead Dolorite, St.John's and Threlkeld Microgranite). Boulder Clay overlies geology within the valleys of the north, with peat within the upland areas. Land-use mainly grasslands along river valley with the remainder heather and moorland. Catchment rises to the summit of Helvellyn. No catchment changes known.
+Qmed Suitability,Gauged above QMED. Good fit to gaugings.
+Pooling Suitability,Gauged to within 14% of AMAX3. Well rated inbank. Out-of-bank flow from hydraulic model.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 52016
+[END]
+[CDS DETAILS]
+NAME,Currypool Stream
+LOCATION,Currypool Farm
+NOMINAL AREA,   15.74
+NOMINAL NGR,3221,1381
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,322150,138150
+CENTROID NGR,GB,318477,137313
+DTM AREA,   15.74
+ALTBAR, 181
+ASPBAR, 63
+ASPVAR,0.45
+BFIHOST,0.586
+DPLBAR,  4.86
+DPSBAR,133.6
+FARL,1.000
+FPEXT,0.0378
+LDP,  9.14
+PROPWET,0.35
+RMED-1H, 11.5
+RMED-1D, 36.6
+RMED-2D, 48.2
+SAAR, 934
+SAAR4170, 970
+SPRHOST,29.20
+URBCONC1990,-9999.000
+URBEXT1990,0.0000
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0000
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Crump profile weir opened in 1971 with velocity area station for higher flows in a predominantly Old Red Sandstone and Marl catchment. GENERAL: Station opened in 1971. Crump profile weir, crest 4m broad. Velocity area station for flows >1.654 cumecs. Flat pasture on both sides of the river. STATION HYDROMETRY: Vegetated banks. Likely to go out of bank before bankfull at station. River bed silty and stony. Flood diversion channel just downstream of weir on left-hand bank - excess water channelled across field to prevent flooding downstream. Accretion of silt on right-hand side of weir. Highest flows exceed bankfull, gaugings needed to confirm rating in this range. One rating applied across period of record. Rating is acceptable to 0.4m, there have been no higher flow gaugings since the last review to be able to confirm the rating beyond low flows. FLOW REGIME: Runoff natural to within 10% at Q95. Minor surface water abstraction.
+CATCHMENT,Catchment, predominantly of Old Red Sandstone and Marl, whose headwaters drain the Quantock Hills. Land use is agricultural. No major catchment changes.
+Qmed Suitability,Gauged to within 8% of QMED. Good fit to gaugings.
+Pooling Suitability,Few high flow gaugings. Rating can not be validated beyond QMED.
+[END]

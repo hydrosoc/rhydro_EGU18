@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 25021
+[END]
+[CDS DETAILS]
+NAME,Skerne
+LOCATION,Bradbury
+NOMINAL AREA,   75.70
+NOMINAL NGR,4318,5284
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,431800,528500
+CENTROID NGR,GB,434851,532278
+DTM AREA,   75.70
+ALTBAR, 115
+ASPBAR,166
+ASPVAR,0.22
+BFIHOST,0.472
+DPLBAR, 10.14
+DPSBAR, 40.2
+FARL,0.961
+FPEXT,0.0992
+LDP, 21.84
+PROPWET,0.32
+RMED-1H,  9.8
+RMED-1D, 29.8
+RMED-2D, 38.6
+SAAR, 662
+SAAR4170, 692
+SPRHOST,34.36
+URBCONC1990, 0.638
+URBEXT1990,0.0363
+URBLOC1990, 1.001
+URBCONC2000, 0.816
+URBEXT2000,0.0459
+URBLOC2000, 0.992
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station with informal flat V low-flow weir. GENERAL: Velocity area station with informal flat V low-flow weir. Cableway. Trapezoidal channel with stone-pitched banks. Prior to March 1973, the invert of a new road bridge 40m d/s of cableway was intended as control; however, silting made the control very unstable. The informal low-flow control (steel sheeting and reinforced concrete cap) was built 1973, with cross-slope of 1:10. Embankments prevent any by-passing although there could be ponding on the flood plain. Approach is affected by heavy growth of weed in summer. STATION HYDROMETRY: Informal structure becomes non-modular at stages greater than 0.4m. High flow control by bridge invert 10m below weir. Weed growth on crest causes up to 10% low flow over-estimation. Multiple peak flow ratings applied across period of record, the most recent is valid from January 1990. Due to a 9 year gap, the gaugings began to show a wide deviation from the previous rating. The current rating (1990-present) does not adequately fit the gaugings due to the variable effect of reed/weed growth, a low non modular limit and a possible change in control. Increased weed management is required at this site and a ADVP may be deployed to try to improve the record. FLOW REGIME: Small net export of water from Hurworth Burn reservoir in headwaters (13.4 sq.km, 19% of catchment - no longer in operation (2015).
+CATCHMENT,Relatively dry catchment, mostly on highly permeable Magnesian Limestone, but with extensive superficial deposits (mostly Boulder Clay). Mixed agriculture, just over 10% of the catchment is built-up. No known catchment changes.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Recent rating gauged close to 30% of AMAX3.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 33050
+[END]
+[CDS DETAILS]
+NAME,Snail
+LOCATION,Fordham
+NOMINAL AREA,   57.88
+NOMINAL NGR,5631,2702
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,563100,270250
+CENTROID NGR,GB,565076,262300
+DTM AREA,   57.88
+ALTBAR,  65
+ASPBAR,323
+ASPVAR,0.38
+BFIHOST,0.738
+DPLBAR, 11.85
+DPSBAR, 27.8
+FARL,1.000
+FPEXT,0.1018
+LDP, 20.28
+PROPWET,0.26
+RMED-1H, 10.9
+RMED-1D, 30.9
+RMED-2D, 37.7
+SAAR, 577
+SAAR4170, 589
+SPRHOST,20.59
+URBCONC1990, 0.609
+URBEXT1990,0.0361
+URBLOC1990, 0.872
+URBCONC2000, 0.757
+URBEXT2000,0.0457
+URBLOC2000, 0.816
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Flat V Crump (with a side weir in 1974-1985) gauging a predominantly rural and predominantly Chalk catchment with significant artificial influences. GENERAL: Flat V Crump profile weir (Fordham No1 mill main station), 4m broad. From Oct 1974, a subsidiary Crump profile weir (Fordham No2 side stream station), 0.7m broad, measured bypass channel discharge. Flows were combined into single series. STATION HYDROMETRY: One rating applied across period of record, valid to modular limit. Flows prior to 1984 were calculated using tables and adding together flow at the main and side weir. Side weir was removed in Dec 1984 and main weir rating adjusted to compensate (flows increased by 2%). FLOW REGIME: Significant gw abstractions for PWS and surface water abstractions for spray irrigation.
+CATCHMENT,Predominantly Chalk covered by Boulder Clay in S part and containing some river terrace deposits. Land use largely rural with limited urbanised development (Newmarket).
+Qmed Suitability,Gauged to within 5% of QMED. Flow remains modular
+Pooling Suitability,AMAX3 is contained and remains modular. Rating is expected to perform well.
+[END]

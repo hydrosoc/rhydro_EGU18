@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 38011
+[END]
+[CDS DETAILS]
+NAME,Mimram
+LOCATION,Fulling Mill
+NOMINAL AREA,   99.25
+NOMINAL NGR,5226,2169
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,522650,216950
+CENTROID NGR,GB,516052,221736
+DTM AREA,   99.25
+ALTBAR, 130
+ASPBAR,134
+ASPVAR,0.20
+BFIHOST,0.740
+DPLBAR, 11.75
+DPSBAR, 43.0
+FARL,0.981
+FPEXT,0.0501
+LDP, 23.84
+PROPWET,0.30
+RMED-1H, 10.6
+RMED-1D, 29.9
+RMED-2D, 38.1
+SAAR, 658
+SAAR4170, 644
+SPRHOST,25.98
+URBCONC1990, 0.684
+URBEXT1990,0.0292
+URBLOC1990, 1.136
+URBCONC2000, 0.805
+URBEXT2000,0.0366
+URBLOC2000, 1.173
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Crump profile weir located on the mid reaches of the River Mimram. GENERAL: Crump profile weir, 2.75m wide, built in the mid 1970s. Originally the station was comprised of two complementary thin-plate weirs. Prior to 1993, gauging was a sum of flows through the mill weir and a leaky wooden weir. The station was not used as a full gauging station from 07/1984. It was used solely for low flows for licence purposes from 09/1984 to 05/1990. The data was processed but not archived during this period. However, due to demand, the site came back online in 1990 and the data was stored. STATION HYDROMETRY: Standard crump weir rating that extends to 2.5 cumecs. The station was not designed for peak flow measurement and is insensitive at low flows. FLOW RECORD: Accurate at modular flow, but large discrepancies at non-modular flow (> 0.18m). FLOW REGIME: Flows substantially diminished by gw abstractions (Three Valleys Water plc) with a considerable net export of water. The weir drowns easily possibly due to seasonal weed growth (cut prior to 1993). It has not been possible to remove weeds due to a Brown Trout (Salmo trutta) conservation project that was initiated in 1993.
+CATCHMENT,Chalk catchment (with overlying glacial deposits in some areas). Predominantly rural.
+Qmed Suitability,Gauged above QMED. Confident in flows within modular range.
+Pooling Suitability,Few high flow gaugings. Rating can not be validated beyond QMED.High flows above c.0.18m are overestimated by as much as 50%, due to weed growth and siltation.
+[END]

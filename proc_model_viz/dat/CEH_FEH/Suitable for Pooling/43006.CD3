@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 43006
+[END]
+[CDS DETAILS]
+NAME,Nadder
+LOCATION,Wilton
+NOMINAL AREA,  215.63
+NOMINAL NGR,4097,1307
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,409750,130800
+CENTROID NGR,GB,395751,129698
+DTM AREA,  215.63
+ALTBAR, 139
+ASPBAR,126
+ASPVAR,0.15
+BFIHOST,0.763
+DPLBAR, 21.91
+DPSBAR, 78.5
+FARL,0.976
+FPEXT,0.0471
+LDP, 34.58
+PROPWET,0.35
+RMED-1H, 10.9
+RMED-1D, 35.6
+RMED-2D, 46.2
+SAAR, 875
+SAAR4170, 943
+SPRHOST,19.62
+URBCONC1990, 0.346
+URBEXT1990,0.0055
+URBLOC1990, 0.805
+URBCONC2000, 0.608
+URBEXT2000,0.0087
+URBLOC2000, 0.928
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Crump weir on the River Nadder. GENERAL: Crump weir, crest 18.3m wide. STATION HYDROMETRY: Crest tapping abandoned after first few months; modular limit (0.6m) seldom reached, although weir can drown at very high flows. Bypassing is minor. Banks very weedy during summer. Rare weed clearance can lead to significant u/s constriction. Minor bypass. Gaugings taken 50-100m upstream, previously taken at Bull Bridge. Single theoretical rating has been confirmed by spot gaugings at high and low flows. Rating may underestimate in mid flow range. Upper limit of rating is 0.48m/12.8cumecs. It is extrapolated beyond that limit. FLOW REGIME: Natural to within 10% at Q95; some minor groundwater pumping. Sluices and hatches can regulate flow for short periods. A small drainage channel bypasses the recorder.
+CATCHMENT,Mixed geological formation (Jurassic and Cretaceous) - predominantly Chalk with Clays in upper catchment. Land use is rural. No major catchment changes.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged beyond AMAX3. May experience limited bypassing.
+[END]

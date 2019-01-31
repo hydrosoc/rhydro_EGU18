@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 54017
+[END]
+[CDS DETAILS]
+NAME,Leadon
+LOCATION,Wedderburn Bridge
+NOMINAL AREA,  287.41
+NOMINAL NGR,3776,2233
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,377650,223350
+CENTROID NGR,GB,370614,233392
+DTM AREA,  287.41
+ALTBAR,  74
+ASPBAR,113
+ASPVAR,0.10
+BFIHOST,0.570
+DPLBAR, 21.00
+DPSBAR, 60.4
+FARL,0.990
+FPEXT,0.0766
+LDP, 41.15
+PROPWET,0.33
+RMED-1H, 10.1
+RMED-1D, 32.0
+RMED-2D, 41.4
+SAAR, 685
+SAAR4170, 713
+SPRHOST,35.60
+URBCONC1990, 0.541
+URBEXT1990,0.0123
+URBLOC1990, 0.978
+URBCONC2000, 0.737
+URBEXT2000,0.0099
+URBLOC2000, 0.967
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Trapezoidal flume flanked by broad-crested weirs within vertical sidewalls with suitable ratings up to QMED (bankfull) but uncertain accuracy above this limit - also affected by backwater effects. GENERAL: Constructed in 1961 as a non-standard compound section comprised of a central trapezoidal flume flanked by broad crested weirs, with vertical sidewalls. Eel tiles installed flush to weir crest in November 2015. Expected to impact low flow measurement only. Calibration gaugings ongoing. STATION HYDROMETRY: The station is affected by backing up at high flows from backwater (Wedderburn Road Bridge upstream) and weed growth. Many flood events (below QMED) are over-bank, with the floodplain extending some 300m. The structure was originally calibrated using physical models, and ratings have been based on these calibrations and on gaugings. Two ratings applied across period of record. Rating 10 was derived from the Dec-2000 event but was considered unsuitable for extrapolation to 2007 peak levels. Rating curve 11 was derived to improve peak flow rates calculated for the 2007 flood event. The July 2007 event was the first event to spill over the Wedderburn Road. Modelling conducted following the 2007 high flow event has been used to develop a high flow rating for the site. Ratings were reviewed in January 2009 by including gaugings during events of 2000 and 2007, and hydraulic model (ISIS) results. Model rating includes drowned conditions; when the Severn is high backing up occurs as flap valves operate, thus in-bank gaugings show scatter to the ratings because of the variable backwater and severe weed growth. Large scatter in gaugings at high flows but 2000 high flow gaugings are considered more accurate than earlier ones. Probably just OK for QMED because gaugings have extended to QMED, and because of the physical and computer modelling. FLOW RECORD: July 2007 peak flow affected by substantial attenuation on floodplain as was 1.3m above bankfull, and backing up behind road bridge. Variable backwater from weed growth and from exceptional events (such as maxima in 1968 & 1998) on the River Severn. Data from a downstream sensor from December 2002. FLOW REGIME: Mostly natural regime. Minimal augmentation from groundwater pumping, spray irrigation may become significant at Q95. Minimal augmentation from gw pumping.
+CATCHMENT,Low relief, agricultural catchment. Virtually Drift free; headwaters and middles reaches s'sts of Devonian and Triassic age, some Palaeozoic mixed sediments to the north, Mercia Mudstone in the lower reaches.
+Qmed Suitability,Although not gauged to within 30% of QMED, QMED estimates are thought to be reliable given the physical and computer modelling that has been undertaken.
+Pooling Suitability,Few high flow gaugings. Rating can not be validated beyond QMED and site suffers from variable backwater effects and considerable scatter in gaugings.
+[END]

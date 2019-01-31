@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 79002
+[END]
+[CDS DETAILS]
+NAME,Nith
+LOCATION,Friars Carse
+NOMINAL AREA,  797.71
+NOMINAL NGR,2923,5851
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,292350,585150
+CENTROID NGR,GB,276757,605289
+DTM AREA,  797.71
+ALTBAR, 294
+ASPBAR, 85
+ASPVAR,0.04
+BFIHOST,0.433
+DPLBAR, 40.60
+DPSBAR,157.8
+FARL,0.991
+FPEXT,0.0500
+LDP, 79.51
+PROPWET,0.67
+RMED-1H, 10.8
+RMED-1D, 45.2
+RMED-2D, 61.9
+SAAR,1461
+SAAR4170,1547
+SPRHOST,42.18
+URBCONC1990,-9999.000
+URBEXT1990,0.0013
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0023
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station on the River Nith. GENERAL: Velocity area station. STATION HYDROMETRY: Cableway present. Straight approach with sharp bend (with gravel bar) 150m below station which probably controls higher flows. Shallow section with gravel bed. Narrow floodplain on left bank, more extensive on right. Single rating derived from current meter gaugings. Highest known gauging 4.2m (about 1.1 QMED). High flows calculated by simple extrapolation. Rating is well gauged from 2 to 200 cumecs. Historic high flow gaugings to almost 500 cumecs provide a good fit to this rating. High flow events e.g. November 2009 thought to have remodelled low flow control; new ratings produced as a result. FLOW RECORD: Highest recorded level 6m. FLOW REGIME: Afton Res. has a minor influence on the flow regime. Public water supplies in catchment - limited influence.
+CATCHMENT,Silurian shales and mudstones. Coal measures at the top of the catchment. Patches of granite. Land use: hill pasture with mixed farming in the valley bottom. Minimal floodplains. No significant catchment changes known.
+Qmed Suitability,No comment
+Pooling Suitability,No comment
+[END]

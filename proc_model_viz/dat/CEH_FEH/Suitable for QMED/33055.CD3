@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 33055
+[END]
+[CDS DETAILS]
+NAME,Granta
+LOCATION,Babraham
+NOMINAL AREA,  101.97
+NOMINAL NGR,5510,2503
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,551000,250400
+CENTROID NGR,GB,557638,246192
+DTM AREA,  101.97
+ALTBAR,  80
+ASPBAR,297
+ASPVAR,0.15
+BFIHOST,0.638
+DPLBAR, 12.40
+DPSBAR, 35.6
+FARL,0.999
+FPEXT,0.0615
+LDP, 21.08
+PROPWET,0.26
+RMED-1H, 10.7
+RMED-1D, 28.3
+RMED-2D, 36.1
+SAAR, 579
+SAAR4170, 613
+SPRHOST,26.96
+URBCONC1990, 0.542
+URBEXT1990,0.0116
+URBLOC1990, 0.841
+URBCONC2000, 0.688
+URBEXT2000,0.0120
+URBLOC2000, 0.815
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Structure gaugning a Chalk catchment with some superficial deposits, predominantly arable land use, and significant artificial influences. GENERAL: Triangular profile Flat V weir, 8.3m broad; constructed on an old brick weir. Height of wing walls above crest - 0.6m. Also called Babraham Hall. STATION HYDROMETRY: The station is drowned and bypassed at high flows. Current rating accounts for out of bank flow. However, from 12.94cumecs (0.95m) floodplain flow is over a wide area with great uncertainty in flows. Two ratings applied across period of record, the most recent is valid from January 1979. FLOW RECORD: The POR maximum flow in Oct 2001 derived from peak flow measurements as 20.41 cumecs, but this is subject to considerable uncertainty - high proportion of overbank flows. FLOW REGIME: Regime influenced by gw abstraction/recharge. Significant gw abstractions for PWS and for industrial/agricultural uses. Runoff increased by effluent returns.
+CATCHMENT,Chalk catchment with superficial deposits in headwater areas. Predominantly arable land use.
+Qmed Suitability,Gauged to within 17% of QMED. Gaugings fit well to rating.
+Pooling Suitability,No high flow gaugings to confirm drowned or out of bank flow estimates.
+[END]

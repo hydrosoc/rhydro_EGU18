@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 55021
+[END]
+[CDS DETAILS]
+NAME,Lugg
+LOCATION,Butts Bridge
+NOMINAL AREA,  365.89
+NOMINAL NGR,3502,2589
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,350200,258950
+CENTROID NGR,GB,334075,264541
+DTM AREA,  365.89
+ALTBAR, 232
+ASPBAR,136
+ASPVAR,0.19
+BFIHOST,0.610
+DPLBAR, 28.36
+DPSBAR,125.6
+FARL,0.992
+FPEXT,0.0901
+LDP, 54.51
+PROPWET,0.37
+RMED-1H, 10.0
+RMED-1D, 35.0
+RMED-2D, 44.9
+SAAR, 877
+SAAR4170, 951
+SPRHOST,30.24
+URBCONC1990, 0.137
+URBEXT1990,0.0050
+URBLOC1990, 0.120
+URBCONC2000,-9999.000
+URBEXT2000,0.0035
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station with low flows blockstone weir control. GENERAL: Velocity area station with rough stone control (at low flows) providing flood warning station. Station rebuilt in 1984. Width at bankfull is 21m. Stanchion span is 24m. STATION HYDROMETRY: Multiple ratings applied across period of record. Recent rating gauged to bankfull. FLOW RECORD: July - Sept 1996 flows under review. FLOW REGIME: Runoff reduced by public water supply abstraction.
+CATCHMENT,Headwaters drain Radnor Forest (developed on Silurian formations). Subdued relief in the lower valley (mostly Old Red Sandstone). Impervious catchment but extensive valley gravels provide some baseflow. Land use: mainly grassland in upper catchment, rough grazing with some forestry. Mixed farming with higher proportion of arable in the lower catchment.
+Qmed Suitability,Gauged above QMED. Ratings providing reasonable fit to gaugings.
+Pooling Suitability,Gauged beyond AMAX3.
+[END]

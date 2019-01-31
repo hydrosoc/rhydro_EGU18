@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 47008
+[END]
+[CDS DETAILS]
+NAME,Thrushel
+LOCATION,Tinhay
+NOMINAL AREA,  112.72
+NOMINAL NGR,2397, 855
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,239750,85500
+CENTROID NGR,GB,245181, 91619
+DTM AREA,  112.72
+ALTBAR, 162
+ASPBAR,225
+ASPVAR,0.17
+BFIHOST,0.422
+DPLBAR, 11.59
+DPSBAR, 89.5
+FARL,0.999
+FPEXT,0.0363
+LDP, 21.99
+PROPWET,0.50
+RMED-1H, 12.0
+RMED-1D, 38.5
+RMED-2D, 49.1
+SAAR,1144
+SAAR4170,1228
+SPRHOST,39.11
+URBCONC1990,-9999.000
+URBEXT1990,0.0000
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0010
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Three-bay compound Crump weir with low flows influenced by Roadford Reservoir. GENERAL: Three-bay compound Crump profile weir, crests of 3.66m and 10.97m (total) length. STATION HYDROMETRY: Weir modular to structure full (2.74m) but unverified; floodbanks would contain flow for a further 0.96m; such flow extrapolated from theoretical rating. May back up from d/s conditions. All flows contained. No problems with drowning. Theoretical rating applied across period of record. Rating fits to gaugings well (max 1.26m) FLOW REGIME: Low flows significantly affected after 1988 by Roadford Reservoir (storage, pumped water transfers and HEP).
+CATCHMENT,Previously natural catchment of moderate relief draining shales and sandstones of Carboniferous Culm Measures. Significant terrace gravels lower down in main valley. Land use is rural, grazing, mixed farming and low grade agriculture. Roadford Reservoir, completed in 1989, with a catchment area of 31.8km2, affects 28.3% of catchment. FARL given for use in WINFAP is for pre-reservoir condition.
+Qmed Suitability,Gauged to within 13% of QMED. Rating fits well to gaugings.
+Pooling Suitability,Rating is not confirmed for highest flows but all flows contained in bank and theoretical rating expected to perform well.
+[END]

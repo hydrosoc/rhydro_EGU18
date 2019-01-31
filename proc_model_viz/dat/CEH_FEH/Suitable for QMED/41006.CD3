@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 41006
+[END]
+[CDS DETAILS]
+NAME,Uck
+LOCATION,Isfield
+NOMINAL AREA,   89.16
+NOMINAL NGR,5458,1190
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,545850,119000
+CENTROID NGR,GB,551045,123036
+DTM AREA,   89.16
+ALTBAR,  73
+ASPBAR,215
+ASPVAR,0.18
+BFIHOST,0.432
+DPLBAR, 11.00
+DPSBAR, 72.0
+FARL,0.980
+FPEXT,0.0422
+LDP, 18.13
+PROPWET,0.35
+RMED-1H, 11.5
+RMED-1D, 35.1
+RMED-2D, 46.5
+SAAR, 823
+SAAR4170, 837
+SPRHOST,43.19
+URBCONC1990, 0.654
+URBEXT1990,0.0230
+URBLOC1990, 0.611
+URBCONC2000, 0.825
+URBEXT2000,0.0301
+URBLOC2000, 0.639
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Flat-V weir. Very responsive regime. Discharge from sewage treatment works affects low flows during summer. Automatic flood gates upstream at Uckfield Mill can produce abrupt flow changes. GENERAL: Flat-V weir (crest width 7.62m; 1:10 cross-slope) with cableway. Crest tapping (not currently instrumented) and some non-standard elements (e.g. experimental fish-ladder) constructed (in 1999) between the abutments of a pre-existing Crump weir. Station is well sited downstream of railway embankment with large capacity bridge opening, 2km upstream of the Isfield Road Bridge. Superseded (in Sept 1999) a Crump profile weir (crest width 7.62m, crest level from bed 1.13m), with crest tapping. Flow capacity of earlier Crump was 51 cumecs but was subject to drowning in the mid flow range (10-30 cumecs), with a return to modular conditions at high flows due to overbank flow and the valley shape downstream. Prior to weir replacement (1999), retaining wall around old structure was in poor condition with the masonry on the right bank in danger of collapse. STATION HYDROMETRY: Flow gaugings using the crest tappings were made during about the first 10 years of operation. Weir was built with a 24 inch bypass pipe controlled by a penstock at its upstream end. Flow bypassing commenced at a gauged head of about 2.35m (51.61 cumecs) prior to April 2002. Following repair and rising of the eroded bank in April 2002, flow bypassing would occur at a gauged head of about 2.40m (55.85 cumecs). Present weir does not comply with BS 3680 requirements (upstream gauging location is closer to crest than recommended for gauged heads >1.4m approx). Experimental fish ladder installed on the downstream face, no effects noticed so far. Both original and existing weirs exhibit mid-range drowning (~10-30 cumecs). In 2002 a 6m section of the left hand bank immediately upstream of weir was rebuilt as was washed away, the bank around the weir was piled and work done on the upstream approach. Cableway installed in 1999 improved high flow capability; lots of check gaugings available. Ratings differ pre and post 1999 (when weir upgraded). Good confidence in mid-range flows although no account for remedial work in 2002 when bypassing reduced. All gaugings >2m are post remedial work and confirm that rating now overestimates flow. Two peak flow ratings applied across the period of record. FLOW RECORD: Daily flow record reprocessed in 2003. FLOW REGIME: Very responsive regime. No substantial abstractions but discharge from sewage treatment works affects low flows during summer. Automatic flood gates upstream at Uckfield Mill can produce abrupt flow changes. Runoff increased by effluent returns. OUSENAT flow naturalisation scheme. Urban expansion around Uckfield.
+CATCHMENT,Catchment geology very mixed; Hastings Beds predominate. Above Isfield the catchment is rural with significant areas of woodland, but the Uckfield urban area is expanding. The River Uck is the principal tributary of the River Ouse.
+Qmed Suitability,Gauged above QMED, QMED estimates reasonable.
+Pooling Suitability,Since remedial work in 2002 rating overestimates flows and pre 1999 data should be used with caution.
+[END]

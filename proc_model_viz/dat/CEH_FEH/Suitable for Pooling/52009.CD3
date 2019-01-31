@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 52009
+[END]
+[CDS DETAILS]
+NAME,Sheppey
+LOCATION,Fenny Castle
+NOMINAL AREA,   58.16
+NOMINAL NGR,3498,1438
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,349800,143850
+CENTROID NGR,GB,358525,145236
+DTM AREA,   58.16
+ALTBAR, 142
+ASPBAR,224
+ASPVAR,0.37
+BFIHOST,0.688
+DPLBAR, 11.49
+DPSBAR, 78.7
+FARL,0.999
+FPEXT,0.0634
+LDP, 21.03
+PROPWET,0.37
+RMED-1H, 11.2
+RMED-1D, 37.9
+RMED-2D, 49.8
+SAAR, 974
+SAAR4170, 955
+SPRHOST,20.13
+URBCONC1990, 0.645
+URBEXT1990,0.0288
+URBLOC1990, 0.936
+URBCONC2000, 0.796
+URBEXT2000,0.0529
+URBLOC2000, 0.976
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Crump profile weir for low flows and velocity-area station for higher flows. Avalon Lake scheme down stream of weir. GENERAL: Station opened in 1964. Crump profile weir for low flows, crest 5.18m wide. Velocity area station for flows greater than 1.84 cumecs. STATION HYDROMETRY: Full range station. All flows in bank at station but may go out of bank upstream before bankfull at site. Daily flow rating reviewed in 01/2011. Rating unconfirmed by gaugings at highest flows. Lower section is rating for theoretical weir. Reliable extension of rating to bankfull but no data to allow extension beyond this. One peak flow rating across period of record. FLOW RECORD: Downstream summer weed growth can affect modular limit. FLOW REGIME: Avalon Lake scheme downstream of weir - water directed into Moors. Effluent returns cause some flow augmentation. Minor groundwater abstractions in catchment.
+CATCHMENT,Mixed geology: Upper catchment - Carboniferous Limestone. Lower catchment - Sandstone. Land use predominantly agriculture. Pasture land on both sides of river. The upper catchment is sustained by limestone groundwater; therefore although the Somerset levels respond quickly to rainfall, there is a long recession as the limestone drains. No major catchment changes.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged to within 14% of AMAX3. All flows are in bank, but note that Karstic limestone may give unique flow response so consider inclusion in pooling group carefully.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 65007
+[END]
+[CDS DETAILS]
+NAME,Dwyfor
+LOCATION,Garndolbenmaen
+NOMINAL AREA,   51.60
+NOMINAL NGR,2498,3429
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,249850,342900
+CENTROID NGR,GB,253669,345657
+DTM AREA,   51.60
+ALTBAR, 268
+ASPBAR,218
+ASPVAR,0.24
+BFIHOST,0.404
+DPLBAR,  8.10
+DPSBAR,194.9
+FARL,0.968
+FPEXT,0.0558
+LDP, 13.40
+PROPWET,0.56
+RMED-1H, 12.0
+RMED-1D, 64.3
+RMED-2D, 85.2
+SAAR,2055
+SAAR4170,2143
+SPRHOST,45.78
+URBCONC1990,-9999.000
+URBEXT1990,0.0000
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0000
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Compound Crump profile weir. Station built as the control point for the Cwmystradllyn Reservoir/Afon Dwyfawr regulation scheme, and is consequently regulated by both reservoir and scheme. GENERAL: Compound Crump profile weir. Station built as the control point for the Cwmystradllyn Reservoir/Afon Dwyfawr regulation scheme. STATION HYDROMETRY: Divide piers separate the 6.5m wide lower crest from two flanking crests each 5m wide. Suffers from weed growth and gravel issues: weed frequently removed, gravel occasionally cleared. Station not intended for high flow gauging; no cableway present to gauge high flows. Well gauged below 0.4m with good fit to rating. Bypassed at flows >10 year return period. FLOW REGIME: Flows regulated by the Cwmystradllyn Reservoir/Afon Dwyfawr scheme. Public water supply abstraction.
+CATCHMENT,The catchment is mainly steep, developed on impermeable Lower Palaeozoic formations; mostly Boulder Clay cover. Grassland (rough grazing), much bare rock.
+Qmed Suitability,Gauge installed for low flow monitoring and gauged only in the low - medium range. Not gauged to within 30% of QMED. , but as a crump weir expected to perform reasonably at QMED.
+Pooling Suitability,Few high flow gaugings. Bypassing occurs around 1.6m which is not accounted for in rating.
+[END]

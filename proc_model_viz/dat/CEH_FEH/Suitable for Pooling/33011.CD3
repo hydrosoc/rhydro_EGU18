@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 33011
+[END]
+[CDS DETAILS]
+NAME,Little Ouse
+LOCATION,County Bridge Euston
+NOMINAL AREA,  129.35
+NOMINAL NGR,5892,2801
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,589250,280200
+CENTROID NGR,GB,599506,278200
+DTM AREA,  129.35
+ALTBAR,  39
+ASPBAR,352
+ASPVAR,0.12
+BFIHOST,0.652
+DPLBAR, 17.28
+DPSBAR, 17.4
+FARL,0.985
+FPEXT,0.1459
+LDP, 30.12
+PROPWET,0.28
+RMED-1H, 10.7
+RMED-1D, 27.5
+RMED-2D, 34.9
+SAAR, 596
+SAAR4170, 602
+SPRHOST,26.08
+URBCONC1990, 0.410
+URBEXT1990,0.0086
+URBLOC1990, 0.982
+URBCONC2000, 0.675
+URBEXT2000,0.0081
+URBLOC2000, 1.058
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Compound weir gauging a Chalk catchment with predominantly agricultural land use. GENERAL: Compound weir with triangular profile centre section, 3.4m broad; broad-crested flanks in trapezoidal channel 9m broad. STATION HYDROMETRY: One rating applied across period of record. Hydraulic model used to derive rating for peak flows, including out of bank and bypassing. Reasonable fit to gaugings. FLOW RECORD: Peak flows available from 1960. FLOW REGIME: Groundwater abstractions for PWS and spray irrigation. Some effluent returns.
+CATCHMENT,Predominantly Chalk with significant Boulder Clay cover. Agricultural land use, predominantly arable.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged to within 18% of AMAX3. Confident in hydraulic model derived rating and extrapolation.
+[END]

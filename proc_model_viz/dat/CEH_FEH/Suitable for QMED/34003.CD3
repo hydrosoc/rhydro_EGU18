@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 34003
+[END]
+[CDS DETAILS]
+NAME,Bure
+LOCATION,Ingworth
+NOMINAL AREA,  161.27
+NOMINAL NGR,6192,3296
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,619200,329650
+CENTROID NGR,GB,613104,333028
+DTM AREA,  161.27
+ALTBAR,  51
+ASPBAR,131
+ASPVAR,0.24
+BFIHOST,0.778
+DPLBAR, 13.52
+DPSBAR, 23.4
+FARL,0.974
+FPEXT,0.0852
+LDP, 26.11
+PROPWET,0.31
+RMED-1H, 11.3
+RMED-1D, 29.6
+RMED-2D, 37.1
+SAAR, 669
+SAAR4170, 687
+SPRHOST,20.83
+URBCONC1990, 0.421
+URBEXT1990,0.0124
+URBLOC1990, 1.040
+URBCONC2000, 0.602
+URBEXT2000,0.0067
+URBLOC2000, 0.986
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Structure gauging a predominantly arable catchment with mixed geology and with some artificial influences and significant seasonal variation in flow. GENERAL: Two ogee profile weirs beneath bridge arches. Wingwall height not known. STATION HYDROMETRY: Arches bypassed (through low spots in the bank about 400m u/s) at 4.3 cumecs, but station maintains modularity. Occasionally drowns owing to weed and reed growth - some contention with coincident SSSI regime means that weed clearance is only done annually. One peak flow rating applied across period of record. Good fit to available gaugings. FLOW REGIME: Important seasonal variation in flow. Runoff influenced by groundwater abstraction/recharge. Limited ground and surface water abstractions with some returns from public and agricultural uses.
+CATCHMENT,Mixed Clay and Chalk geology, overlain with superficial deposits of Boulder Clay and glacial sands and gravels. Agricultural land use, predominantly arable.
+Qmed Suitability,Gauged above QMED. Good fit to gauging.
+Pooling Suitability,Site known to be bypassed and occasionally drown. Few high Gauging to confirm rating above structure full confidently.
+[END]

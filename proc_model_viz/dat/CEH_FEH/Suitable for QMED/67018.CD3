@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 67018
+[END]
+[CDS DETAILS]
+NAME,Dee
+LOCATION,New Inn
+NOMINAL AREA,   53.38
+NOMINAL NGR,2873,3307
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,287400,330800
+CENTROID NGR,GB,283267,330790
+DTM AREA,   53.38
+ALTBAR, 387
+ASPBAR, 85
+ASPVAR,0.17
+BFIHOST,0.312
+DPLBAR,  7.22
+DPSBAR,150.5
+FARL,1.000
+FPEXT,0.0483
+LDP, 14.77
+PROPWET,0.71
+RMED-1H, 11.2
+RMED-1D, 59.4
+RMED-2D, 78.8
+SAAR,2022
+SAAR4170,1932
+SPRHOST,51.90
+URBCONC1990,-9999.000
+URBEXT1990,0.0001
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0004
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Flat-V concrete ford located d/s of confluence with Afon Lliw. Natural flow regime. Data from site is used operationally for flood alleviation, flood warning and a daily naturalization indicator. GENERAL: Flat-V concrete ford. Located d/s of confluence with Afon Lliw. Data from site is used operationally for flood alleviation, flood warning and a daily naturalization indicator for upper Dee flows. STATION HYDROMETRY: Station located on a bend. Gravel removed annually from upstream of square concrete weir blocks to 25m upstream of confluence of River Dee with the Lliw. Out-of-bank flows occur almost annually and station is significantly by-passed above around 2.2m. Calibration by current meter. Different peak flow ratings are applicable pre and post weir construction (1999). Current rating in good agreement with check gaugings to bank full but does not account for significant bypass. The original control was based on a rough stone paved ford with stepping stones upstream to provide sensitivity at low flows. Between 01/04/1998 & 01/04/1999 it was formalized into a shallow flat-V concrete ford with square blocks cast on the upstream base to mimic the adjusted configuration. FLOW RECORD: Data during construction (01/04/1998 - 01/04/1999) was infilled based on nearby station 67010 R. Gelyn at Cynefail. Full period of record peak flow data reviewed and released in April 2017 (WINFAP Files v5). FLOW REGIME: Rapidly responding. Natural to within 10% at Q95.
+CATCHMENT,Upland catchment. Mainly impermeable Ordovician rocks with minor superficial deposits - otherwise no water-bearing strata. Land use is mostly rough upland pasture and extensive forest.
+Qmed Suitability,Most appropriate gauging within 10% of QMED
+Pooling Suitability,Uncertainty due to significant ungauged bypass flow.
+[END]

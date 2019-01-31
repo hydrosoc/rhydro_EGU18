@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 27010
+[END]
+[CDS DETAILS]
+NAME,Hodge Beck
+LOCATION,Bransdale Weir
+NOMINAL AREA,   18.82
+NOMINAL NGR,4627,4944
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,462700,494450
+CENTROID NGR,GB,461816,498135
+DTM AREA,   18.82
+ALTBAR, 323
+ASPBAR,161
+ASPVAR,0.22
+BFIHOST,0.341
+DPLBAR,  5.20
+DPSBAR,149.8
+FARL,1.000
+FPEXT,0.0094
+LDP, 10.13
+PROPWET,0.40
+RMED-1H, 10.4
+RMED-1D, 36.0
+RMED-2D, 47.4
+SAAR, 987
+SAAR4170,1038
+SPRHOST,50.58
+URBCONC1990,-9999.000
+URBEXT1990,0.0026
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0007
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Compound thin-plate weir, affected by sand and gravel accumulation. Station closed December 1979. GENERAL: Three-stage thin-plate rectangular weir (6.1m wide overall) with short broad-crested flanks and concrete overfall. Built for water resources purposes. Sand and gravel were observed to pile up behind the weir, to the level of the lowest notch, and was removed periodically. Similarly, the intake pipe became choked with silt. Station closed 31-12-1979. STATION HYDROMETRY: Drowning is not believed to affect the weir to any large degree. One peak flow rating applied across period of record. Good agreement with check gaugings to 1.4m. Flood Studies Report grade A2. FLOW REGIME: Responsive catchment, no known artificial influences.
+CATCHMENT,Small, upland catchment in Yorkshire moors, with steep slopes rising to flat moor tops up. Geology consists of bed of the Lias and lower Oolite dipping south, and the whole succession exposed down the sides of the valley. Mostly shales and sandstone. Moorland and upland grass, some woodland. No known catchment changes.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,No high flow gaugings but weir is unlikely to drown and flow estimates thought to be reliable.
+[END]

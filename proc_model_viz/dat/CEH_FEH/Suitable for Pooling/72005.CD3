@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 72005
+[END]
+[CDS DETAILS]
+NAME,Lune
+LOCATION,Killington
+NOMINAL AREA,  219.24
+NOMINAL NGR,3622,4906
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,362200,490650
+CENTROID NGR,GB,362069,503090
+DTM AREA,  219.24
+ALTBAR, 317
+ASPBAR,115
+ASPVAR,0.03
+BFIHOST,0.438
+DPLBAR, 21.58
+DPSBAR,174.5
+FARL,0.995
+FPEXT,0.0484
+LDP, 35.76
+PROPWET,0.71
+RMED-1H, 12.0
+RMED-1D, 55.1
+RMED-2D, 78.2
+SAAR,1670
+SAAR4170,1633
+SPRHOST,40.85
+URBCONC1990,-9999.000
+URBEXT1990,0.0008
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0019
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Non-standard compound broad-crested weir draining a wet, natural catchment with headwaters in the eastern Lake District and north west Yorkshire Dales. GENERAL: A non-standard compound broad-crest weir with off-centre low flow notch, installed May 1969. STATION HYDROMETRY: Station is fully contained, no bypassing. There is some flow leakage from the left bank wing wall, which may impact upon very low flows. Station affected by stilling well leakage until 2/88. Cableway was located 30m upstream, re-built in 2003 nearer to the weir enabling heavier weights to be used than previously. New cableway gaugings show a good correlation with the old cableway gaugings. Flood gaugings are affected by strong turbulence and wave action. One rating applied across period of record. Originally a theoretical rating, with check gaugings, now extrapolated by hydraulic modelling. FLOW REGIME: Natural catchment.
+CATCHMENT,A wet, natural and entirely rural catchment, draining the eastern Lake District fells and northwestern parts of the Yorkshire Dales National Park. Silurian slates to the W, Carboniferous conglomerate and Limestone N and E. Peat moss on high moors to NW, heather moss in N. Lower valleys are Boulder Clay covered. Moorland, grass, arable farming. No significant catchment changes.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,High gaugings and extrapolated by hydraulic modelling
+[END]

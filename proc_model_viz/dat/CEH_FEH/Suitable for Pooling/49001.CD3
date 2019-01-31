@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 49001
+[END]
+[CDS DETAILS]
+NAME,Camel
+LOCATION,Denby
+NOMINAL AREA,  209.94
+NOMINAL NGR,2017, 681
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,201750,68150
+CENTROID NGR,GB,207825, 73231
+DTM AREA,  209.94
+ALTBAR, 174
+ASPBAR,259
+ASPVAR,0.15
+BFIHOST,0.555
+DPLBAR, 15.94
+DPSBAR, 87.9
+FARL,0.987
+FPEXT,0.0338
+LDP, 33.98
+PROPWET,0.45
+RMED-1H, 12.1
+RMED-1D, 42.9
+RMED-2D, 59.2
+SAAR,1338
+SAAR4170,1355
+SPRHOST,34.61
+URBCONC1990, 0.686
+URBEXT1990,0.0121
+URBLOC1990, 0.564
+URBCONC2000, 0.794
+URBEXT2000,0.0122
+URBLOC2000, 0.580
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station, with a concrete low flow control and a cableway, replaced an unreliable station at Grogley/Polbrook, 1km downstream, in 1954. GENERAL: Open channel velocity area station replaced an unreliable station at Grogley/Polbrook, 1km downstream, in 1964. A concrete low level bed control was built in 1980 and a new cableway in December 2000. STATION HYDROMETRY: Flood banks contain flow at the gauging section, but bypassing will occur (and is estimated) at higher flows. Control recently rebuilt (raised embankments, wingwalls) and structural repairs made to approach channel in 2000; rating checks carried out afterwards. Mutiple peak flow ratings across the period of record. Inspection of site made after 12/2012 event, wrack marks surveyed and peak flow estimates produced using slope-area method. This takes into account bypassing and out of bank flow at the gauge. Similar answers reproduced at 2 different locations. Further check made on 2012 event magnitude using correlation with the adjacent River Fowey catchment and rainfall-runoff modelling. This estimate, together with data from the Acoustic Doppler was used to revise the high flow rating for period of record (full rating review carried out in 2013 and applied back to 1980 when the low level bed control was installed). This analysis refuted previous estimates produced after the 1993 event and gaugings taken in 1981. However as there is better confidence in the 2012 analysis the rating has been revised on this basis. FLOW RECORD: Early peaks are from Grogley 1958-1964 - hence very unreliable and should not be used. FLOW REGIME: Crowdy Reservoir in north-east of catchment affects runoff. Runoff reduced by public water supply abstraction. Sewage effluent returns from Bodmin.
+CATCHMENT,The upper catchment drains Devonian slates (variously affected by the granite) and the Bodmin Moor Granite. Lower catchment drains Devonian slates and grits. Land use is moorland and low grade agriculture and grazing. No major changes in catchment.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Although few high flow gaugings, ratings revised 2013.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+202001
+[END]
+[CDS DETAILS]
+NAME,Roe
+LOCATION,Ardnargle
+NOMINAL AREA,  365.73
+NOMINAL NGR,2673,4246
+[END]
+[DESCRIPTORS]
+IHDTM NGR,Ireland,267350,424650
+CENTROID NGR,Ireland,270044,412247
+DTM AREA,  365.73
+ALTBAR, 194
+ASPBAR,335
+ASPVAR,0.14
+BFIHOST,0.403
+DPLBAR, 22.23
+DPSBAR, 89.6
+FARL,0.993
+FPEXT,0.0595
+LDP, 44.42
+PROPWET,0.61
+RMED-1H,  8.3
+RMED-1D, 38.2
+RMED-2D, 51.5
+SAAR,1250
+SAAR4170,1241
+SPRHOST,42.01
+URBCONC1990,-2.000
+URBEXT1990,0.0149
+URBLOC1990, 0.355
+URBCONC2000, 0.842
+URBEXT2000,0.0064
+URBLOC2000, 0.415
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station; flashy regime despite large catchment and reservoir. GENERAL: Velocity area station. STATION HYDROMETRY: Cableway present. Channel susceptible to multiple bed movement and scouring issues over period of record. Low flows may also be affected by tides. Very large range in water level (6m), though contained at high flows. High velocities at high flows cause significant bed movement, requiring regular low-flow gauging. Multiple ratings apply to period of record. Simple extrapolation is used beyond 5.23m (maximum gauged level). Gauging and rating is good. Last high flow gauging carried out in October 2012, highest flow gauging carried out in 2012 (highest level gauging carried out in 1996). FLOW RECORD: Revision applied to lower end of rating from July 1982, prior to which low flow data should be treated with caution and some 1982 data removed from the NRFA. Significant and increasing channel stability issue between 1999 and 2010 led to bed stabilisation works which were completed in Oct 2010 - daily flows for period affected were reprocessed in 2014. Daily flows since Oct 2010 not currently archived on the NRFA pending rating review. FLOW REGIME: Headwaters contain Altnaheglish reservoir, yielding some 32Ml/d. Regime is flashy for such a relatively large catchment.
+CATCHMENT,Predominantly grassland headwaters with some shrub heath, bog and coniferous woodland. Intensively cultivated alluvial plain. High upland headwater area sloping fairly steeply onto an intensively cultivated alluvial plain. Contains towns of Limarady and Dungiven. Solid geology - bedrock is very varied with metamorphic, sedimentary and contemporaneous igneous rocks. Dalradian rock types form a generally impermeable basement composed of metamorphosed, schistose sandstone, shale, limestone and basic igneous intrusive and extrusive lithologies. Carboniferous conglomerates, sandstones and mudstone are generally indurated. Permeable Triassic sandstone (Sherwood) overlain by impermeable Triassic mudstone. Thin Cretaceous chalk is indurated and overlain by Palaeogene basalt lava flows. Drift geology - glacial till covers much of the area with extensive sand and gravel at the northern end of the catchment. Post-glacial peat cover extensive with restricted development of river alluvium.
+Qmed Suitability,Fully contained and with ratio of Max Gauged to QMED = 1.06. Should be considered as acceptable for Q med estimation
+Pooling Suitability,Contained over the range of flows, however the growth curve would appear quite shallow, may be due to catchment topography and varied geology
+[END]

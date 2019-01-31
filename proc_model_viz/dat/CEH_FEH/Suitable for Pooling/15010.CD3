@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 15010
+[END]
+[CDS DETAILS]
+NAME,Isla
+LOCATION,Wester Cardean
+NOMINAL AREA,  363.76
+NOMINAL NGR,3294,7465
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,329450,746600
+CENTROID NGR,GB,323994,760471
+DTM AREA,  363.76
+ALTBAR, 362
+ASPBAR,162
+ASPVAR,0.25
+BFIHOST,0.532
+DPLBAR, 25.66
+DPSBAR,150.8
+FARL,0.940
+FPEXT,0.0473
+LDP, 52.95
+PROPWET,0.51
+RMED-1H,  8.5
+RMED-1D, 40.5
+RMED-2D, 53.8
+SAAR,1086
+SAAR4170,1116
+SPRHOST,37.32
+URBCONC1990,-9999.000
+URBEXT1990,0.0008
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0010
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station gauging a mountainous catchment, significantly influenced by upstream impounding reservoirs. GENERAL: Velocity area station, about 25m wide. STATION HYDROMETRY: Cableway present. Until 1994 an island downstream of the station was high flow control. Island was removed in 1994 by landowner, hence control is now unstable for high flows and backing up occurs which can affect the rating. Bypassing occurs at levels above 3.3m from about 2km u/s - flows bypass on the right bank bend via meadow by overtopping of levees. Ratings derived from current meter gaugings up to 2.7m (about 0.9QMED), simple extrapolation beyond. FLOW RECORD: Naturalised monthly flows available from 1973-1985. High flow data post-1994 is of poor quality due to unstable control and bypassing at the station. The AMAX recorded in 1993 has been estimated from hydraulic reconstruction of flows. FLOW REGIME: Significantly influenced by impounding reservoir system of Loch of Lintrathen and Blackwater Reservoirs (supply for Dundee). Appreciable net export. This provides public water supply, industrial and agricultural abstractions.
+CATCHMENT,Mountainous headwaters, often snowy in winter. Catchment lies on southern edge of Grampians rising above 1000m and has mainly steep slopes. Southern part of the catchment is sandstone, the remainder is metamorphic and igneous. More than half of the catchment is overlain by superficial deposits. Landuse predominantly rough grazing and forestry in uplands, cattle and arable in lowlands. No significant catchment changes known.
+Qmed Suitability,Up to 1994 only, (gravel island was removed by farmer, further assessments required post 1994 as flows suffer from backing up effects
+Pooling Suitability,Up to 1994 only. May be weaker candidate than others -three highest events have greater uncertainties due to insensitive levels at the highest flows, as apparent in the rating curve, top end of which is based on hydraulic reconstruction of 1993 event
+[END]

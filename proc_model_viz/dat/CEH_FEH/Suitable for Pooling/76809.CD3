@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 76809
+[END]
+[CDS DETAILS]
+NAME,Caldew
+LOCATION,Cummersdale
+NOMINAL AREA,  249.70
+NOMINAL NGR,3394,5527
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,339500,552750
+CENTROID NGR,GB,336394,538938
+DTM AREA,  249.70
+ALTBAR, 250
+ASPBAR,  5
+ASPVAR,0.25
+BFIHOST,0.419
+DPLBAR, 23.47
+DPSBAR, 94.0
+FARL,0.998
+FPEXT,0.0781
+LDP, 45.99
+PROPWET,0.62
+RMED-1H, 11.1
+RMED-1D, 42.1
+RMED-2D, 54.4
+SAAR,1211
+SAAR4170,1299
+SPRHOST,39.77
+URBCONC1990,-9999.000
+URBEXT1990,0.0013
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0017
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Non-standard shallow V weir gauging a rural catchment. Steep catchment produces very responsive flow regime. GENERAL: Non-standard shallow V weir, 17m wide. Opened September 1997, replacing Holm Hill (76009) and Holm Head stations. STATION HYDROMETRY: High flows measured in channel using a cableway. One peak flow rating applied across period of record. Upper limb developed by hydraulic modelling. Out of bank flow on right bank, and also some out of bank flow on left bank in extreme events. FLOW REGIME: Very responsive catchment. No known artificial influences.
+CATCHMENT,Rural catchment. Headwaters in Carboniferous Limestone of Pennines to east, impervious Lower Palaeozoics of Lake District Massif to west; moorland. Extensive boulder clay covered Permo-Triassic sandstone in Vale of Eden. Very steep catchment, producing responsive hydrograph. No significant catchment changes.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Rating extended out of bank by hydraulic modelling.
+[END]

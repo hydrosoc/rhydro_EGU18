@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 32007
+[END]
+[CDS DETAILS]
+NAME,Nene/Brampton
+LOCATION,St Andrews Total
+NOMINAL AREA,  233.02
+NOMINAL NGR,4749,2613
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,474850,261300
+CENTROID NGR,GB,473179,270659
+DTM AREA,  233.02
+ALTBAR, 118
+ASPBAR,156
+ASPVAR,0.14
+BFIHOST,0.543
+DPLBAR, 15.30
+DPSBAR, 43.1
+FARL,0.918
+FPEXT,0.0608
+LDP, 24.90
+PROPWET,0.30
+RMED-1H, 12.4
+RMED-1D, 31.5
+RMED-2D, 40.8
+SAAR, 648
+SAAR4170, 642
+SPRHOST,35.17
+URBCONC1990, 0.684
+URBEXT1990,0.0194
+URBLOC1990, 0.365
+URBCONC2000, 0.824
+URBEXT2000,0.0417
+URBLOC2000, 0.505
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Compound site located in Northampton, gauging a catchment with mixed geology and three reservoirs significantly affecting runoff. GENERAL: Compound site. Main channel flow measured in 2.743m wide standing-wave flume in mill race. Flow in bypass channel measured at 9.11m wide broad-crested weir and flows summed to produce total. STATION HYDROMETRY: Bypassing of both structures commences at about 17 cumecs. No recorder on bypass before 1969, total flows were estimated using average relationship between levels in flume and bypass. 1940-1969 AMAX gives total flow at mill and bypass sites; considered unreliable above 1.39m. Post-1969 mill rating unreliable above 1.11m. FLOW REGIME: Abstraction from reservoirs reduce low flows. Some effluent returns. Pitsford reservoir (filled between 1952 and 1956) is the largest of the three PWS reservoirs controlling flow from about one third of the catchment.
+CATCHMENT,Mixed geology, mostly clay, about one third covered with Boulder Clay. Predominantly rural catchment of mixed farming. Urban development (Northampton) in lower catchment, u/s of station. Significant water reservoirs in the catchment.
+Qmed Suitability,Flow estimates are thought to be reasonable.
+Pooling Suitability,Bypassing occurs at high flows and mill weir becomes non-modular. Uncertainty in high flow ratings.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 15008
+[END]
+[CDS DETAILS]
+NAME,Dean Water
+LOCATION,Cookston
+NOMINAL AREA,  176.61
+NOMINAL NGR,3340,7479
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,334050,747950
+CENTROID NGR,GB,341013,746580
+DTM AREA,  176.61
+ALTBAR, 140
+ASPBAR, 15
+ASPVAR,0.12
+BFIHOST,0.622
+DPLBAR, 14.31
+DPSBAR, 59.2
+FARL,0.973
+FPEXT,0.1266
+LDP, 26.19
+PROPWET,0.38
+RMED-1H,  8.2
+RMED-1D, 37.1
+RMED-2D, 48.3
+SAAR, 840
+SAAR4170, 875
+SPRHOST,37.21
+URBCONC1990, 0.746
+URBEXT1990,0.0108
+URBLOC1990, 1.077
+URBCONC2000, 0.819
+URBEXT2000,0.0146
+URBLOC2000, 1.068
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station. Flows affected by abstraction at low flows and imports from the Isla catchment. GENERAL: Velocity area station, about 10m wide. STATION HYDROMETRY: Cableway present. Control is a road bridge. All flows contained to date. Summer weed growth is a problem during low flows. No high flow gauging since 1988. Peak flow ratings from current meter gauging; Rating 1 from gaugings up to 2m (about 1.2 QMED), Rating 2 from gaugings up to 2m (about QMED), simple extrapolation beyond. FLOW RECORD: Naturalised monthly flows available 1973-87. August - December 1973 flows missing due to faulty equipment. FLOW REGIME: Slow reacting - flattish peaks. Attenuation at the top end of catchment in Forfar Loch area. Reversal of flow back up into Forfar Loch under extreme flows. Industrial and agricultural abstractions in low flows and in the lower parts agricultural embankments. The town of Forfar discharges treated effluent into Forfar Loch in the upper catchment; this is an import from the Isla River.
+CATCHMENT,Low-lying and gently sloping catchment except for the South which drains the northern flank of the Sidlaw Hills. Bedrock almost entirely ORS; largely overlain by superficial deposits. Land use mainly arable and predominantly rural, but urbanised (Forfar) around head of main channel. No significant catchment changes known.
+Qmed Suitability,No comment
+Pooling Suitability,No comment
+[END]

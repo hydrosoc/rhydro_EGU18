@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 51002
+[END]
+[CDS DETAILS]
+NAME,Horner Water
+LOCATION,West Luccombe
+NOMINAL AREA,   20.38
+NOMINAL NGR,2898,1458
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,289800,145850
+CENTROID NGR,GB,287467,143162
+DTM AREA,   20.38
+ALTBAR, 341
+ASPBAR, 25
+ASPVAR,0.29
+BFIHOST,0.539
+DPLBAR,  6.30
+DPSBAR,213.9
+FARL,0.978
+FPEXT,0.0028
+LDP, 12.14
+PROPWET,0.54
+RMED-1H, 12.5
+RMED-1D, 50.9
+RMED-2D, 68.4
+SAAR,1485
+SAAR4170,1452
+SPRHOST,29.75
+URBCONC1990,-9999.000
+URBEXT1990,0.0000
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0001
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Crump weir for low flows plus rated section at higher flows. Nutscale Reservoir in headwaters affects runoff. GENERAL: Opened in 1973. Triangular profile Crump weir for low flows, crest 4.5m wide, plus rated section at higher flows. Station closed from September 1979 to April 1985, reopened with telemetry facilities. STATION HYDROMETRY: Most flows contained, but some underflow may occur. Two peak flow ratings applied across the period of record. FLOW RECORD: Between April 1973 and 1992 only daily mean flow available on EA archive. Data marked as suspect 9/5/16 - 18/5/16 & 7/9/16 due to works on the weir. FLOW REGIME: A small reservoir (Nutscale Reservoir) in headwaters affects runoff, especially with compensation flows in Summer.
+CATCHMENT,Geology of Mid Devonian Grits and Lower Devonian Old Red Sandstone. The topography in the upper reaches of the river is typically steep sided, wooded valleys, draining Exmoor. Land-use is rural. No major changes in catchment.
+Qmed Suitability,Good fit to gaugings.
+Pooling Suitability,largest AMAX are extrapolated due to non-modular weir conditions, few high flow gaugings to support rating
+[END]

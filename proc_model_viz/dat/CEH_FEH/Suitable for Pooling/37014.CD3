@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 37014
+[END]
+[CDS DETAILS]
+NAME,Roding
+LOCATION,High Ongar
+NOMINAL AREA,   92.65
+NOMINAL NGR,5561,2041
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,556150,204100
+CENTROID NGR,GB,558200,213825
+DTM AREA,   92.65
+ALTBAR,  76
+ASPBAR,130
+ASPVAR,0.17
+BFIHOST,0.403
+DPLBAR, 15.73
+DPSBAR, 18.4
+FARL,0.986
+FPEXT,0.1071
+LDP, 31.35
+PROPWET,0.31
+RMED-1H, 11.2
+RMED-1D, 29.9
+RMED-2D, 38.0
+SAAR, 597
+SAAR4170, 610
+SPRHOST,46.46
+URBCONC1990, 0.406
+URBEXT1990,0.0086
+URBLOC1990, 0.978
+URBCONC2000, 0.569
+URBEXT2000,0.0076
+URBLOC2000, 1.150
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Essex modified Flat V weir that is subject to drowning in high flows. Situated in a lowland, largely agricultural catchment, with some industrial influence. GENERAL: 'Essex' (modified Flat V) weir in an 11m wide section. STATION HYDROMETRY: Overfall operates (>1.7m) into a bypass channel; bypassing can also occur on both banks and can occurs surprisingly quickly. Structure subject to drowning during high flows due to backwater effects from two d/s bridges. Heavy in-channel vegetation and surcharging of bridge soffit also influence drowning. Evidence of weir settlement discovered in 1991. Flows were corrected from 1987-91 to take account of this. Computed flows assume modularity - an ultrasonic gauge was installed at the site in March 2012 to resolve this. Model-based rating calibration. Current rating estimates flow well, assuming modularity (modular limit 0.6m). One peak flow rating applied across period of record. Complex history of flood ratings. FLOW RECORD: Naturalised flows available between 1964-76. FLOW REGIME: Responsive flow regime. Minimal net import into the catchment but flows are influenced by groundwater abstraction/recharge. Abstraction for industrial/agricultural purposes, particularly spray irrigation, can substantially deplete low flows.
+CATCHMENT,Generally low lying, largely impermeable (London Clay/glacial deposits), agricultural catchment with some industrial land use.
+Qmed Suitability,Gauged above QMED. Good fit to gaugings.
+Pooling Suitability,Gauged to within 2% of AMAX3. Good fit to gaugings.
+[END]

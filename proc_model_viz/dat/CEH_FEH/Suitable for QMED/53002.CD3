@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 53002
+[END]
+[CDS DETAILS]
+NAME,Semington Brook
+LOCATION,Semington
+NOMINAL AREA,  153.34
+NOMINAL NGR,3907,1605
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,390750,160550
+CENTROID NGR,GB,397340,157744
+DTM AREA,  153.34
+ALTBAR,  89
+ASPBAR,317
+ASPVAR,0.10
+BFIHOST,0.564
+DPLBAR, 13.18
+DPSBAR, 48.0
+FARL,0.987
+FPEXT,0.1213
+LDP, 24.34
+PROPWET,0.34
+RMED-1H, 10.2
+RMED-1D, 30.3
+RMED-2D, 40.1
+SAAR, 712
+SAAR4170, 756
+SPRHOST,33.01
+URBCONC1990, 0.627
+URBEXT1990,0.0261
+URBLOC1990, 1.142
+URBCONC2000, 0.776
+URBEXT2000,0.0299
+URBLOC2000, 1.137
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Formalised trapezoidal section installed in 1970 to replace previous velocity-area station. Bed-mounted hydro-acoustic gauge installed in 2006. GENERAL: Station located 3km upstream of the confluence with the River Avon in operation since 1947. Formalised trapezoidal section with a 6m wide non-standard weir and a cableway. Replaced downstream velocity-area station in 1970 (superseded due to low banks and backwater from the Avon at high flows). Bed-mounted hydro-acoustic gauge installed 09/2006. STATION HYDROMETRY: Flow measurement is imprecise at medium to high flows. One rating applied across period of record. Station rated to 19.83 cumecs. There are significant errors in the rating curve at high flows due to backwater effects from the River Avon. FLOW RECORD: Flood records for period prior to 04/1970 (before installation of formalised trapezoidal section) are poor. FLOW REGIME: Flows influenced by some groundwater pumping & surface water abstractions. Mill operation upstream. Runoff increased by effluent returns.
+CATCHMENT,Catchment flat and low-lying, mainly clay with steeper Chalk eastern boundaries. Kimmeridge and Gault Clay producing fairly sharp response to rainfall. Land use is predominantly rural. No major catchment changes.
+Qmed Suitability,Gauged above QMED. Some scatter in gaugings evident.
+Pooling Suitability,Gauged to within 7% of AMAX3. However, rating is uncertain due to backing up from Avon confluence.
+[END]

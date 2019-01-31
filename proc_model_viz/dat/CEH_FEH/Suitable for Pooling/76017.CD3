@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 76017
+[END]
+[CDS DETAILS]
+NAME,Eden
+LOCATION,Great Corby
+NOMINAL AREA, 1371.70
+NOMINAL NGR,3468,5553
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,346750,555350
+CENTROID NGR,GB,360686,522370
+DTM AREA, 1371.70
+ALTBAR, 284
+ASPBAR,330
+ASPVAR,0.08
+BFIHOST,0.509
+DPLBAR, 61.17
+DPSBAR,124.9
+FARL,0.955
+FPEXT,0.0615
+LDP,105.81
+PROPWET,0.65
+RMED-1H, 10.9
+RMED-1D, 42.8
+RMED-2D, 58.4
+SAAR,1273
+SAAR4170,1327
+SPRHOST,36.89
+URBCONC1990,-9999.000
+URBEXT1990,0.0028
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0049
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Non-standard compound Crump weir gauging responsive catchment. Ullswater has a significant effect on Eamont flows. GENERAL: Non-standard compound Crump weir. Was designed as a multifunctional station to also allow and count fish migration, and has 1:2 upstream slope, 1:7.3 downstream slope. Side sections approx 14.5m wide, central low flow section 1.458m wide with crest 0.5m below side weirs. Opened December 1996 to replace Warwick Bridge (76002). STATION HYDROMETRY: Until 1999, surging was a serious problem at this site, especially when gauging high flows. Baffles fitted and surging was reduced. One peak flow rating applied across period of record. Rating for low and medium flows derived from gaugings, high flows from hydraulic modelling. FLOW RECORD: December 2010 daily flows may have been affected by freezing conditions. Period of overlap with Warwick Bridge shows good correlation at high flows. FLOW REGIME: Responsive catchment, with flows influenced by Ullswater and Haweswater and Wet Sleddale reservoirs.
+CATCHMENT,Large catchment with mixed geology. Horseshoe shaped outcrop of Carboniferous Limestone forms south and east watersheds in Pennines; lakes drain Ordovician Borrowdale volcanics. Main Vale of Eden is Boulder Clay overlying Sherwood sandstone. Land-use variable; moorland to arable with little urbanisation. No significant catchment changes.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged beyond AMAX3. Rating extended using hydraulic modelling
+[END]

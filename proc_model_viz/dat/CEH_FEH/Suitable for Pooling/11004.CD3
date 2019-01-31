@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 11004
+[END]
+[CDS DETAILS]
+NAME,Urie
+LOCATION,Pitcaple
+NOMINAL AREA,  195.44
+NOMINAL NGR,3721,8259
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,372100,826000
+CENTROID NGR,GB,362209,828798
+DTM AREA,  195.44
+ALTBAR, 206
+ASPBAR, 92
+ASPVAR,0.16
+BFIHOST,0.562
+DPLBAR, 15.36
+DPSBAR, 88.4
+FARL,0.996
+FPEXT,0.0458
+LDP, 26.49
+PROPWET,0.53
+RMED-1H,  8.1
+RMED-1D, 33.5
+RMED-2D, 45.5
+SAAR, 870
+SAAR4170, 882
+SPRHOST,31.70
+URBCONC1990,-9999.000
+URBEXT1990,0.0028
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0026
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station replace 11801. GENERAL: Velocity area station about 16m wide. Station replaced 11801. STATION HYDROMETRY: Natural control and cableway rated. All flows contained. Good low flow performance. Some bypassing occurs at high flows (water shortcuts the meander immediately upstream and joins the river d/s of gauging station). Only one peak flow rating is used for this record. Rating derived from current meter gaugings up to 1.8m, extended up to 3.25m on survey/model points and extrapolated from 3.4m. Gaugings pre-1988 are referenced to different datum - not used for current rating. FLOW RECORD: 1984 minimum flow c0.6 cumecs. Pre-1988 flows calculated from staff gauge readings (high flows truncated at a gauge reading of 1m) - intermittent. FLOW REGIME: Natural regime, no abstractions. Responsiveness dampened by superficial deposits.
+CATCHMENT,Bedrock predominantly metamorphic. Moorland headwaters, substantial areas of mixed and arable farming below; forestry. Minimal floodplains. No significant catchment changes known.
+Qmed Suitability,No comment
+Pooling Suitability,No comment
+[END]

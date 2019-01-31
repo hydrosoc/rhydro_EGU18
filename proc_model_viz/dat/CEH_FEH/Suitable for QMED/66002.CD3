@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 66002
+[END]
+[CDS DETAILS]
+NAME,Elwy
+LOCATION,Pant yr Onen
+NOMINAL AREA,  218.51
+NOMINAL NGR,3021,3704
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,302050,370400
+CENTROID NGR,GB,291474,365507
+DTM AREA,  218.51
+ALTBAR, 269
+ASPBAR, 34
+ASPVAR,0.16
+BFIHOST,0.483
+DPLBAR, 22.89
+DPSBAR,129.6
+FARL,0.979
+FPEXT,0.0339
+LDP, 40.81
+PROPWET,0.58
+RMED-1H, 10.1
+RMED-1D, 42.8
+RMED-2D, 59.1
+SAAR,1145
+SAAR4170,1085
+SPRHOST,38.81
+URBCONC1990,-9999.000
+URBEXT1990,0.0004
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0008
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Rated section. Flow affected by PWS. Station closed in 1973. GENERAL: Rated section. Station closed in 1973. STATION HYDROMETRY: Section formed just u/s of a small tributary; thought to be far enough to avoid backwater affects. Medium-sized gravel bed. During a flood the peak on the tributary has probably passed before the main peak occurs. In extreme floods (>2.9m) the stations begins to be bypassed u/s on the left bank over a distance of 75m. No gaugings available above QMED. High flows may have been substantially underestimated. Multiple peak flow ratings applied across period of record, the most recent is valid from August 1971. The ratings found for this station are all very similar, diverging slightly beyond 2m. FLOW REGIME: Runoff reduced by public water supply abstraction.
+CATCHMENT,The Elwy catchment lies on impermeable Silurian Shales and Mudstones, with a small amount of Carboniferous Limestone and an extensive Boulder Clay cover. Land use is predominantly grassland, with some forestry in lower valley.
+Qmed Suitability,Gauged to within 5% of QMED. Good fit to ratings.
+Pooling Suitability,Few high flow gaugings. Rating can not be validated beyond QMED.
+[END]

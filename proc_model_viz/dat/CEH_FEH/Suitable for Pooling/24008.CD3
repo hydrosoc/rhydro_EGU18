@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 24008
+[END]
+[CDS DETAILS]
+NAME,Wear
+LOCATION,Witton Park
+NOMINAL AREA,  454.63
+NOMINAL NGR,4172,5309
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,417300,530900
+CENTROID NGR,GB,398807,536856
+DTM AREA,  454.63
+ALTBAR, 365
+ASPBAR, 91
+ASPVAR,0.20
+BFIHOST,0.338
+DPLBAR, 27.21
+DPSBAR,114.6
+FARL,0.970
+FPEXT,0.0239
+LDP, 50.14
+PROPWET,0.59
+RMED-1H, 10.2
+RMED-1D, 38.2
+RMED-2D, 50.2
+SAAR,1035
+SAAR4170,1071
+SPRHOST,46.36
+URBCONC1990,-9999.000
+URBEXT1990,0.0032
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0035
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station with informal flat V weir. Flow regime influenced by Burnhope and Tunstall reservoirs. GENERAL: Velocity area station with informal flat V weir (25.3m overall, approx 1:20 side slopes) low flow control of rectangular section. Cableway. STATION HYDROMETRY: Flat V prone to non-modularity and drowns at 0.815m. Flood banks both sides prevent bypassing. Gauge boards adjusted in July 2003 as a survey confirmed the average error as 70mm too low. Three peak flow ratings applied across period of record, the most recent is valid from May 1991 as subsidence expected. Gauging by cableway to flood levels. FLOW REGIME: Catchment contains Burnhope, Waskerley and Tunstall reservoirs (total direct catchment area 45 sq.km), and has a net export of water. Transfers by Kielder Tunnel from the Tyne catchment are made in drought years, entering the River Wear at Frosterley.
+CATCHMENT,Predominantly upland Pennine catchment on mainly Carboniferous Limestone and Millstone Grit, with just under half the catchment overlain by superficial deposits (Boulder Clay and peat). Nearly two thirds grass pasture, with extensive moorland in headwaters, mixed land use in the lower valley. No known catchment changes.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged beyond AMAX3. Flows well contained.
+[END]

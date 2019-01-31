@@ -1,0 +1,860 @@
+---
+title: "Processing, modelling and vizualising hydrological data in R"
+author: "<br> Alexander Hurley <br> a.g.hurley@pgr.bham.ac.uk <br> https://aglhurley.rbind.io"
+date: "May 05, 2018"
+output: 
+  html_document:
+    theme: flatly
+    highlight: tango
+    toc: yes
+    toc_float: yes
+    code_folding: show
+    number_sections: true
+    df_print: paged
+---
+
+
+```{r setup, echo=FALSE, cache=FALSE, include=FALSE}
+library(knitr)
+library(magrittr)
+
+## Global options
+options(max.print="80")
+opts_chunk$set(echo=FALSE,
+               cache=TRUE,
+               prompt=FALSE,
+               tidy=FALSE,
+               comment=NA,
+               message=FALSE,
+               warning=FALSE)
+opts_knit$set(width=80, 
+              fig.width = 10,
+              fig.height = 10)
+```
+
+
+
+# Introduction
+
+
+## Purpose
+
+This tutorial will showcase a set of R's most prominent and widely-applicable set of packages,  the `tidyverse`, and how it can be applied for hydrology work*flows*.
+
+<br>
+
+## Aproach
+
+Using (peak flow) data from the UK [National River Flow Archive](http://nrfa.ceh.ac.uk/) (NRFA), we will:
+
+- clean, tidy and explore
+- develop a scalable workflow for defining and applying statistical models (answering questions, cf. below)
+- set-up (visual) model assessment framework to communicate results 
+
+
+**Question:**
+
+- Q1: What impact does catchment area have on peak flows, and does it differ between countries?
+- Q2: Which catchment properties affect peak flows and which set of characteristics make up the most representative models?
+
+<br>
+
+# Why use the `tidyverse`?
+
+## We all want to..
+
+<br>
+
+<center>
+![ [Data analysis pipeline (taken from R4DS by H. Wickham)](http://r4ds.had.co.nz/introduction.html#what-you-will-learn) ](../img/tidy.png)
+
+</center>
+<br>
+
+
+## Tidy philosphy
+
+<big> [The `tidyverse` philosophy postulates](http://tidyverse.tidyverse.org/articles/manifesto.html): </big>
+
+- Reuse existing data structures.
+- Compose simple functions with the pipe.
+- Embrace functional programming.
+- Design for humans.
+
+<br>
+
+## Concept: Piping
+
+$$ data~\rightarrow~f(data,~paramaters)~\rightarrow~output$$
+
+> *data*  $\rightarrow$  **f**(*data*, parameters)  $\rightarrow$  outputs
+
+```{r exp, echo = T, eval = T}
+library(dplyr) # based on package magrittr, but loaded as dependency
+
+1:10 %>% mean()
+```
+<br>
+
+---
+
+<big>**More tangible example with iris data set**: </big>
+
+```{r iris_table, echo = F, rows.print=5}
+library(dplyr)
+
+iris %>%
+  select(Species,
+         Sepal.Length,
+         Sepal.Width,
+         Petal.Length,
+         Petal.Width) %>% # re-arrange data frame
+  head(20)
+
+
+# str(iris)
+```
+
+<br>
+<big> **Application:** </big>
+```{r pipe_example, echo=T}
+
+
+library(dplyr)
+
+iris %>%
+  group_by(Species) %>%
+  summarise_all(mean) %>%
+  as.data.frame()
+
+
+```
+
+---
+
+<br>
+
+## Concept: Mapping
+
+
+> *LIST* = (data1, data2, data3)  
+> *LIST* $\rightarrow$  **map**(*LIST*, **f**, parameters) $\rightarrow$   **f**(*LIST[i]*, parameters) $\rightarrow$  outputs  
+
+<br>
+
+The `purrr::map` family of functions (and others) allow for straight-forward functional programming and offer convenient functionalities. Try `map_int`, `map_dfr`, `modify_depth` and `possibly`
+
+
+
+
+```{r exp_lapply, echo=T, eval=T, rows.print = 6}
+library(purrr)
+
+
+example_list <- list(first = data.frame(val = 1:5),
+                     second = data.frame(val = 6:10), 
+                     third = data.frame(val = 11:15))
+
+example_result <- example_list %>% 
+  map_dfr(~mutate(.x, val2 = val*2),
+          .id = "identify_me")
+
+example_result
+
+
+```
+
+Useful (and powerful) approach for error-handling when using lists with unexpected data values with `possibly`:
+
+```{r exp_possibly, echo=T}
+
+example_list <- list(first = data.frame(val = 1:5),
+                     second = "not_a_number",
+                     third = data.frame(val = 11:15))
+
+# NOTRUN
+# lapply(example_list, sum)
+
+# this fails with:
+# Error in FUN(X[[i]], ...) : invalid 'type' (character) of argument
+```
+
+Instead, we make a "possibly function" to catch the error.
+
+```{r exp_possibly_apply, echo=T}
+possible_sum <- possibly(sum, otherwise = "I am a failure, forgive me.")
+lapply(example_list, possible_sum) # also works with map!
+
+```
+
+
+<br>
+
+---
+
+## Concept: Nesting
+
+Data frames can store just about anything. Interestingly, one cell in a data frame can be made up of an entire list. 
+
+This makes for highly useful data management and analyses approaches:
+
+<big>Application: </big>
+
+```{r exp_nest, rows.print = 3, echo = T}
+library(tidyr)
+
+
+# regular data frame
+iris
+
+# nested data frame
+nested_iris <- iris %>%
+  nest(-Species)
+nested_iris
+
+# add a model
+nested_iris <- 
+  nested_iris %>% 
+  mutate(model_1 = map(data, ~lm(Sepal.Length ~ Sepal.Width, data = .x)))
+nested_iris
+
+
+
+```
+
+<br>
+
+Think: hierarchichal data structures, meta data, multiple models, etc.  
+The nesting can be reversed by via `unnest(nested_iris)` to give a neat `data.frame`.
+
+---
+
+<br>
+
+# Getting the data
+
+The next sections will:
+
+- load necessary packages
+- download and read-in data using the dedicated UK NRFA package `rnfra`, and an archive of [catchment descriptors](http://nrfa.ceh.ac.uk/feh-catchment-descriptors), available [here](http://nrfa.ceh.ac.uk/winfap-feh-files).
+- tidy data and prepare for modelling
+
+
+## Set-up
+
+Load necessary packages and custom plotting theme:
+
+```{r pcks, echo = T, cache = F}
+
+# tidyverse packages - or just run: library(tidyverse)
+library(fs) # file management 
+library(dplyr) # data manipulation
+library(purrr) # functional programming
+library(magrittr) # data manipulation / tidy code
+library(ggplot2) # data viz
+library(broom) # tidy stats results 
+library(forcats) # tidy factors
+library(lubridate) # tidy dates
+library(tibble) # data frames with extra functionalities
+library(tidyr) # nesting and unnesting
+
+# Environmental and spatial data/analyses
+library(rnrfa) # flow archive
+library(rgdal) # spatial data sets
+
+# custom theme
+source("./src/01_presentation.R")
+
+
+
+```
+
+---
+
+<br>
+
+
+## Peak Flows and Meta Data
+
+---
+
+**Note:** *Data from the UK National River Flow Archive*.  
+Please refer to http://nrfa.ceh.ac.uk/costs-terms-and-conditions prior to any re-use
+
+---
+
+
+```{r station_info, echo = T, cache = T, message=FALSE, max.print = 20, rows.print = 4}
+
+
+# Catchment and Peak Flow Data ----------------------------
+
+# Collect all station information using the rnrfa API
+
+all_stations <- catalogue() # rnfra::stationSummary available for meta data
+
+# remove some columns
+all_stations <- all_stations %>% 
+  select(-`ma-station-id`, 
+         -`maximum-gauging-stage-date-time`,
+         -`maximum-gauging-flow-date-time`,
+         -benchmark2,
+         -categories) 
+
+
+
+# columns where class change is necessary
+char2num <- c("catchmentArea", "altitude", "maximum-gauging-flow", "lat", "lon")
+
+all_stations[ ,char2num] %<>% map_dfc(as.numeric)
+
+
+
+
+
+# Next lines for adding country label based on lat/lon location
+
+# file info of shape files
+shp_files <- fs::dir_info(path = "./dat/GBR_adm",
+                          glob = "*.shp") #from http://www.diva-gis.org/datadown
+
+
+# read in UK admin. shape files
+gb_shp <- shp_files$path %>% 
+  map(readOGR)
+
+# select country level admin. demarkation and plot
+gb_countries <- gb_shp[[2]]
+plot(gb_countries)
+
+
+# adjust projection
+coordinates(all_stations) <- ~ lon + lat
+proj4string(all_stations) <- proj4string(gb_countries)
+
+
+# add labels
+all_stations<- all_stations@data %>% 
+  mutate(country =  over(all_stations, gb_countries[ ,"NAME_1"])[[1]])
+
+
+# make table
+all_stations %>% 
+  as.data.frame()
+
+```
+
+
+
+
+
+
+
+```{r exp_plot, echo = T, fig.align='center', cache = F, fig.width = 8, fig.height = 7}
+
+# exploratory plot 
+exp_catchment_area.plot <- all_stations %>% 
+  ggplot(aes(x = catchmentArea,
+             y = `maximum-gauging-flow`,
+             col = country,
+             text = paste("Name:",name))) + 
+  
+  geom_point(alpha = 0.5, show.legend = F) +
+  
+  theme_presi() +
+  ggtitle("Relationship between peak flow and catchment area") +
+  labs(y = "Peak flow (cumecs)", x = "Catchment area (sq km)") +
+  
+  facet_wrap(~country)
+
+exp_catchment_area.plot
+
+# Better at log scale?
+
+log_exp_catchment_area.plot <- exp_catchment_area.plot + 
+  scale_x_log10() +
+  scale_y_log10()
+
+log_exp_catchment_area.plot
+
+
+```
+
+---
+
+<br>
+
+## FEH Catchment Descriptors
+
+The [FEH catchment descriptor data](http://nrfa.ceh.ac.uk/winfap-feh-files) is stored in individual *\*.cd3* files per catchment (`id` as file name and unique identifier in file). They contain some preceding and trailing meta data in a non-rectangular format. We extract and skip lines as needed in a custom function to achieve a programmatic read-in.
+
+
+---
+
+**Note:** *Data from the UK National River Flow Archive*.  
+Please refer to http://nrfa.ceh.ac.uk/costs-terms-and-conditions prior to any re-use
+
+---
+
+```{r cd3_function, echo=F}
+
+# custom function to read in FEH files
+read_cd3 <- function(data){
+  
+  readr::read_csv(data, skip = 8) %>%
+    rbind(., 
+          set_names(
+            as.data.frame(
+              matrix(
+                colnames(.),
+                ncol = 2
+              )
+            ),
+            colnames(.)
+          )
+    ) %>%
+    set_names(nm = c("k", "v")) %>%
+    filter(!stringr::str_detect(.$k, "\\[.*")) %>%
+    tidyr::spread(key = "k", value = "v") %>%
+    mutate(id = readLines(data)[6] %>% as.numeric())
+}
+
+```
+
+
+
+```{r feh, echo=T, cache=T, eval = T, max.print = 20, rows.print = 5}
+
+
+# uses custom function read_cd3, source code available in raw document.
+
+
+cd3_data <- fs::dir_info("./dat/CEH_FEH/",
+                         glob = "*.CD3",
+                         recursive = T)$path %>%
+  map_dfr(read_cd3)
+
+cd3_data %>% head(20) %>% as.data.frame()
+
+cd3_data <- cd3_data %>% 
+  
+  # choose only non-text values to apply "is.numeric"
+  mutate_if(.predicate = function(x){
+    any(!stringr::str_detect(x, ".*[a-zA-Z]")==T & !is.na(x))},
+    .funs = as.numeric) %>%
+  
+  # select only numeric values
+  select_if(.predicate = is.numeric) %>% 
+  
+  # replace -9999 with NA
+  mutate_all(funs(replace(., .< -9000, NA))) 
+
+cd3_data %>% as.data.frame()
+
+
+
+```
+
+---
+
+<br>
+
+## Finalized data set
+
+The final data set will contain 
+
+- peak flow 
+- select meta data
+- [FEH catchment descriptor data](http://nrfa.ceh.ac.uk/winfap-feh-files)
+
+```{r join_data, echo=T,rows.print = 5, cache = F}
+
+
+# some wrangling
+all_stations <- all_stations %>% 
+  select(id, country, catchmentArea,  peak_flow_cumecs = `maximum-gauging-flow`)
+
+
+
+# join by id
+all_stations <- all_stations %>% 
+  left_join(cd3_data %>% 
+              mutate(id = as.character(id)),
+            by = 'id')
+
+
+all_stations %>% head(20) %>% as.data.frame()
+
+# select variables for modelling (i.e. after checking for multi-colinearity)
+all_stations <- all_stations %>% 
+  select(id, country, catchmentArea, peak_flow_cumecs,
+         DPSBAR, FARL, FPEXT, SPRHOST,PROPWET)
+
+all_stations <- all_stations[complete.cases(all_stations), ]
+
+# number of observations per country
+all_stations %>% dplyr::count(country) %>% as.data.frame()
+
+```
+
+---
+
+<br>
+
+# Statistical Modelling Workflow
+
+
+This sections outlines the definition and application of statistical models to answer our questions (recall: difference between countries; what controls peak flow). 
+
+In a first step we will apply a simple linear model, and then build upon `tidyverse`'s data-handling capabilities to expand our analyses. The chosen modelling framework is mainly for illustrative purposes and can easily be exchanged with GLM, LME, NLS, GAM, etc.
+
+---
+
+<br>
+
+## Q1: Does size matter?
+
+**Recall:**
+
+Q: What impact does catchment area have on peak flows, and does it differ between countries?
+
+---
+
+### Analyses:
+
+```{r resid_plot, fig.width = 8, fig.align='center', fig.height=5, echo = T}
+
+library(modelr)
+
+# transform peak flow and catchment area with log10 in new object
+p_data <- all_stations %>%
+  mutate(peak_flow_cumecs_log = log10(peak_flow_cumecs),
+         ca_log = log10(catchmentArea)) %>%
+  filter(is.finite(peak_flow_cumecs_log),
+         is.finite(ca_log))
+
+p_data
+
+
+
+# apply lm
+catchment_area_country.mod <- lm(peak_flow_cumecs_log ~ ca_log + country, data = p_data)
+catchment_area.mod <- lm(peak_flow_cumecs_log ~ ca_log, data = p_data)
+
+anova(catchment_area.mod, catchment_area_country.mod)
+
+
+# check summary
+catchment_area_country.mod %>% summary()
+
+# tidy look
+catchment_area_country.mod %>% broom::tidy()
+
+
+# add residuals to new object
+countries.resid <- p_data %>%
+  add_residuals(catchment_area_country.mod, var = "resid_ca_c")
+
+# Quick peak at the residuals (don't forget QQ and Leverage Plots..)
+countries.resid %>%
+  ggplot(aes(x = ca_log, y = resid_ca_c, col = country)) +
+  geom_ref_line(h = 0, colour = "gray60", size = 1) +
+  geom_point(size = 2, alpha = .6) +
+  theme_presi() +
+  facet_wrap(~country) +
+  labs(x = "log catchment area (sq km)", y = "log peak flow (cumecs)")
+
+
+
+```
+
+### Results (Part I)
+
+We compared two models, and found that including country enhances our ability to represent the relationship between peak flows and catchment area:
+
+- Peak flow increases approximately by an order of magnitude **($\beta_1$ = r coef(catchment_area_country.mod)[2] %>% round(2))** as we increase our catchment area by an order of magnitude (recall our  $log_{10}$ transformation)
+- This relationship holds for all countries, but peak flows at a given catchment area tend to be largest for **Wales ( > Scotland > Northern Irealand > England)**
+
+
+
+## Q2: Catchment characteristics
+
+**Recall:**
+
+- Which catchment properties affect peak flows and which set of characteristics make up the most representative models?
+
+---
+
+Understanding peak flows is crucial from a management perspective (e.g. risk, resources). Additonal insight may be gleaned by applying "region" specific models individually. To this end, we apply a series of models to a nested data frame (by country).
+
+Chosen catchment characteristics:
+
+- **DPSBAR**: Overall catchment steepness (mean Drainage Path Slope)
+- **FARL**: Flood Attenuation by Reservoirs and Lakes (< 0.8 strong attenuation)
+- **FPEXT**: Floodplain extent
+- **PROPWET**: proportion of time catchment soils are wet
+- **SPRHOST**: Standard percentage runoff (%), weighted by soil class across catchment
+
+### Analyses
+
+The next steps outline the definition and application of a series of models on the joined peak flow data set.
+
+---
+
+**1. Nest data frame:**
+
+
+
+
+```{r nested_models, echo = T, print.rows = 10, cache = F}
+
+# add transformed data for modelling
+p_data <- all_stations %>%
+  mutate(peak_flow_cumecs_log = log10(peak_flow_cumecs),
+         ca_log = log10(catchmentArea)) %>%
+  filter(is.finite(peak_flow_cumecs_log),
+         is.finite(ca_log))
+
+p_data
+
+
+# nest joined peak flow data set
+uk_nested <- p_data %>% 
+  tidyr::nest(-country)
+
+uk_nested %>% as.data.frame
+
+```
+
+<br>
+
+**2. Define models:**
+
+```{r prepare_models, echo=T}
+models <- list(
+  mod00_null_intercept = function(x){lm(peak_flow_cumecs_log ~ 1, data = x)},
+  
+  mod01_ca = function(x){lm(peak_flow_cumecs_log ~ ca_log, data = x)},
+  
+  mod02_ca_farl = function(x){lm(peak_flow_cumecs_log ~ 
+                                   ca_log + FARL, data = x)},
+  mod03_ca_sprhost = function(x){lm(peak_flow_cumecs_log ~ 
+                                      ca_log + SPRHOST, data = x)},
+  mod04_ca_fpext = function(x){lm(peak_flow_cumecs_log ~ 
+                                    ca_log + FPEXT, data = x)},
+  mod04_ca_propwet = function(x){lm(peak_flow_cumecs_log ~ 
+                                      ca_log + PROPWET, data = x)},
+  mod05_ca_farl_fpext = function(x){lm(peak_flow_cumecs_log ~ 
+                                         ca_log + FARL + FPEXT, data = x)},
+  mod06_ca_farl_propwet = function(x){lm(peak_flow_cumecs_log ~ 
+                                           ca_log + FARL + PROPWET, data = x)},
+  mod07_ca_farl_propwet_fpext = function(x){lm(peak_flow_cumecs_log ~ 
+                                                 ca_log + FARL + PROPWET + FPEXT, data = x)},
+  
+  mod08_ca_farl_fpext_sprhost_propwet = function(x){lm(peak_flow_cumecs_log ~ 
+                                                         ca_log + FARL + FPEXT + SPRHOST + PROPWET, data = x)}
+  
+)
+```
+
+<br>
+
+**3. Custom function to apply models on nested data frame**:
+
+```{r app_model_fun, echo=T}
+
+
+apply_model <- function(.model, nested_df){
+  
+  # takes data column from nested df and "loops"/maps over it
+  # to apply models then
+  # adds a model column to the nested data frame
+  nested_df$model <- map(nested_df$data, possibly(.model, otherwise = NULL))
+  
+  
+  # returns nested data frame
+  return(nested_df)
+}
+
+
+
+```
+
+**4. Apply models using custom function:**
+
+```{r apply_models, echo = T, rows.print = 7, cache = F}
+
+uk_nest <- models %>% 
+  
+  # use custom function and add id column
+  map_df(apply_model, uk_nested, .id = "id_model") %>% 
+  
+  # carry over pertinent columns
+  select(id_model, country, model) %>% 
+  
+  # add model coefficients and performance metrics to data frame.
+  mutate(coefficients = map(model, tidy),
+         performance = map(model, glance)) %>% 
+  select(-model)
+
+uk_nest %>% head(20)
+
+
+```
+
+**5. Model assessment - coefficients:**
+
+```{r model_assessment, echo=T, fig.height = 7, fig.align='center', fig.width = 10, cache = F}
+
+# unnest data frame, dropping other nested column
+uk_coefficients <- uk_nest %>%
+  unnest(coefficients, .drop = T)
+
+# add columns with factors for plotting/classification
+# re-order factors for plotting with fct_relevel
+uk_coefficients <- uk_coefficients %>% 
+  mutate(estimate_factor = ifelse(p.value < 0.05,
+                                  ifelse(estimate > 0,
+                                         "positive",
+                                         "negative"),
+                                  "not sign.") %>% 
+           fct_relevel("positive", "negative"),
+         id_model = fct_relevel(as.factor(id_model), "mod00_null_intercept"),
+         id_model_num = id_model %>% as.numeric()) 
+
+
+
+uk_coefficients %>% as.data.frame() %>% head(20)
+
+
+
+
+
+
+
+coef.plot <- uk_coefficients %>% 
+  
+  # select subset of models for plotting/discussion
+  filter(id_model_num %in% c(2,5,6,7,8)) %>% 
+  
+  ggplot(aes(y = estimate,
+             x = term, fill = estimate_factor)) +
+  
+  geom_bar(stat = "identity", position = "dodge",col = "gray20") +
+  coord_flip() +
+  facet_grid(id_model_num~country, scales = "free_y") +
+  
+  geom_hline(yintercept = 0, linetype = 2, col = "darkgrey") +
+  
+  theme_presi() +
+  theme(panel.grid.major.x = element_blank(),
+        panel.grid.minor.x = element_blank(),
+        legend.position = "top",
+        axis.text.x = element_text(angle = 0)) +
+  scale_fill_manual(name = "Estimate", values = c("negative" = "darkred",
+                                                  "positive" = "steelblue",
+                                                  "not sign." = "grey95")) 
+
+coef.plot
+
+```
+
+<br>
+
+### Results (Part I)
+
+- Differences in effect size between countries (e.g. floodplain extent, proportion wet).
+- Floodplain extent and proportion of wet catchment area largest effects.
+- *Note:* A full analyses would require a look at residuals, QQ-plots, and leverages.
+
+
+---
+
+**6. Model assessment - relative and absolute fit:**
+
+```{r aic_plot_func, echo=F}
+
+aic_plot <- function(){
+  aic.plot <-  uk_performance %>% 
+    ggplot(aes(x = id_model, y = dAIC, group = 1, label = round(adj.r.squared,2))) +
+    geom_line(linetype = 2) +
+    geom_label(aes(label = as.character(round(adj.r.squared,2)),
+                   fill = minAIC),color = "white", size = 5) +
+    facet_grid(country~., scales = 'free_y') +
+    theme_presi() +
+    theme(panel.grid.major.y = element_line(color = "gray90"),
+          panel.border = element_blank(),
+          panel.spacing = unit(2, "lines"),
+          axis.text.x = element_text(angle = 30, hjust = 1),
+          plot.title = element_text(hjust = 0),
+          plot.subtitle = element_text(colour = 'gray60'),
+          legend.position = "top") +
+    scale_y_continuous(expand = c(0.1,0)) +
+    scale_fill_manual(name = "AIC comparison", 
+                      values = c("less support" = "darkred",
+                                 "keep" = "steelblue1")) +
+    labs(x = "Model", y = "delta AIC") +
+    ggtitle(label = "Model selection", subtitle = "via relative and absolute goodness of fit")
+  
+  return(aic.plot)
+}
+
+```
+
+
+
+```{r aic_plot, echo = T, fig.width=10, fig.height=11, cache = F}
+
+
+uk_performance <- uk_nest %>%
+  tidyr::unnest(performance, .drop = T)
+
+uk_performance <- uk_performance %>% 
+  filter(id_model != "mod00_null_intercept") %>% 
+  group_by(country) %>% 
+  arrange(AIC, .by_group = T) %>% 
+  rename(AIC_val = AIC) %>% 
+  mutate(dAIC = AIC_val - min(AIC_val),
+         minAIC = ifelse(dAIC < 10 ,"keep", "less support"))
+
+
+uk_performance %>% as.data.frame() %>% head(20)
+
+# custom function based on gglplot2, code available in raw *.rmd document
+aic_plot()
+
+```
+
+### Results (Part II)
+
+
+- Lowest $\Delta AIC$ associated with high(est) $R^2$ (likely from over-fitting at small sample sizes, remaining co-linearity, etc.)
+- Potentially resolved by using criterion that penalizes more for larger number of included covariates (e.g. $AIC_c$, $BIC$, etc.)
+- Continue anylseswith models selected based on agreement with assumptions (QQ-plots, etc.), predictive power ($R^2$), likelihood as well as information content ($\Delta AIC$ or others) and use averages of best model set.
+
+---
+
+<br>
+
+# Conclusion
+
+<big>
+
+- Identified peak flow differences between countries and catchment characteristics that may drive peak flow magnitude
+
+Developed analyses work flow that:
+
+  * can be applied for different settings/fields
+  * is scalable and adaptable
+  * aids in communicating results
+  
+- Using the `tidyverse` is not a bad idea at all!
+
+<big>
+
+---
+
+
+
+
+

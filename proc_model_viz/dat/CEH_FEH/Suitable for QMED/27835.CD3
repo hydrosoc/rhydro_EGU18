@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 27835
+[END]
+[CDS DETAILS]
+NAME,Calder
+LOCATION,Dewsbury
+NOMINAL AREA,  715.75
+NOMINAL NGR,4243,4215
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,424300,421450
+CENTROID NGR,GB,407279,420338
+DTM AREA,  715.75
+ALTBAR, 249
+ASPBAR, 88
+ASPVAR,0.17
+BFIHOST,0.520
+DPLBAR, 30.16
+DPSBAR,122.6
+FARL,0.946
+FPEXT,0.0346
+LDP, 53.99
+PROPWET,0.51
+RMED-1H, 11.0
+RMED-1D, 42.1
+RMED-2D, 57.1
+SAAR,1141
+SAAR4170,1144
+SPRHOST,31.45
+URBCONC1990, 0.708
+URBEXT1990,0.0699
+URBLOC1990, 0.636
+URBCONC2000, 0.790
+URBEXT2000,0.0874
+URBLOC2000, 0.675
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Ultrasonic station replaced level-only station in 2000. Catchment is heavily reservoired. GENERAL: Ultrasonic station built October 2000. Situated on a meander 30m wide, around 0.6km d/s of where the Dewsbury Flood Defence Channel rejoins the River Calder. Vertical sided masonry walls include a step for a walkway (gives step in rating). Natural channel was canalised in early 1970s (finished end of 1974). Replaced existing river level-only station. Level-only station built in April 1964, and had a pressure transducer from 1975. STATION HYDROMETRY: No known bypassing. Peak flow rating based on check gaugings used to infill periods where the ultrasonic gauge fails. FLOW REGIME: Catchment is heavily reservoired, mainly by small impoundments, but including Walshaw Dean. Estimated 12.2% of catchment drains through around 20 reservoirs. Some abstraction to supply Yorkshire Grid.
+CATCHMENT,Catchment draining the eastern flank of the Pennines. The geology is predominantly Upper Carboniferous Millstone Grit but includes Lower Coal Measures. Headwaters rise from peat-covered moorland. From rough grazing, very steep, often wooded headwater valleys cut down through Millstone Grit. The valley floors are strongly urbanised and industrialised. Increasing urbanisation in valley bottom towns.
+Qmed Suitability,Ultrasonic derived flows thought to be reliable to QMED.
+Pooling Suitability,Ultrasonic is thought to under-estimate peak flows and reliability problems during flood events.
+[END]

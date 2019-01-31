@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+  8009
+[END]
+[CDS DETAILS]
+NAME,Dulnain
+LOCATION,Balnaan Bridge
+NOMINAL AREA,  272.20
+NOMINAL NGR,2977,8247
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,297700,824750
+CENTROID NGR,GB,285087,819396
+DTM AREA,  272.20
+ALTBAR, 461
+ASPBAR, 94
+ASPVAR,0.19
+BFIHOST,0.498
+DPLBAR, 21.22
+DPSBAR,117.9
+FARL,0.994
+FPEXT,0.0505
+LDP, 44.15
+PROPWET,0.68
+RMED-1H,  9.1
+RMED-1D, 33.1
+RMED-2D, 46.8
+SAAR,1012
+SAAR4170,1056
+SPRHOST,46.63
+URBCONC1990,-9999.000
+URBEXT1990,0.0002
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0006
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station in upland catchment draining into the Spey. GENERAL: Velocity area station about 22m wide. Flood warning station. STATION HYDROMETRY: Cableway rated with natural control, subject to relatively frequent change but generally good low flow calibration. Bypassing occurs at extreme flows on rb at levels above 2.5m. Well-fitted peak flow rating derived from current meter gaugings up to 151 cumecs (about 1.5QMED), simple extrapolation beyond. Peak flow rating was revised in 1999 and a new single rating for peak flows only was judged to be suitable for whole period of record. FLOW RECORD: Patchy daily flow records for mid-1950s. Frozen catchment can produce notable low flows (e.g. 22/1/85). FLOW REGIME: Natural regime, not affected by diversions or storage.
+CATCHMENT,Upland catchment; mountainous headwaters, often snowy in winter. Granites and Moinian metamorphic rocks dominate bedrock geology; significant superficial deposits. Landuse is moorland and forestry with some pastoral in valley bottoms. Minimal floodplain. No significant catchment changes known.
+Qmed Suitability,Suitable for QMED estimation.
+Pooling Suitability,Suitable for inclusion in pooling groups.
+[END]

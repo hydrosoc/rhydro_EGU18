@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 55018
+[END]
+[CDS DETAILS]
+NAME,Frome
+LOCATION,Yarkhill
+NOMINAL AREA,  143.82
+NOMINAL NGR,3614,2427
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,361500,242700
+CENTROID NGR,GB,364133,252327
+DTM AREA,  143.82
+ALTBAR, 138
+ASPBAR,174
+ASPVAR,0.13
+BFIHOST,0.567
+DPLBAR, 18.01
+DPSBAR, 68.0
+FARL,0.991
+FPEXT,0.0644
+LDP, 35.73
+PROPWET,0.32
+RMED-1H, 10.6
+RMED-1D, 32.9
+RMED-2D, 41.6
+SAAR, 706
+SAAR4170, 730
+SPRHOST,39.21
+URBCONC1990, 0.505
+URBEXT1990,0.0105
+URBLOC1990, 0.974
+URBCONC2000, 0.693
+URBEXT2000,0.0087
+URBLOC2000, 1.166
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station using a road bridge with a flat, insensitive invert and an adjacent box culvert as low and medium range controls. GENERAL: Velocity area station using a road bridge with a flat, insensitive invert and an adjacent box culvert as low and medium range controls. Approx bankfull stage width is 12m. Broad floodplains operate above 2m when the Lodon tributary may bypass station via Watery Lane on right bank. Floodplain on left bank (above 2.5m) is very wide (1/2 mile). STATION HYDROMETRY: Station uses a road bridge with a flat, insensitive invert and an adjacent box culvert as low and medium range controls. Broad floodplains operate above 2m when the Lodon tributary may bypass station on Rb. Two peak flow ratings applied across period of record. Distinct rating change in 1995 to account of increased vegetation within approach channel. Some scatter in high flow check gaugings, but rating reasonable to bank full FLOW RECORD: No DMFs 15-26/9/98 due to recalibration problems at the station. FLOW REGIME: Mainly natural flow regime; runoff increased by effluent returns.
+CATCHMENT,Catchment of Lower Frome D/s of 55028 is underlain by the marl strata of the Lower Old Red Sandstone. Bounded to the north by the Ordovician inliers of Shucknall Hill and Bertestree. To the south bounded by the Silurian strata of the Woolhope Dome. Subdued relief, relatively low rainfall. Entirely rural, predominantly arable farming in lower areas with livestock on higher ground.
+Qmed Suitability,Rating extrapolated at QMED but validated by check gaugings.
+Pooling Suitability,Gauged to within 14% of AMAX3. but rating does not consider bypassing flow on the floodplain.
+[END]

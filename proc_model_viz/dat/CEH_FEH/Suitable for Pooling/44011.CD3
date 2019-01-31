@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 44011
+[END]
+[CDS DETAILS]
+NAME,Asker
+LOCATION,East Bridge Bridport
+NOMINAL AREA,   48.52
+NOMINAL NGR,3470, 927
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,347000,92750
+CENTROID NGR,GB,351377, 95390
+DTM AREA,   48.52
+ALTBAR, 100
+ASPBAR,251
+ASPVAR,0.16
+BFIHOST,0.696
+DPLBAR,  7.31
+DPSBAR,138.4
+FARL,0.994
+FPEXT,0.0249
+LDP, 12.41
+PROPWET,0.38
+RMED-1H, 11.1
+RMED-1D, 38.4
+RMED-2D, 47.6
+SAAR, 924
+SAAR4170, 979
+SPRHOST,26.49
+URBCONC1990, 0.536
+URBEXT1990,0.0107
+URBLOC1990, 0.310
+URBCONC2000, 0.719
+URBEXT2000,0.0154
+URBLOC2000, 0.289
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Flat V Crump weir with Ultrasonic added in 2005 in the responsive catchment of the River Asker. GENERAL: Station replaced Bridport (44003) in March 1996 at the same location but in a greatly modified channel, so held as separate stations. STATION HYDROMETRY: Flat 'V' Crump profile weir, 6.3m wide (0.618m above weir crest width increases to 7.3m). Ultrasonic added in 2005 and used as primary flow measurement method when stage exceeds 0.957m. Modified channel means bypassing is no longer an issue. Two peak flow ratings across the period of record. The first is a modification of the rating for 44003 derived with additional 'drowned' limb starting at a stage of 0.957m. Current rating for flat V theoretical to 0.154m, best fit to gaugings to 0.957m and derived from ultrasonic beyond 0.957m. FLOW REGIME: Rapidly responding flow regime makes gauging difficult.
+CATCHMENT,Responsive catchment due to steep slopes on Liassic clay and marl.
+Qmed Suitability,Ratings pre and post station move fit to corresponding gaugings well.
+Pooling Suitability,Confident in ultrasonic derived rating limb.
+[END]

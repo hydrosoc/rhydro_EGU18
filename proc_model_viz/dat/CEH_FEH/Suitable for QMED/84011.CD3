@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 84011
+[END]
+[CDS DETAILS]
+NAME,Gryfe
+LOCATION,Craigend
+NOMINAL AREA,   86.87
+NOMINAL NGR,2414,6663
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,241450,666350
+CENTROID NGR,GB,232560,668504
+DTM AREA,   86.87
+ALTBAR, 176
+ASPBAR, 76
+ASPVAR,0.30
+BFIHOST,0.449
+DPLBAR, 13.71
+DPSBAR, 71.8
+FARL,0.930
+FPEXT,0.0759
+LDP, 25.47
+PROPWET,0.61
+RMED-1H, 11.2
+RMED-1D, 50.2
+RMED-2D, 70.6
+SAAR,1837
+SAAR4170,1745
+SPRHOST,40.97
+URBCONC1990, 0.739
+URBEXT1990,0.0178
+URBLOC1990, 0.408
+URBCONC2000, 0.761
+URBEXT2000,0.0135
+URBLOC2000, 0.430
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station. Flows significantly affected by Loch Thom and Gryfe Reservoir in the west. GENERAL: Velocity area station with cableway (about 20m wide), curving broad-crested masonry weir control (on gentle bend), weir crest 0.24m. 11/96-3/97 weir collapsed; from 1/4/97 weir stabilised (datum changed). Weir repairs completed in Feb 2000. STATION HYDROMETRY: Weir drowns at high flows. Lb overtopped at 1.1m at the station and 1.6m downstream of the weir. Peak flow rating from current meter gaugings. 1st rating (1963-81) highest spot gauging up to about 0.75 QMED; 2nd (1981-97) up to about 0.7 QMED; 3rd rating (1997-2000) up to about 0.5 QMED; 4th (post 2000) up to 0.9 QMED, simple extrapolation beyond. FLOW RECORD: Some monthly naturalised flows (1964-74). FLOW REGIME: Responsive. Significant affect of L. Thom and Gryfe Res. in W. Runoff augmented by compensation flows and spillages from reservoired catchment (11.6 sq.km).
+CATCHMENT,Wet, responsive upland catchment draining from Duchal Moor. Geology: Carboniferous basaltic lavas; isolated pockets of Boulder Clay in valleys. Extensive cover of raised beach deposits W of gauging site. Land use: predominantly grazing, some forestry. Urban development along valley. No significant catchment changes known.
+Qmed Suitability,No comment
+Pooling Suitability,goes out of bank slightly above QMED, several significant changes to rating relationship though more spot gauging info really required for confidence
+[END]

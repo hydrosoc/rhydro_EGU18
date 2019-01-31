@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 36011
+[END]
+[CDS DETAILS]
+NAME,Stour Brook
+LOCATION,Sturmer
+NOMINAL AREA,   34.24
+NOMINAL NGR,5696,2440
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,569650,244100
+CENTROID NGR,GB,565535,246165
+DTM AREA,   34.24
+ALTBAR,  98
+ASPBAR,101
+ASPVAR,0.15
+BFIHOST,0.381
+DPLBAR,  6.60
+DPSBAR, 33.5
+FARL,0.999
+FPEXT,0.0603
+LDP, 13.90
+PROPWET,0.26
+RMED-1H, 10.9
+RMED-1D, 28.6
+RMED-2D, 36.8
+SAAR, 592
+SAAR4170, 624
+SPRHOST,44.63
+URBCONC1990, 0.714
+URBEXT1990,0.0554
+URBLOC1990, 0.588
+URBCONC2000, 0.845
+URBEXT2000,0.1004
+URBLOC2000, 0.611
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,'Essex' profile weir gauging a small, groundwater-influenced catchment with significant artificial influences. GENERAL: 'Essex' profile (modified Flat V Crump) weir with crest tapping, insensitive. STATION HYDROMETRY: Modular limit approx. 5.0 cumecs. Rating accounts for non-modular flow. One rating applied across period of record. FLOW RECORD: No POT data are presented for this station as they have no non-modular flow correction applied. AMAX data have been corrected, but in some cases can be below the daily flow as these are not corrected. Flood in Sept 1968 inundated the station and has been separately estimated. Adjustments were made for industrial and sewage effluent and gw abstractions from 1968 to 1976. FLOW REGIME: Gw-influenced regime. Runoff reduced by industrial/agricultural abstraction. Station is immediately d/s of Haverhill - urban runoff and STW discharges cause short, sharp peaks.
+CATCHMENT,Chalk with superficial deposits, mainly Boulder Clay. Upper catchment is mainly rural (arable farming), considerable urban development (Haverhill) in lower catchment.
+Qmed Suitability,Gauged above QMED. Reasonable fit to available gaugings.
+Pooling Suitability,Gauged to within 9% of AMAX3. Reasonable fit to out of bank gaugings although there is greater scatter in above this level.
+[END]

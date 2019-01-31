@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 54006
+[END]
+[CDS DETAILS]
+NAME,Stour (Worcs)
+LOCATION,Kidderminster Callows Lane
+NOMINAL AREA,  323.38
+NOMINAL NGR,3830,2768
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,383000,276800
+CENTROID NGR,GB,388302,287265
+DTM AREA,  323.38
+ALTBAR, 114
+ASPBAR,254
+ASPVAR,0.08
+BFIHOST,0.655
+DPLBAR, 24.13
+DPSBAR, 59.7
+FARL,0.978
+FPEXT,0.0543
+LDP, 46.92
+PROPWET,0.30
+RMED-1H, 10.7
+RMED-1D, 31.1
+RMED-2D, 38.8
+SAAR, 693
+SAAR4170, 701
+SPRHOST,26.95
+URBCONC1990, 0.834
+URBEXT1990,0.1653
+URBLOC1990, 1.199
+URBCONC2000, 0.910
+URBEXT2000,0.2266
+URBLOC2000, 1.217
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,US station opened in 1987 to replace Kidderminster Gilt Edge (54906) a short distance upstream - providing a continuous combined series of flows in the Stour since 1954. GENERAL: Station opened in 1987 to replace Kidderminster Gilt Edge (54906), which was a short distance upstream. Velocity-area station in formalised trapezoidal channel. All flows contained. Cableway moved from Gilt Edge to Callows Lane in 1995. An ultrasonic station from July 1990, located beneath the Kidderminster bypass and formed by the 4m high walls of the box culvert beneath this road bridge. All flows contained. There is a natural control 20m downstream of this bridge. Much silt, which moves about on the bed & builds up on transducers, but probably does not affect high flows. Rating not applied once ultrasonic installed. In terms of data quality, the ultrasonic station could probably be classed as OK for pooling. However, since 2003 the Puxton flood alleviation scheme limits major events (see Artificial influences), so in terms of hydrology station probably "Not OK for pooling" after 2003. Ultrasonic record (from July 1990) combined with Gilt Edge, as have same indicative suitability. STATION HYDROMETRY: All flows contained. Cableway moved from Gilt Edge to Callows Lane in 1995. Site affected by silt, which moves about on the bed & builds up on transducers, but probably does not affect high flows. Ultrasonic reportedly under-records at low flows and its effect on high flows is unknown. The ultrasonic station could be classed as OK for pooling. However, since 2003 the Puxton flood alleviation scheme limits major events, so in terms of hydrology station probably "Not OK for pooling" after 2003.Rating not applied once ultrasonic installed. FLOW RECORD: Flow record is the combined series for Gilt Edge and Callows Lane (including peak flows as stations have the same indicative suitability). It is known that the period-of-record maximum flow occurred on 27 Mar 1955, but the magnitude cannot be verified because of the historical changes at the site - an alternative peak in Dec 2000 is listed as the maximum in the Hydrometric Register. 2011 flows still subject to further processing with development of new rating. FLOW REGIME: A flood storage scheme commissioned in 2003 at Puxton (upstream) restricts flows at Kidderminster and truncates all major events. Groundwater pumping for PWS and industry leads to substantial augmentation from sewage and industrial effluents.
+CATCHMENT,Low relief, substantially urbanised catchment. Higher ground on flanks of river drain marls and s'st (Upper Coal Measures) but a faulted trough of Sherwood Sandstone is the major feature. Some Boulder Clay and valley gravel.
+Qmed Suitability,Ultrasonic (1990 onwards) thought to perform well at QMED.
+Pooling Suitability,Large artificial influences (since 2003) means that peak flows are a reflection of Puxton flood alleviation scheme rather than catchment characteristics.
+[END]

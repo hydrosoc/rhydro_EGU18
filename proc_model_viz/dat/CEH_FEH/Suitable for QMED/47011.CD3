@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 47011
+[END]
+[CDS DETAILS]
+NAME,Plym
+LOCATION,Carn Wood
+NOMINAL AREA,   79.50
+NOMINAL NGR,2521, 611
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,252150,61200
+CENTROID NGR,GB,256353, 66803
+DTM AREA,   79.50
+ALTBAR, 277
+ASPBAR,249
+ASPVAR,0.29
+BFIHOST,0.481
+DPLBAR, 11.67
+DPSBAR,104.0
+FARL,0.950
+FPEXT,0.0282
+LDP, 20.56
+PROPWET,0.48
+RMED-1H, 13.3
+RMED-1D, 54.0
+RMED-2D, 68.0
+SAAR,1617
+SAAR4170,1588
+SPRHOST,38.28
+URBCONC1990, 0.502
+URBEXT1990,0.0076
+URBLOC1990, 0.724
+URBCONC2000, 0.670
+URBEXT2000,0.0067
+URBLOC2000, 0.683
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Compound Crump weir built in 1971. GENERAL: Compound crump weir built in 1971. Centre crest of 3.5m and 2 flank crests of 4.5m. Total crest width 12.5m. STATION HYDROMETRY: Modular to around 1.6m, drowning occurs at high flows. One peak flow rating across period of record. Theoretical rating does not apply beyond top of wingwalls are they are very rarely overtopped and by very little. Only bypassed on largest floods of 1979 and 2000. Tailwater recorder added 09/2007. At one time received diversions from the Dart via the Devonport Leat (~0.21 cumec), but this has now ceased. Flows from 2000 (reopening) onward reprocessed in 2007 following datum correction. Rating appears to underestimate flows beyond 0.8m. An Acoustic Doppler device installed in 09/2014 to confirm flows above 0.8m and identify the point and extent of drowning. FLOW RECORD: Station closed between 01/10/1981-17/04/2000. FLOW REGIME: Burrator Reservoir influences flows. The headwaters of Plym and Meavy rise on W Dartmoor granite and pass SW onto Upper Devonian slates. Insignificant areas of alluvium and river gravel exist, particularly between gauging station and Meavy-Plym confluence. Land use is moorland, forestry.
+CATCHMENT,The headwaters of Plym and Meavy rise on W Dartmoor granite downstream of Burrator Reservoir and pass SW onto Upper Devonian slates. Insignificant areas of alluvium and river gravel exist, most particularly between the gauging station and the Meavy-Plym confluence. Moorland catchment with forestry. No major changes apart from afforestation.
+Qmed Suitability,Gauged to within 18% of QMED. Estimates thought to be reasonable.
+Pooling Suitability,Few high flow gaugings. Flows are adjusted for drowning only from 2007.
+[END]

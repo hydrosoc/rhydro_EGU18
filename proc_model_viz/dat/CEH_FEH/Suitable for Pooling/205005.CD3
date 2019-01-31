@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+205005
+[END]
+[CDS DETAILS]
+NAME,Ravernet
+LOCATION,Ravernet
+NOMINAL AREA,   73.72
+NOMINAL NGR,3266,3612
+[END]
+[DESCRIPTORS]
+IHDTM NGR,Ireland,326650,361300
+CENTROID NGR,Ireland,332552,359609
+DTM AREA,   73.72
+ALTBAR, 100
+ASPBAR,231
+ASPVAR,0.09
+BFIHOST,0.422
+DPLBAR, 10.50
+DPSBAR, 55.8
+FARL,0.934
+FPEXT,0.1065
+LDP, 18.94
+PROPWET,0.52
+RMED-1H, 10.5
+RMED-1D, 37.9
+RMED-2D, 48.6
+SAAR, 946
+SAAR4170, 937
+SPRHOST,44.85
+URBCONC1990,-0.002
+URBEXT1990,0.0000
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0000
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Flat V weir station gauging a natural catchment with significant storage in headwater loughs. GENERAL: Station opened 1973, concrete Flat-V weir constructed 1977 previously a velocity area station and high-flow gauging bridge installed 1977. STATION HYDROMETRY: Flows contained. Weir requires cleaning in summer, though little deposition of material behind weir. Two peak flow ratings apply to period of record. High flow rating from current meter gaugings; simple extrapolation above 19.4 m3/s. More medium-flow gaugings required. Prior to weir installation rating based on current meter gaugings. FLOW RECORD: Daily flows from start of 1980 reprocessed in 2002. FLOW REGIME: Natural flow regime; significant storage in headwater loughs.
+CATCHMENT,Solid geology - Silurian greywacke sandstones and shales form indurated bedrock. Drift geology - upstream, rock near surface and drumlinised glacial till overlain by limited river alluvium (terraced). downstream, extensive glacial sand and gravel complex. Predominantly improved grassland with some horticulture (mainly potatoes). No significant urban development.
+Qmed Suitability,Maximum gauged flow 1.316 times QMED for Flat V weir, although for the velocity area station prior to weir installation ratio was not as favourable. Flows are contained at QMED
+Pooling Suitability,Full range of flows are contained within the channel. The weir does drown out but current meter gaugings are greater than 1.2.
+[END]

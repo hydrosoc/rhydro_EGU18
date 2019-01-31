@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 58007
+[END]
+[CDS DETAILS]
+NAME,Llynfi
+LOCATION,Coytrahen
+NOMINAL AREA,   51.00
+NOMINAL NGR,2890,1854
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,289100,185500
+CENTROID NGR,GB,286685,190142
+DTM AREA,   51.00
+ALTBAR, 212
+ASPBAR,167
+ASPVAR,0.13
+BFIHOST,0.474
+DPLBAR,  8.28
+DPSBAR,158.5
+FARL,0.997
+FPEXT,0.0302
+LDP, 17.53
+PROPWET,0.52
+RMED-1H, 12.5
+RMED-1D, 55.0
+RMED-2D, 73.0
+SAAR,1777
+SAAR4170,1874
+SPRHOST,36.93
+URBCONC1990, 0.653
+URBEXT1990,0.0374
+URBLOC1990, 1.147
+URBCONC2000, 0.775
+URBEXT2000,0.0539
+URBLOC2000, 1.120
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Flat V weir and velocity area station. Flow altered by industrial/agricultural abstraction and some effluent returns. GENERAL: Flat V weir and velocity area station. Bankfull channel width 9.1m. STATION HYDROMETRY: Weir 1:20 cross slopes; u/s 1:2; d/s 1:5. Full range. Station in steep valley where flows fairly well contained. Flashy response so obtaining high flow gaugings problematic. One peak flow rating applied across period of record. Upper limit at bank full with all flows contained and no major changes in cross section. FLOW REGIME: Flow altered by industrial/agricultural abstraction, some effluent returns.
+CATCHMENT,Coal Measures, some Boulder Clay and alluvium in valley. Mainly peaty soils, seasonally wet.Upland area with livestock farming, significant forest cover and urban development in valleys.
+Qmed Suitability,Gauged above QMED. Good fit to the available gaugings.
+Pooling Suitability,Gauged to within 24% of AMAX3. All recorded flows within bank.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 27040
+[END]
+[CDS DETAILS]
+NAME,Doe Lea
+LOCATION,Staveley
+NOMINAL AREA,   68.12
+NOMINAL NGR,4442,3746
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,444250,374600
+CENTROID NGR,GB,445465,369346
+DTM AREA,   68.12
+ALTBAR, 114
+ASPBAR, 18
+ASPVAR,0.13
+BFIHOST,0.433
+DPLBAR,  7.88
+DPSBAR, 62.1
+FARL,0.968
+FPEXT,0.0574
+LDP, 17.74
+PROPWET,0.38
+RMED-1H, 10.7
+RMED-1D, 34.1
+RMED-2D, 41.6
+SAAR, 708
+SAAR4170, 717
+SPRHOST,32.60
+URBCONC1990, 0.684
+URBEXT1990,0.0564
+URBLOC1990, 0.755
+URBCONC2000, 0.846
+URBEXT2000,0.0604
+URBLOC2000, 0.825
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Rectangular flume affected by subsidence in the past. GENERAL: Rectangular critical-depth flume (throat width 3m, bed-hump 0.3m) in concrete trapezoidal channel (2:3 side slopes, 5.5m wide). Hump and downstream slopes form the control. No cableway. Constructed by diversion of river. Mining subsidence caused the flume to tilt. The flume appears to have been stable since 2002. STATION HYDROMETRY: No known bypassing. Two ratings applied across period of record. Theoretical rating used but then structure affected by mining subsidence, subsequently, current meter rating developed and applied from July 1970. The most recent is valid from September 1996. Rating confirmed by current meter gaugings which fit well to rating. 1970-1996 rating has not been modified due to uncertainties in the timing and impact of known subsidence at the structure. FLOW RECORD: Truncation of early charts due to lack of range. Pre-1996 high flows are less reliable and are likely to be under-estimated as rating extrapolated beyond 0.4m. FLOW REGIME: Unusual flood response, with all AMAX tending towards a maximum. Large abstractions made upstream for coal washing. Small net import, including sewage effluent and mine drainage.
+CATCHMENT,A catchment draining a lowland, predominantly rural catchment southwest of Chesterfield. Draining both sides of the motorway, the river runs north, close to the M1 for most of its length. Mixed geology comprising Coal Measures, Permian Marls and Magnesium Limestone. Predominantly rural catchment. Substantial areas of mining tips with areas of urbanisation in lower reaches including Bolsover. Decline of coal mining industry over the period of record.
+Qmed Suitability,Gauged above QMED. Good fit to available gaugings and theoretical rating expected to perform well.
+Pooling Suitability,Highest gauging in 2007 is beyond AMAX1, and confirms rating.
+[END]

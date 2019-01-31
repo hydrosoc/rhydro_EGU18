@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 64006
+[END]
+[CDS DETAILS]
+NAME,Leri
+LOCATION,Dolybont
+NOMINAL AREA,   47.02
+NOMINAL NGR,2634,2880
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,263500,288050
+CENTROID NGR,GB,269501,288175
+DTM AREA,   47.02
+ALTBAR, 262
+ASPBAR,264
+ASPVAR,0.24
+BFIHOST,0.504
+DPLBAR,  9.22
+DPSBAR,204.2
+FARL,0.983
+FPEXT,0.0196
+LDP, 17.60
+PROPWET,0.66
+RMED-1H, 10.0
+RMED-1D, 42.8
+RMED-2D, 57.3
+SAAR,1496
+SAAR4170,1508
+SPRHOST,38.47
+URBCONC1990,-9999.000
+URBEXT1990,0.0012
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0014
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Crump profile weir in a straight flood-banked reach. Abstractions and discharges affect flow. GENERAL: A 10m wide single crest Crump profile weir in a straight flood-banked reach. STATION HYDROMETRY: No cableway. Modular limit unknown. Wing walls contain flows to high levels. Weir is damaged and deteriorating, with water seeping under the crest. Suffers from gravel accumulation. However, low flow gaugings do not suggest that leakage is significantly affecting flows. The rating has not been checked beyond medium flows. Single peak flow rating applied over period of record, which shows good fit to gaugings. FLOW RECORD: The river burst its banks u/s of the station during the record high flow event of 8 June 2012, causing some of the flow to bypass the station. Data from 2011 onwards should be used with caution as weir is damaged and deteriorating - see hydrometry. FLOW REGIME: Abstraction into Craig-y-Pistyll reservoir and and five discharges upstream of gauging station; substantial net loss of water resulting from these transfers, since sum of discharges does not nearly equal amount of water withdrawn for reservoir.
+CATCHMENT,Predominantly impervious Silurian rocks. Majority grassland, some forested area.
+Qmed Suitability,Although not gauged to within 30% of QMED, considered suitable.
+Pooling Suitability,Few high flow gaugings.
+[END]

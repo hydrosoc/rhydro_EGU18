@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 12006
+[END]
+[CDS DETAILS]
+NAME,Gairn
+LOCATION,Invergairn
+NOMINAL AREA,  145.91
+NOMINAL NGR,3352,7970
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,335250,797050
+CENTROID NGR,GB,325513,801212
+DTM AREA,  145.91
+ALTBAR, 557
+ASPBAR,132
+ASPVAR,0.16
+BFIHOST,0.452
+DPLBAR, 16.56
+DPSBAR,180.0
+FARL,0.997
+FPEXT,0.0294
+LDP, 33.94
+PROPWET,0.64
+RMED-1H,  8.4
+RMED-1D, 35.9
+RMED-2D, 50.1
+SAAR,1048
+SAAR4170,1036
+SPRHOST,42.66
+URBCONC1990,-9999.000
+URBEXT1990,0.0000
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0000
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station gauging catchment with natural regime, although flows can be affected by frozen catchment. GENERAL: Velocity area station with cableway; about 15m wide section. STATION HYDROMETRY: Natural control includes rubble from early gabion construction (broken up by spate of Nov 1978). Frozen catchment can produce notable low flows (e.g. 22/01/1985). Two peak flow ratings applied to entire record, derived from current meter gaugings. Peak flow rating 1 gaugings up to 1.3m (0.6QMED); peak flow rating 2 gaugings up to 1.4m (about 0.8 QMED); simple extrapolation beyond. FLOW REGIME: Natural regime.
+CATCHMENT,Upland catchment with mountainous headwaters often snowy in winter. Some Dalradian metamorphics, mainly granite intrusive. Half of catchment overlain by superficial deposits. Landuse pastoral and mountain moorland; some forestry. No significant catchment changes known. Catchment rainfall may be underestimated.
+Qmed Suitability,No comment
+Pooling Suitability,No comment
+[END]

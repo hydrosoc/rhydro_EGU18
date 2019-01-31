@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 39042
+[END]
+[CDS DETAILS]
+NAME,Leach
+LOCATION,Priory Mill Lechlade
+NOMINAL AREA,   77.62
+NOMINAL NGR,4227,1993
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,422700,199300
+CENTROID NGR,GB,415953,209466
+DTM AREA,   77.62
+ALTBAR, 143
+ASPBAR,158
+ASPVAR,0.33
+BFIHOST,0.865
+DPLBAR, 18.95
+DPSBAR, 36.5
+FARL,0.971
+FPEXT,0.0828
+LDP, 34.51
+PROPWET,0.33
+RMED-1H, 10.0
+RMED-1D, 31.8
+RMED-2D, 40.3
+SAAR, 736
+SAAR4170, 776
+SPRHOST,12.21
+URBCONC1990, 0.501
+URBEXT1990,0.0075
+URBLOC1990, 0.981
+URBCONC2000,-9999.000
+URBEXT2000,0.0034
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,The station is located on the lower River Leach, less than a kilometre above the confluence with the River Thames. GENERAL: Crump weir, 4.5m broad with crest-tapping. STATION HYDROMETRY: D/s weed growth and backing-up from the Thames can result in drowning (flows adjusted using tail levels). Bypasses at high flows. Station does not measure all the flow from the catchment. An overflow channel 2-3 km u/s above gauging station flows into a distributary, the Leach back stream (gaugings have measured 0.05 - 1.24 cumecs). Standard Crump weir equation using tail levels to adjust for non-modular flows. Estimates flow accurately, including non-modular flow above 0.4m. FLOW RECORD: Occasional rapid changes in level within the POR (e.g. April 94 during work on the walls). Previous maxima exceeded during November/December 2000 but flows not computed. FLOW REGIME: Baseflow dominated regime but responsive to significant storm events. Runoff reduced by PWS abstraction and increased by effluent returns (sewage outfall u/s of weir). Effluent derived from outside the catchment results in small net augmentation of runoff. Otherwise artificial influences are minimal.
+CATCHMENT,A linear catchment on the dip-slope of the Cotswolds. The geology is mainly on the Oolitic L'st (also various amounts of Forest Marble, Alluvium, Cronsbrash, Clay and Gravels). Mostly agricultural with scattered settlements. Extensive gravel pits occur just above the catchment outfall.
+Qmed Suitability,Flow is within bank and estimates reasonable.
+Pooling Suitability,Large scatter in flows beyond QMED, but generally support rating. Some bypassing and some flow routed around gauging station via overflow channel.
+[END]

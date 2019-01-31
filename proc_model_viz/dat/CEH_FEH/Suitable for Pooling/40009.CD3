@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 40009
+[END]
+[CDS DETAILS]
+NAME,Teise
+LOCATION,Stonebridge
+NOMINAL AREA,  134.50
+NOMINAL NGR,5717,1399
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,571800,139950
+CENTROID NGR,GB,566351,135405
+DTM AREA,  134.50
+ALTBAR,  93
+ASPBAR, 50
+ASPVAR,0.11
+BFIHOST,0.443
+DPLBAR, 12.89
+DPSBAR, 78.4
+FARL,0.904
+FPEXT,0.0413
+LDP, 23.00
+PROPWET,0.36
+RMED-1H, 11.8
+RMED-1D, 35.0
+RMED-2D, 47.9
+SAAR, 812
+SAAR4170, 809
+SPRHOST,42.65
+URBCONC1990,-9999.000
+URBEXT1990,0.0049
+URBLOC1990,-9999.000
+URBCONC2000, 0.751
+URBEXT2000,0.0124
+URBLOC2000, 1.259
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Flat V weir (commissioned Sep 1995), superseded broad-crested weir. Significant baseflow regime but also responsive. GENERAL: Flat V weir 7m wide, located 50 m d/s of a minor road bridge between Horsmonden and Brandfold, in a relatively straight approach. Station used as control point for Bewl Water Reservoir (offtake is ~1km upstream), data inspected regularly by Southern Water. Superseded broad-crested weir (crest width: 5.95m; weir capacity: ~3 cumecs) in trapezoidal section. STATION HYDROMETRY: Weed growth can cause problems and no high flow gaugings pre-1995. Crest tapping no longer used. Cableway at site - calibration now extends throughout the flow range (but less reliable above bankfull); gauging of 54 cumecs after Oct 2000 peak. Two peak flow ratings applied across period of record, the most recent is valid from September-1995 when new structure installed necessitating a rating change. Current rating derived from hydraulic modelling and well calibrated to bank full. FLOW RECORD: Missing flows July 1994 - August 1995 during construction of new structure. Isolated and anomalous low flows (e.g. 2004) reflect influence of abstractions for Bewl Water. GDF minimum (0.033 cumecs on 16/02/2005) resulted from significant upstream abstraction. POT and AMAX are pre and post Bewl Bridge Reservoir (1975). FLOW REGIME: Significant baseflow but also responsive. Augmentation (from Bewl Water) dominates post-1975 low flow patterns; e.g. 1989/90. Runoff influenced by public water supply abstraction and effluent returns. Some artificial regulation from Hope Mill Sluice approx. 3.2km upstream.
+CATCHMENT,Bewl Water Reservoir constructed 1975, occupies approx. 3% of total catchment area. The River Teise originates to the south east of Tunbridge Wells, and flows east to its confluence with the River Bewl, then north towards the River Medway. Catchment developed on the Wealden Series: comprises Hastings Beds, composed of sandstones, siltstones & clays; Tunbridge Wells Sand, Wadhurst Clay, Ashdown Sand; one quarter impervious, three quarters pervious. The more permeable components are locally important aquifers feeding the numerous springs which provide the baseflow for the headwaters. Catchment is predominantly rural.
+Qmed Suitability,Gauged above QMED. QMED flow contained.
+Pooling Suitability,Gauged beyond AMAX3. Confident in hydraulic model derived rating and confirmed by high flow gaugings.
+[END]

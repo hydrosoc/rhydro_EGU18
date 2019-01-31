@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 72014
+[END]
+[CDS DETAILS]
+NAME,Conder
+LOCATION,Galgate
+NOMINAL AREA,   28.99
+NOMINAL NGR,3481,4553
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,348150,455350
+CENTROID NGR,GB,351621,459069
+DTM AREA,   28.99
+ALTBAR, 131
+ASPBAR,270
+ASPVAR,0.32
+BFIHOST,0.443
+DPLBAR,  7.39
+DPSBAR, 93.4
+FARL,0.975
+FPEXT,0.0822
+LDP, 14.20
+PROPWET,0.60
+RMED-1H, 10.6
+RMED-1D, 40.2
+RMED-2D, 51.3
+SAAR,1183
+SAAR4170,1257
+SPRHOST,35.96
+URBCONC1990,-9999.000
+URBEXT1990,0.0020
+URBLOC1990,-9999.000
+URBCONC2000, 0.649
+URBEXT2000,0.0064
+URBLOC2000, 0.247
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Flat V weir in confined concrete channel. Weir can be subject to weed growth in the summer. GENERAL: Velocity area station opened 1966. Considerably truncated Flat V weir from September 1975, in confined concrete channel to 1.7m, with concrete wall above as a flood barrier. STATION HYDROMETRY: All flows contained in rectangular channel. Weed\algal growth may cause drowning in summer if not controlled. No cableway. Gauged by current meter. A portable ultrasonic gauge was installed to refine calibration. Two peak flow ratings applied to whole period of record. On rating plot, all gaugings are after weir construction, except for the batch above the rating, with max stage 0.68m and flow 2.22 m3/s. FLOW REGIME: Predominantly natural flow regime. Some minor groundwater abstractions affect the flows.
+CATCHMENT,Catchment to the East of Lancaster draining steep moors of Littledale. Solid geology Millstone Grit, mostly covered with Boulder Clay with hill peat at highest altitudes. A predominantly rural catchment draining moorland. No significant catchment changes.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Not gauged within 30% AMAX3. However, channel cross-section full is constant to bank full and no bypassing reported so rating is expected to perform well.
+[END]

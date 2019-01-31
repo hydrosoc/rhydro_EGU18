@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 47001
+[END]
+[CDS DETAILS]
+NAME,Tamar
+LOCATION,Gunnislake
+NOMINAL AREA,  920.22
+NOMINAL NGR,2426, 725
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,242650,72550
+CENTROID NGR,GB,234597, 90511
+DTM AREA,  920.22
+ALTBAR, 155
+ASPBAR,218
+ASPVAR,0.03
+BFIHOST,0.481
+DPLBAR, 40.47
+DPSBAR, 86.4
+FARL,0.993
+FPEXT,0.0440
+LDP, 74.18
+PROPWET,0.49
+RMED-1H, 12.2
+RMED-1D, 40.1
+RMED-2D, 52.7
+SAAR,1215
+SAAR4170,1240
+SPRHOST,37.00
+URBCONC1990,-9999.000
+URBEXT1990,0.0034
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0047
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station with a wide shallow channel and rocky bed. GENERAL: Velocity area station with a wide, shallow channel and rocky bed. Cableway span is 46.9m. New cableway in 1999. Informal Flat V low flow level bed control installed in 1989. Access problem at high flows. STATION HYDROMETRY: Low flow check gaugings undertaken at narrower site. Shifts in rating pre-1989 due to changes in natural bed control. Good range of gaugings, reliable rating especially since 1991. Construction of Roadford Reservoir on the River Wolf may have significant effect on low flows from 1989. Multiple peak flow ratings applied across period of record. Rating fits well to corresponding gaugings. FLOW REGIME: Roadford Reservoir from 1989 may have significant effect at low flows. Abstraction for public water supply and industrial/agricultural uses. Some effluent returns. Regulation from surface water and/or groundwater.
+CATCHMENT,A fairly responsive rural catchment of moderate relief, draining very disturbed Lower Carboniferous slates, shales, grits and volcanics. Significant alluvial flats in middle reaches, Devonian slates lower down. Land use is a range of agriculture, grazing and forestry. Construction of Roadford Reservoir on the River Wolf in 1988.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged to within 1% of AMAX3. No bypassing reported.
+[END]

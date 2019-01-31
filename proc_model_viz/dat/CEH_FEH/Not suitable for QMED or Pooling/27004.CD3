@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 27004
+[END]
+[CDS DETAILS]
+NAME,Calder
+LOCATION,Newlands
+NOMINAL AREA,  905.89
+NOMINAL NGR,4365,4223
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,436500,422300
+CENTROID NGR,GB,412079,420133
+DTM AREA,  905.89
+ALTBAR, 214
+ASPBAR, 88
+ASPVAR,0.16
+BFIHOST,0.527
+DPLBAR, 44.30
+DPSBAR,108.5
+FARL,0.924
+FPEXT,0.0489
+LDP, 75.81
+PROPWET,0.40
+RMED-1H, 10.9
+RMED-1D, 39.9
+RMED-2D, 53.9
+SAAR,1043
+SAAR4170,1046
+SPRHOST,29.97
+URBCONC1990, 0.733
+URBEXT1990,0.0855
+URBLOC1990, 0.718
+URBCONC2000, 0.815
+URBEXT2000,0.1046
+URBLOC2000, 0.749
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station. Replaced Kirkthorpe Weir in 1968. Station closed in 1977 and replaced by 27079 (Methley) in 1988. GENERAL: Velocity area station, an adjacent thin-plate weir measured diversions to canal, built in 1956 and levels recorded from 1957. Pressure Transducer recorder moved to Newlands (from Kirkthorpe, where it was installed in 1968) in January 1972 and record metricated in September 1972. Newlands is situated in an open channel 26m wide, without formal control, at Newland Hall railway-bridge, 4.8km d/s of Wakefield and 1.5km d/s of Kirkthorpe Weir. In October 1968, Newlands replaced the original station at Kirkthorpe Weir (built 1827) to maintain levels in the Aire and Calder Navigation (records from 1960 with some earlier data back to 1927). Kirkthorpe was a broad (80m) masonry weir with irregular timber crest, cableway and 12 deals 0.61m high and 3m long. Deals were all lowered for maintenance generally 4 at a time, during floods but sometimes varied. Full range Gent vertical drum level recorder installed 1956. Kirkthorpe weir was bypassed by the Navigation channel (negligible for floods) but the level varied over the station record (it was 1.47m in 1932). Bypassing also occurred from meanders during exceptionally high floods across adjacent flat land, but captured at Newlands cableway. Kirkthorpe weir had protective bollards, prone to trash collection, but these were kept clear for flood flows. Kirkthorpe weir was affected by mine subsidence, sinking and tilting the weir overtopping u/s banks in 1971 and it and was reconstructed in 1958 and 1982. Newlands closed in 1977 and replaced by 27079 (Methley, flows from 1988), although current meter gauging using the cableway was continued at Newlands. STATION HYDROMETRY: Multiple peak flow ratings applied across period of record, the most recent is valid from October 1969 when pressure transducer installed. Rated by multipoint current metering using cableway prior to 1969. FLOW REGIME: The catchment is heavily reservoired, with 5.9% draining through an impoundment. Water abstractions returned to river as sewage effluent u/s of gauge. Import of water from Dewsbury and Heckmondwike and from Wharfe and Nidd. Continued abstraction to Navigation canal which was temporarily gauged at Birchwood Lock, 3km downstream of the intake.
+CATCHMENT,Mixed permeability geology of Carboniferous Sediments; Millstone Grit in the upper catchment, dipping east under Lower and Middle Coal Measures and overlain by alluvium and sand. It is not tidally influenced. Upland headwaters. Rural land use predominates with moorland in headwaters. Newlands is located near the downstream limit of a highly industrialised catchment. There are numerous large population centres within the catchment including Huddersfield, Halifax and Wakefield. From 1957, abstraction and discharge for cooling at Wakefield generating station. Continued intensive coal mining including underneath river has resulted in subsidence. Continued erosion of upstream riverbanks has prompted remediation by stoning by Navigation authorities. There have also been significant changes to channel morphology, with banks being raised or lowered.
+Qmed Suitability,For the duration of Newlands (not Kirkthorpe) record only.
+Pooling Suitability,No gaugings beyond QMED to confirm high flows and record length at Newlands not sufficiently long enough.
+[END]

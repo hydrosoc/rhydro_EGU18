@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 72807
+[END]
+[CDS DETAILS]
+NAME,Wenning
+LOCATION,Hornby
+NOMINAL AREA,  230.68
+NOMINAL NGR,3586,4684
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,358600,468400
+CENTROID NGR,GB,369150,466039
+DTM AREA,  230.68
+ALTBAR, 238
+ASPBAR,339
+ASPVAR,0.16
+BFIHOST,0.350
+DPLBAR, 18.17
+DPSBAR, 98.0
+FARL,0.997
+FPEXT,0.0627
+LDP, 33.67
+PROPWET,0.60
+RMED-1H, 11.1
+RMED-1D, 45.4
+RMED-2D, 61.4
+SAAR,1391
+SAAR4170,1426
+SPRHOST,46.52
+URBCONC1990,-9999.000
+URBEXT1990,0.0012
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0043
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Curved crest weir constructed in 1957. Predominantly natural flow regime. GENERAL: Station from 1957 on rebuilt weir, curved crest 0.19m long, radius 26.6m, channel 38m wide, with V notch 2.86m wide in centre and 0.5m below main crest. Previously (Jan 1940 to May 1945) a broad-crested weir (40.2m wide), but no data presented for the earlier station. The gauging stations at Wennington and Wray account for 96% of the catchment area. STATION HYDROMETRY: Weir drowns at high flows. Defences raised in flood alleviation scheme constructed 1996 to 1997; before this, high flows cut across bend on right bank. High flow gaugings carried out by means of portable cableway 100m upstream of recorder. Two ratings applied across period of record. Peak flow ratings derived from current meter gauging with modelled top-end. New rating after embankments in 1997. Peak flow ratings at Hornby, Wennington and Wray have been reworked and give reasonable matches. Flood Studies Report grade B for entire record 1940-1945 and 1957-date. FLOW REGIME: Predominantly natural flow regime. Negligible impact on the flow from abstractions and discharges.
+CATCHMENT,A predominantly rural catchment including western parts of the Yorkshire Dales National Park. Mixed geology consisting of Coal Measures, Millstone Grit and Carboniferous Limestone. Small area of impervious Silurian slate in the east. Most of the catchment is covered with Boulder Clay, some alluvium and hill peat; heather moor in the south. No significant catchment changes.
+Qmed Suitability,Although not gauged to within 30% of QMED modelling and macth with Wennignton and Wray give confidence.
+Pooling Suitability,Inspite of hydaulic modelling and matching with upstream catchments, the gaugings do not extend far enough to confirm rating extrapolation. Bypassing from upstream in largest events in the early record.
+[END]

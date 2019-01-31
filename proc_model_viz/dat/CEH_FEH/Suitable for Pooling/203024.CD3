@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+203024
+[END]
+[CDS DETAILS]
+NAME,Cusher
+LOCATION,Gamble's Bridge
+NOMINAL AREA,  170.89
+NOMINAL NGR,3048,3470
+[END]
+[DESCRIPTORS]
+IHDTM NGR,Ireland,304800,347100
+CENTROID NGR,Ireland,298775,335536
+DTM AREA,  170.89
+ALTBAR, 132
+ASPBAR, 53
+ASPVAR,0.16
+BFIHOST,0.365
+DPLBAR, 20.82
+DPSBAR, 77.0
+FARL,0.992
+FPEXT,0.0581
+LDP, 33.17
+PROPWET,0.53
+RMED-1H,  9.9
+RMED-1D, 34.6
+RMED-2D, 47.3
+SAAR, 996
+SAAR4170,1021
+SPRHOST,38.23
+URBCONC1990,-2.000
+URBEXT1990,0.0099
+URBLOC1990, 0.497
+URBCONC2000,-9999.000
+URBEXT2000,0.0038
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station with cableway. GENERAL: Velocity area station. STATION HYDROMETRY: Cableway present. Block built weir installed immediately d/s in 1980 has stabilised the measuring section. All gauged flows are contained in bank. Rating derived from current meter gaugings from cableway. Simple extrapolation occurs above approx 66m3/s. FLOW RECORD: Gravel build-up removed in April 1989, thought to affect flows back to Oct 1987. Effect of augmentations is minor. Summer 1992 low flows under review. Daily flows for full period of record reprocessed in 2002. FLOW REGIME: No significant artificial influences.
+CATCHMENT,Solid geology - area underlain by indurated Silurian greywacke sandstones and shales. Palaeogene basalt lava flow form bedrock in an area to the north of the catchment. Drift Geology - Drumlinised glacial till covers much of the area, with river alluvium in the main valleys. Rock near surface and peat associated with Silurian bedrock area. Rural catchment, mostly grassland, some arable farming. Small urban area in the catchment of Tandragee.
+Qmed Suitability,Maximum gauged flow is 1.43 times QMED, and flow is maintained in the channel. Rating curve gives an acceptable fit.
+Pooling Suitability,Fully contained at full range of flows.
+[END]

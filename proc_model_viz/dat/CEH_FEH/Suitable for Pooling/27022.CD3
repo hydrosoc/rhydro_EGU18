@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 27022
+[END]
+[CDS DETAILS]
+NAME,Don
+LOCATION,Rotherham Weir
+NOMINAL AREA,  824.43
+NOMINAL NGR,4426,3927
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,442650,392750
+CENTROID NGR,GB,434197,384597
+DTM AREA,  824.43
+ALTBAR, 186
+ASPBAR, 75
+ASPVAR,0.21
+BFIHOST,0.464
+DPLBAR, 28.48
+DPSBAR, 85.2
+FARL,0.915
+FPEXT,0.0454
+LDP, 57.20
+PROPWET,0.38
+RMED-1H, 10.6
+RMED-1D, 37.2
+RMED-2D, 48.3
+SAAR, 864
+SAAR4170, 860
+SPRHOST,32.36
+URBCONC1990, 0.773
+URBEXT1990,0.1197
+URBLOC1990, 0.692
+URBCONC2000, 0.885
+URBEXT2000,0.1405
+URBLOC2000, 0.732
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,A large masonry weir at an angle to the u/s channel. Heavily influenced by headwater reservoirs. Station closed in December 1971. Reopened in 2005 as a level only station. GENERAL: A large masonry weir 61m wide calibrated at a velocity area station 360m d/s. The weir is at an angle to the upstream channel. Recorders u/s and d/s of the weir (the d/s gauge was removed in 1966). Chart records from u/s recorder since 1924. New recorder installed in 1958 and flow calculated from October 1960. Station closed in 1971. The station was reinstated in 2005 as a level only station when a level recorder and an ADVP in a 24m wide channel ~80m upstream of the weir were installed. STATION HYDROMETRY: Good measuring reach enclosed by steep riverbanks and weir not thought to drown. One peak flow rating applied across period of record. Rating derived from multipoint current meter gaugings from cableway. Flood Studies Report grade A2 at all flows. FLOW RECORD: Record thought to be of little use before 1961. Records pre-1947 now thought lost. FLOW REGIME: Headwaters are heavily reservoired with around two thirds of the catchment draining through some 27 impoundments and valleys are highly developed. The Rother has significant washlands (although few were controlled by 1971). Traditional industries including steel and mining are now in decline. Sewage effluent augmentation with approximately 2/3 of abstraction to public water supply returned to Rother above gauge. Import from Derwent Valley, but overall net loss of water from Don to Dearne.
+CATCHMENT,Mixed geology: Millstone Grit (headwaters), Coal Measures, Magnesian Limestone and Triassic Sandstones. Moorland headwaters, mixed agriculture in valleys with significant urban areas, including Sheffield. Headwaters are heavily reservoired. Decline of coal mining and manufacturing industries throughout the period of record. Extensive urban development around Sheffield (with several large green field developments during the 1970s) and Chesterfield during period of record.
+Qmed Suitability,Gauged beyond QMED
+Pooling Suitability,Gauged beyond AMAX3, and all flow contained. Weir reported to remain modular throughout.
+[END]

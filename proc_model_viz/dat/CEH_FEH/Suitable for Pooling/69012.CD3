@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 69012
+[END]
+[CDS DETAILS]
+NAME,Bollin
+LOCATION,Wilmslow
+NOMINAL AREA,   68.38
+NOMINAL NGR,3849,3814
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,384950,381500
+CENTROID NGR,GB,391562,374340
+DTM AREA,   68.38
+ALTBAR, 183
+ASPBAR,316
+ASPVAR,0.23
+BFIHOST,0.545
+DPLBAR, 15.43
+DPSBAR, 81.7
+FARL,0.951
+FPEXT,0.0785
+LDP, 25.08
+PROPWET,0.52
+RMED-1H, 10.3
+RMED-1D, 33.5
+RMED-2D, 43.6
+SAAR, 933
+SAAR4170, 926
+SPRHOST,31.03
+URBCONC1990, 0.736
+URBEXT1990,0.0749
+URBLOC1990, 1.000
+URBCONC2000, 0.848
+URBEXT2000,0.1130
+URBLOC2000, 0.914
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Compound Crump weir gauging a responsive catchment rising to the western Pennines. GENERAL: Compound Crump profile weir, 9.3m wide overall, consisting of central crest 4.12m wide and two side crests each 2.13m wide and 0.377 m higher; divide piers 1.0m, wing walls 2.0m. A pumped eel pass and pre barrage fish pass were installed April 2015. STATION HYDROMETRY: No bypassing reported. Rated by gaugings. No cableway - higher flows gauged off road bridge. Downstream levels recorded from February 2005, and indicate onset of non-modular flow around 1.15m. Flood Studies Report grade A2. FLOW REGIME: Responsive regime. Headwater reservoirs control 5% of the catchment area. One major sewage treatment works, upstream of station.
+CATCHMENT,Moderate relief catchment with steep, reservoired headwaters. Catchment rises on the western edge of the Pennines. Upper catchment drains Millstone Grit, generally Drift free. Otherwise Boulder Clay and glacial sands and gravel over Permo-Triassic sandstone. Land use is mainly agricultural but contains Macclesfield. No catchment changes known.
+Qmed Suitability,Gauged above QMED. Good fit to gaugings with no bypassing reported.
+Pooling Suitability,Gauged to within 28% of AMAX3. All flows contained within structure wall.
+[END]

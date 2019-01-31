@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 33030
+[END]
+[CDS DETAILS]
+NAME,Clipstone Brook
+LOCATION,Clipstone
+NOMINAL AREA,   40.35
+NOMINAL NGR,4940,2259
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,493250,225550
+CENTROID NGR,GB,496638,228208
+DTM AREA,   40.35
+ALTBAR, 123
+ASPBAR,188
+ASPVAR,0.16
+BFIHOST,0.362
+DPLBAR,  6.85
+DPSBAR, 34.0
+FARL,0.975
+FPEXT,0.0824
+LDP, 11.79
+PROPWET,0.31
+RMED-1H, 10.5
+RMED-1D, 30.6
+RMED-2D, 38.1
+SAAR, 640
+SAAR4170, 654
+SPRHOST,47.82
+URBCONC1990, 0.615
+URBEXT1990,0.0125
+URBLOC1990, 0.893
+URBCONC2000, 0.800
+URBEXT2000,0.0156
+URBLOC2000, 0.820
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,A triangular Flat V weir gauging a predominantly rural, Greensand catchment with some artificial influences. Multiple structures in operation during POR. GENERAL: A triangular Flat V weir installed in 2002, 1km u/s of the previous structures: Crump weir (1966-1980) broad-crested weir (1957-1962). STATION HYDROMETRY: Current daily flow rating considers drowning although there are limited gaugings to confirm rating. Two peak flow ratings applied across period of record, the most recent is valid from Oct 2002 when the new weir was constructed. FLOW RECORD: Peak flow data are only presented for the current structure (01/10/2006 onwards). Gap in record when station not operational (1980-2002). FLOW REGIME: Runoff influenced by groundwater abstraction/recharge. Runoff reduced by industrial/agricultural abstraction. Runoff augmented by effluent returns.
+CATCHMENT,Greensand catchment, tributary to the river Ouzel. Predominantly rural, minor urban development (Leighton Buzzard).
+Qmed Suitability,Suitable from 2006. Rating accounts for drowning and is thought to be reliable.
+Pooling Suitability,Few high flow gaugings. Rating can not be validated beyond QMED.
+[END]

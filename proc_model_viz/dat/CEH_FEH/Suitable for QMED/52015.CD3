@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 52015
+[END]
+[CDS DETAILS]
+NAME,Land Yeo
+LOCATION,Wraxall Bridge
+NOMINAL AREA,   23.33
+NOMINAL NGR,3483,1715
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,348300,171550
+CENTROID NGR,GB,351546,169293
+DTM AREA,   23.33
+ALTBAR,  94
+ASPBAR,322
+ASPVAR,0.20
+BFIHOST,0.669
+DPLBAR,  6.12
+DPSBAR, 73.3
+FARL,0.933
+FPEXT,0.0579
+LDP, 11.77
+PROPWET,0.35
+RMED-1H, 10.8
+RMED-1D, 34.2
+RMED-2D, 45.6
+SAAR, 906
+SAAR4170, 898
+SPRHOST,20.44
+URBCONC1990, 0.553
+URBEXT1990,0.0138
+URBLOC1990, 0.803
+URBCONC2000, 0.741
+URBEXT2000,0.0167
+URBLOC2000, 0.714
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Triangular profile Crump weir, then rated section within wing walls. Barrow Gurney reservoirs in catchment. GENERAL: Station opened in 1971. Triangular profile Crump weir, crest 5m wide, then rated section within wing walls. STATION HYDROMETRY: All flows contained. River weedy but weir cleared regularly. Silty bed with pasture land on both sides of river. One rating applied across period of record. Rating confirmed by gaugings to 0.3 m; validity does not extend beyond 0.4 m, where reasonable extrapolation would end. Uncertain rating at high flows. FLOW RECORD: Closed from 09/1979 to 05/1985. Reopened following installation of telemetry. FLOW REGIME: Barrow Gurney reservoirs in catchment (approx. 0.75 sq km). Some urbanisation.
+CATCHMENT,Drains Dundry Hill. Moderate relief in headwaters, low relief in lower reaches. Mixed geology of Lower and Middle Coal Measures, Carboniferous Oolitic limestone and Triassic marls and sandstones. Land use predominantly rural and some urbanisation. No major catchment changes.
+Qmed Suitability,Estimates of QMED are thought to be reasonable.
+Pooling Suitability,Few high flow gaugings. Rating can not be validated beyond QMED.
+[END]

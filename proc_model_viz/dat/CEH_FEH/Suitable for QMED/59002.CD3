@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 59002
+[END]
+[CDS DETAILS]
+NAME,Loughor
+LOCATION,Tir-y-dail
+NOMINAL AREA,   46.90
+NOMINAL NGR,2623,2126
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,262300,212650
+CENTROID NGR,GB,261875,215990
+DTM AREA,   46.90
+ALTBAR, 159
+ASPBAR,169
+ASPVAR,0.09
+BFIHOST,0.466
+DPLBAR,  6.49
+DPSBAR,101.7
+FARL,0.998
+FPEXT,0.0541
+LDP, 14.05
+PROPWET,0.58
+RMED-1H, 11.5
+RMED-1D, 47.3
+RMED-2D, 62.7
+SAAR,1499
+SAAR4170,1604
+SPRHOST,35.48
+URBCONC1990, 0.567
+URBEXT1990,0.0128
+URBLOC1990, 0.577
+URBCONC2000, 0.724
+URBEXT2000,0.0160
+URBLOC2000, 0.546
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station with bed control (crude oblique Crump weir) built over sewer crossing. Flow affected by PWS abstraction and effluent returns. GENERAL: Velocity area station with bed control (crude oblique Crump weir) built over sewer crossing. STATION HYDROMETRY: Rb overtopped on rare occasions. One peak flow rating applied across period of record. FLOW REGIME: PWS abstraction from main spring source. GW and industrial abstractions and effluent returns.
+CATCHMENT,Southern half of catchment is mainly Coal Measures; Millstone Grit, Carboniferous Limestone and Old Red Sandstone in northern half. Extensive Boulder Clay cover at lower elevations. Mainly dairy farming and some patches of forest.
+Qmed Suitability,Gauged to within 30% of QMED.
+Pooling Suitability,Few high flow gaugings. Rating can not be validated beyond QMED.
+[END]

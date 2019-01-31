@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 58011
+[END]
+[CDS DETAILS]
+NAME,Thaw
+LOCATION,Gigman Bridge
+NOMINAL AREA,   49.01
+NOMINAL NGR,3017,1716
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,301750,171650
+CENTROID NGR,GB,299891,175360
+DTM AREA,   49.01
+ALTBAR,  67
+ASPBAR,221
+ASPVAR,0.11
+BFIHOST,0.740
+DPLBAR,  9.01
+DPSBAR, 67.9
+FARL,1.000
+FPEXT,0.0731
+LDP, 17.65
+PROPWET,0.47
+RMED-1H, 11.6
+RMED-1D, 39.9
+RMED-2D, 53.3
+SAAR,1132
+SAAR4170,1215
+SPRHOST,18.69
+URBCONC1990, 0.601
+URBEXT1990,0.0138
+URBLOC1990, 0.821
+URBCONC2000, 0.755
+URBEXT2000,0.0223
+URBLOC2000, 0.825
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Flat V weir and Ultrasonic gauging station. Flows affected by effluent discharges and GW abstractions. GENERAL: Originally designed as a temporary station; Flat V Weir structure replaced non-standard bed control weir in April 1999; velocity-area calibration was based on gaugings from bridge u/s. STATION HYDROMETRY: Flat V weir for low and medium flows, US for high flows (>0.72m). Eel pass installed on downstream side of weir left bank in 2013. Out-of-bank flow can occur on rb. Two peak flow ratings applied across period of record. Upper limit at 1m as rating diverges from gaugings above this. FLOW RECORD: Flows from April 1999 reprocessed in August 2014 due to rating change, with effect of lowering high flows. Experienced problems with leakage under bed control in early record. Station was taken off-line in September 1998 for complete rebuild with 7-month gap in data. Reason for further 3-month gap in 2004 not known. FLOW REGIME: Flows affected by effluent discharges and GW abstractions.
+CATCHMENT,Lowland catchment in the Vale of Glamorgan. Mixed geology: Lias; Trias; Carboniferous Limestone and Old Red Sandstone. Significant areas of low permeability substrate. Large Drift cover, mainly glacial sands and gravels. Grass pasture with dairy and livestock farming, some patches of arable and forest; minor urban development.
+Qmed Suitability,Gauged above QMED. However, non standard design and large degree of scatter in the available gaugings results in uncertainty in the rating beyond 1m..
+Pooling Suitability,There is a large degree of scatter in the available gaugings and rating is very uncertain beyond QMED.
+[END]

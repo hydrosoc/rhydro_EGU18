@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 75009
+[END]
+[CDS DETAILS]
+NAME,Greta
+LOCATION,Low Briery
+NOMINAL AREA,  146.99
+NOMINAL NGR,3285,5242
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,328550,524250
+CENTROID NGR,GB,333182,522357
+DTM AREA,  146.99
+ALTBAR, 378
+ASPBAR,327
+ASPVAR,0.09
+BFIHOST,0.399
+DPLBAR, 13.64
+DPSBAR,227.1
+FARL,0.910
+FPEXT,0.0522
+LDP, 25.88
+PROPWET,0.63
+RMED-1H, 12.0
+RMED-1D, 60.6
+RMED-2D, 81.2
+SAAR,2025
+SAAR4170,2116
+SPRHOST,47.22
+URBCONC1990,-9999.000
+URBEXT1990,0.0001
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0004
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity-area station. Level only since 1999. Flood warning site for Keswick. GENERAL: Velocity area station opened March 1971. Station now operated as level only but is important for flood forecasting and a rating has been developed for high flows. Flood warning site for Keswick. STATION HYDROMETRY: Natural rock bar downstream acting as a control where the channel divides and the gradient becomes steeper. Flows contained to the highest stage. There was a permanent cableway, but confidence in high flow gaugings was low due to high velocities and poor gauging section, and the cableway has now been removed. Station is now operated as level only and no longer gauged by current meter. However, the station is important for flood forecasting, has been gauged to a high level, and has been hydraulically modelled, so a rating is applied to high flows. Low flows below 0.5m after 1999 are flagged as "beyond limit" (i.e the rating does not apply to low flows). One peak flow rating applied across period of record. Rating derived by current meter to 2m with hydraulic model results beyond. FLOW RECORD: In November 2009 there was some very minor spill on left bank, and the stage trace had some oscillations, reflecting the high velocities and unstable flow conditions. FLOW REGIME: Thirlmere Reservoir controls part of catchment - spills and regulation releases.
+CATCHMENT,Geology is impervious Ordovician Skiddaw slates, Borrowdale Volcanics and some igneous intrusions, covered with Boulder Clay below 200m. An entirely rural catchment, rising to the summit of Helvellyn, with sheep farming predominating on the rough pasture. The high ground is moorland. No significant catchment changes.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged to 77% of maximum recorded level, with modelled top-end.
+[END]

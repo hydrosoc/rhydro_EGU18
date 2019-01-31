@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 30013
+[END]
+[CDS DETAILS]
+NAME,Heighington Beck
+LOCATION,Heighington
+NOMINAL AREA,   23.93
+NOMINAL NGR,5040,3695
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,504050,369550
+CENTROID NGR,GB,500445,367276
+DTM AREA,   23.93
+ALTBAR,  51
+ASPBAR, 69
+ASPVAR,0.53
+BFIHOST,0.946
+DPLBAR,  6.25
+DPSBAR, 19.0
+FARL,0.963
+FPEXT,0.1191
+LDP, 11.58
+PROPWET,0.26
+RMED-1H, 11.9
+RMED-1D, 32.4
+RMED-2D, 40.5
+SAAR, 605
+SAAR4170, 609
+SPRHOST, 5.72
+URBCONC1990, 0.714
+URBEXT1990,0.0681
+URBLOC1990, 1.107
+URBCONC2000, 0.845
+URBEXT2000,0.0793
+URBLOC2000, 1.085
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Crump weir gauging a slow responding limestone catchment with significant artificial influences during summer. GENERAL: Crump profile weir 3.51m wide. STATION HYDROMETRY: Expected to drown at high flows. Theoretical calibration. No flood flow rating available. One rating applied across period of record. FLOW REGIME: Very slow responding. Summer low flows may be heavily influenced by gw abstraction for irrigation.
+CATCHMENT,Permeable geology - almost entirely limestone, with minimal superficial deposits. Predominantly rural, mixed farming but with some urban development.
+Qmed Suitability,Gauged above QMED. Weir remains modular.
+Pooling Suitability,Most high flows remain modular. Rating fits well to available gaugings.
+[END]

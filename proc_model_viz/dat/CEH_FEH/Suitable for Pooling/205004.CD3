@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+205004
+[END]
+[CDS DETAILS]
+NAME,Lagan
+LOCATION,Newforge
+NOMINAL AREA,  493.15
+NOMINAL NGR,3328,3693
+[END]
+[DESCRIPTORS]
+IHDTM NGR,Ireland,332850,369300
+CENTROID NGR,Ireland,324454,357939
+DTM AREA,  493.15
+ALTBAR, 102
+ASPBAR,304
+ASPVAR,0.05
+BFIHOST,0.459
+DPLBAR, 37.80
+DPSBAR, 59.9
+FARL,0.983
+FPEXT,0.0975
+LDP, 77.62
+PROPWET,0.52
+RMED-1H, 10.4
+RMED-1D, 36.0
+RMED-2D, 46.9
+SAAR, 916
+SAAR4170, 948
+SPRHOST,38.83
+URBCONC1990,-2.000
+URBEXT1990,0.0376
+URBLOC1990, 0.525
+URBCONC2000, 0.853
+URBEXT2000,0.0321
+URBLOC2000, 0.512
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station with cableway. GENERAL: A velocity-area station with brick-built gauging hut on lb. Opened to replace Dunmurry station upstream. Station rebuilt after showing minor signs of instability. STATION HYDROMETRY: Cableway present. At very high flows there is some by-passing on right bank but this is not measured. The rating is derived from current meter gaugings from cableway. Simple extrapolation occurs above approx 128 m3/s. FLOW RECORD: Daily flows from start of 1980 onwards reprocessed in 2002. November 2000 peak comparable with 1978 maxima. FLOW REGIME: Numerous public water supply boreholes in the Sherwood Sandstone - pumping capacity total nearly 30Ml/d. All effluent returns to the river.
+CATCHMENT,Solid geology - south-eastern area underlain by indurated Ordovician/Silurian greywacke sandstones and shales. North-western area underlain by indurated Permian conglomerates, sandstone and shale, that are overlain in turn by permeable Triassic sandstone (Sherwood) and impermeable Triassic mudstone (Mercia) and Jurassic mudstone. Thin Cretaceous chalk is indurated and overlain by Palaeogene basalt lava flows. Drift geology - Glacial till (drumlinised) covers much of the area with extensive sand and gravel and river alluvium in the main Lagan Valley. Rock near surface, drumlinised glacial till, peat and limited river alluvium associated with Ordovician/Silurian bedrock area. Predominantly improved grassland, some horticulture (mainly potatoes). Contains dense urban areas of south Belfast and Lisburn.
+Qmed Suitability,Maximum gauged flow = 1.71 times QMED flow, and the rating gives an acceptable fit at high flows. Station is contained over majority of high flows.
+Pooling Suitability,Station gets out of bank only at extreme flows on the left bank. Wooded area difficult to gauge although floodplain flows have been gauged they are not available. Station is still acceptable for pooling.
+[END]

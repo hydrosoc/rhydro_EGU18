@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 55010
+[END]
+[CDS DETAILS]
+NAME,Wye
+LOCATION,Pant Mawr
+NOMINAL AREA,   27.25
+NOMINAL NGR,2844,2825
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,284400,282500
+CENTROID NGR,GB,281568,284221
+DTM AREA,   27.25
+ALTBAR, 482
+ASPBAR,137
+ASPVAR,0.23
+BFIHOST,0.386
+DPLBAR,  4.98
+DPSBAR,211.7
+FARL,1.000
+FPEXT,0.0188
+LDP,  9.99
+PROPWET,0.66
+RMED-1H, 13.0
+RMED-1D, 72.3
+RMED-2D, 96.8
+SAAR,2341
+SAAR4170,2320
+SPRHOST,47.73
+URBCONC1990,-9999.000
+URBEXT1990,0.0001
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0000
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station. Flood warning only from July 1982. GENERAL: Velocity area station. Informal Flat V weir control from 1973. Station in headwaters of Wye catchment. Flood warning only from July 1982. STATION HYDROMETRY: Opened in 1952 as velocity-area station with a natural rock bar control downstream. Cableway added January 1969. Converted to a non-standard Flat V weir 1 January 1973. Two peak flow ratings applied across period of record, the change being necessitated by the construction of the weir in January 1973. Gaugings fit well to rating. All flows contained within banks.
+CATCHMENT,The catchment has underlying Silurian strata which are resistant to weathering. Mostly forestry and grazing.
+Qmed Suitability,Not gauged to within 30% of QMED. However, theoretical rating at site is thought to perform well at QMED.
+Pooling Suitability,Few high flow gaugings. Rating does not consider non-modular conditions or bypassing flow.
+[END]

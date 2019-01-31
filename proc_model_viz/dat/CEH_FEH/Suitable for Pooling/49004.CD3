@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 49004
+[END]
+[CDS DETAILS]
+NAME,Gannel
+LOCATION,Gwills
+NOMINAL AREA,   40.83
+NOMINAL NGR,1828, 592
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,182850,59250
+CENTROID NGR,GB,186167, 57381
+DTM AREA,   40.83
+ALTBAR,  78
+ASPBAR,295
+ASPVAR,0.15
+BFIHOST,0.617
+DPLBAR,  5.71
+DPSBAR, 71.5
+FARL,0.999
+FPEXT,0.0254
+LDP, 10.79
+PROPWET,0.45
+RMED-1H, 11.1
+RMED-1D, 34.6
+RMED-2D, 46.5
+SAAR,1046
+SAAR4170,1065
+SPRHOST,32.08
+URBCONC1990, 0.497
+URBEXT1990,0.0120
+URBLOC1990, 1.290
+URBCONC2000, 0.668
+URBEXT2000,0.0074
+URBLOC2000, 1.247
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Crump profile weir, modular throughout range. Troubled by accretion downstream of structure filling the fish pool. GENERAL: Crump profile weir, crest length 6m, wing walls 1.9m. STATION HYDROMETRY: Flood banks contain flow up to 2.78m; they may be treated as weirs for higher stages. Survey of wrack marks following the 2012 floods show that the weir was drowned at a stage of 1.558 m. Initial analysis suggests this drowning would reduce peak flows by approximately 20%. However insufficient gaugings are available to revise the existing empirical rating. As such the flow data at these levels must be treated with caution. Bypassing is unlikely at stages below structure full, although the valley inundates upstream of the road bridge. Insensitive at low flows. Troubled by accretion downstream of structure filling the fish pool. One peak flow rating applied across period of record. Weir known to be non modular during 2012 floods, therefore drowning known to affect station at 1.558 m. No rating revision yet made due to a lack of gaugings. FLOW REGIME: Natural catchment but mine drainage may affect low flows. Runoff influenced by groundwater abstraction/recharge. Industrial/agricultural abstractions and effluent returns have minimal impact.
+CATCHMENT,Moderately steep catchment having subdued response, draining calcareous slates and thin limestones of the lower Devonian. Land use is low-grade agriculture; pasture, mainly diary and mixed farming. No major changes to catchment.
+Qmed Suitability,Although not gauged to within 30% of QMED, theoretical rating expected to perform well to QMED.
+Pooling Suitability,All recorded flows are contained with no bypassing reported. Drowns at 1.56m. Use with caution.
+[END]

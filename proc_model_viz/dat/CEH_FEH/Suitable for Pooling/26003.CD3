@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 26003
+[END]
+[CDS DETAILS]
+NAME,Foston Beck
+LOCATION,Foston Mill
+NOMINAL AREA,   59.59
+NOMINAL NGR,5093,4548
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,509350,454900
+CENTROID NGR,GB,504679,465162
+DTM AREA,   59.59
+ALTBAR,  77
+ASPBAR,147
+ASPVAR,0.27
+BFIHOST,0.878
+DPLBAR, 15.04
+DPSBAR, 48.4
+FARL,0.987
+FPEXT,0.1062
+LDP, 24.01
+PROPWET,0.30
+RMED-1H, 10.2
+RMED-1D, 31.6
+RMED-2D, 40.6
+SAAR, 698
+SAAR4170, 723
+SPRHOST,10.43
+URBCONC1990, 0.439
+URBEXT1990,0.0052
+URBLOC1990, 0.914
+URBCONC2000,-9999.000
+URBEXT2000,0.0043
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Adjustable height, rectangular, sharp-edged weir sluice gate. GENERAL: Flows measured by an adjustable height, rectangular, sharp-edged weir sluice gate (2.8m wide). Pre-1976, the sluice position was not accurately recorded and the computed flows are less accurate. Eel pass installed September 2012, to be operated only in eel migration season (April-October). Gate lift or drop alters datum, but it is rarely lifted. Weed growth may cause high peaks to be recorded, but station never bypassed. In contrast to much of catchment, station geology is alluvium overlying boulder clay. STATION HYDROMETRY: No known end-contractions or bypassing. Drowning very unlikely due to the weir drop but weedgrowth can affect u/s levels. Eel pass designed to have minimal impact on the stage-discharge relationship. Single theoretical daily and peak flow rating confirmed by check gauging from bridge used throughout. Flood Studies Report grade A2 assumed due to complicated pen movement. FLOW RECORD: Anomalously high flows in July 2003 thought to be due to temporary damming by landowner. Naturalised flows available from the EA from 1995 to 2002. FLOW REGIME: Groundwater influences the hydrograph with strong seasonal component, which seldom responds to rainfall. Small groundwater abstractions and sewage treatment discharge, probably affect flows but are insignificant at high flows. The local fishing club used to maintain the upstream level by adjusting the weir plate height.
+CATCHMENT,A predominantly rural catchment draining the southern Chalk outcrop of the Yorkshire Wolds (but lower catchment is overlain with Boulder Clay with patches of alluvium, sand and gravel). No known catchment changes.
+Qmed Suitability,Gauged above QMED. No drowning or bypassing reported.
+Pooling Suitability,Gauged to within 28% of AMAX3. No expected change in channel geometry in extrapolated range.
+[END]

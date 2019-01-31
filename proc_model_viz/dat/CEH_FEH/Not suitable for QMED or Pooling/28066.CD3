@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 28066
+[END]
+[CDS DETAILS]
+NAME,Cole
+LOCATION,Coleshill
+NOMINAL AREA,  119.37
+NOMINAL NGR,4181,2873
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,418150,287350
+CENTROID NGR,GB,412034,282181
+DTM AREA,  119.37
+ALTBAR, 127
+ASPBAR, 60
+ASPVAR,0.24
+BFIHOST,0.374
+DPLBAR, 12.89
+DPSBAR, 25.4
+FARL,0.989
+FPEXT,0.1147
+LDP, 31.66
+PROPWET,0.29
+RMED-1H, 10.7
+RMED-1D, 32.0
+RMED-2D, 40.6
+SAAR, 723
+SAAR4170, 732
+SPRHOST,39.66
+URBCONC1990, 0.879
+URBEXT1990,0.3110
+URBLOC1990, 0.857
+URBCONC2000, 0.944
+URBEXT2000,0.3955
+URBLOC2000, 0.869
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Crump profile Flat V weir in trapezoidal channel draining a highly urbanised catchment. GENERAL: Crump profile Flat V weir in trapezoidal channel, 10.9m at V-full, with floodbanks to contain out-of-channel flow. Site also referred to as Bacons End. STATION HYDROMETRY: Gauged from bridge - formerly a cableway of span 48m, which extended across floodbanks. Highest flows inundate narrow floodplain. One rating applied across period of record.There is a massive scatter at present that could lead to underestimation of QMED by up to 30% although a single gauging above 1.5m. Needs further high flow gaugings and a review of the rating above bankfull. FLOW RECORD: Blockage of stilling well during 2012 resulted in under-recording - with re-processed flows for 2012 based on downstream site at San's Barn used. Data for the period 14/07/2012 to 09/08/2012 was unavailable due to gaps in surrogate data from Swan's Barn. FLOW REGIME: Responsive catchment. Moderate modification to flows from effluent returns.
+CATCHMENT,Substantially urbanised catchment (S Birmingham suburbs). Underlying geology: Mercia Mudstone with extensive coverings of Boulder Clay and glacial sand and gravel.
+Qmed Suitability,Although gauged above QMED, significant scatter in gaugings results in estimates being unreliable.
+Pooling Suitability,Limited confidence in rating curve.
+[END]

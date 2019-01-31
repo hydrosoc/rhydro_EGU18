@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 39093
+[END]
+[CDS DETAILS]
+NAME,Brent
+LOCATION,Monks Park
+NOMINAL AREA,  105.94
+NOMINAL NGR,5201,1850
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,520200,185050
+CENTROID NGR,GB,521179,190577
+DTM AREA,  105.94
+ALTBAR,  72
+ASPBAR,168
+ASPVAR,0.18
+BFIHOST,0.197
+DPLBAR,  9.71
+DPSBAR, 38.4
+FARL,0.930
+FPEXT,0.0870
+LDP, 19.42
+PROPWET,0.29
+RMED-1H, 10.8
+RMED-1D, 32.9
+RMED-2D, 42.4
+SAAR, 675
+SAAR4170, 691
+SPRHOST,49.66
+URBCONC1990, 0.884
+URBEXT1990,0.3720
+URBLOC1990, 0.876
+URBCONC2000, 0.939
+URBEXT2000,0.4781
+URBLOC2000, 0.881
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,The station is located in North-West London on the River Brent, below Wealdstone Brook confluence and the Brent Reservoir. GENERAL: Critical depth flume (rectangular) in a concrete channel, d/s of Brent Reservoir (informally called the Welsh Harp Reservoir). STATION HYDROMETRY: One rating applied across period of record. The weir is insensitive at low flows. There are discrepancies between the rating and low flow gaugings. However at stages higher than 0.25m the rating is much more reliable. FLOW RECORD: Peak flow data before water-year 1978/1979 has not been re-calculated using rating 'New1' as there is no stage data available. These events are calcualted through the old rating. New rating gave minimal change to flow magnitude across the flow range so flows pre-1978 are still usable. FLOW REGIME: Responsive regime with very artificial low flow pattern (Welsh Harp reservoir is u/s).
+CATCHMENT,A largely urban/suburban catchment in North-West London.
+Qmed Suitability,Gauged to within 30% of QMED. Good fit to rating.
+Pooling Suitability,Few high flow gaugings. Rating can not be validated beyond QMED and flows influenced by reservoir at the Welsh Harp.
+[END]

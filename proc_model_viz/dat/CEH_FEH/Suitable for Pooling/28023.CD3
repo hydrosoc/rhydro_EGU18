@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 28023
+[END]
+[CDS DETAILS]
+NAME,Wye
+LOCATION,Ashford
+NOMINAL AREA,  152.28
+NOMINAL NGR,4182,3696
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,418200,369700
+CENTROID NGR,GB,411221,374538
+DTM AREA,  152.28
+ALTBAR, 340
+ASPBAR,122
+ASPVAR,0.12
+BFIHOST,0.678
+DPLBAR, 16.46
+DPSBAR,117.7
+FARL,0.976
+FPEXT,0.0231
+LDP, 26.54
+PROPWET,0.52
+RMED-1H, 10.0
+RMED-1D, 37.4
+RMED-2D, 51.1
+SAAR,1165
+SAAR4170,1202
+SPRHOST,14.32
+URBCONC1990, 0.558
+URBEXT1990,0.0121
+URBLOC1990, 1.208
+URBCONC2000, 0.756
+URBEXT2000,0.0229
+URBLOC2000, 1.195
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Open channel section until flat V weir commissioned in 1994. GENERAL: Open channel station opened 1965. Problems with severe seasonal weed growth led to closure of original VA station in 1977 (telemetry of levels maintained). Flat-V weir (1:20 cross-slopes) commissioned 1994. Located just downstream of bridge in meandering reach; channel 11m wide, cableway span 25m. STATION HYDROMETRY: Open channel station well-rated to bankfull by gauging, and the December 1965 event gauged by current meter at 2.36m and 27.9 m3/s. There appears to have been a datum shift in March 1970 of around +0.30m. Applying a datum shift of +0.31m to data before 11/03/1970 and then applying the pre-weir rating gives similar flows to those shown in most cases (maximum difference of under 2 m3/s). Stage hydrographs of AMAX events in early record look reasonable. Although few gaugings above QMED pre- and post-weir, the highest events in both periods were gauged near the peaks. Most recent rating valid from April-1994 when weir installed. Pre-weir rated up to bankfull (2.35m). Post-weir rating valid to 2m; max gauging 1.55m; upper limb based on 2 gaugings. Post-weir high flows are derived from rating curve fitted to spot flow gaugings - gaugings suggest channel control at high flows is stable. Embankment limits spills onto left bank (see photos near peak of October 1998 event). Weir drowns at high flows. Weed/algae problems. FLOW RECORD: Low flows: Pre-weir record of limited value due to shifting bed control caused by annual weed growth. (But 1976 7-day minimum may be lower than that for 1995). No daily flows recorded 1977 to 1994. Data prior to 1965 is not held on record as deemed unreliable. FLOW REGIME: Modest net augmentation to flows from WRW and PWS.
+CATCHMENT,Moderate to high relief catchment in S Pennines. Carboniferous Limestone with basic sills and intrusions in upper catchment. Isolated hill top peat. Buxton in the headwaters, otherwise moorland, grazing, forested main valley.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gaugings at high flows including at out of bank stages. The majority of AMAX events are within bank.
+[END]

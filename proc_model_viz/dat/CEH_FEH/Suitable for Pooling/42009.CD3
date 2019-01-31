@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 42009
+[END]
+[CDS DETAILS]
+NAME,Candover Stream
+LOCATION,Borough Bridge
+NOMINAL AREA,   72.06
+NOMINAL NGR,4568,1323
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,456900,132350
+CENTROID NGR,GB,460965,141288
+DTM AREA,   72.06
+ALTBAR, 139
+ASPBAR,235
+ASPVAR,0.12
+BFIHOST,0.951
+DPLBAR, 15.45
+DPSBAR, 52.2
+FARL,0.930
+FPEXT,0.0392
+LDP, 25.69
+PROPWET,0.34
+RMED-1H, 10.6
+RMED-1D, 34.3
+RMED-2D, 43.3
+SAAR, 819
+SAAR4170, 876
+SPRHOST, 6.06
+URBCONC1990,-9999.000
+URBEXT1990,0.0021
+URBLOC1990,-9999.000
+URBCONC2000, 0.613
+URBEXT2000,0.0106
+URBLOC2000, 1.126
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Crump profile weir draining unresponsive Chalk catchment. Runoff influenced by groundwater abstraction and Itchen groundwater augmentation scheme. GENERAL: Crump profile weir (crest: 2.99m broad) located 100m downstream of bridge. STATION HYDROMETRY: Upper stage limit 0.95m, modular throughout the range. All flows contained and no bypassing. Good record. Theoretical rating for Crump weir. No rating for natural section pre-1970. Confirmed by gaugings to 0.47m. FLOW RECORD: Frequent spikes appear on trace from March 1974 probably due to opening of cress beds immediately upstream. Monthly gaugings available from 1956, prior to weir construction. FLOW REGIME: Runoff reduced by surface and groundwater abstractions. Impact of Itchen groundwater augmentation scheme is important in notable droughts e.g. 1976, 1989, 2005, 2011 and dry summers e.g. 1989. Spray irrigation.
+CATCHMENT,Groundwater & topographical catchments differ considerably. An unresponsive catchment; Upper Chalk with some patches of superficial deposits such as clay-with-flint, 100% pervious. Many perennial springs, often supporting cress beds. Predominantly rural land use with some woodland.
+Qmed Suitability,Gauged above QMED. Good fit to rating.
+Pooling Suitability,Gauged beyond AMAX3.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 60003
+[END]
+[CDS DETAILS]
+NAME,Taf
+LOCATION,Clog-y-Fran
+NOMINAL AREA,  216.44
+NOMINAL NGR,2238,2160
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,223800,216050
+CENTROID NGR,GB,218990,222327
+DTM AREA,  216.44
+ALTBAR, 125
+ASPBAR,178
+ASPVAR,0.09
+BFIHOST,0.553
+DPLBAR, 18.13
+DPSBAR,102.7
+FARL,0.999
+FPEXT,0.0505
+LDP, 38.65
+PROPWET,0.46
+RMED-1H, 11.5
+RMED-1D, 43.3
+RMED-2D, 60.4
+SAAR,1420
+SAAR4170,1412
+SPRHOST,33.96
+URBCONC1990,-9999.000
+URBEXT1990,0.0017
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0040
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station. Natural flow regime. Station used for flood forecasting and drought trigger. GENERAL: Velocity area station. Channel width: 13.9m. Site used for flood forecasting and drought trigger. STATION HYDROMETRY: Lb steep with berm for recorder - recent signs of erosion. Right flood bank at approx 3.2 - 3.4m; considerable overspill during flood events. Channel prone to build-up of silt. Gauged from bridge u/s which can also become constriction at high flows - difficult as bridge in poor condition. Two peak flow ratings applied across period of record. Rating change in early 1990s, exact date of change is estimated. Rating fits gaugings reasonably and some allowance is made for bypass flow. FLOW RECORD: Flow record from 60002 Cothi at Felin Mynachdy used to infill various short periods of missing data (principally in 1986, but also 1991, 2001, 2004). Flows since 1 Jan 2010 reprocessed in 2013 due to new rating, with main affect of lowering low flow GDFs. Peak flows after 01/10/2012 rejected because of overestimation caused by bed movement and bank instability. FLOW REGIME: Natural to within 10% at Q95.
+CATCHMENT,Mainly impermeable strata, Ordovician with some narrow bands of igneous rock, Old Red Sandstone in S. Alluvium in valleys. Soils have permeable substrate. Largely grassland, mainly dairy farming. Very small patches of arable and woodland.
+Qmed Suitability,Gauged above QMED. Rating accounts for some out of bank flow and is well gauged.
+Pooling Suitability,Gauged close to AMAX3 but there is limited confidence the rating accurately accounting for out of bank flow. Borderline suitable for Pooling.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 45008
+[END]
+[CDS DETAILS]
+NAME,Otter
+LOCATION,Fenny Bridges
+NOMINAL AREA,  105.29
+NOMINAL NGR,3114, 985
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,311450,98600
+CENTROID NGR,GB,317424,105041
+DTM AREA,  105.29
+ALTBAR, 183
+ASPBAR,184
+ASPVAR,0.08
+BFIHOST,0.491
+DPLBAR, 13.36
+DPSBAR, 92.9
+FARL,0.994
+FPEXT,0.0361
+LDP, 27.23
+PROPWET,0.40
+RMED-1H, 11.5
+RMED-1D, 40.5
+RMED-2D, 52.4
+SAAR,1040
+SAAR4170,1075
+SPRHOST,38.03
+URBCONC1990, 0.825
+URBEXT1990,0.0092
+URBLOC1990, 0.567
+URBCONC2000, 0.825
+URBEXT2000,0.0192
+URBLOC2000, 0.609
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station opened in 1974 in middle section of 3-arch bridge. GENERAL: Velocity area station opened in 1974, incorporated in middle section of 3-arch bridge, with Flat V control and cableway. STATION HYDROMETRY: Bridge invert acts as control at high levels. Right bank likely to be over-topped at 2.2m stage when bypassing is likely. Good station. Old weir replaced in 1994 with new weir at similar level. One velocity-area rating extended to high flows applied across period of record. Excellent fit to gaugings across stage range. FLOW REGIME: Minor surface water abstractions in catchment including some for public water supply, but generally natural flow regime.
+CATCHMENT,Rises in the Greensand and Gault Clay of the Blackdown Hills. Keuper Marl in the lower reaches. Heathland, pasture and a range of agriculture. Includes urban area of Honiton. No major catchment changes.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged beyond AMAX3.
+[END]

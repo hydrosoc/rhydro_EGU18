@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 19002
+[END]
+[CDS DETAILS]
+NAME,Almond
+LOCATION,Almond Weir
+NOMINAL AREA,   44.37
+NOMINAL NGR,3003,6651
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,300350,665100
+CENTROID NGR,GB,292081,664433
+DTM AREA,   44.37
+ALTBAR, 203
+ASPBAR, 39
+ASPVAR,0.26
+BFIHOST,0.365
+DPLBAR, 10.84
+DPSBAR, 37.2
+FARL,0.995
+FPEXT,0.0872
+LDP, 19.61
+PROPWET,0.57
+RMED-1H,  8.6
+RMED-1D, 34.0
+RMED-2D, 46.1
+SAAR,1016
+SAAR4170,1022
+SPRHOST,47.00
+URBCONC1990, 0.696
+URBEXT1990,0.0327
+URBLOC1990, 0.702
+URBCONC2000, 0.812
+URBEXT2000,0.0513
+URBLOC2000, 0.716
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Broad-crested masonry weir on the River Almond. Land use changes may have affected the flow regime. GENERAL: Broad-crested masonry weir of a former pumping station intake works; section about 6m wide. Prior to 1969 the weir was compounded (lower crest 6.1m wide, upper crest 1.45m wide). A sluice gate, which extended the earlier structure capacity by 2.8cumecs, was permanently closed in 1969. STATION HYDROMETRY: U/s from weir, weed growth has constricted approach channel. Containment good on rb, structure full 1.4m corresponds to bankfull on lb and has been exceeded several times during the period of record. No cableway. A footbridge d/s & a metal vehicle crossing 30m d/s maybe high flow control. Peak flow rating derived from current meter gaugings up to 1m (about 0.8 QMED), simple extrapolation beyond. FLOW REGIME: Land use changes may have affected the flow regime. Effluent return. Mining may lead to accretion and quality concerns. Artificial moorland drainage.
+CATCHMENT,Mainly low-lying plateau moorland (much artificially drained). Mixed permeability bedrock with predominantly superficial deposit cover. Carboniferous limestone, Millstone Grit, Coal Measures. Land use predominantly rough pasture with small mining communities in the valley; substantial afforestation in the headwaters.
+Qmed Suitability,No comment
+Pooling Suitability,poor high flow record
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 27024
+[END]
+[CDS DETAILS]
+NAME,Swale
+LOCATION,Richmond
+NOMINAL AREA,  377.97
+NOMINAL NGR,4146,5006
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,414650,500650
+CENTROID NGR,GB,397707,501072
+DTM AREA,  377.97
+ALTBAR, 411
+ASPBAR, 86
+ASPVAR,0.16
+BFIHOST,0.342
+DPLBAR, 26.16
+DPSBAR,134.4
+FARL,0.999
+FPEXT,0.0280
+LDP, 48.74
+PROPWET,0.62
+RMED-1H, 11.0
+RMED-1D, 42.9
+RMED-2D, 55.6
+SAAR,1226
+SAAR4170,1307
+SPRHOST,49.28
+URBCONC1990,-9999.000
+URBEXT1990,0.0003
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0009
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station in a typical Pennine catchment. Station closed in December 1980. Replaced by 27090. GENERAL: Velocity area station, 20m wide at low flows. Station closed 31-12-1980 when land lease expired and cableway removed, chart recorder was retained; levels are still recorded 100m u/s at Lowenthwaite Bridge. 27090 (Catterick Bridge) commissioned in 1994 a new station 10km d/s to replace Richmond. STATION HYDROMETRY: Unstable control. Two peak flow ratings applied across period of record, the most recent is valid from October 1969. Rated by current meter gauging. Flood Studies Report grade A1. FLOW REGIME: Very responsive regime. Abstraction for Catterick Camp is just u/s, but otherwise catchment shows a natural runoff pattern.
+CATCHMENT,Typical Pennine catchment Almost wholly on Lower Carboniferous Limestone (95%), with outliers of Upper Carboniferous Millstone Grit series on some of the watersheds. Predominantly upland moorland and grass. No known catchment changes.
+Qmed Suitability,Although not gauged to within 30% of QMED. , extrapolation should be reasonable as all flow is contained.
+Pooling Suitability,Few high flow gaugings. Rating can not be validated beyond QMED.
+[END]

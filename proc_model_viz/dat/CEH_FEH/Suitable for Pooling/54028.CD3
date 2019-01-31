@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 54028
+[END]
+[CDS DETAILS]
+NAME,Vyrnwy
+LOCATION,Llanymynech
+NOMINAL AREA,  779.14
+NOMINAL NGR,3252,3196
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,325300,319600
+CENTROID NGR,GB,307743,318661
+DTM AREA,  779.14
+ALTBAR, 291
+ASPBAR,126
+ASPVAR,0.14
+BFIHOST,0.439
+DPLBAR, 35.66
+DPSBAR,161.1
+FARL,0.969
+FPEXT,0.0521
+LDP, 66.94
+PROPWET,0.51
+RMED-1H,  9.9
+RMED-1D, 42.3
+RMED-2D, 56.4
+SAAR,1339
+SAAR4170,1368
+SPRHOST,41.06
+URBCONC1990,-9999.000
+URBEXT1990,0.0007
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0009
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station in a substantially straight reach with natural shoal control. Three major PWS abstractions in the catchment have a substantial effect on the flow regime. GENERAL: Velocity area station, 35m wide, in a substantially straight reach with natural shoal control. STATION HYDROMETRY: GDF rating relatively stable. Out-of-bank flows gauged from a cableway extension over the floodplain. Flow gauged to bank full. Two peak flow ratings applied across period of record, the most recent is valid from January-2001. Rating changes due to bed shift. At highest flows a small amount of water bypasses the cableway on the lb - flow estimated. FLOW RECORD: Flows for period 28/03/06 to 01/01/10 reprocessed following rating review. FLOW REGIME: Three major PWS abstractions in the catchment have a substantial effect on the flow regime, notably the supply exported to Liverpool from Lake Vyrnwy.
+CATCHMENT,Steep headwater streams and broad-bottomed valleys; storage in valley sands and gravels. Predominantly Silurian and Ordovician sandstones and mudstones overlain by Boulder Clay and sands and gravels in the main tributaries. Land use is moorland, forestry and grazing.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged beyond AMAX3. Excellent rating determined above bank full, confirmed by gaugings.
+[END]

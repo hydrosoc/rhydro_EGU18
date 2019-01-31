@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 75003
+[END]
+[CDS DETAILS]
+NAME,Derwent
+LOCATION,Ouse Bridge
+NOMINAL AREA,  363.04
+NOMINAL NGR,3198,5321
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,319900,532100
+CENTROID NGR,GB,327778,521980
+DTM AREA,  363.04
+ALTBAR, 334
+ASPBAR,331
+ASPVAR,0.13
+BFIHOST,0.439
+DPLBAR, 21.09
+DPSBAR,247.4
+FARL,0.789
+FPEXT,0.0768
+LDP, 41.53
+PROPWET,0.63
+RMED-1H, 12.3
+RMED-1D, 61.8
+RMED-2D, 83.0
+SAAR,2064
+SAAR4170,2155
+SPRHOST,44.49
+URBCONC1990,-9999.000
+URBEXT1990,0.0018
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0026
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station gauging outflows from Bassenthwaite Lake. GENERAL: Velocity-area station opened March 1968. Channel 30m wide immediately downstream of Ouse Bridge itself, which is at the outlet to Bassenthwaite Lake. Station hut was originally on left bank, moved to right bank 1994/95, and rebuilt after Nov 2009 event. STATION HYDROMETRY: Low flow control is an artificial pipe about 120m downstream, close to an island which acts as a control for higher flows. Stony bank without much weed growth. Performs reasonably well at flood flows. New floodbank, 2006, constructed on right bank, raising containment level from 2.3m to 2.8m; rarely overtopped. However, the new flood bank was overtopped in the exceptional November 2009 event, which demolished the walls of the gauging hut (see photo). Station has permanent cableway. Rated by current meter to top of flood banks, with modelled rating above. Ratings applied before and after bank raising in June 2006, and after effects of November 2009 event. FLOW REGIME: Derwent Water, Bassenthwaite Lake and Thirlmere Reservoir moderate flood discharges.
+CATCHMENT,An entirely rural catchment rising to the summit of Helvellyn. Entirely on impervious Lower Palaeozoic rocks supporting mainly rough pasture and moorland with deeply incised headwaters. Drift is confined to the valley floor. Catchment contains two large natural water bodies, Derwent Water and Bassenthwaite Lake, also Thirlmere Reservoir. Entirely rural, mainly rough pasture and moorland. No catchment changes known.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged to within 24% of AMAX3. Confident in hydraulic model extension to rating.
+[END]

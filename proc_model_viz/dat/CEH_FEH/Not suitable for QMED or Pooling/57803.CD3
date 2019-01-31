@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 57803
+[END]
+[CDS DETAILS]
+NAME,Clun
+LOCATION,Cross Inn
+NOMINAL AREA,   26.51
+NOMINAL NGR,3053,1824
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,305300,182450
+CENTROID NGR,GB,307584,184431
+DTM AREA,   26.51
+ALTBAR, 117
+ASPBAR,210
+ASPVAR,0.16
+BFIHOST,0.414
+DPLBAR,  5.32
+DPSBAR, 86.3
+FARL,0.993
+FPEXT,0.0557
+LDP,  9.74
+PROPWET,0.47
+RMED-1H, 12.2
+RMED-1D, 48.9
+RMED-2D, 61.9
+SAAR,1378
+SAAR4170,1436
+SPRHOST,40.56
+URBCONC1990, 0.730
+URBEXT1990,0.0542
+URBLOC1990, 1.130
+URBCONC2000, 0.851
+URBEXT2000,0.0841
+URBLOC2000, 1.114
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Natural river section in low-lying catchment. Station closed in 1980. GENERAL: Natural river section. Station closed in 1980. STATION HYDROMETRY: Recorder was on the u/s side of a single span road bridge which acted as control at high stages. There was also a low flow control bar in the bed d/s. No cableway. One peak flow rating applied across period of record. Recommended rating upper limit at bank full (previous limit 2.5m). Rating does not consider out of bank flows and no gaugings found to confirm rating.
+CATCHMENT,The catchment mainly lies on an outcrop of Coal Measures and, in the south, Carboniferous Limestone. There is an extensive cover of boulder clay. The catchment is fairly low-lying.
+Qmed Suitability,No gaugings available to validate rating.
+Pooling Suitability,No gaugings available to validate rating.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 23033
+[END]
+[CDS DETAILS]
+NAME,Rede
+LOCATION,Otterburn
+NOMINAL AREA,  180.63
+NOMINAL NGR,3864,5944
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,386350,594400
+CENTROID NGR,GB,378734,601179
+DTM AREA,  180.63
+ALTBAR, 329
+ASPBAR,122
+ASPVAR,0.16
+BFIHOST,0.310
+DPLBAR, 14.68
+DPSBAR,110.6
+FARL,0.963
+FPEXT,0.0305
+LDP, 28.11
+PROPWET,0.49
+RMED-1H,  9.6
+RMED-1D, 33.8
+RMED-2D, 45.4
+SAAR,1024
+SAAR4170,1124
+SPRHOST,51.15
+URBCONC1990,-9999.000
+URBEXT1990,0.0005
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0003
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Ultrasonic peak flow station draining the Cheviot Hills. GENERAL: A four path ultrasonic gauge in open channel, installed to develop a rating. Channel is contained to 3m, where after it flows over a 60m wide flood plain on the right bank. All transducers mounted in the channel. STATION HYDROMETRY: One peak flow rating applied across period of record derived from ultrasonic velocity data. Rating only takes rough account of out of bank flow which is not measured by the ultrasonic meter. Good fit to gaugings. FLOW REGIME: Catchment includes Catcleugh Reservoir, which controls 40 sq.km of the catchment.
+CATCHMENT,An elongated catchment draining southwards from the Cheviot Hills. Partly within Kielder Forest Park, land use largely upland forestry and rough grazing. No known catchment changes.
+Qmed Suitability,Yes - Although check gauged to only around half QMED, ultrasonic should be reliable to QMED.
+Pooling Suitability,No - Out-of-bank flow behind transducers and not gauged.
+[END]

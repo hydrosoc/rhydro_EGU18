@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 54008
+[END]
+[CDS DETAILS]
+NAME,Teme
+LOCATION,Tenbury
+NOMINAL AREA, 1124.62
+NOMINAL NGR,3597,2685
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,359750,268500
+CENTROID NGR,GB,340471,281430
+DTM AREA, 1124.62
+ALTBAR, 231
+ASPBAR,141
+ASPVAR,0.12
+BFIHOST,0.612
+DPLBAR, 45.10
+DPSBAR,116.1
+FARL,0.994
+FPEXT,0.0635
+LDP, 82.75
+PROPWET,0.36
+RMED-1H, 10.2
+RMED-1D, 33.4
+RMED-2D, 44.3
+SAAR, 841
+SAAR4170, 877
+SPRHOST,28.53
+URBCONC1990, 0.521
+URBEXT1990,0.0064
+URBLOC1990, 0.739
+URBCONC2000, 0.709
+URBEXT2000,0.0060
+URBLOC2000, 0.735
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station with gravel control well gauged to and rarely exceeding bankfull. GENERAL: Velocity area station with gravel control. Well gauged to bankfull - open channel site with cableway. Straight wide channel, susceptible to bed movement. U/s shoaling may render low flow rating variable from year to year. Rarely out of bank. Installation of Flat V at d/s 54029 has largely eliminated apparent inconsistency between the two flow series. STATION HYDROMETRY: Well gauged to bankfull - open channel site with cableway. Straight wide channel, susceptible to bed movement. U/s shoaling may render low flow rating variable from year to year. Rarely out of bank. One rating applied across period of record. Some scatter in gaugings but reasonable fit to bank full. FLOW RECORD: Due to gravel shift during 2007 flood, flows post 23/07/2007 reprocessed using updated rating. FLOW REGIME: Negligible abstraction and effluent flows -natural flow regime.
+CATCHMENT,Left bank characterised by high relief hills and broad valleys. Steep and narrow on right bank. Geology: mainly Palaeozoic sediments with Pre-Cambrian crystalline rocks of the Longmynd. Relatively Drift free; some valley gravel and Boulder Clay in the lower reaches. Landuse mainly forestry and grazing.
+Qmed Suitability,Gauged above QMED. Flows contained and good fit to rating.
+Pooling Suitability,Gauged to AMAX3, some scatter in gaugings at this point evident but estimates are thought to be reliable.
+[END]

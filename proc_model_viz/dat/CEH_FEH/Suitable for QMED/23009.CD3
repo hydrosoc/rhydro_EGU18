@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 23009
+[END]
+[CDS DETAILS]
+NAME,South Tyne
+LOCATION,Alston
+NOMINAL AREA,  118.68
+NOMINAL NGR,3715,5465
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,371550,546550
+CENTROID NGR,GB,371823,540060
+DTM AREA,  118.68
+ALTBAR, 514
+ASPBAR,  5
+ASPVAR,0.25
+BFIHOST,0.266
+DPLBAR, 10.14
+DPSBAR,119.0
+FARL,0.999
+FPEXT,0.0252
+LDP, 16.54
+PROPWET,0.64
+RMED-1H, 11.0
+RMED-1D, 45.0
+RMED-2D, 61.2
+SAAR,1522
+SAAR4170,1708
+SPRHOST,53.70
+URBCONC1990,-9999.000
+URBEXT1990,0.0006
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0013
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station with informal flat V weir in a Pennine catchment with a responsive, natural regime. GENERAL: Velocity area station with informal flat V control - subject to boulder damage; weir has undergone several reconstructions most recently in 2001. All flows contained. Cableway removed in 1980. Multi-path ultrasonics installed in October 1999 to extend high flow rating. Maintained as a 'chart only' site for part of record. STATION HYDROMETRY: Two peak flow ratings applied across period of record, the most recent is valid from November 1992. Current rating developed from ultrasonic velocity data (to 1.56m) in 2005 and applied back to 31/01/1995. Ultrasonics unreliable at high flows. Analysis of uncertainties in the ultrasonic rating calculation suggests the lower and upper bounds for QMAX are -25% and +17%. FLOW RECORD: Erosion problems and lack of maintenance 1985-1992 mean period of unreliable data. Gap in POT data 1982 to 1992 means no rating applied for that period. FLOW REGIME: Very responsive, natural regime. No known artificial influences.
+CATCHMENT,Steep Pennine moorland catchment developed on Middle and Upper Carboniferous Limestone and Millstone Grit. Land use is predominantly rough grazing. No known catchment changes.
+Qmed Suitability,Although only gauged to 35% of QMED, channel is regular in shape and rating should be reasonable.
+Pooling Suitability,Few high flow gaugings. Out of bank flows not considered, rating can not be validated beyond QMED.
+[END]

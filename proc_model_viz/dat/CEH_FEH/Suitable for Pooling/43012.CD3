@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 43012
+[END]
+[CDS DETAILS]
+NAME,Wylye
+LOCATION,Norton Bavant
+NOMINAL AREA,  114.01
+NOMINAL NGR,3908,1427
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,390850,142750
+CENTROID NGR,GB,385023,140062
+DTM AREA,  114.01
+ALTBAR, 167
+ASPBAR, 99
+ASPVAR,0.20
+BFIHOST,0.885
+DPLBAR, 12.98
+DPSBAR, 74.0
+FARL,0.975
+FPEXT,0.0592
+LDP, 25.15
+PROPWET,0.35
+RMED-1H, 11.0
+RMED-1D, 34.9
+RMED-2D, 47.8
+SAAR, 925
+SAAR4170, 951
+SPRHOST,11.19
+URBCONC1990, 0.676
+URBEXT1990,0.0188
+URBLOC1990, 0.513
+URBCONC2000, 0.822
+URBEXT2000,0.0256
+URBLOC2000, 0.498
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Crump profile weir on River Wylye. GENERAL: Crump profile weir, crest 6.09m broad. Full range station, theoretically rated. STATION HYDROMETRY: Out-of-bank flow may occur just upstream before bankfull at gauging station. Bypassing occurs during very extreme events but is not a major issue. One theoretical rating applied with no spot flows available at high flows for confirmation. Upper limit of rating is 0.41m/3.39cumecs. It is extrapolated beyond that limit. FLOW REGIME: Some augmentation of flow by effluent returns. Substantial upstream groundwater abstractions and hatcheries affect flow.
+CATCHMENT,Geology is predominantly Chalk with Upper Greensand and Gault in higher parts of catchment. The upper Greensand outcrops in the higher parts of the catchment around Kilmington and further downstream between Norton Bavant and Warminster there is a large outcrop of Upper Greensand associated with an anticlinal structure trending east/west. To the south of this outcrop there is an appreciable Chalk outcrop consisting mainly of Middle and Lower Chalk with limited outcrops of Upper Chalk. Land use is rural. No major catchment changes.
+Qmed Suitability,Theoretical rating expected to perform well to QMED.
+Pooling Suitability,Few high flow gaugings but all flows contained and theoretical rating expected to perform satisfactorily.
+[END]

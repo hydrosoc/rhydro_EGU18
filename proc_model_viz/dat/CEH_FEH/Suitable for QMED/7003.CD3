@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+  7003
+[END]
+[CDS DETAILS]
+NAME,Lossie
+LOCATION,Sheriffmills
+NOMINAL AREA,  216.66
+NOMINAL NGR,3194,8626
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,319400,862650
+CENTROID NGR,GB,314503,853472
+DTM AREA,  216.66
+ALTBAR, 192
+ASPBAR,  3
+ASPVAR,0.34
+BFIHOST,0.577
+DPLBAR, 18.73
+DPSBAR, 79.1
+FARL,0.979
+FPEXT,0.0741
+LDP, 39.56
+PROPWET,0.42
+RMED-1H,  9.1
+RMED-1D, 37.5
+RMED-2D, 48.1
+SAAR, 833
+SAAR4170, 890
+SPRHOST,34.65
+URBCONC1990,-9999.000
+URBEXT1990,0.0003
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0007
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station affected by bypassing. Low flows affected by abstraction for PWS. GENERAL: Velocity area station; about 23m wide section. Flood warning station. Levels recorded from 20/06/58, flows from 01/10/63. Station was moved upstream by 150m in September 1978. Old site had no bypassing problems (peak flow record is good) and had a stable rating. STATION HYDROMETRY: The main control is a long and insensitive stone weir 350m d/s. Station experiences significant bypassing (4 times in 10 years) at flows above 2.3m via a depression on the right bank (e.g. July 1997 flow based on rating is 92 cumecs, but additional bypassing estimated to be about 30 cumecs). Cableway rated. Ratings derived from current meter gaugings up to 64 cumecs (about 1.3QMED), simple extrapolation beyond. Rating underestimates highest flows by about 5-7%. FLOW REGIME: Flows affected by abstraction for PWS - Glenlatterach Reservoir provides supply for Elgin. Abstraction has moderate impact on low flows (approx. 20% of the Q95 flow).
+CATCHMENT,Upland headwaters. Bedrock Schists, gneisses with some ORS. Extensive superficial deposits. Some moorland and tree cover in headwaters, arable in valley bottoms. Notable floodplain u/s. No significant catchment changes known.
+Qmed Suitability,Full period of record is fit for QMED estimation
+Pooling Suitability,Old site (data up to 1978) is fit for pooling. Present site (1978 to present) not fit for pooling
+[END]

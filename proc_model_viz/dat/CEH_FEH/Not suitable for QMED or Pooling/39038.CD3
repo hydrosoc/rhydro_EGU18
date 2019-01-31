@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 39038
+[END]
+[CDS DETAILS]
+NAME,Thame
+LOCATION,Shabbington
+NOMINAL AREA,  438.77
+NOMINAL NGR,4670,2055
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,467000,205550
+CENTROID NGR,GB,479644,211193
+DTM AREA,  438.77
+ALTBAR, 101
+ASPBAR,315
+ASPVAR,0.15
+BFIHOST,0.499
+DPLBAR, 25.69
+DPSBAR, 35.0
+FARL,0.982
+FPEXT,0.1598
+LDP, 51.69
+PROPWET,0.31
+RMED-1H, 10.1
+RMED-1D, 31.6
+RMED-2D, 38.9
+SAAR, 647
+SAAR4170, 663
+SPRHOST,37.23
+URBCONC1990, 0.636
+URBEXT1990,0.0238
+URBLOC1990, 1.064
+URBCONC2000, 0.830
+URBEXT2000,0.0411
+URBLOC2000, 1.096
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,A station that was decommissioned in 1994 following the commissioning of a downstream replacement on the River Thame at Wheatley (39105). GENERAL: Broad-crested weir (width 10.5m). Shabbington was decommissioned as a main flow station in 1994. It was replaced by the Thame @ Wheatley (39105), a newly commissioned multi-path (cross-configuration) ultrasonic gauging station in 1989, that is located 10.5km d/s, where the flood plain flow is constrained by an old railway embankment. STATION HYDROMETRY: C/m calibration that is imprecise at peak flows when flows often exceed bank full. Some bypassing may occur on rb above 1.0m. One rating applied across POR. Rating is theoretical but modified for non-modular flow using tail water measurements. FLOW REGIME: Runoff influenced by groundwater abstraction/recharge and increased by effluent returns. Responsive regime with a small baseflow flow contribution from the Chalk scarp of the Chilterns.
+CATCHMENT,A rural catchment draining from the Chilterns scarp (Chalk) but developed mainly on clays and Greensand.
+Qmed Suitability,Not gauged to within 30% of QMED. Weir drowns very easily and rating uncertain.
+Pooling Suitability,Weir drowns very easily and is sometimes bypassed. Rating uncertain beyond 1m.
+[END]

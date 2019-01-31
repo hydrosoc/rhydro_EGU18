@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 67008
+[END]
+[CDS DETAILS]
+NAME,Alyn
+LOCATION,Pont-y-Capel
+NOMINAL AREA,  225.65
+NOMINAL NGR,3335,3540
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,333550,354050
+CENTROID NGR,GB,323013,359066
+DTM AREA,  225.65
+ALTBAR, 233
+ASPBAR, 63
+ASPVAR,0.18
+BFIHOST,0.591
+DPLBAR, 25.24
+DPSBAR,108.2
+FARL,0.990
+FPEXT,0.0480
+LDP, 51.92
+PROPWET,0.41
+RMED-1H, 10.1
+RMED-1D, 35.0
+RMED-2D, 45.5
+SAAR, 917
+SAAR4170, 901
+SPRHOST,29.84
+URBCONC1990, 0.681
+URBEXT1990,0.0204
+URBLOC1990, 0.574
+URBCONC2000, 0.817
+URBEXT2000,0.0291
+URBLOC2000, 0.567
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Asymmetrical compound crump weir. Flow affected by abstractions and returns. GENERAL: Asymmetrical compound crump weir (two crests). STATION HYDROMETRY: Divide wall was lowered in 1986 as debris regularly blocked the lower part, which may still occur. Some weed growth on low flow crest. Baffles installed on downstream slope of lower weir crest to assist with fish passage in 2011. Current meter calibration took place before and after. Weir drowned above 1m. Structure not thought to have been bypassed. High flow gaugings have been taken (>40 cumecs). Three peak flow ratings applied across period of record. Rating is gauged above QMED. FLOW RECORD: Flow data from 1 Jun 1965 reprocessed in 2013 following rating change, improving definition of low flows. FLOW REGIME: Small reservoirs in catchment may affect flows. Abstractions for industry/agriculture. Loss of flow to mine drainage tunnels. Some effluent returns.
+CATCHMENT,Ill-defined catchment boundary to NE and SE. Mixed geology, generally of moderate permeability; Carboniferous Limestone. Extensive glacial deposits over Coal Measures. Major loss of water from upper 70 sq.km. in limestone and mine drainage tunnels. Mostly grassland pasture, some woodland and urban development in low-lying areas to W.
+Qmed Suitability,Gauged above QMED. QMED is in bank and there are multiple gaugings available above it
+Pooling Suitability,Gauged beyond AMAX3. There are several high flow gaugings available above AMAX3. Good confidence in the rating at these flows.
+[END]

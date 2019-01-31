@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 32002
+[END]
+[CDS DETAILS]
+NAME,Willow Brook
+LOCATION,Fotheringhay
+NOMINAL AREA,   94.47
+NOMINAL NGR,5067,2933
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,506700,293300
+CENTROID NGR,GB,494372,292490
+DTM AREA,   94.47
+ALTBAR,  88
+ASPBAR,111
+ASPVAR,0.23
+BFIHOST,0.374
+DPLBAR, 20.00
+DPSBAR, 29.2
+FARL,0.899
+FPEXT,0.0883
+LDP, 37.59
+PROPWET,0.25
+RMED-1H, 12.2
+RMED-1D, 30.8
+RMED-2D, 38.8
+SAAR, 603
+SAAR4170, 607
+SPRHOST,43.18
+URBCONC1990, 0.746
+URBEXT1990,0.0642
+URBLOC1990, 1.390
+URBCONC2000, 0.867
+URBEXT2000,0.1093
+URBLOC2000, 1.368
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Flat V weir gauging a predominantly urban catchment with significant urban cover in the upper part. Artificial influences evident at low flows. GENERAL: From 2000, Flat V weir (with wall height 16.42mAOD). Pre-2000, structure was a flume (1.676m wide throat, wall height 16.6mAOD). STATION HYDROMETRY: Flat V weir is subject to bypassing and considered unreliable above 1.2m. Pre-2000 flume rating based on model tests, bypassing occurred at 6.5 cumecs and was not allowed for. The most recent rating is valid from 2000 when weir reconstructed. Two ratings applied across period of record. Pre-2000 rating considered unreliable above 1.38m; post-2000 rating considered unreliable above 1.2m. Flood plain flow is considerable above QMED. FLOW RECORD: 1938-2000 record considered unreliable above 1.38m because of poor rating for that period. FLOW REGIME: Three small reservoirs continue to have minor influence on low flows. Low flows significantly influenced by abstractions for Corby steelworks (including imports from Eye Brook) until 1980.
+CATCHMENT,Underlain by clay in headwaters and some l'st, around half Boulder Clay cover. Largely rural with mixed farming in lower catchment, but includes Corby in upper catchment. Diversion caused loss of 4.66 sq.km of catchment to Harpers Brook in 1963.
+Qmed Suitability,Pre-2000 data suitable for QMED estimation.
+Pooling Suitability,Both ratings unreliable at high flows. Flume bypassed at high flows resulting in considerable flood plain flow. New weir has not been gauged at high flows but is likely to be similarly bypassed.
+[END]

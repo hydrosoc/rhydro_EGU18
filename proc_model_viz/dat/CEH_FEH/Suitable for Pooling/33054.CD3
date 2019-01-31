@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 33054
+[END]
+[CDS DETAILS]
+NAME,Babingley
+LOCATION,Castle Rising
+NOMINAL AREA,   48.53
+NOMINAL NGR,5680,3252
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,568000,325250
+CENTROID NGR,GB,574755,325733
+DTM AREA,   48.53
+ALTBAR,  52
+ASPBAR,288
+ASPVAR,0.15
+BFIHOST,0.906
+DPLBAR,  9.57
+DPSBAR, 28.4
+FARL,0.944
+FPEXT,0.1184
+LDP, 17.78
+PROPWET,0.24
+RMED-1H, 11.0
+RMED-1D, 29.9
+RMED-2D, 37.6
+SAAR, 686
+SAAR4170, 694
+SPRHOST, 9.74
+URBCONC1990, 0.458
+URBEXT1990,0.0087
+URBLOC1990, 0.949
+URBCONC2000, 0.597
+URBEXT2000,0.0053
+URBLOC2000, 0.961
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Crump weir gauging a river with high baseflow component. Catchment is predominantly Chalk bedrock and arable land. GENERAL: Triangular profile Flat V Crump weir, 4.5m broad; level of wingwalls is 1.2m above crest. STATION HYDROMETRY: Weir is subject to drowning. One rating applied across period of record. FLOW REGIME: High baseflow catchment. Significant gw abstraction for PWS and industry/agriculture. Runoff increased by effluent returns.
+CATCHMENT,Predominantly Chalk, patchy cover of Boulder Clay, sands, and gravels. Predominantly arable land use. Gw catchment area exceeds topographic divide.
+Qmed Suitability,Flow remains modular and theoretical rating expected to perform well.
+Pooling Suitability,AMAX3 is above modular limit but remains within wing walls. No gaugings are available to confirm rating beyond QMED but theoretical is expected to perform well.
+[END]

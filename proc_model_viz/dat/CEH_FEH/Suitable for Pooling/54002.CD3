@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 54002
+[END]
+[CDS DETAILS]
+NAME,Avon
+LOCATION,Evesham
+NOMINAL AREA, 2207.95
+NOMINAL NGR,4040,2437
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,404000,243700
+CENTROID NGR,GB,430858,262006
+DTM AREA, 2207.95
+ALTBAR,  99
+ASPBAR,293
+ASPVAR,0.03
+BFIHOST,0.401
+DPLBAR, 65.37
+DPSBAR, 37.8
+FARL,0.974
+FPEXT,0.1142
+LDP,131.58
+PROPWET,0.29
+RMED-1H, 11.0
+RMED-1D, 32.9
+RMED-2D, 40.9
+SAAR, 654
+SAAR4170, 672
+SPRHOST,43.06
+URBCONC1990, 0.737
+URBEXT1990,0.0415
+URBLOC1990, 1.036
+URBCONC2000, 0.848
+URBEXT2000,0.0488
+URBLOC2000, 1.070
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station with gauge site can measure out-of-bank flows providing lengthy historical series of flood peaks. GENERAL: Velocity area station with gauge site can measure out-of-bank flows. STATION HYDROMETRY: Bed not stable with lots of silt that shifts; bed can move by up to 2m. Main control is Chadbury weir, sluices and lock approx 4.5km downstream. Earlier in record gaugings were taken at Hampton Parks cableway 2.5km downstream, below confluence with River Isbourne. Gaugings taken at the same day at Hinton were subtracted from this to estimate flow at Evesham. There have been some errors found in these calculations for the earlier gaugings. Now majority of gaugings taken just downstream of Evesham's Workman Bridge. Navigation control at lock downstream. Tributary flow is influential at point between gauging section and level recording - requires flow adjustment. Low flow velocities make gauging difficult. Two peak flow ratings applied across period of record. Rating fits spot gaugings very well including at medium to high flows above bankfull. Coarse early low flow record owing to crude rating. Gauge site/s can measure out-of-bank flows. FLOW RECORD: Coarse early low flow record owing to crude rating. Data available back to 1848, but only post 1937 data included in AMAX series for analysis (other data available as additional information). Pre 1937 data appears to be peaks over a high threshold that gives an event every few years. FLOW REGIME: Extensive modification to flow regime from abstractions and returns. At low flows influenced by navigation - reach is impounded with locking.
+CATCHMENT,Large catchment of low relief, draining argillaceous rocks almost exclusively. Contains some large towns, but chief land use is agriculture.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged to within 11% of AMAX3. Some gaugings are above bank full.
+[END]

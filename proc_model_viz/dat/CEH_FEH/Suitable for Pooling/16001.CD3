@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 16001
+[END]
+[CDS DETAILS]
+NAME,Earn
+LOCATION,Kinkell Bridge
+NOMINAL AREA,  584.67
+NOMINAL NGR,2933,7166
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,293300,716650
+CENTROID NGR,GB,275774,722834
+DTM AREA,  584.67
+ALTBAR, 315
+ASPBAR,140
+ASPVAR,0.11
+BFIHOST,0.487
+DPLBAR, 31.18
+DPSBAR,177.2
+FARL,0.894
+FPEXT,0.0560
+LDP, 55.58
+PROPWET,0.63
+RMED-1H,  9.8
+RMED-1D, 45.9
+RMED-2D, 63.4
+SAAR,1505
+SAAR4170,1531
+SPRHOST,41.12
+URBCONC1990,-9999.000
+URBEXT1990,0.0017
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0025
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station draining the southern Grampians. A third of the catchment is controlled for HEP. GENERAL: Velocity area station, about 35m wide. STATION HYDROMETRY: Cableway present, natural control. An allowance is made for any high flows which bypass gauged section on lb above about 2.2m. Weed growth can be a problem at low flows. Ratings derived from current meter gaugings up to 3.2m (about 1.2QMED), simple extrapolation beyond. Hydraulic reconstruction of largest event (1993) to check maximum extent of rating curves. FLOW RECORD: Monthly naturalised flows available 1963-1987. FLOW REGIME: 189 sq km (32%) of the catchment has been controlled for hydroelectric power since 1958. Loch Earn direct (1958) catchment 122.51 sq km, reservoir diversion capacity 16.1 cumecs. Loch Lednock direct (1957) catchment 19.2 sq km, reservoir diversion capacity 10.5 cumecs. Loch Turret is used for public water supply. Import of water from Tay catchment into Lednock Reservoir.
+CATCHMENT,Drains the southern Grampians; mountainous, often snowy in winter. Steep slopes plus extensive flatter areas in lower parts. Metamorphic bedrock in west, sandstone elsewhere with superficial deposits in valley. Mixed agricultural use in east; forestry and rough grazing in west. Notable floodplains with some agricultural flood embankments. HEP has developed within the catchment.
+Qmed Suitability,No comment
+Pooling Suitability,No comment
+[END]

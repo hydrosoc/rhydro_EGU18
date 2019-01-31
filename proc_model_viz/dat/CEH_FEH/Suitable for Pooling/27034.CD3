@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 27034
+[END]
+[CDS DETAILS]
+NAME,Ure
+LOCATION,Kilgram Bridge
+NOMINAL AREA,  510.94
+NOMINAL NGR,4190,4859
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,419050,486000
+CENTROID NGR,GB,396731,487691
+DTM AREA,  510.94
+ALTBAR, 366
+ASPBAR, 83
+ASPVAR,0.14
+BFIHOST,0.386
+DPLBAR, 33.45
+DPSBAR,129.6
+FARL,0.990
+FPEXT,0.0452
+LDP, 60.67
+PROPWET,0.63
+RMED-1H, 11.2
+RMED-1D, 45.3
+RMED-2D, 59.8
+SAAR,1337
+SAAR4170,1344
+SPRHOST,46.93
+URBCONC1990,-9999.000
+URBEXT1990,0.0016
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0043
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station. Kilgram Bridge acts as a control at low and high flows. GENERAL: Velocity area station. Low flow control is exercised by the sill of Kilgram Bridge 70m d/s. The bridge piers present a sufficient obstruction to cause critical depth, even at low flows. Road bridge acts as a weir at the very highest flows. STATION HYDROMETRY: Good measurement of high flows; some floodplain storage over the left bank, but all flow is gauged through the section. Daily and peak flows rated by current meter at a cableway. One peak flow rating applied across period of record. Reasonable fit to available gaugings. Flood Studies Report grade A1. FLOW REGIME: Washland storage, minor headwater reservoirs and the Leeds-Liverpool Canal influence the flow pattern. In addition, an abstraction by Thorton Steward (operational from 1977) is just u/s.
+CATCHMENT,Geology: mainly Carboniferous Limestone with Millstone Grit outliers, with significant Boulder Clay cover. The stretch from Middleham to Westwick is Millstone Grit Series, though extensively covered by Alluvium. Rural, predominantly grassland catchment draining from moorland Pennine headwaters. No known catchment changes.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged to within 18% of AMAX3. No bypassing reported.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 27032
+[END]
+[CDS DETAILS]
+NAME,Hebden Beck
+LOCATION,Hebden
+NOMINAL AREA,   22.25
+NOMINAL NGR,4024,4642
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,402450,464250
+CENTROID NGR,GB,401917,469050
+DTM AREA,   22.25
+ALTBAR, 453
+ASPBAR,180
+ASPVAR,0.40
+BFIHOST,0.252
+DPLBAR,  6.26
+DPSBAR, 99.4
+FARL,0.997
+FPEXT,0.0206
+LDP, 12.43
+PROPWET,0.62
+RMED-1H, 11.5
+RMED-1D, 42.0
+RMED-2D, 54.9
+SAAR,1433
+SAAR4170,1451
+SPRHOST,57.36
+URBCONC1990,-9999.000
+URBEXT1990,0.0000
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0000
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Thin-plat V notch weir with a parallel Crump weir. Partially Karstic catchment, true drainage area unknown. GENERAL: Thin-plate V notch (half 90 degree) in parallel with 3.35m wide Crump profile weir. V notch capacity limited by horizontal cut-off wall, at high flows it acts as a submerged orifice. V notch was installed for its great sensitivity at low flows, as Craven Water Board were not permitted to abstract when flow fell below 0.01 cumecs. Steep stream with heavy bedload - substantial u/s accretion, some erosion evident on weir surfaces. STATION HYDROMETRY: No bypassing, but wing walls may be overtopped. One peak flow rating applied across period of record derived from V-notch and Crump weir formulae and confirmed by current meter gaugings. Rating agrees well with gaugings at high flows. Flood Studies Report grade A1. FLOW RECORD: Considered to provide reasonable data. Largest recorded event (October 1998) may have been due to an u/s blockage and subsequent 'dam break'. Suspect flat trace in May-June 2004 due to instrumentation problems. Peak flow on 20/06/2014 thought to be correct, 15.6mm of rain recorded at Grimwith tipping bucket raingauge. FLOW REGIME: Some abstraction (27032 monitors residual flow), but predominantly natural flow regime. Exhibits unresponsive behaviour during some periods of lower flow (e.g., 1999, 2000), probably due to sinkholes in catchment. Flow regime influenced by old mine workings. The Karstic portion of the catchment only contributes runoff in exceptional floods.
+CATCHMENT,Steep, upland catchment; mostly moorland developed on Carboniferous Limestone, Millstone Grit and Shales. The watercourse flows in a boulder channel. The catchment is partly Karstic Limestone and has numerous swallow holes and resurgences; true drainage area uncertain. No known catchment changes.
+Qmed Suitability,All flows are contained and extrapolation of theoretical formula should be acceptable.
+Pooling Suitability,No high flow gaugings but all flows are contained in steep channel which should allow reasonable extrapolation of rating.
+[END]

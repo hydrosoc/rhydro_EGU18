@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 22004
+[END]
+[CDS DETAILS]
+NAME,Aln
+LOCATION,Hawkhill
+NOMINAL AREA,  202.91
+NOMINAL NGR,4211,6129
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,421100,612900
+CENTROID NGR,GB,410419,614240
+DTM AREA,  202.91
+ALTBAR, 134
+ASPBAR,103
+ASPVAR,0.15
+BFIHOST,0.427
+DPLBAR, 19.60
+DPSBAR, 80.0
+FARL,0.997
+FPEXT,0.0406
+LDP, 34.61
+PROPWET,0.45
+RMED-1H,  9.0
+RMED-1D, 35.8
+RMED-2D, 44.3
+SAAR, 758
+SAAR4170, 753
+SPRHOST,35.72
+URBCONC1990,-9999.000
+URBEXT1990,0.0046
+URBLOC1990,-9999.000
+URBCONC2000, 0.811
+URBEXT2000,0.0056
+URBLOC2000, 0.325
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station with cableway with a gabion basket weir added as a low flow control. Site closed 1980. GENERAL: Velocity area station with cableway, then informal gabion basket weir (low flow control) after 1972; high flow control was possibly at d/s bridge. Unstable gravel section, and weeds problematic in summer. Station closed in 1980. STATION HYDROMETRY: No bypassing at high flows. Chart limit sometimes caused peak truncation. Multiple peak flow ratings applied across period of record, the most recent is valid from April 1972. Changes to informal gabion control affected low flows only, top rating limb remains constant throughout record. Flood Studies Report grade B. FLOW REGIME: In spite of the predominantly lowland catchment produces sharp hydrographs. Some abstractions.
+CATCHMENT,A predominantly lowland catchment, mixed permeability geology. Underlain with Devonian igneous rocks on the western margin of the catchment, Cementstone and Fell sandstone in the middle of the catchment and Middle Limestone series in lower reaches. Extensive cover of Boulder Clay. Rural pasture with some arable and woodland. No known catchment changes.
+Qmed Suitability,Gauged to within 30% of QMED. Rating extrapolation to QMED believed to be acceptable.
+Pooling Suitability,Few high flow gaugings. Rating can not be validated beyond QMED. AMAX3 above bankfull.
+[END]

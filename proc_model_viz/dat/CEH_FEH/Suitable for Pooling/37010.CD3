@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 37010
+[END]
+[CDS DETAILS]
+NAME,Blackwater
+LOCATION,Appleford Bridge
+NOMINAL AREA,  249.12
+NOMINAL NGR,5844,2158
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,584450,215800
+CENTROID NGR,GB,575263,227459
+DTM AREA,  249.12
+ALTBAR,  67
+ASPBAR,141
+ASPVAR,0.16
+BFIHOST,0.475
+DPLBAR, 28.01
+DPSBAR, 25.9
+FARL,0.991
+FPEXT,0.0977
+LDP, 59.23
+PROPWET,0.26
+RMED-1H, 11.4
+RMED-1D, 28.4
+RMED-2D, 35.3
+SAAR, 572
+SAAR4170, 593
+SPRHOST,40.08
+URBCONC1990, 0.570
+URBEXT1990,0.0204
+URBLOC1990, 0.859
+URBCONC2000, 0.771
+URBEXT2000,0.0260
+URBLOC2000, 0.772
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Station with poor quality record gauging a groundwater-influenced rural catchment with major artificial influences. GENERAL: Double throated trapezoidal flume with throat tappings and a high flow rated spillway. STATION HYDROMETRY: Spilling onto spillway stats at 1.80m, drowning starts at 1.2m (13.0 cumecs). Degree of drowning variable. Rating accounts for non-modular flow. One peak flow rating applied across period of record. FLOW RECORD: No POT data are presented for this station as they have no non-modular flow correction applied. AMAX data have been corrected, but in some cases can be below the daily flow as these are not corrected. Irregular record from 01/10/1962. POT independence criteria applied to early (chart) record appears to require separation of 7 days. Exceptionally high flow recorded in Oct 2001, magnitude suspect as likely to have been affected by drowning. FLOW REGIME: Gw-influenced regime. Intermittently affected, since 1971, by Ely/Ouse Transfer Scheme pumping, significantly affected in the late 1980s and in the 1990s. Abstractions from both Chalk and gravel aquifers for PWS.
+CATCHMENT,London Clay with Chalk in the headwaters, overlain with Boulder Clay and some sands and gravels. Rural, predominantly arable land.
+Qmed Suitability,Gauged above QMED. Reasonable fit to gaugings.
+Pooling Suitability,Gauged to within 4% of AMAX3. Rating considers drowned flow and fits reasonably well to gaugings above bankfull.
+[END]

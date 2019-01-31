@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 48801
+[END]
+[CDS DETAILS]
+NAME,Cober
+LOCATION,Trenear
+NOMINAL AREA,   26.50
+NOMINAL NGR,1675, 311
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,167600,31100
+CENTROID NGR,GB,168392, 33701
+DTM AREA,   26.50
+ALTBAR, 162
+ASPBAR,186
+ASPVAR,0.17
+BFIHOST,0.671
+DPLBAR,  4.32
+DPSBAR, 65.0
+FARL,0.976
+FPEXT,0.0348
+LDP,  8.22
+PROPWET,0.44
+RMED-1H, 11.6
+RMED-1D, 42.4
+RMED-2D, 55.1
+SAAR,1266
+SAAR4170,1260
+SPRHOST,14.88
+URBCONC1990,-9999.000
+URBEXT1990,0.0035
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0040
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Thin plate weir installed in 1988 and replaced in 2001. GENERAL: Station opened in 1988 with a thin plate weir, approximately 4m wide. New stilling well, hut and new thin plate weir since September 2001. STATION HYDROMETRY: Unknown change in control in February 1998 which led to re-working of the rating. Banks have collapsed twice. Leaking weir in September 2000. Often bypasses at high flows, bankfull at 0.952m. Rating history is complex when compared to station history but matches gaugings from each period well. Multiple peak flow ratings applied across period of record. The most recent is valid from September 2001 when work rebuilding gauging station was completed and based on gaugings since 2001, does not account for bypassing. Current rating is in place to bankfull. Acoustic Time of Flight installed in March 2015 to improve the rating at the low end when it is difficult to gauge. FLOW REGIME: Station affected by a pumping station. Compensation flow.
+CATCHMENT,Igneous catchment, granite with some areas of alluvium. Land use is mostly rural/agricultural with little urbanisation. No major changes to catchment.
+Qmed Suitability,Current rating fits well to the respective gaugings.
+Pooling Suitability,Bypassing is a known problem and further work needs to be carried out to validate the rating at high flows since the station was rebuilt.
+[END]

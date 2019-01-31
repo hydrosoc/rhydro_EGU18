@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 74006
+[END]
+[CDS DETAILS]
+NAME,Calder
+LOCATION,Calder Hall
+NOMINAL AREA,   43.90
+NOMINAL NGR,3035,5044
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,303500,504500
+CENTROID NGR,GB,308078,509768
+DTM AREA,   43.90
+ALTBAR, 284
+ASPBAR,241
+ASPVAR,0.36
+BFIHOST,0.423
+DPLBAR, 10.25
+DPSBAR,161.4
+FARL,0.999
+FPEXT,0.0313
+LDP, 16.16
+PROPWET,0.71
+RMED-1H, 11.5
+RMED-1D, 48.0
+RMED-2D, 62.8
+SAAR,1828
+SAAR4170,1843
+SPRHOST,47.29
+URBCONC1990,-9999.000
+URBEXT1990,0.0013
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0017
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Flat V weir gauging a very steep catchment with flashy regime. Some influences on flow due to abstractions and low flow augmentation. GENERAL: Station opened December 1973. Flat V weir 12m wide, 1:20 cross-slope, measures low and medium flows. Weir repaired in 1990, 1995 and 2001. Right bank 4m high, left bank 2.56m high. STATION HYDROMETRY: Thought to drown at very high flows. All flows are contained within bank. Slight silting occurs, but flashy nature keeps structure clear although makes gauging high flows very difficult. No weed growth problem. Stilling well leaked intermittently until repaired in 1989. Permanent cableway installed in 2002. Single rating applied to period of record. Rating derived from current metering at low and medium flows. FLOW REGIME: Flashy response. From 1/1/80 low flow augmentation by pumping from the St Bees sandstone. Industrial abstraction which ceases during times of low flow.
+CATCHMENT,A very steep, flashy catchment. Upper catchment geology comprises impervious Skiddaw Slates and Borrowdale Volcanics; lower catchment Triassic Sandstone. Land use is mostly rough sheep grazing in the upper reaches, with meadow and permanent pasture lower down. Soil cover is very thin. Small percentage of the catchment is forested. No catchment changes known.
+Qmed Suitability,Gauged to within 1% of QMED. Though highest gaugings suggest weir has become at least partly drowned at QMED, which is therefore probably slightly overestimated
+Pooling Suitability,Too little evidence to suggest that rating is applicable beyond QMED; bankfull and AMAX3 are above maximum gauging.
+[END]

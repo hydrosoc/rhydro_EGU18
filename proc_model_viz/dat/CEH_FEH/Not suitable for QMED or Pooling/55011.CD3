@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 55011
+[END]
+[CDS DETAILS]
+NAME,Ithon
+LOCATION,Llandewi
+NOMINAL AREA,  110.32
+NOMINAL NGR,3104,2682
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,310450,268300
+CENTROID NGR,GB,309349,277927
+DTM AREA,  110.32
+ALTBAR, 379
+ASPBAR,121
+ASPVAR,0.12
+BFIHOST,0.395
+DPLBAR, 16.20
+DPSBAR,128.2
+FARL,0.999
+FPEXT,0.0281
+LDP, 28.37
+PROPWET,0.48
+RMED-1H,  9.8
+RMED-1D, 37.5
+RMED-2D, 48.9
+SAAR,1086
+SAAR4170,1174
+SPRHOST,44.01
+URBCONC1990,-9999.000
+URBEXT1990,0.0003
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0002
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station, natural river section. Closed for flow derivation and used as a flood warning station only from 1982. GENERAL: Velocity area station. Natural river section. Approx width at bankfull stage is 18m. Used as a flood warning station only from 1982. STATION HYDROMETRY: Cableway span 20m. One peak flow rating applied across period of record. Limit of rating is bank full. Gaugings fit well to rating up to 0.9m. No gaugings above bank full. FLOW RECORD: Missing POT data between end of FEH record in 1973, and start of Hydrological record in 1981.
+CATCHMENT,Upper reaches of catchment underlain by Silurian Wenlock beds. Extensive sheep pasture.
+Qmed Suitability,Not gauged to within 30% of QMED. Rating cannot be validated by check gaugings.
+Pooling Suitability,Few high flow gaugings. No gaugings exist to validate rating at high flows where bypassing occurs.
+[END]

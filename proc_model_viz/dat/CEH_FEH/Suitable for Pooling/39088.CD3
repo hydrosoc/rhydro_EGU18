@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 39088
+[END]
+[CDS DETAILS]
+NAME,Chess
+LOCATION,Rickmansworth
+NOMINAL AREA,   96.92
+NOMINAL NGR,5065,1948
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,506550,194800
+CENTROID NGR,GB,496059,202802
+DTM AREA,   96.92
+ALTBAR, 153
+ASPBAR,127
+ASPVAR,0.29
+BFIHOST,0.692
+DPLBAR, 17.26
+DPSBAR, 59.1
+FARL,0.958
+FPEXT,0.0368
+LDP, 27.82
+PROPWET,0.30
+RMED-1H, 11.3
+RMED-1D, 35.0
+RMED-2D, 43.0
+SAAR, 753
+SAAR4170, 763
+SPRHOST,30.32
+URBCONC1990, 0.582
+URBEXT1990,0.0317
+URBLOC1990, 0.917
+URBCONC2000, 0.830
+URBEXT2000,0.0559
+URBLOC2000, 0.861
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,The station is located in the lower catchment of the River Chess. GENERAL: Crump weir (6.0m broad) with auxiliary d/s recorder. STATION HYDROMETRY: Full range station but non-modular at high flows (tail levels monitored). A very small channel bypasses the weir. The modular limit is c 0.2m. Extremely non-modular flows can occur at stages of c 0.25m and above. Protected flows derived from standard Crump weir equation using tail levels. FLOW REGIME: Baseflow-dominated flow regime but artificial influences (primarily STW effluent) evident on the hydrograph. Abstractions are of a mainly low consumptive type with some gw abstractions for PWS. There is a small net export from the catchment.
+CATCHMENT,The Chess is a Chalk stream draining the dip-slope of the Chilterns (significant Drift cover). Headwaters are rural with significant urban growth in the lower valley. Chesham is the largest town.
+Qmed Suitability,Gauged to within 10% of QMED. Rating accuracy thought to be reasonable. Occasional problems with non-modularity.
+Pooling Suitability,Reasonably accurate rating. Occasional problems with non-modularity.
+[END]

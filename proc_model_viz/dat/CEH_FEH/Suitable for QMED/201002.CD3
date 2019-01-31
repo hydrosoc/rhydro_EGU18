@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+201002
+[END]
+[CDS DETAILS]
+NAME,Fairywater
+LOCATION,Dudgeon Bridge
+NOMINAL AREA,  158.24
+NOMINAL NGR,2405,3758
+[END]
+[DESCRIPTORS]
+IHDTM NGR,Ireland,240550,375800
+CENTROID NGR,Ireland,232141,375415
+DTM AREA,  158.24
+ALTBAR, 143
+ASPBAR, 85
+ASPVAR,0.08
+BFIHOST,0.419
+DPLBAR, 15.19
+DPSBAR, 74.4
+FARL,0.992
+FPEXT,0.1246
+LDP, 26.62
+PROPWET,0.62
+RMED-1H,  8.7
+RMED-1D, 33.4
+RMED-2D, 45.0
+SAAR,1285
+SAAR4170,1249
+SPRHOST,38.84
+URBCONC1990,-0.002
+URBEXT1990,0.0044
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0006
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station with cableway. GENERAL: Opened in 1971, this is one of the earliest stations on the Mourne system. A velocity area station with timber hut on RH bank, shaft encoder with telemetry and chart backup. STATION HYDROMETRY: Low flow gauging is carried out at the bridge downstream. The last gauging over 10 cumecs was on 07/08/86 the highest flow recorded since this date was on 18/04/96 when the flow was 8.3 cumecs. Rating derived from current meter gaugings. FLOW RECORD: Daily flows from 1977 reprocessed in 2002. Late December 2010 daily flows considered suspect due to likely freezing in stilling well. FLOW REGIME: Natural regime - no water abstractions or significant returns.
+CATCHMENT,Solid geology - Dalradian schistose sandstone and shale form generally impermeable basement in the south. Much of the area is underlain by Carboniferous, generally indurated conglomerate, Claragh sandstone, mudstone and limestone. Prominent Palaeogene dolerite dykes cross the area. Drift geology - river alluvium overlies glacial sand and gravel deposited on drumlinised glacial till. Rock near surface and post-glacial peat extensive on high ground. Restricted development of river alluvium in valleys. Predominantly grassland with some shrub heath, bog and coniferous woodland. No significant urban development.
+Qmed Suitability,Qmed approximately at bankfull stage, and belived to be reasonably reliable
+Pooling Suitability,Rating extrapolated beyond bankfull, and although unmeasured bypass believed to be around 10% of total flows, not suitable for pooling.
+[END]

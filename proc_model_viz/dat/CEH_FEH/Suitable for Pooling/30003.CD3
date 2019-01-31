@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 30003
+[END]
+[CDS DETAILS]
+NAME,Bain
+LOCATION,Fulsby Lock
+NOMINAL AREA,  199.48
+NOMINAL NGR,5240,3609
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,524100,361000
+CENTROID NGR,GB,526134,376047
+DTM AREA,  199.48
+ALTBAR,  80
+ASPBAR,209
+ASPVAR,0.20
+BFIHOST,0.756
+DPLBAR, 21.49
+DPSBAR, 39.3
+FARL,0.963
+FPEXT,0.0809
+LDP, 41.97
+PROPWET,0.29
+RMED-1H, 11.1
+RMED-1D, 32.6
+RMED-2D, 39.8
+SAAR, 667
+SAAR4170, 704
+SPRHOST,21.91
+URBCONC1990, 0.534
+URBEXT1990,0.0120
+URBLOC1990, 0.741
+URBCONC2000, 0.710
+URBEXT2000,0.0088
+URBLOC2000, 0.643
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Gauging a rural catchment with mixed geology located in the Lincolnshire Wolds, with modest artificial influences. GENERAL: Broad-crested weir 4.6m wide situated in old lock; rated by model tests. Small bypass channel u/s feeds original river course and a disused model flume (wall ht=1.136m), gauged by sharp-crested weir. STATION HYDROMETRY: Rating derived from model tests. One rating applied across period of record. FLOW RECORD: Flows over bypass not processed since 1981 and subsequent low flows therefore underestimated however peak flows will not be significantly affected. FLOW REGIME: Revesby Reservoir has a very minor influence, and abstractions for irrigation may be significant in summer months.
+CATCHMENT,Catchment is mainly Chalk and clay, with s'st in the headwaters, largely overlain by superficial deposits (predominantly Boulder Clay, with alluvium and sands and gravels along valley bottom). Rural catchment, predominantly arable land.
+Qmed Suitability,Gauged to within 21% of QMED. Good fit to available gaugings and flow remains modular.
+Pooling Suitability,All flows are contained and remain modular to 2.4m. Rating expected to perform well to this point.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 72016
+[END]
+[CDS DETAILS]
+NAME,Wyre
+LOCATION,Scorton Weir
+NOMINAL AREA,   87.99
+NOMINAL NGR,3501,4499
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,350100,450000
+CENTROID NGR,GB,356552,454584
+DTM AREA,   87.99
+ALTBAR, 243
+ASPBAR,238
+ASPVAR,0.32
+BFIHOST,0.316
+DPLBAR, 12.70
+DPSBAR,102.4
+FARL,0.942
+FPEXT,0.0461
+LDP, 22.52
+PROPWET,0.60
+RMED-1H, 11.3
+RMED-1D, 48.6
+RMED-2D, 62.3
+SAAR,1473
+SAAR4170,1505
+SPRHOST,50.03
+URBCONC1990,-9999.000
+URBEXT1990,0.0002
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0004
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Non-standard weir with small fish pass. Artificial influence from Lune-Wyre transfer via Abbeystead reservoir. GENERAL: Station opened in January 1967 with a non-standard compound broad-crested weir and fish pass. STATION HYDROMETRY: Siltation of stilling well affects low flow measurement; this was a serious problem in 2009 and Jan 2010. Large floods spill out of bank into gravel pits, bypassing station. The November 1980 floods breached many embankments on the River Wyre, including upstream of Scorton, so that the level at the station in this event may have been less than if the embankments had held. After the January 1995 floods, around 1996, the right bank was raised, and QMED is now roughly within bank. During high flows gravel and boulders are washed over the weir causing erosion to the crest. This erosion and repairs have led to multiple ratings being applied throughout the station record, all similar at high flows, so a single one is adopted. One peak flow rating applied across period of record, derived from current meter gaugings, with a modelled top-end to allow for floodplain flow. Current meter gaugings taken at high flows by handline from a nearby footbridge. FLOW RECORD: No data from May 1997-May 1998 due to problems at site. Peak flows are shown but marked as Rejected before the current raised embankments in 1996. No daily flow data after storm Desmond on 05/12/2015. FLOW REGIME: Abbeystead reservoir in centre of catchment controls approx 50%. Adjacent gravel workings and Lune-Wyre transfer via the reservoir (see 72002) can affect flow regime.
+CATCHMENT,A predominantly rural and agricultural catchment with moorland fed headwaters. Geology is almost entirely Millstone Grit. A major geological fault is situated just downstream of the weir. No significant catchment changes.
+Qmed Suitability,Gauged above QMED. Good fit to gaugings.
+Pooling Suitability,No - No high flow gaugings. With modelled top-end probably suitable from 1996, but too much uncertainty in the embankment heights and floodplain flow before then.
+[END]

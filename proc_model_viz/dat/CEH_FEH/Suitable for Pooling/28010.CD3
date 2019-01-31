@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 28010
+[END]
+[CDS DETAILS]
+NAME,Derwent
+LOCATION,Longbridge Weir
+NOMINAL AREA, 1051.75
+NOMINAL NGR,4356,3363
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,435600,336350
+CENTROID NGR,GB,423869,368285
+DTM AREA, 1051.75
+ALTBAR, 259
+ASPBAR,131
+ASPVAR,0.12
+BFIHOST,0.550
+DPLBAR, 53.20
+DPSBAR,117.2
+FARL,0.949
+FPEXT,0.0400
+LDP, 91.08
+PROPWET,0.39
+RMED-1H, 10.2
+RMED-1D, 36.3
+RMED-2D, 48.2
+SAAR,1012
+SAAR4170,1017
+SPRHOST,26.17
+URBCONC1990, 0.616
+URBEXT1990,0.0169
+URBLOC1990, 0.633
+URBCONC2000, 0.791
+URBEXT2000,0.0311
+URBLOC2000, 0.663
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Long, curved broad-crested masonry weir in Derby - complex rating history with extensive reprocessing. Superseded by 28085 in July 1986. GENERAL: Long (92m), curved broad-crested masonry weir narrowed by 14m in 1971 during construction of ring road. Superseded by 28085 in July 1986. STATION HYDROMETRY: Flows at the station are well contained, with negligible bypassing. At high flows Derby may flood but bypassing is small. Runway type cableway under bridge used to take gaugings. Two ratings applied across period of record, the most recent is valid from August-1970 when weir narrowed until 1986 when site closed. Good fit to gaugings. FLOW REGIME: Substantial flow modification owing to Derwent reservoirs, milling and PWS abstractions
+CATCHMENT,A large, predominantly upland catchment draining Millstone Grit and Carboniferous Limestone. In general lower reaches drain Coal Measures on the Lb and Triassic sandstone and marl on the Rb. Peat is prevalent within the headwaters. Land-use is predominantly moorland in the headwaters with forestry, pasture and arable elsewhere.
+Qmed Suitability,Well gauged to QMED.
+Pooling Suitability,All the flows are contained and ratings thought to be adequate to bankfull
+[END]

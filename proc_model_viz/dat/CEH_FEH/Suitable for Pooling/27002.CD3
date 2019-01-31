@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 27002
+[END]
+[CDS DETAILS]
+NAME,Wharfe
+LOCATION,Wetherby Flint Mill
+NOMINAL AREA,  759.05
+NOMINAL NGR,4422,4473
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,442250,447300
+CENTROID NGR,GB,408604,459310
+DTM AREA,  759.05
+ALTBAR, 273
+ASPBAR,136
+ASPVAR,0.13
+BFIHOST,0.386
+DPLBAR, 59.47
+DPSBAR,111.4
+FARL,0.927
+FPEXT,0.0532
+LDP,107.50
+PROPWET,0.43
+RMED-1H, 11.1
+RMED-1D, 40.7
+RMED-2D, 53.4
+SAAR,1163
+SAAR4170,1171
+SPRHOST,42.75
+URBCONC1990, 0.646
+URBEXT1990,0.0103
+URBLOC1990, 0.544
+URBCONC2000, 0.778
+URBEXT2000,0.0162
+URBLOC2000, 0.572
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Broad-crested masonry mill weir in a rural catchment with some net export of water to the Aire Valley. GENERAL: Broad-crested masonry mill weir (47m wide). Current meter cableway originally 1.5km u/s, moved to 27089 in 1990. Flow was originally recorded on a flow chart up to the level of weir by-passing (1.6m), and level thereafter. Mill race opened in early 1990s (not rated) so flows not reliable. Tadcaster ultrasonic gauge (27089) was installed in 1990, to replace Flint Mill. However, 27089 performance is variable and 27002 is maintained for flood warning purposes. STATION HYDROMETRY: Insensitive at low flows. Does not drown at high flows, though small amount of bypassing on the right bank. In summer, chart zero was often set 0.3m below the weir crest to allow for leakage. All river stages now recorded as levels for discharge calculation. Rating excellent for high flows. One peak flow rating applied across period of record. Originally derived by weir formula checked by current meter with good fit to gaugings. FLOW RECORD: Level data only 1936-1955. Recalibration (from 1965) completed but flows reprocessed from 1982 only. Pre-1965 data less reliable. Engineering works by landowner summer 2010 resulted in loss of data. FLOW REGIME: Regulation effect of headwater reservoirs evident at low flows. Small net export of water to the Aire Valley (including Bradford supply).
+CATCHMENT,Mixed geology of moderate permeability - mainly Carboniferous Limestone, grits and Coal Measures with just under half the catchment overlain by superficial deposits. Predominantly mixed rural catchment, two thirds of the catchment is grassland, with moorland headwaters. No known catchment changes.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged to within 28% of AMAX3. Weir does not drown and bypassing is insignificant.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 39011
+[END]
+[CDS DETAILS]
+NAME,Wey
+LOCATION,Tilford
+NOMINAL AREA,  391.33
+NOMINAL NGR,4874,1432
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,487450,143300
+CENTROID NGR,GB,477280,137531
+DTM AREA,  391.33
+ALTBAR, 131
+ASPBAR, 11
+ASPVAR,0.04
+BFIHOST,0.795
+DPLBAR, 24.78
+DPSBAR, 59.0
+FARL,0.957
+FPEXT,0.0551
+LDP, 50.38
+PROPWET,0.35
+RMED-1H, 11.0
+RMED-1D, 35.9
+RMED-2D, 48.0
+SAAR, 855
+SAAR4170, 869
+SPRHOST,18.28
+URBCONC1990, 0.561
+URBEXT1990,0.0236
+URBLOC1990, 0.749
+URBCONC2000, 0.801
+URBEXT2000,0.0534
+URBLOC2000, 0.800
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,One of the main gauging stations in the Upper Wey Catchment that measures flow from the South and North Wey tributaries. GENERAL: Crump weir (crest: 12m wide) replaced an informal broad-crested structure in 1972 that was incapable of precise flow measurement. STATION HYDROMETRY: A tail recorder was installed in May 2013. The weir was originally constructed with a pressure tapping, but this is almost permanently blocked by silt. The weir is bypassed during peak flows. One peak flow rating applied across period of record incorporating the effects of drowning. Gauged rating replaced Crump calibration in March 1997. FLOW RECORD: Early low flows likely to be over-estimates e.g. 1958 & 1969); differing hydrometric performance reflected in flow records. FLOW REGIME: Runoff influenced by groundwater abstraction/recharge. Flows increased by effluent returns. Small net export of water. Substantial baseflow but very responsive to storm events.
+CATCHMENT,A predominantly pervious catchment (Chalk and Upper Greensand). Mainly rural with substantial mixed woodland in the headwaters while arable agriculture predominates in the western part of the catchment. Topographical catchment exceeds the gw catchment.
+Qmed Suitability,Gauged above QMED. Reasonable fit to gaugings.
+Pooling Suitability,Few high flow gaugings. Rating can not be validated beyond QMED.
+[END]

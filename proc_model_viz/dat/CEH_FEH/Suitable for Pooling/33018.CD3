@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 33018
+[END]
+[CDS DETAILS]
+NAME,Tove
+LOCATION,Cappenham Bridge
+NOMINAL AREA,  132.55
+NOMINAL NGR,4711,2486
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,471150,248700
+CENTROID NGR,GB,463130,247958
+DTM AREA,  132.55
+ALTBAR, 132
+ASPBAR, 85
+ASPVAR,0.13
+BFIHOST,0.368
+DPLBAR, 11.78
+DPSBAR, 37.1
+FARL,0.986
+FPEXT,0.0621
+LDP, 22.20
+PROPWET,0.30
+RMED-1H, 11.4
+RMED-1D, 31.6
+RMED-2D, 40.2
+SAAR, 661
+SAAR4170, 697
+SPRHOST,41.17
+URBCONC1990, 0.532
+URBEXT1990,0.0065
+URBLOC1990, 0.579
+URBCONC2000, 0.719
+URBEXT2000,0.0157
+URBLOC2000, 0.697
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Compound broad-crested weir gauging a predominantly Chalk catchment. Station has record length over 50 years. GENERAL: Compound broad-crested trapezoidal weir, 7.6m broad; central notch, 2.7m broad. STATION HYDROMETRY: The weir is subject to drowning at high flows; further gaugings required to confirm extent of this. Theoretical rating since Aug 1970. Previously, rating derived using a hydraulic model. Full EA rating developed in 2012 combining existing EA rating for first 3 segments, regression through check gaugings for segments 4 and 5, and an EA modelled high flow rating used for the top segment. New rating applied to length of record. FLOW REGIME: Runoff increased by effluent returns and reduced by industrial/agricultural abstraction.
+CATCHMENT,Predominantly Chalk overlain with 50% Boulder Clay. Agricultural land use.
+Qmed Suitability,Gauged to QMED with good fit to rating.
+Pooling Suitability,AMAX3 within in-bank rating range and confident in modelled rating performing well.
+[END]

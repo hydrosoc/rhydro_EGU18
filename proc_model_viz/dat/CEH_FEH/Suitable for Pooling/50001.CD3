@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 50001
+[END]
+[CDS DETAILS]
+NAME,Taw
+LOCATION,Umberleigh
+NOMINAL AREA,  832.97
+NOMINAL NGR,2607,1236
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,260750,123650
+CENTROID NGR,GB,272170,117346
+DTM AREA,  832.97
+ALTBAR, 182
+ASPBAR,219
+ASPVAR,0.07
+BFIHOST,0.472
+DPLBAR, 35.64
+DPSBAR,104.4
+FARL,0.997
+FPEXT,0.0374
+LDP, 63.01
+PROPWET,0.48
+RMED-1H, 11.9
+RMED-1D, 38.3
+RMED-2D, 51.6
+SAAR,1153
+SAAR4170,1191
+SPRHOST,37.82
+URBCONC1990,-9999.000
+URBEXT1990,0.0007
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0038
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station. GENERAL: Velocity area station, main channel 34m wide, cableway span approx. 40m. Straight channel. STATION HYDROMETRY: A natural rock step downstream of road bridge forms control. Little weed growth. The river goes out of bank for bypassing well upstream. Bypassing begins at about 3.7m on right bank, but the rating accommodates this. Good rating established. One rating applied across period of record. Rating accounts for bypass flow and fits well to gaugings. FLOW RECORD: Historic augmentation from the Exe catchment at low flows is no longer applicable since end 2002. Some naturalised flow data available. FLOW REGIME: Significant modification to flows owing to public water supply abstraction.
+CATCHMENT,Large rural catchment. Drains Dartmoor granite in south, and Devonian shales and sandstones of Exmoor in north. Central area underlain mainly by Culm shales and Carboniferous sandstones. Agriculture conditioned by grade 3 and 4 soils. No major catchment changes.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged to within 24% of AMAX3. Reliable rating with bypass accounted for.
+[END]

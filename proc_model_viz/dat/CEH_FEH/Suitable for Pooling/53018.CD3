@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 53018
+[END]
+[CDS DETAILS]
+NAME,Avon
+LOCATION,Bathford
+NOMINAL AREA, 1569.35
+NOMINAL NGR,3785,1670
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,378550,167000
+CENTROID NGR,GB,385923,166415
+DTM AREA, 1569.35
+ALTBAR, 109
+ASPBAR, 83
+ASPVAR,0.10
+BFIHOST,0.575
+DPLBAR, 44.77
+DPSBAR, 48.9
+FARL,0.985
+FPEXT,0.0961
+LDP, 94.44
+PROPWET,0.34
+RMED-1H, 10.6
+RMED-1D, 34.3
+RMED-2D, 44.5
+SAAR, 817
+SAAR4170, 840
+SPRHOST,31.10
+URBCONC1990, 0.664
+URBEXT1990,0.0229
+URBLOC1990, 0.816
+URBCONC2000, 0.797
+URBEXT2000,0.0298
+URBLOC2000, 0.805
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station with cableway next to railway bridge opened in 1969. Acoustic doppler equipment installed in 2006 to improve the data GENERAL: Velocity area station with cableway next to railway bridge, 4km upstream of Bath (replacement for Bath St James 53003), immediately downstream of confluence with By Brook. Opened in 1969. Water levels measured with an ultrasonic transducer. STATION HYDROMETRY: The bridge acts as a control, causing extensive floodplain inundation at high flows, but all flows contained through bridge 10m downstream due to enclosing railway embankment. Deterioration of Bathampton weir c.1.3km downstream has affected low flows; acoustic doppler equipment installed 15/12/2006 to improve the data. Deep section and low velocities render flows below 5 m3/s inaccurate. One rating applied across period of record. Good fit to maximum out of bank gauging at ~3.5m. Full rating review carried out in March 1998. FLOW REGIME: Abstraction from surface water/groundwater for public water supply. Flows augmented by groundwater scheme in catchment and effluent returns.
+CATCHMENT,Catchment of mixed geology: predominantly clays and limestone; eastern tributaries rise from Chalk. Land-use is mainly rural, some urbanisation. No major catchment changes.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged to within 4% of AMAX3. High flow gaugings validate rating during out of bank conditions.
+[END]

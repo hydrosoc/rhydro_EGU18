@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 35011
+[END]
+[CDS DETAILS]
+NAME,Belstead Brook
+LOCATION,Belstead
+NOMINAL AREA,   44.34
+NOMINAL NGR,6143,2419
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,614350,242000
+CENTROID NGR,GB,608194,244840
+DTM AREA,   44.34
+ALTBAR,  50
+ASPBAR,105
+ASPVAR,0.26
+BFIHOST,0.522
+DPLBAR,  9.18
+DPSBAR, 32.0
+FARL,0.989
+FPEXT,0.0678
+LDP, 18.49
+PROPWET,0.28
+RMED-1H, 10.7
+RMED-1D, 29.1
+RMED-2D, 35.4
+SAAR, 566
+SAAR4170, 559
+SPRHOST,36.26
+URBCONC1990, 0.642
+URBEXT1990,0.0308
+URBLOC1990, 0.395
+URBCONC2000, 0.840
+URBEXT2000,0.0362
+URBLOC2000, 0.323
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Compound crump weir gauging a relatively steep and flashy catchment for East Anglia. Many gaps in high flow periods due to drowning and rating limitations. GENERAL: Compound Crump Weir with a low-flow centre section 0.62 m wide and two flanking Crumps with a combined width of 2.4 m. The structure conforms to BS 3680 for compound sites. STATION HYDROMETRY: Modular limit estimated at 0.270m. Following storms, the whole structure is often completely drowned. Missing data during high flow periods exist when the current rating does not estimate high flows. The rating does not extrapolate beyond this level due to uncertainties in non-modular flows over the structure. One rating applied across period of record. FLOW REGIME: Flashy response.
+CATCHMENT,Steep for East Anglia. Rocks with high and mixed permeability. Predominantly arable land but significant part is built up, mainly Ipswich where the station is located. Large amount of housing development has taken place in recent years.
+Qmed Suitability,QMED occurs above wing walls and current rating does not account for drowned flow.
+Pooling Suitability,Rating not valid above wing walls.
+[END]

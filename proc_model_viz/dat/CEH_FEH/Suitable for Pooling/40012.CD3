@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 40012
+[END]
+[CDS DETAILS]
+NAME,Darent
+LOCATION,Hawley
+NOMINAL AREA,  187.31
+NOMINAL NGR,5552,1718
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,555250,171850
+CENTROID NGR,GB,551868,160003
+DTM AREA,  187.31
+ALTBAR, 117
+ASPBAR, 14
+ASPVAR,0.16
+BFIHOST,0.833
+DPLBAR, 19.13
+DPSBAR, 71.2
+FARL,0.926
+FPEXT,0.0407
+LDP, 34.86
+PROPWET,0.29
+RMED-1H, 11.7
+RMED-1D, 33.7
+RMED-2D, 45.1
+SAAR, 729
+SAAR4170, 738
+SPRHOST,16.07
+URBCONC1990, 0.661
+URBEXT1990,0.0416
+URBLOC1990, 0.822
+URBCONC2000, 0.812
+URBEXT2000,0.0664
+URBLOC2000, 0.905
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Crump weir gauging a Chalk catchment with increasing groundwater abstractions over time. GENERAL: British Standard Crump weir, crest width 7.62 m; concrete channel tapers in from the right bank resulting in narrowing d/s. Modular to bankfull. Crest width may be restricted during periods of low flow to increase sensitivity. STATION HYDROMETRY: Immediately d/s of a road bridge which may impede flows once the soffit level (1.21 m stage) is exceeded. Straight approach in bridge invert, canalised section d/s follows a gentle right hand curve. Channel capacity approx. 30 m3/s. Possible summer weed growth problems. Influent upstream; flows commonly lower than at Lullingstone (40018). Between 21/09/1972 - 09/11/1972 a temporary structure was erected on the weir, and in the past temporary stop boards have been used to increase low flow sensitivity. Large structure capacity (30 cumecs) but bypassed (right bank) during extreme flood of Sep 1968 (flow estimated at ~50 cumecs). Bypassing possible on the right bank e.g. Sept. 1968 (flow estimated at approx 50 m3/s), but most flows are contained. One peak flow rating applied across period of record. Step in rating between first two limbs acknowledged though this relates to low flows only. All in-bank flows remain modular. Rating not valid above 1.21m stage, as above this flows are impeded by road bridge. FLOW RECORD: Augmentation pumps affected flows 08/08/2007 to 04/12/2007. 2002 rating review notes that the modular limit is not reached within bankfull. 15-minute POT data only from 1990 - only daily mean flows prior to this. FLOW REGIME: Increase in groundwater abstraction and Darent Augmentation Scheme have altered the regime and character of the Darent through time. New road bridge directly over gauge may have been installed after the gauge. There have been changes in flood banks & floodplains since 1968 floods. Construction of M25 & A2. Office developments. Sluices and abstractions to and returns from gravel workings upstream affect flow - evident at low flow (e.g. Oct 1989). Baseflows were greatly reduced by increasing groundwater abstractions, but the Darent Augmentation Scheme (part of Augmentation of Low Flows (ALF) programme) now operates, can involve water imported from outside catchment. Effect of abstractions evident at low flow (e.g. Oct. 1989). Baseflows were greatly reduced by increasing ground water abstractions, but the Darent Augmentation Scheme (in the ALF programme) now operates and has reduced abstraction from 6 boreholes along the Darent. Brasted & Sundridge boreholes have been phased out & downstream abstractions at Dartford increased to compensate. Borehole yields are planned to fall by 30%. Water is also imported from outside the catchment to recharge the river & 6 new boreholes sunk to augment flows, although these have not been used so far (May, 2003). Some artificial regulation by u/s mills/sluices in the past. Gravel washing may extract water, used to wash during the day and release water at night.
+CATCHMENT,The River Darent is a 32km long chalk stream. A mainly pervious (Chalk and Upper Greensand) catchment with some sand/clay; Blackheath Beds 1%, Thanet Sand 3.9%, Upper Chalk 33.8%, Middle Chalk 10%, Lower Chalk 7.6%, Upper Greensand 0.2%, Gault Clay 11.3%, Folkestone Beds 11.4%, Sandgate Beds 4.4% Hythe Beds 15.9%, Atherfield Clay 0.5%. Predominantly rural with some expanding urban centres. Maximum altitude of catchment 246mAOD.
+Qmed Suitability,Although limited gaugings, theoretical rating expected to perform well at QMED.
+Pooling Suitability,No gaugings above QMED but all flows with the exception of 1967 peak are within modular range.
+[END]

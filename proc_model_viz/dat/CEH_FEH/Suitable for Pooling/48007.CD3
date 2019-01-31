@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 48007
+[END]
+[CDS DETAILS]
+NAME,Kennal
+LOCATION,Ponsanooth
+NOMINAL AREA,   26.89
+NOMINAL NGR,1762, 376
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,176250,37650
+CENTROID NGR,GB,172168, 36764
+DTM AREA,   26.89
+ALTBAR, 162
+ASPBAR, 77
+ASPVAR,0.24
+BFIHOST,0.736
+DPLBAR,  6.37
+DPSBAR, 65.7
+FARL,0.867
+FPEXT,0.0258
+LDP, 11.30
+PROPWET,0.44
+RMED-1H, 11.6
+RMED-1D, 43.7
+RMED-2D, 57.1
+SAAR,1294
+SAAR4170,1293
+SPRHOST, 8.63
+URBCONC1990, 0.602
+URBEXT1990,0.0142
+URBLOC1990, 0.639
+URBCONC2000, 0.703
+URBEXT2000,0.0106
+URBLOC2000, 0.567
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Crump Profile weir with substantial modification of flows owing to exports to Stithians Reservoir. GENERAL: Crump profile weir with 4.88m crest length, wing walls and flood banks at height of 2.2m. Station approximately 4 miles downstream of Stithians reservoir (Wendron Moor). STATION HYDROMETRY: Modular at all recorded stages. No drowning out- verified by survey of wrack mark levels following 11/2012 flood, the highest on record. Gauged to 0.37m (2.5 cumecs) with good fit to theoretical rating, but insensitivity means low flows are susceptible to errors. Good theoretical peak flow rating curve applied across period of record. Confirmed by gaugings to 0.37m and all flows contained in bank. FLOW REGIME: Abstraction for public water supply. Some industrial usage produces unpredictable hydrographs. Substantial modification to flows owing to exports from Stithians Reservoir (4 miles upstream).
+CATCHMENT,Moderate to steep catchment draining the Carnmenellis Granite, with small area of metamorphosed shales and grits. Granite well weathered, giving high baseflow. Responsive to heavy rainfall. No major changes t catchment.
+Qmed Suitability,Good fit to gaugings.
+Pooling Suitability,Although not gauged to within 30% of AMAX3, all flows contained by wing walls with no bypassing or drowning expected.
+[END]

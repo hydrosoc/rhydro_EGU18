@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 27041
+[END]
+[CDS DETAILS]
+NAME,Derwent
+LOCATION,Buttercrambe
+NOMINAL AREA, 1594.24
+NOMINAL NGR,4731,4587
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,473100,458700
+CENTROID NGR,GB,476235,483445
+DTM AREA, 1594.24
+ALTBAR, 128
+ASPBAR,160
+ASPVAR,0.14
+BFIHOST,0.608
+DPLBAR, 54.85
+DPSBAR, 76.8
+FARL,0.994
+FPEXT,0.1410
+LDP, 99.17
+PROPWET,0.34
+RMED-1H, 10.6
+RMED-1D, 32.2
+RMED-2D, 42.2
+SAAR, 765
+SAAR4170, 784
+SPRHOST,28.21
+URBCONC1990, 0.542
+URBEXT1990,0.0072
+URBLOC1990, 0.857
+URBCONC2000, 0.721
+URBEXT2000,0.0080
+URBLOC2000, 0.852
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Crump weir installed 1973 with ultrasonics since 2001. Replaces 27015. Poor flow correlation between the two sites. GENERAL: Crump weir (20m wide) installed September 1973. Station replaces 27015 which had poor quality data. Crump weir supplemented by in-line path ultrasonic gauge from 9-11-2001. Peak flows from the headwaters are diverted down the Sea Cut (27033). All data for this site is held against this station number. STATION HYDROMETRY: Crump weir formula accounts for non-modular flow at approx 55 cumecs (1.2m). This was verified using gaugings and ultrasonic flow data. The weir drowns at approximately 1.2m, and is overtopped on the left bank above 1.9m - this may lead to an under-estimation of flows. However, this is small and extrapolation is appropriate. A bund upstream ensures floodplain storage returns through section but flows over 1.9m bypass along a vehicle track and return downstream of the station. The bypassing was estimated to be around 50-60 cumecs in 2000. Single path ultrasonic gauge records high flows up to 1.8m, but bypassing occurs above this. Peak flow rating derived from limited number of gaugings. FLOW RECORD: Pre-October 1973 data (monthly only) of poorer quality; derives from 27015. Overlap between data at 27041 and 27015 is limited and the flow correlation disappointing. Structure drowned and bypassed in March 1999 & Nov 2000 floods. Gap in ultrasonics record 4/11/2002 to 30/09/2003. Ultrasonic flows applied from 1 October 2003. FLOW REGIME: Catchment shows a slow hydrological response and includes a groundwater component with considerable flood plain storage. Peak flows from the headwaters u/s of Forge Valley (approximately 6.5% of the catchment) are diverted down the Sea Cut (27033). Minor net impact of artificial influences (spray irrigation is appreciable).
+CATCHMENT,Mixed geology. Limestones and sandstones bordering the Vale of Pickering; Oxford Clay, shale and sandstone to the north, and sands, clay and gravels in the Vale of Pickering. Rural catchment - moorland and forestry dominate in northern headwaters which drain North York Moors. Arable significant in south. No known catchment changes.
+Qmed Suitability,Gauged beyond QMED.
+Pooling Suitability,Rating considers reductions associated with drowned flow. Bypassing is small enough to allow extrapolation of flow up to maximum recorded level.
+[END]

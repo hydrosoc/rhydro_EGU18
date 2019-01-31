@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+203026
+[END]
+[CDS DETAILS]
+NAME,Glenavy
+LOCATION,Glenavy
+NOMINAL AREA,   44.51
+NOMINAL NGR,3149,3725
+[END]
+[DESCRIPTORS]
+IHDTM NGR,Ireland,314900,372550
+CENTROID NGR,Ireland,320972,371995
+DTM AREA,   44.51
+ALTBAR, 165
+ASPBAR,267
+ASPVAR,0.37
+BFIHOST,0.376
+DPLBAR, 11.51
+DPSBAR, 50.4
+FARL,0.939
+FPEXT,0.0891
+LDP, 19.71
+PROPWET,0.52
+RMED-1H, 10.8
+RMED-1D, 35.4
+RMED-2D, 45.3
+SAAR, 987
+SAAR4170,1025
+SPRHOST,36.79
+URBCONC1990,-2.000
+URBEXT1990,0.0126
+URBLOC1990, 0.098
+URBCONC2000,-9999.000
+URBEXT2000,0.0038
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station, no cableway, thin-plate weir control. GENERAL: Velocity area station. Station now closed, replaced by Leapbridge, located downstream so as to include the effects of Glenavy urban area. STATION HYDROMETRY: Masonry hut; control is a thin plate weir downstream with a wide notch which is often stop-logged - not knowing when this is done causes problems with record. Rating derived from current meter gaugings. Simple extrapolation occurs beyond 1.7m (maximum gauged level). FLOW REGIME: Two reservoirs in catchment: Stoneyford and Leathemstown with abstractions for public water supply - minor net effect. Pipe feed to private pond is taken off just upstream of weir but downstream of station hence flows at station are not impacted (small flow only).
+CATCHMENT,Catchment is largely upland, predominantly grassland and heath. No significant urban development. Solid geology - the area is underlain by Palaeogene basalt lava flows. Drift geology - upstream, extensive glacial till (part drumlinised) is overlain by a significant area of sand and gravel; downstream, restricted river alluvium (terraced) and areas of exposed bedrock.
+Qmed Suitability,Highest gauging is 1.03 times QMED and the river out of bank flow is estimated at less than 10%
+Pooling Suitability,Floodplain flow is significant for extreme flows and unmeasured
+[END]

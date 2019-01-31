@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 25019
+[END]
+[CDS DETAILS]
+NAME,Leven
+LOCATION,Easby
+NOMINAL AREA,   15.09
+NOMINAL NGR,4584,5086
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,458450,508700
+CENTROID NGR,GB,460960,509662
+DTM AREA,   15.09
+ALTBAR, 215
+ASPBAR,261
+ASPVAR,0.04
+BFIHOST,0.524
+DPLBAR,  5.58
+DPSBAR,128.0
+FARL,1.000
+FPEXT,0.0195
+LDP,  9.53
+PROPWET,0.38
+RMED-1H, 10.5
+RMED-1D, 37.8
+RMED-2D, 52.0
+SAAR, 830
+SAAR4170, 855
+SPRHOST,38.58
+URBCONC1990,-9999.000
+URBEXT1990,0.0009
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0043
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Flat-V Crump profile weir with mild steel crest. Station closed in 1996 but reopened for flood warning purposes in 2003. GENERAL: Flat-V Crump profile weir (5m wide) with mild steel crest in rectangular concrete river section. Station closed 31/12/1996 but re-opened in February 2003 for flood warning. Stokesley (d/s) has been subject to significant flooding from the Leven in the past (the last being in 1976), and historic flood marks, recorded at the police station there, give some support for the high growth rate observed in the AMAX series. STATION HYDROMETRY: Fast approach could occasionally give super-critical flow. Flows well contained up to 1.13m and have never been recorded above bankfull. The maximum gauged flow is 2.39cumecs, well below Qmed. Theoretical daily flow rating by Wallingford Hydraulics Research, checked at low flows by current meter. One peak flow rating applied across period of record. Confirmed by gaugings to QMED. FLOW REGIME: No known artificial influences.
+CATCHMENT,Steep natural catchment draining the northern margin of the Cleveland Hills, with predominantly rough pasture and woodland. Geology is Upper Lias rock (blue-grey clays and ironstones) overlain by Lower Oolite sandstone series, with sand, gravel and Boulder Clay in valleys. Grazing and arable land. No known catchment changes.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Well contained channel with gaugings > QMED. Highest flow on record (1976) is substantially higher than others, but did cause substantial flooding in Stokesley (downstream).
+[END]

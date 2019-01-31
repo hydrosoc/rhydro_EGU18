@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 41005
+[END]
+[CDS DETAILS]
+NAME,Ouse
+LOCATION,Gold Bridge
+NOMINAL AREA,  182.66
+NOMINAL NGR,5429,1213
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,542900,121400
+CENTROID NGR,GB,535454,127417
+DTM AREA,  182.66
+ALTBAR,  77
+ASPBAR,177
+ASPVAR,0.16
+BFIHOST,0.494
+DPLBAR, 15.87
+DPSBAR, 73.5
+FARL,0.922
+FPEXT,0.0445
+LDP, 29.88
+PROPWET,0.35
+RMED-1H, 11.7
+RMED-1D, 35.9
+RMED-2D, 47.4
+SAAR, 835
+SAAR4170, 835
+SPRHOST,40.94
+URBCONC1990, 0.691
+URBEXT1990,0.0221
+URBLOC1990, 0.976
+URBCONC2000, 0.851
+URBEXT2000,0.0297
+URBLOC2000, 0.994
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Flat-V weir superseded a compound short-crested semi-circular weir, the new weir is more accurate at low flows. Flow record patchy 1992-1994 due to construction/remedial work. Flows are heavily influenced by Ardingly Reservoir. GENERAL: Flat-V weir (crest: 10m wide, cross slope 1:10) commissioned July 1992. Velocity area section with cableway for higher flows, but problems associated with upstream influences. Superseded a compound short-crested semi-circular weir (width 10.7m, central section 1.22m wide & 2 flanking sections, 3.15m wide, elevated by 0.15m). The modular limit of this weir was 0.6m stage / 5.6 cumecs, or a ratio of upstream to downstream head > 40%. STATION HYDROMETRY: 2 subsidiary culverts accommodate overflow, bank re-profiling has been carried out to negate the effects of this water entering the gauging section at high flows; relatively successful. Exact modular limit is not known but lies between 0.8m - 0.9m stage / 8.2 - 10.5 cumecs. The abutment walls at the weir, earth bank upstream and alongside the weir and gauge section give full containment, to all but exceptional flows; the EA doubt whether significant bypassing actually occurs until the upstream head exceeds 3.05m. No overtopping of flood banks in Oct 2000; 85 cumecs current-meter gauging following peak, and site has many check gaugings available. A 2002 station review suggests a mistake in the dimensioning of the upstream truncation of the weir block during design. 1996 & 2001 survey drawings show significant sediment deposition upstream of the weir (up to approx. 600mm against left abutment); this is sufficient to have a tangible effect on the upper part of the stage-discharge relationship. Sediment was removed following the 2000 event, but may have returned. Work was done (1993-1994), on 3 bank sections near to the weir which had slipped, more widespread bank stability measures also implemented. Changes in tailwater levels between 1960-61 & 1967-69. Upstream & downstream head causes a need for some 2 point gaugings. Frequently gauged but no low flow gaugings, although the new weir is more accurate at low flows. Possible errors at higher flows due to flow separation & circulatory flow against the left bank - caused by the entrance of a drainage ditch upstream of the station carrying the flow from 3 culverts under the A272; it is uncertain whether this is still the case, as notes indicate that the culverts may no longer be in use. Two ratings applied across period of record, the most recent is valid from July-1992 when weir was replaced necessitating a change in rating. Both ratings fit to their respective gaugings well and account for bypassing when >90m3s-1. FLOW RECORD: Flow record patchy 1992-1994 due to construction/remedial work. Full daily flow flow record reprocessed in 2003. Data estimated for Jun - Jul 1983 and for Sep 1993. FLOW REGIME: Flows are heavily influenced by Ardingly Reservoir which impounds the Shell Brook tributary upstream (catchment area 22.6sq. km). Reservoir releases augment low flows and supply the downstream river abstraction at Barcombe Mills. Sewage treatment works also have a limited influence on the responsive regime.
+CATCHMENT,Mixed geology with substantial permeable outcrops - particularly the Tunbridge Wells Sands. Diverse land use - chiefly rural with significant woodland but some urban centres including Haywards Heath. Some increase in urbanisation. The River Ouse is subject to flashy flows in summer & more prolonged flooding in winter. Flooding can be extensive with the valleys either side of the river inundated.
+Qmed Suitability,Reasonable fit to gaugings although some hysteresis is evident.
+Pooling Suitability,Reasonable fit to gaugings although some hysteresis is evident. Little bypass or drowning evident.
+[END]

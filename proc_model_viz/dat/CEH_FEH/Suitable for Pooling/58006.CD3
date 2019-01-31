@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 58006
+[END]
+[CDS DETAILS]
+NAME,Mellte
+LOCATION,Pontneddfechan
+NOMINAL AREA,   65.32
+NOMINAL NGR,2914,2081
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,291500,208150
+CENTROID NGR,GB,294645,214980
+DTM AREA,   65.32
+ALTBAR, 401
+ASPBAR,194
+ASPVAR,0.28
+BFIHOST,0.322
+DPLBAR, 10.58
+DPSBAR,131.7
+FARL,0.975
+FPEXT,0.0297
+LDP, 18.20
+PROPWET,0.62
+RMED-1H, 12.5
+RMED-1D, 63.5
+RMED-2D, 86.4
+SAAR,1981
+SAAR4170,2112
+SPRHOST,51.30
+URBCONC1990,-9999.000
+URBEXT1990,0.0000
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0002
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Flat V weir and velocity area station. PWS reservoir in catchment has partial effect on flows. GENERAL: Flat V weir and velocity area station; channel width 15m. STATION HYDROMETRY: Weir 1:20 cross slope, 1:2 slope u/s, 1:5 slope d/s. Steep section with heavy bed load. Station in steep valley and flows well contained. Flashy river so high flow gaugings are problematic. One peak flow rating applied across period of record. Weir refurbishment in May-June 2009 is not believed to have impacted the flood rating. Gauged up to top of wing walls. FLOW RECORD: During weir refurbishment over May-July 2009 an upstream sensor used in place of stage measurement instrument within stilling well; data may display minimal amount of variation to period of record data. Data estimated for Nov - Dec 1980, Sept - Oct 1991, and May - July 2005. Level records prior to opening not processed as original crest plates were stolen. FLOW REGIME: PWS reservoir in catchment has partial effect on flows.
+CATCHMENT,Rural upland catchment. Geology from S to N - Millstone Grit; Carboniferous Limestone and Old Red Sandstone, with majority Boulder Clay cover in S half of catchment. Predominantly grassland/pasture with significant areas of upland heath and some forestry.
+Qmed Suitability,Gauged above QMED. Good fit to gaugings
+Pooling Suitability,Gauged to within 21% of AMAX3, though AMAX3 is above wing walls.
+[END]

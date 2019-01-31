@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 33012
+[END]
+[CDS DETAILS]
+NAME,Kym
+LOCATION,Meagre Farm
+NOMINAL AREA,  138.15
+NOMINAL NGR,5156,2631
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,515600,263100
+CENTROID NGR,GB,506382,265469
+DTM AREA,  138.15
+ALTBAR,  61
+ASPBAR, 87
+ASPVAR,0.18
+BFIHOST,0.309
+DPLBAR, 16.58
+DPSBAR, 26.1
+FARL,0.992
+FPEXT,0.1207
+LDP, 31.48
+PROPWET,0.24
+RMED-1H, 11.8
+RMED-1D, 29.0
+RMED-2D, 36.3
+SAAR, 585
+SAAR4170, 610
+SPRHOST,49.43
+URBCONC1990, 0.380
+URBEXT1990,0.0074
+URBLOC1990, 0.887
+URBCONC2000, 0.580
+URBEXT2000,0.0073
+URBLOC2000, 0.887
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Compound weir gauging a predominantly clay catchment with near-natural flow regime. GENERAL: Compound weir with triangular profile centre section 3m wide and broad-crested flanks in a trapezoidal channel, 8.5m wide. One of 3 stations used to calculate Offord flow to determine abstraction regime at Grafham Water. No major bridge/weir change from 1959 drawings to H Reed 1994 survey. STATION HYDROMETRY: Downstream level used to flag non-modularity. Peak flow rating takes non-modularity into account but there is a high degree of scatter. Two peak flow ratings applied across period of record. FLOW REGIME: Predominantly natural regime with modest abstractions for agriculture. Some effluent returns.
+CATCHMENT,Predominantly clay catchment - very flashy by Anglian standards. Agricultural, predominantly arable.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Rating is not confirmed above QMED/bankfull with any confidence.
+[END]

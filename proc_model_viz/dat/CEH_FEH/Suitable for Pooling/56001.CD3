@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 56001
+[END]
+[CDS DETAILS]
+NAME,Usk
+LOCATION,Chainbridge
+NOMINAL AREA,  913.25
+NOMINAL NGR,3346,2055
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,334600,205550
+CENTROID NGR,GB,308053,225003
+DTM AREA,  913.25
+ALTBAR, 312
+ASPBAR,109
+ASPVAR,0.07
+BFIHOST,0.597
+DPLBAR, 55.21
+DPSBAR,159.7
+FARL,0.980
+FPEXT,0.0445
+LDP, 94.53
+PROPWET,0.56
+RMED-1H, 11.1
+RMED-1D, 50.2
+RMED-2D, 66.4
+SAAR,1367
+SAAR4170,1386
+SPRHOST,28.86
+URBCONC1990,-9999.000
+URBEXT1990,0.0045
+URBLOC1990,-9999.000
+URBCONC2000, 0.720
+URBEXT2000,0.0064
+URBLOC2000, 0.661
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station; straight and uniform cross section. Partial impact on flows resulting from three large existing PWS reservoirs in upper catchment. GENERAL: Velocity area station; 45m wide, straight and uniform cross section. STATION HYDROMETRY: All flows contained by bridge but some overspilling occurs during extreme events d/s on left bank. Permanent cableway. One single rating applied across period of record for peak flows database, while daily mean flows based on four ratings. Rating extended to 7.815 m based on hydraulic modelling. No gaugings prior to 1975. FLOW RECORD: Flows since Feb 1981 reprocessed in Sept 2014 due to rating change, with impact of slightly increasing low flow readings. Flows in Autumn 2003 suspect because stage below that measured at station (float resting on bottom of stilling well). Complementary station d/s (56010 - Trostrey, a 27.43m wide Crump weir) for flows <21 cumecs. Some naturalised flows available. Full period of record peak flow data reviewed and released in April 2017 (WINFAP Files v5). FLOW REGIME: Influence on flows from three large PWS reservoirs in the upper catchment. Abstraction for Monmouthshire and Brecon Canal at Brecon affects low flows.
+CATCHMENT,Impermeable catchment, mainly Old Red Sandstone, some Boulder Clay and alluvium in valleys. Principal land use is grassland, hill farming in upper areas, with dairy or livestock farming below; heathland in highest elevations, some forested areas. Peaty soils in uplands, seasonally wet.
+Qmed Suitability,Gauged above QMED. Ratings providing reasonable fit to gaugings.
+Pooling Suitability,Gauged beyond AMAX3. Confidence in rating at high flows.
+[END]

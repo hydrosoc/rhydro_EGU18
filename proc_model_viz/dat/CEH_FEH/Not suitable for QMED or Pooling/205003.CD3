@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+205003
+[END]
+[CDS DETAILS]
+NAME,Lagan
+LOCATION,Dunmurry
+NOMINAL AREA,  448.72
+NOMINAL NGR,3298,3679
+[END]
+[DESCRIPTORS]
+IHDTM NGR,Ireland,329800,367900
+CENTROID NGR,Ireland,323538,357139
+DTM AREA,  448.72
+ALTBAR, 104
+ASPBAR,296
+ASPVAR,0.04
+BFIHOST,0.450
+DPLBAR, 33.14
+DPSBAR, 59.6
+FARL,0.981
+FPEXT,0.0989
+LDP, 69.99
+PROPWET,0.52
+RMED-1H, 10.4
+RMED-1D, 35.8
+RMED-2D, 46.7
+SAAR, 912
+SAAR4170, 945
+SPRHOST,39.02
+URBCONC1990,-2.000
+URBEXT1990,0.0373
+URBLOC1990, 0.413
+URBCONC2000, 0.857
+URBEXT2000,0.0309
+URBLOC2000, 0.408
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station with cableway. GENERAL: Opened 1970 immediately upstream of motorway bridge on left bank, in two different locations. Moving bank, silt build-up, and difficult to gauge therefore station closed in 1985 and replaced by Newforge. STATION HYDROMETRY: The rating is derived from current meter gaugings. Simple extrapolation occurs beyond 3.06m (highest gauged level). Correlation carried out with Newforge, but rating has had little attention. FLOW REGIME: Numerous public water supply boreholes in Sherwood Sandstone, pumping capacity almost 30Ml/d. All effluents are returned to the river.
+CATCHMENT,Heavily overlain with till and extensive sand and gravel deposits in lower reaches of the river. Mainly arable, some upland heath. Urbanised in Lisburn and South West Belfast. Mainly arable, some upland heath. Urbanised. Solid geology - Silurian; remainder is Sherwood Sandstone with some breccia, Chalk, Hibernian Greensand and Lower Basalts. Drift geology -heavily overlain with till and extensive sand and gravel deposits in lower reaches of the river.
+Qmed Suitability,No - Flows are significantly less than Newforge, which has a longer and more reliable record. Although gauged to QMED, the station has been sited at 2 locations and the section may have varied. Considerable scatter in gaugings.
+Pooling Suitability,Rating deviates from check gaugings at high flows by 30% and more. The station is now closed but was contained by wing walls of Motorway bridge rating has received no further attention.
+[END]

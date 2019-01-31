@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 57015
+[END]
+[CDS DETAILS]
+NAME,Taff
+LOCATION,Merthyr Tydfil
+NOMINAL AREA,  111.25
+NOMINAL NGR,3043,2068
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,304300,206800
+CENTROID NGR,GB,302337,214029
+DTM AREA,  111.25
+ALTBAR, 430
+ASPBAR,176
+ASPVAR,0.22
+BFIHOST,0.352
+DPLBAR, 11.10
+DPSBAR,156.6
+FARL,0.850
+FPEXT,0.0273
+LDP, 21.28
+PROPWET,0.55
+RMED-1H, 12.1
+RMED-1D, 60.5
+RMED-2D, 82.4
+SAAR,1858
+SAAR4170,1884
+SPRHOST,49.89
+URBCONC1990, 0.636
+URBEXT1990,0.0087
+URBLOC1990, 0.212
+URBCONC2000, 0.764
+URBEXT2000,0.0121
+URBLOC2000, 0.204
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Flat V weir; velocity area station for high flows. Flows affected by large direct PWS reservoirs. GENERAL: Flat V weir; velocity area station for high flows. STATION HYDROMETRY: Structure is 14 m wide (from 1998), 1:20 cross slope, 1:2 d/s, 1:5 u/s. Full range. Control provided by a flat V weir throughout the record, with no change in profile, although the weir has been reconstructed. Modular throughout range. Original Flat V structure damaged by flood. Structure provides control at low flow but velocity area rating applied for high flows. Two peak flow ratings across period of record confirmed by check gaugings. Series of six PWS impounding reservoirs in the upper catchment (Taf Fawr and Taf Fechan) affects runoff. Runoff at low flows influenced by groundwater abstraction/recharge and abstraction for industry/agriculture. Runoff at low flows increased by effluent returns and minewater discharges. FLOW RECORD: Flow records from 1978 updated in August 2014 due to rating change. POR max. of 228 cumecs in Oct 1998 should be treated with caution as extrapolated, may have been overestimated. Dec 1979 flood (which destroyed the weir) may have been higher but considerable uncertainty surrounds magnitude. Flows for the period 03/06/13 to 15/08/13 are backfilled from Troedyrhiw FWS (57032) due to weir refurbishment. Full period of record peak flow data reviewed and released in April 2017 (WINFAP Files v5). FLOW REGIME: Flows affected by large direct PWS reservoirs.
+CATCHMENT,Upland catchment in Brecon Beacons National Park. Millstone Grit and Carboniferous Limestone. Old Red Sandstone in upper areas; some Boulder Clay in valleys. The two tributaries cross a Carboniferous Limestone outcrop. Mainly peaty soils, seasonally wet. Mainly grassland supporting livestock farming, significant upland heath and some forest. Minor urban development just u/s of station.
+Qmed Suitability,Gauged above QMED
+Pooling Suitability,Although only gauged to within 60% of AMAX3, extrapolation of the rating is considered to be reasonable
+[END]

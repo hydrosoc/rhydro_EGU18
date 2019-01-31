@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+  2002
+[END]
+[CDS DETAILS]
+NAME,Brora
+LOCATION,Bruachrobie
+NOMINAL AREA,  423.48
+NOMINAL NGR,2891,9039
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,289150,903900
+CENTROID NGR,GB,274454,916267
+DTM AREA,  423.48
+ALTBAR, 259
+ASPBAR,178
+ASPVAR,0.15
+BFIHOST,0.351
+DPLBAR, 28.71
+DPSBAR, 97.3
+FARL,0.845
+FPEXT,0.0553
+LDP, 52.37
+PROPWET,0.59
+RMED-1H,  8.8
+RMED-1D, 36.4
+RMED-2D, 48.9
+SAAR,1217
+SAAR4170,1190
+SPRHOST,54.16
+URBCONC1990,-9999.000
+URBEXT1990,0.0000
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0002
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station in upland Scotland. Mainly natural regime with a small headwater diversion into the Shin catchment. GENERAL: Velocity area station about 40m wide with relatively stable cobble control at the end of the measuring reach. STATION HYDROMETRY: Ratings derived from current meter gaugings up to 161 cumecs (about QMED), simple extrapolation beyond. Peak flow rating revised in 2003 and a new single rating for high flows only was judged to be suitable for whole period of record. FLOW REGIME: Mainly natural regime. Small headwater diversion into the Shin catchment (HEP). Major storage in Loch Brora (no control).
+CATCHMENT,Mountainous headwaters, often snowy in winter. Predominantly Moinian metamorphic rocks with granitic intrusions. Bedrock predominantly impermeable with extensive superficial deposits. Rough pasture and moorland, some forest, with arable land d/s. No significant catchment changes known.
+Qmed Suitability,No comment
+Pooling Suitability,No comment
+[END]

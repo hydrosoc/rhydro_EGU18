@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 41012
+[END]
+[CDS DETAILS]
+NAME,Adur E Branch
+LOCATION,Sakeham
+NOMINAL AREA,   93.62
+NOMINAL NGR,5218,1189
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,521900,119000
+CENTROID NGR,GB,529212,120331
+DTM AREA,   93.62
+ALTBAR,  49
+ASPBAR,247
+ASPVAR,0.09
+BFIHOST,0.376
+DPLBAR, 12.43
+DPSBAR, 48.3
+FARL,0.961
+FPEXT,0.0707
+LDP, 23.42
+PROPWET,0.34
+RMED-1H, 11.6
+RMED-1D, 37.6
+RMED-2D, 48.2
+SAAR, 829
+SAAR4170, 827
+SPRHOST,43.78
+URBCONC1990, 0.785
+URBEXT1990,0.0597
+URBLOC1990, 1.130
+URBCONC2000, 0.870
+URBEXT2000,0.0768
+URBLOC2000, 1.115
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Compound Crump profile weir. Largely rural lower catchment, responsive regime. GENERAL: Compound Crump profile weir (crests: 1.219m and 2 x 2.438m, total width 6.71m right-hand crest is 0.01m higher than left-hand crest). Present weir was constructed between 14/05/1966 - 10/10/1967, along with work on a local improvement in river section and alignment plus replacement of old penstock. Old penstock weir crest was lifted in 1964 to avoid backwater effects. STATION HYDROMETRY: Maximum capacity 45 cumecs. Crest tapping (seldom used) removed in 1993-94 when weir crest and wing-walls replaced (the weir profile remained the same). Modularity limitations at medium-high flow due to downstream channel conditions, but flows rarely corrected for frequent drowning as point of drowning unknown. Although not directly tidally affected, outfall sluices approx. 3.5km downstream forming the tidal limit of the Adur restrict the floodplain and embanked section downstream of the gauge, exacerbating drowning problems. One rating applied across period of record, based on hydraulic properties of Crump weir. Problems in past development of rating curve due to frequent drowning & subsequent scatter of points on rating curve. Station graded C for mean annual flood range. FLOW RECORD: Flows on 13/08/2004 and for Aug-Sep 2007 recession considered suspect. FLOW REGIME: Responsive regime. No substantial abstractions, small net import of water. Burgess Hill sewage effluent has substantial impact on low flows.
+CATCHMENT,Mixed geology - permeable headwaters but predominantly Weald Clay in the lower reaches. Largely rural lower catchment but significant urban growth along the eastern catchment boundary (including Cuckfield, Burgess Hill and Haywards Heath). The frequency of summer flooding may be increasing.
+Qmed Suitability,Although not gauged to within 30% AMAX3, rating expected to perform well to QMED.
+Pooling Suitability,No gaugings to verify rating beyond QMED and weir known to drown with some bypassing expected.
+[END]

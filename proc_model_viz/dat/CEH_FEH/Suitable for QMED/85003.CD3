@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 85003
+[END]
+[CDS DETAILS]
+NAME,Falloch
+LOCATION,Glen Falloch
+NOMINAL AREA,   79.92
+NOMINAL NGR,2321,7194
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,232100,719450
+CENTROID NGR,GB,232802,722131
+DTM AREA,   79.92
+ALTBAR, 446
+ASPBAR,181
+ASPVAR,0.14
+BFIHOST,0.379
+DPLBAR,  7.45
+DPSBAR,256.1
+FARL,0.988
+FPEXT,0.0285
+LDP, 14.60
+PROPWET,0.78
+RMED-1H, 12.5
+RMED-1D, 64.0
+RMED-2D, 91.5
+SAAR,2847
+SAAR4170,2768
+SPRHOST,49.27
+URBCONC1990,-9999.000
+URBEXT1990,0.0000
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0000
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station in a very responsive, natural catchment. GENERAL: Velocity area station, approx. 35m wide. STATION HYDROMETRY: Long broad-crested weir (with rectangular notch) as low flow control - installed Feb 1975. Damage to part of main crest results in a small discharge bypassing the central notch. Very high flows above 2.4m could bypass station on either side. Peak flow ratings derived from current meter gaugings, simple extrapolation beyond. Ratings reviewed in 2016 FLOW RECORD: Full period of record peak flow data reviewed and released in April 2017 (WINFAP Files v5). FLOW REGIME: Very responsive regime. No significant abstractions or discharges.
+CATCHMENT,Very wet, mountainous, catchment draining southern slopes of Benn Oss and northern slopes of Beinn a Chroin and Beinn Chabair, often snowy in winter. Developed on ancient metamorphic formations with isolated outcrops of igneous intrusions (impermeable). Peat deposits in upland areas. Small lochans in some headwaters, but have little affect on flows. Land use mainly moorland and rough grazing with small amounts of forestry. Minimal floodplains. No significant catchment changes known.
+Qmed Suitability,Gauged above QMED
+Pooling Suitability,No gauging above QMED, mobile river bed
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 79005
+[END]
+[CDS DETAILS]
+NAME,Cluden Water
+LOCATION,Fiddlers Ford
+NOMINAL AREA,  237.23
+NOMINAL NGR,2928,5795
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,292850,579550
+CENTROID NGR,GB,279569,586239
+DTM AREA,  237.23
+ALTBAR, 216
+ASPBAR,111
+ASPVAR,0.13
+BFIHOST,0.497
+DPLBAR, 23.35
+DPSBAR,129.8
+FARL,0.985
+FPEXT,0.0622
+LDP, 43.72
+PROPWET,0.64
+RMED-1H, 11.4
+RMED-1D, 45.1
+RMED-2D, 59.1
+SAAR,1422
+SAAR4170,1464
+SPRHOST,37.26
+URBCONC1990,-9999.000
+URBEXT1990,0.0004
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0012
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station. Some abstraction for public water supply. GENERAL: Velocity area station with cableway (47m in length) under natural channel control. Straight reach with gravel bed. STATION HYDROMETRY: Rating derived from current meter gaugings. Highest known gauging 2.4m, 121 cumecs (about 1.1 QMED). No problems at high flows. High stability. FLOW REGIME: Contains Glenkin Res. 1-2% of flows abstracted for public water supply.
+CATCHMENT,Silurian shales and mudstones in upper catchment; Permian basal breccias, sandstones and mudstones in lower catchment. More than 50% of catchment overlain by superficial deposits; predominantly Boulder Clay with some sands and gravels. Landuse mainly pasture giving way to rough grazing on higher ground with some forestry. No significant catchment changes known.
+Qmed Suitability,No comment
+Pooling Suitability,No comment
+[END]

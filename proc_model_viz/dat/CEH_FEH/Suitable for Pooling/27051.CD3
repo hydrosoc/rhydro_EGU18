@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 27051
+[END]
+[CDS DETAILS]
+NAME,Crimple
+LOCATION,Burn Bridge
+NOMINAL AREA,    8.17
+NOMINAL NGR,4283,4518
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,428400,451900
+CENTROID NGR,GB,426497,452134
+DTM AREA,    8.17
+ALTBAR, 174
+ASPBAR, 84
+ASPVAR,0.40
+BFIHOST,0.309
+DPLBAR,  2.58
+DPSBAR, 62.9
+FARL,1.000
+FPEXT,0.0133
+LDP,  5.27
+PROPWET,0.34
+RMED-1H, 12.8
+RMED-1D, 37.7
+RMED-2D, 45.7
+SAAR, 855
+SAAR4170, 862
+SPRHOST,40.77
+URBCONC1990,-9999.000
+URBEXT1990,0.0015
+URBLOC1990,-9999.000
+URBCONC2000, 0.333
+URBEXT2000,0.0058
+URBLOC2000, 0.899
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Flat-V weir in a rural catchment mainly underlain by Carboniferous Millstone Grit sequences. GENERAL: Flat-V weir (3.5m wide) opened in 1972 near site of masonry weir. No cableway. Subcatchment flows have been measured by Leeds University. STATION HYDROMETRY: Overtopped at high flows and drowns, but not due to backing-up from the Nidd. Maximum recorded level exceeds wingwalls and although the weir is likely drowned at this point, the theoretical equation is thought to remain a reasonable approximation for flow estimation. Low flows may be affected by structural leakage (but wooden wingwalls upgraded to concrete in 1999 - construction work affected recorded levels). Theoretical daily and peak flow rating based on shallow V formula applies from the start of the record. Maximum gauging at approximately bankfull within 60% of AMAX1. Rating excellent for peak flow measurement. FLOW REGIME: No known artificial influences.
+CATCHMENT,Carboniferous Millstone Grit sequence Shales and Grits cover three-quarters of the catchment, with the remaining quarter covered by shales, grits and 'Harrogate roadstones' of the Carboniferous Yoredale sequence. Small rural catchment, mainly used for pasture. No known catchment changes.
+Qmed Suitability,QMED easily contained and weir still modular
+Pooling Suitability,Gauged to within 19% of AMAX3. Weir is likely drowned when wing wall height exceeded but the theoretical equation is thought to remain a reasonable approximation for flow calculation.
+[END]

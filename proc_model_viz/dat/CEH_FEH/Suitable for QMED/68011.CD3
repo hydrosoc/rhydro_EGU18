@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 68011
+[END]
+[CDS DETAILS]
+NAME,Arley Brook
+LOCATION,Gore Farm
+NOMINAL AREA,   33.76
+NOMINAL NGR,3696,3799
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,369650,379900
+CENTROID NGR,GB,366592,381601
+DTM AREA,   33.76
+ALTBAR,  61
+ASPBAR,121
+ASPVAR,0.20
+BFIHOST,0.437
+DPLBAR,  7.32
+DPSBAR, 12.4
+FARL,0.998
+FPEXT,0.2498
+LDP, 13.30
+PROPWET,0.37
+RMED-1H, 10.8
+RMED-1D, 31.5
+RMED-2D, 39.2
+SAAR, 831
+SAAR4170, 801
+SPRHOST,35.52
+URBCONC1990, 0.512
+URBEXT1990,0.0112
+URBLOC1990, 1.324
+URBCONC2000, 0.641
+URBEXT2000,0.0212
+URBLOC2000, 1.437
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Critical depth flume installed for experimental catchment. Station closed in 1982. GENERAL: Critical depth trapezoidal flume, throat width 0.4m and height 1.35m. Installed as a component of an experimental catchment scheme. Station opened in January 1973 and closed 1982. STATION HYDROMETRY: Although there is a reasonable gradient downstream, backwater may occur if the bridge 100m downstream becomes blocked. Design capacity 7 cumecs in modular range, rated by gaugings above this, although no record of gaugings found. One rating applied across period of record. Theoretical rating until 1.08m. FLOW RECORD: Data are not presented for use from 12 March 1980 to 28 February 1981 as the pen trace tended to fail during events and peaks were guessed. FLOW REGIME: A few minor discharges.
+CATCHMENT,Low relief catchment between Northwich and Warrington on Boulder Clay covered by Keuper Marl. N boundary may be partially formed by the M56 embankment. Entirely rural but with M6 and M56 runoff. No catchment changes known.
+Qmed Suitability,No gaugings available to validate rating, although theoretical rating expected to perform well.
+Pooling Suitability,No gaugings available to validate rating.
+[END]

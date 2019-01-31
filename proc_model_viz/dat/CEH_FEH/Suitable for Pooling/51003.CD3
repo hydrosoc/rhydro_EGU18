@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 51003
+[END]
+[CDS DETAILS]
+NAME,Washford
+LOCATION,Beggearn Huish
+NOMINAL AREA,   36.70
+NOMINAL NGR,3040,1394
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,304000,139450
+CENTROID NGR,GB,300448,136965
+DTM AREA,   36.70
+ALTBAR, 252
+ASPBAR, 37
+ASPVAR,0.20
+BFIHOST,0.588
+DPLBAR,  6.84
+DPSBAR,194.4
+FARL,0.982
+FPEXT,0.0048
+LDP, 12.13
+PROPWET,0.38
+RMED-1H, 11.8
+RMED-1D, 43.9
+RMED-2D, 59.7
+SAAR,1151
+SAAR4170,1241
+SPRHOST,31.40
+URBCONC1990,-9999.000
+URBEXT1990,0.0020
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0028
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station constructed in 1966 with flat V fibreglass weir installed in 1982. Drains Brendon Hills in a predominantly rural catchment. GENERAL: Opened in 1966 as a velocity-area station. Flat V fibreglass weir, 4.5m crest, installed in 1982. STATION HYDROMETRY: It is likely that out of bank flow occurs before bankfull reached at station. Rated section at high flows. Two ratings applied across period of record, the most recent is valid from 11/1982 since weir installed. Good fit to gaugings. FLOW RECORD: Station closed from 1/07/80 to 6/6/83 for weir construction. Between 01/1967 and 11/1973 only daily mean flows available on EA archive. FLOW REGIME: Runoff natural to within 10% at Q95. Fish farm and mill upstream do not significantly affect daily mean flow.
+CATCHMENT,Drains Brendon Hills, relief is steep with many deeply incised valleys. Geology - Devonian Slates, Siltstones and Sandstones. Land use predominantly rural - pasture with coniferous woodland on valley sides. No major catchment changes known.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged to within 25% of AMAX3. No bypassing reported, rating expected to perform reasonably beyond QMED.
+[END]

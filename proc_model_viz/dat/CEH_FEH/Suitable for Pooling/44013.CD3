@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 44013
+[END]
+[CDS DETAILS]
+NAME,Piddle
+LOCATION,Little Puddle
+NOMINAL AREA,   34.09
+NOMINAL NGR,3718, 964
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,371850,96450
+CENTROID NGR,GB,370072,100165
+DTM AREA,   34.09
+ALTBAR, 152
+ASPBAR,138
+ASPVAR,0.18
+BFIHOST,0.893
+DPLBAR,  5.78
+DPSBAR,112.6
+FARL,1.000
+FPEXT,0.0155
+LDP, 11.09
+PROPWET,0.38
+RMED-1H, 11.2
+RMED-1D, 38.4
+RMED-2D, 51.4
+SAAR,1002
+SAAR4170,1078
+SPRHOST,11.77
+URBCONC1990,-9999.000
+URBEXT1990,0.0030
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0045
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Flat V crump weir built in 1992. GENERAL: The station was built in 1992 with a Flat V Crump weir structure, 3.0m wide. STATION HYDROMETRY: No evidence of bypassing but culvert upstream may interfere and surcharge at high flows causing ponding upstream. May cause attenuation of flood peak. Three peak flow ratings applied across period of record. All flows remain in bank, good fit to check gaugings. FLOW REGIME: No major influences on flow regime.
+CATCHMENT,Predominantly Lower Chalk with small outcrops of Middle and Upper Chalk forming higher ground flanking the catchment. Mainly pastoral with some arable agriculture on flatter ground. No major catchment changes.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged to within 25% of AMAX3. No bypassing reported.
+[END]

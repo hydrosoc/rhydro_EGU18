@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 41028
+[END]
+[CDS DETAILS]
+NAME,Chess Stream
+LOCATION,Chess Bridge
+NOMINAL AREA,   25.01
+NOMINAL NGR,5216,1172
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,521650,117250
+CENTROID NGR,GB,525638,115295
+DTM AREA,   25.01
+ALTBAR,  43
+ASPBAR,334
+ASPVAR,0.33
+BFIHOST,0.496
+DPLBAR,  6.78
+DPSBAR, 46.9
+FARL,0.983
+FPEXT,0.0973
+LDP, 11.71
+PROPWET,0.34
+RMED-1H, 11.4
+RMED-1D, 36.5
+RMED-2D, 46.8
+SAAR, 849
+SAAR4170, 844
+SPRHOST,36.08
+URBCONC1990, 0.578
+URBEXT1990,0.0125
+URBLOC1990, 0.926
+URBCONC2000, 0.718
+URBEXT2000,0.0135
+URBLOC2000, 0.823
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,The station was refurbished between July 2004 and December 2004 and the separate flume and weir were replaced with a combined concrete structure. Weed growth downstream can be a problem at high flows. Very responsive regime but with spring-fed baseflow. GENERAL: Central notch for summer/low flows inside a higher wider weir section for winter/high flows, total width approx 3.36m. Located 100m downstream of Chess Bridge. Prior to 2004, the station consisted of two separate structures - rectangular flume and compound thin-plate weir, the weir was lowered into the flume for low flows (normally in place May to November). STATION HYDROMETRY: Flows remain modular at all but highest flows, when structure suffers from drowning and significant bypassing. Weed growth downstream can be a problem at high flows, although the drop over the weir crest is generally sufficient to prevent drowning at normal flows. Downstream water levels are not recorded at the station, it has been assumed in the past. Multiple ratings applied across period of record. Pre 2004 theoretical ratings for summer and winter applied. Post 2004, when a combined concrete structure was installed, a combined rating has been applied. Few gauging available to confirm rating. FLOW RECORD: Some partial data in 1980's and 1990's. Pre-1994 station design resulted in some discontinuities in processed flows. FLOW REGIME: Very responsive regime but with spring-fed baseflow. No significant abstractions, very minor effluent contribution to runoff from sewage treatment works upstream. Upstream penstock operation can influence flow. Natural to within 10% at Q95. Possible irrigation abstraction upstream during summer months.
+CATCHMENT,Very mixed geology; the Chess Stream rises on the Chalk scarp of the South downs but lower catchment is largely impervious clay. Agriculture is the predominant land use; small but increasing urban fraction. Chalk outcropping along the southern watershed provides baseflow.
+Qmed Suitability,Not gauged to within 30% of QMED and rating appears to underestimate flow.
+Pooling Suitability,No gaugings to verify rating. Possible drowning and bypassing.
+[END]

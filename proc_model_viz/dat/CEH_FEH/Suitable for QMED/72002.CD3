@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 72002
+[END]
+[CDS DETAILS]
+NAME,Wyre
+LOCATION,St Michaels
+NOMINAL AREA,  273.75
+NOMINAL NGR,3463,4411
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,346300,441150
+CENTROID NGR,GB,354182,445969
+DTM AREA,  273.75
+ALTBAR, 146
+ASPBAR,249
+ASPVAR,0.36
+BFIHOST,0.368
+DPLBAR, 17.85
+DPSBAR, 71.4
+FARL,0.958
+FPEXT,0.1367
+LDP, 37.86
+PROPWET,0.56
+RMED-1H, 10.7
+RMED-1D, 41.5
+RMED-2D, 53.9
+SAAR,1251
+SAAR4170,1258
+SPRHOST,44.32
+URBCONC1990, 0.633
+URBEXT1990,0.0057
+URBLOC1990, 0.694
+URBCONC2000, 0.739
+URBEXT2000,0.0122
+URBLOC2000, 0.652
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Flat V weir on tidally affected reach of the River Wyre. Flood flows truncated by upstream storage basins. GENERAL: Station opened as a velocity area station with cableway in September 1962. Despite inclusion of artificial bed control, low flow calibration found insensitive and additional station built in 1969. The additional station is a truncated Flat V weir (19.4m wide, with 1:2 u/s & d/s slopes, and 1:20 cross-slopes) built 500m downstream in December 1969. Both stations operated until February 1981. STATION HYDROMETRY: Gaugings were carried out at the velocity area station until February 1981 and a cableway was installed at the Flat V station in mid 1990s. Inlet pipe gets blocked and has to be flushed. Tidally affected, particularly at spring tides, drowning weir. Raised banks prevent bypassing except for major events. Flood levee work in the 1980s is believed to have increased the channel capacity. Two ratings applied across POR, the most recent is valid from Jan-1970 with introduction of Flat V weir. Low flow theoretical rating supported by current meter gaugings at high flows. Some scatter in gaugings. FLOW RECORD: Peak flow data are from the velocity area station (to end 1969) and Flat V thereafter. The largest event in the record was on 26/27 October 1980, which flooded around 5000 acres, with breaches in the embankments upstream of the gauging stations. Because of problems in the recording of the October 1980 event, the flow is an estimate but one which reflects the limited capacity of the river channel and the extensive floodplains upstream. Damage in this event probably affected peak flows immediately afterwards. When the flood storage basins upstream are operated, the data should not be used in pooling groups and therefore AMAX and POT data are rejected after water year 1990/91. FLOW REGIME: There are abstractions at Garstang but the main artificial influence on low and medium flows is the Lune-Wyre transfer (via Abbeystead Reservoir). Large flood flows are reduced by Garstang (online) and Catterall (offline) flood storage basins upstream. Garstang was first used on 5 January 1992 and Catterall on 31 January 1995.
+CATCHMENT,Geology consists of Lower Triassic Bunter sandstones, marl, Millstone Grit and Carboniferous Limestone. A lightly populated catchment having predominantly agricultural land-use. No significant catchment changes.
+Qmed Suitability,Although gaugings extend beyond QMED there is considerable scatter. QMED is inbak.
+Pooling Suitability,Although gauged beyond AMAX3, recent gaugings suggest tidal effects create variable rating at high flows. There are also reservations about effect of levee works, scatter in gaugings, and blocking of inlet pipe in the record before September 1991.
+[END]

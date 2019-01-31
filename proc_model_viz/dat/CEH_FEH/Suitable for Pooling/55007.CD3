@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 55007
+[END]
+[CDS DETAILS]
+NAME,Wye
+LOCATION,Erwood
+NOMINAL AREA, 1283.40
+NOMINAL NGR,3075,2444
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,307550,244450
+CENTROID NGR,GB,298496,263086
+DTM AREA, 1283.40
+ALTBAR, 343
+ASPBAR,132
+ASPVAR,0.09
+BFIHOST,0.426
+DPLBAR, 42.94
+DPSBAR,152.4
+FARL,0.960
+FPEXT,0.0412
+LDP, 84.45
+PROPWET,0.53
+RMED-1H, 10.3
+RMED-1D, 44.7
+RMED-2D, 60.0
+SAAR,1386
+SAAR4170,1413
+SPRHOST,42.23
+URBCONC1990,-9999.000
+URBEXT1990,0.0010
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0022
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station with rock bar as a control. Substantial flow modification from regulation and abstraction from the Elan Valley reservoirs, PWS and sewage effluent. GENERAL: A velocity-area station with a large rock bar as a control. Bankfull width approx 64m. Stable section. A cableway with a span of 81m was installed at the station in December 1996. All but the highest flows contained, which spread slightly onto narrow terrace on RHB. The station was demolished and re-constructed through 2006/2007, completed in February 2007. The old station had a stilling well, which was not built to International Organization for Standardization (ISO), this is why the whole site was excavated and rebuilt now to ISO. The left bank was also re-profiled slightly. Original records destroyed 1937-52, so used FEH POTs (flow only). STATION HYDROMETRY: Cableway span 81m. All but the highest flows (which spread slightly onto narrow terrace on rb) contained. Approximately 15% of the catchment draining to Erwood is upstream of the Elan Valley reservoirs. These reservoirs are used for PWS and affect runoff/attenuate flood peaks. Regulation releases also made from Caban Coch reservoir to support downstream abstraction during low flows. Two peak flow ratings applied across period of record. Gaugings confirm stage-discharge behaviour to approx 5m. No records of bypassing or floodplain flow. FLOW RECORD: In July 2014 flows back to 15/08/1999 reprocessed due to rating change, particularly affecting low flows which are difficult to gauge - and rate - due to uneven rocky bed. As a result, flows below 1.53 cumecs are extrapolated below the lower limit of the rating and should be treated as estimated. The station was demolished and re-constructed through 2006/2007, completed in February 2007. The old station had a stilling well which was not built to International Organization for Standardization (ISO) - this is why the whole site was excavated and rebuilt. The left bank was also re-profiled slightly. Original records destroyed 1937-52, so FEH POTs used (flow only). Some naturalised sequences available. FLOW REGIME: Substantial flow modification from regulation and abstraction from the Elan Valley reservoirs, PWS and sewage effluent.
+CATCHMENT,Large wet upland catchment draining impermeable rocks - metamorphosed Palaeozoic sediments and an igneous complex. Summit levels exceed 600m. Predominantly grassland catchment with extensive grazing, moorland, and patches of forest.
+Qmed Suitability,Gauged above QMED. gaugings in good agreement with rating.
+Pooling Suitability,Gauged to within 24% of AMAX3. Good confidence in rating at high flows.
+[END]

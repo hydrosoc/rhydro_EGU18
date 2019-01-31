@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 37012
+[END]
+[CDS DETAILS]
+NAME,Colne
+LOCATION,Poolstreet
+NOMINAL AREA,   64.49
+NOMINAL NGR,5771,2364
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,577100,236400
+CENTROID NGR,GB,572775,237728
+DTM AREA,   64.49
+ALTBAR,  82
+ASPBAR, 89
+ASPVAR,0.19
+BFIHOST,0.403
+DPLBAR,  8.01
+DPSBAR, 26.4
+FARL,0.992
+FPEXT,0.0674
+LDP, 15.40
+PROPWET,0.29
+RMED-1H, 11.1
+RMED-1D, 28.3
+RMED-2D, 35.0
+SAAR, 574
+SAAR4170, 605
+SPRHOST,43.90
+URBCONC1990, 0.409
+URBEXT1990,0.0064
+URBLOC1990, 0.836
+URBCONC2000, 0.651
+URBEXT2000,0.0087
+URBLOC2000, 0.863
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Located in upper part of the Colne, with very low to no flows in summer. GENERAL: Trapezoidal flume with throat tapping. High flow spillway. STATION HYDROMETRY: High flows spill onto a spillway (above 1.34m) and flows above wingwall height (1.6m) are estimated because of major bypassing. Rarely non-modular. One rating applied across period of record. FLOW RECORD: No POT data are presented for this station as they have no non-modular flow correction applied. AMAX data have been corrected, but in some cases can be below the daily flow as these are not corrected. FLOW REGIME: Great Yeldham PWS borehole may influence flows, but unquantifiable. Period of Ely/Ouse Transfer Scheme pumping in 1982. Some industrial/agricultural abstraction.
+CATCHMENT,Upland (for East Anglia) catchment. Upper Chalk with London Clay present in southern half, all overlain with Boulder Clay and minor patches of sands and gravels. Rural, predominantly arable land.
+Qmed Suitability,Gauged above QMED. Good fit to gaugings.
+Pooling Suitability,Few high flow gaugings. Rating can not be validated above wing walls.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 41014
+[END]
+[CDS DETAILS]
+NAME,Arun
+LOCATION,Pallingham
+NOMINAL AREA,  382.69
+NOMINAL NGR,5046,1229
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,504650,122900
+CENTROID NGR,GB,507351,132316
+DTM AREA,  382.69
+ALTBAR,  63
+ASPBAR,177
+ASPVAR,0.08
+BFIHOST,0.390
+DPLBAR, 28.55
+DPSBAR, 49.5
+FARL,0.958
+FPEXT,0.0849
+LDP, 48.10
+PROPWET,0.35
+RMED-1H, 11.4
+RMED-1D, 35.0
+RMED-2D, 46.7
+SAAR, 805
+SAAR4170, 800
+SPRHOST,43.30
+URBCONC1990, 0.019
+URBEXT1990,0.0192
+URBLOC1990, 1.114
+URBCONC2000, 0.820
+URBEXT2000,0.0292
+URBLOC2000, 1.119
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Flat-V weir (installed in 1994 when station was moved to Pallingham Manor Farm) with (from 2002) ultrasonics for high flows. Runoff increased by effluent returns. A predominantly impervious catchment. A relatively natural catchment. Growing urban fraction especially around Horsham. GENERAL: Flat-V weir (installed in 1994 when station moved to Pallingham Manor Farm) with ultrasonics for high flows (from 2002, poor performance in early period). Superseded an insensitive broad-crested weir at Pallingham Quay (15m wide), with 0.03m fall along crest due to settlement, cableway at Park Mound. Possibly also early broad-crested weir at Park Mound (1960-1970). STATION HYDROMETRY: Work undertaken (2013-2014) to improve ultrasonics, lack of mid/high flow calibrations exist. Weir can drown at higher tides, and above 2 m3/s. Cableway present, but the velocity-area measurement is restricted by the effects of tidal lag at high flows. All but exceptional floods contained (overtopped by 1974 flood) but most post-1979 peak flows truncated at ~55 cumecs. Two peak flow ratings applied across period of record. Pre-1994 rating derived for broad crested crump weir with post 1994 developed for Flat-V weir. Limited gaugings to confirm rating. Tidal influence only allows reasonable relationship (still scattered) at flows > 50 m3/s. Newer (modelled) rating increases flows at high stages compared to FEH data. FLOW RECORD: From 2009, flows truncated at 5.56 cumecs due to poor performance above this level; more gaugings required before rating can be extended. Record generally complete, some partial data in 1980's and 1990's. Flows comparable to the 1973 minimum occurred in several years. FLOW REGIME: The Arun has a relatively natural, and very responsive, regime although runoff increased by effluent returns.
+CATCHMENT,A predominantly impervious catchment consisting largely of Weald Clay and Lower Greensand. Land use mixed, mainly rural, substantial woodland. A relatively natural catchment. Growing urban fraction especially around Horsham.
+Qmed Suitability,Gauged to within 12% of QMED. Some scatter in gaugings evident.
+Pooling Suitability,Few high flow gaugings. Rating can not be validated beyond QMED and is thought to be suspect.
+[END]

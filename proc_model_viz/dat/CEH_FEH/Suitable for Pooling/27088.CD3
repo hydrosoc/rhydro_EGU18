@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 27088
+[END]
+[CDS DETAILS]
+NAME,Calder
+LOCATION,Mytholmroyd
+NOMINAL AREA,  146.87
+NOMINAL NGR,4011,4260
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,401200,426050
+CENTROID NGR,GB,395015,427885
+DTM AREA,  146.87
+ALTBAR, 323
+ASPBAR,150
+ASPVAR,0.11
+BFIHOST,0.361
+DPLBAR, 11.46
+DPSBAR,147.9
+FARL,0.945
+FPEXT,0.0238
+LDP, 19.67
+PROPWET,0.57
+RMED-1H, 11.4
+RMED-1D, 44.0
+RMED-2D, 60.5
+SAAR,1360
+SAAR4170,1365
+SPRHOST,46.77
+URBCONC1990, 0.523
+URBEXT1990,0.0113
+URBLOC1990, 0.776
+URBCONC2000, 0.646
+URBEXT2000,0.0229
+URBLOC2000, 0.806
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Multi-path ultrasonic gauge located under a road bridge located in a steep Pennine catchment. Station name previously known as Caldene Bridge. GENERAL: Multi-path ultrasonic gauging station (cross configuration) in channel around 10m wide. Downward looking ultrasonic (level) transducer is situated under bridge, which occasionally surcharges. No cableway. Full range but suspended solids cause signal attenuation in some floods. Rochdale Canal (offtake is u/s) bypasses the station. Station was previously known as Caldene Bridge (name changed in 2008). STATION HYDROMETRY: Flow is contained by 3.2m high wall which contains flow - there is no known bypassing. Flow gauge susceptible to failure at high flows. Lost data is infilled using a rating. One peak flow rating applied to the period of record. FLOW RECORD: Daily flows August-September 2007 should be considered suspect. FLOW REGIME: Heavily reservoired. Estimated 21.4% of catchment area drains through around 8 impoundments. Net export of water; Hebden Water Reservoirs provide supply to Halifax. Effluent and (minor) minewater discharge can affect flow pattern.
+CATCHMENT,Steep, Pennine catchment with extensive moorland draining the eastern flank of the Pennines, above Halifax. Mostly Carboniferous Millstone Grit, with peat cover in headwaters. Predominantly moorland and pasture, but heavily urbanised and forested along the lower-lying river valleys. The valley floors are strongly urbanised and industrialised, including Todmorden and Hebden Bridge. Continued increases in urbanisation.
+Qmed Suitability,Gauged to within 29% of QMED. Flow gaugings confirm ultrasonic estimates.
+Pooling Suitability,Ultrasonic gauge is of variable quality above QMED with Jun-2000 & Jan-1995 peaks thought to be over-estimated. Most other AMAX thought to be reliable (incl. Jun-2012) so suitable for pooling with some caution. Flow is contained with no bypassing.
+[END]

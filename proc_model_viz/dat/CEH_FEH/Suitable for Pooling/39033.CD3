@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 39033
+[END]
+[CDS DETAILS]
+NAME,Winterbourne Stream
+LOCATION,Bagnor
+NOMINAL AREA,   45.31
+NOMINAL NGR,4452,1694
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,445300,169450
+CENTROID NGR,GB,445079,176491
+DTM AREA,   45.31
+ALTBAR, 148
+ASPBAR,163
+ASPVAR,0.30
+BFIHOST,0.766
+DPLBAR, 10.43
+DPSBAR, 45.5
+FARL,1.000
+FPEXT,0.0325
+LDP, 18.21
+PROPWET,0.32
+RMED-1H, 10.4
+RMED-1D, 34.0
+RMED-2D, 43.2
+SAAR, 717
+SAAR4170, 715
+SPRHOST,22.35
+URBCONC1990,-9999.000
+URBEXT1990,0.0018
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0011
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,The station is located in the lower reaches of the Winterbourne Stream, close to the confluence of the River Lambourn. GENERAL: Crump weir, 3m wide, but was originally 5.5m wide and was reduced to improve sensitivity in 1968. STATION HYDROMETRY: Full range. Resurveyed in 1997 and a new datum was recorded. Non-modular flow conditions can occur when stage is in excess of 0.25m. Protected flows derived from standard Crump weir calculation. FLOW RECORD: For limited periods flows are substantially influenced by pumping and flow augmentation during drought, associated with the WBGS (e.g. winter 1969/70, 1976, 1989, 1998, June 2004 & October & November 2012). Cessation of test augmentation in the autumn of 1969 resulted in exceptionally low flows. Surface runoff contributed to remarkable peak in July 2007. FLOW REGIME: Stable, spring-fed regime. Runoff reduced by gw abstractions (e.g. WBGS) during the POR.
+CATCHMENT,A Chalk catchment (with extensive Clay-with-Flints cover). It is very rural in character.
+Qmed Suitability,Slight overestimation of flows, but flow is within bank full.
+Pooling Suitability,AMAX1 is out of bank but generally flows are estimated well by the rating.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 94001
+[END]
+[CDS DETAILS]
+NAME,Ewe
+LOCATION,Poolewe
+NOMINAL AREA,  441.21
+NOMINAL NGR,1860,8803
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,186000,880350
+CENTROID NGR,GB,199244,866282
+DTM AREA,  441.21
+ALTBAR, 311
+ASPBAR,  5
+ASPVAR,0.10
+BFIHOST,0.365
+DPLBAR, 25.98
+DPSBAR,222.0
+FARL,0.665
+FPEXT,0.0381
+LDP, 47.42
+PROPWET,0.83
+RMED-1H, 10.6
+RMED-1D, 63.7
+RMED-2D, 89.5
+SAAR,2273
+SAAR4170,2345
+SPRHOST,50.08
+URBCONC1990,-9999.000
+URBEXT1990,0.0001
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0001
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station in north west Scotland. Flow regime dominated by Loch Maree. GENERAL: Velocity area station, 50m wide. STATION HYDROMETRY: Stable (rock armoured) control which has been modified infrequently resulting in re-calibration of low flows. Right bank has been modified by fisheries proprietors (about 3 times) without affecting the control. To date all flows contained. Rating from current meter gaugings, simple extrapolation beyond. Peak flow rating revised in 2016, with one rating applied across period of record. FLOW RECORD: Full period of record peak flow data reviewed and released in April 2017 (WINFAP Files v5). Chart data between 1972 & 1982 was digitised in 2016. FLOW REGIME: Slow responding. In excess of 95% of the catchment drains through Loch Maree (surface area 30 sq km) which dominates the flow regime. Low to medium flows from 3% of the upper catchment diverted to Conon hydro scheme.
+CATCHMENT,Mountainous headwaters, often snowy in winter. Very wet, mountainous catchment developed largely on ancient metamorphic formations (Lewisian Gneiss and Torridonian Sandstone). About a third overlain by superficial deposit. Typical Highland land use with rough pasture and moorland and some tree cover. No significant catchment changes known.
+Qmed Suitability,Gauged above QMED
+Pooling Suitability,Highest flows supported by gauging
+[END]

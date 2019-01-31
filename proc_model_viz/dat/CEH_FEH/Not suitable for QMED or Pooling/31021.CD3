@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 31021
+[END]
+[CDS DETAILS]
+NAME,Welland
+LOCATION,Ashley
+NOMINAL AREA,  247.08
+NOMINAL NGR,4818,2915
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,481900,291550
+CENTROID NGR,GB,473006,291282
+DTM AREA,  247.08
+ALTBAR, 115
+ASPBAR,105
+ASPVAR,0.10
+BFIHOST,0.325
+DPLBAR, 17.89
+DPSBAR, 47.2
+FARL,0.992
+FPEXT,0.1001
+LDP, 33.20
+PROPWET,0.30
+RMED-1H, 12.1
+RMED-1D, 32.0
+RMED-2D, 40.7
+SAAR, 640
+SAAR4170, 654
+SPRHOST,47.92
+URBCONC1990, 0.651
+URBEXT1990,0.0096
+URBLOC1990, 1.053
+URBCONC2000, 0.800
+URBEXT2000,0.0178
+URBLOC2000, 1.003
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Gauging a predominantly rural catchment with low permeability and with some artificial influences. GENERAL: Crump profile weir in realigned channel beneath bridge. Weir has crest length of 6.97m. Original prebarrage and drop off weirs removed in 2013. Replaced by broad-crested weir 8.7m downstream of gauging weir, with rock prebarrage 3m further downstream. STATION HYDROMETRY: Flows above 22 cumecs - including all floods - influenced by bridge soffit and are therefore unreliable. Weir is theoretically calibrated to wing wall height with rated section above. Theoretical rating applied to wing wall height across period of record. FLOW REGIME: Abstractions for irrigation, and reservoir for maintenance of canal flow. Some effluent returns.
+CATCHMENT,Catchment developed on low permeability bedrock geology with significant superficial deposits, mainly Boulder Clay. Rural catchment with mixed farming; Market Harborough is in upper catchment.
+Qmed Suitability,Not gauged to within 30% of QMED. QMED out of bank.
+Pooling Suitability,QMED out of bank.
+[END]

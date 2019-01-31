@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 54027
+[END]
+[CDS DETAILS]
+NAME,Frome
+LOCATION,Ebley Mill
+NOMINAL AREA,  196.71
+NOMINAL NGR,3830,2046
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,383000,204600
+CENTROID NGR,GB,388502,205049
+DTM AREA,  196.71
+ALTBAR, 179
+ASPBAR,153
+ASPVAR,0.12
+BFIHOST,0.738
+DPLBAR, 12.54
+DPSBAR,124.4
+FARL,0.950
+FPEXT,0.0154
+LDP, 29.70
+PROPWET,0.32
+RMED-1H, 10.4
+RMED-1D, 35.2
+RMED-2D, 46.6
+SAAR, 827
+SAAR4170, 888
+SPRHOST,20.43
+URBCONC1990, 0.580
+URBEXT1990,0.0236
+URBLOC1990, 0.564
+URBCONC2000, 0.731
+URBEXT2000,0.0307
+URBLOC2000, 0.543
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station on a curved reach with compound broad-crested weir as control - high flow section is a good fit to gaugings but possible bypassing at highest flows. GENERAL: Velocity area station on a curved reach. Control is a compound broad-crested weir. River inundates widely at gauging section. Possibly some bypassing above 18 m3/s. Suffers from weed growth at low flows. STATION HYDROMETRY: Control is a compound broad-crested weir. River inundates widely at gauging section. Possibly some bypassing above 18m3/s. Suffers from weed growth at low flows. One rating applied across period of record.High flow section is a good fit to gaugings. FLOW REGIME: Substantial headwater abstractions for PWS; further industrial abstractions and significant sewage outfall.
+CATCHMENT,Steep headwaters drain the Cotswolds scarp of Oolitic L'st and Lias s'st. Valley bottoms are considerably urbanised and underlain by Lias clays. The station is in Stroud. A large number of historic structures (e.g. weirs and sluices) exist along the river which is closely linked to the canal at a number of points.
+Qmed Suitability,Gauged above QMED. Excellent fit to gaugings and confident in rating.
+Pooling Suitability,Gauged to within 3% of AMAX3. Excellent fit to gaugings and confident in rating.
+[END]

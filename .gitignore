@@ -1,0 +1,4 @@
+*.AM
+*.CD2
+*.PT
+proc_model_viz/**/*.CSV

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 53029
+[END]
+[CDS DETAILS]
+NAME,Biss
+LOCATION,Trowbridge
+NOMINAL AREA,   78.14
+NOMINAL NGR,3854,1579
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,385400,157950
+CENTROID NGR,GB,386578,152687
+DTM AREA,   78.14
+ALTBAR,  80
+ASPBAR,331
+ASPVAR,0.22
+BFIHOST,0.525
+DPLBAR,  9.68
+DPSBAR, 43.1
+FARL,0.972
+FPEXT,0.1202
+LDP, 19.58
+PROPWET,0.35
+RMED-1H, 10.6
+RMED-1D, 33.7
+RMED-2D, 43.7
+SAAR, 759
+SAAR4170, 781
+SPRHOST,34.61
+URBCONC1990, 0.722
+URBEXT1990,0.0478
+URBLOC1990, 0.788
+URBCONC2000, 0.825
+URBEXT2000,0.0573
+URBLOC2000, 0.792
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Crump profile Flat V weir for low flows and concrete rectangular rated section for high flows. Runoff figures suggest topographical and groundwater catchment areas do not coincide. GENERAL: Station is located in the centre of Trowbridge and was opened in 1984. Crump profile Flat V weir (1:10) for low flows, then concrete rectangular rated section (high flows), 7.13m wide, set in deep culvert with vertical walls. Ultrasonic gauge installed 12/2006. STATION HYDROMETRY: Good approach, large downstream fall. Backing up from downstream due to debris. Rating for this station was reviewed in 2001. Previously two ratings existed for this station, the first was used from 1984 to 1992 based on theoretical rating for the weir. The second rating was fitted to the gaugings and used from 1992. Now one rating is applied across period of record; reviewed in 2011. A new top limb was derived using plot points from a time of flight ultrasonic installed at the site. FLOW RECORD: First few months to 11/03/1984 not included because of apparent datum change (higher levels in earlier record) and short gap. FLOW REGIME: Moderate influences at low flows by abstractions & discharges.
+CATCHMENT,Moderate relief catchment situated along Frome gap. Drains Chalk escarpment to the south-east with underlying geology of Jurassic clays. Predominant land use is arable farming, but contains towns of Trowbridge and Westbury. Runoff figures suggest topographical and groundwater catchment areas do not coincide. No major changes to catchment.
+Qmed Suitability,Gauged above QMED with good fit to rating.
+Pooling Suitability,All flows contained and rating recently reviewed.
+[END]

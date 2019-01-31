@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 39010
+[END]
+[CDS DETAILS]
+NAME,Colne
+LOCATION,Denham
+NOMINAL AREA,  725.90
+NOMINAL NGR,5051,1863
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,505200,186350
+CENTROID NGR,GB,507713,204917
+DTM AREA,  725.90
+ALTBAR, 121
+ASPBAR,124
+ASPVAR,0.16
+BFIHOST,0.629
+DPLBAR, 36.00
+DPSBAR, 42.7
+FARL,0.903
+FPEXT,0.0769
+LDP, 66.82
+PROPWET,0.29
+RMED-1H, 10.8
+RMED-1D, 32.1
+RMED-2D, 39.8
+SAAR, 704
+SAAR4170, 710
+SPRHOST,31.63
+URBCONC1990, 0.690
+URBEXT1990,0.0760
+URBLOC1990, 0.919
+URBCONC2000, 0.870
+URBEXT2000,0.1169
+URBLOC2000, 0.903
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,One of the major gauging stations on the middle section of the River Colne. GENERAL: Twin semi-circular broad-crested weirs (one section feeds the Frays River and is subject to drowning with no adjustment made to the rating). Overall crest length 30m. STATION HYDROMETRY: All flows contained. Weirs need to be cleared regularly. One rating applied across period of record. Existing rating based on a simple BC weir formula. Theoretical rating may appreciably underestimate modular flows. Insensitive to low flows. Few peak flow gaugings. FLOW RECORD: Does not measure flows accurately and could underestimate modular flows by as much as 15%. FLOW REGIME: Complex water utilisation within the catchment. Baseflow from the Chalk remains important but considerable groundwater abstraction leads to net reductions in flows. However, increasing effluent contribution (including Maple Lodge STW) makes up a large proportion of low and medium flows. Abstraction is mainly for industry/agriculture.
+CATCHMENT,A largely Chalk catchment with Drift cover; clays in the valleys supplemented by extensive gravel tracts. The Chilterns scarp is largely rural in the headwaters but considerable suburban development characterises the middle and lower reaches. Hydrological and topographical divides do not coincide.
+Qmed Suitability,Gauged to within 6% of QMED. Rating could underestimate flows by around 15% and there is some scatter in gaugings. Flow is within bank full.
+Pooling Suitability,Few high flow gaugings. Rating can not be validated beyond QMED. AMAX3 is out of bank.
+[END]

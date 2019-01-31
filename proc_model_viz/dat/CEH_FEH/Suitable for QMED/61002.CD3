@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 61002
+[END]
+[CDS DETAILS]
+NAME,Eastern Cleddau
+LOCATION,Canaston Bridge
+NOMINAL AREA,  181.87
+NOMINAL NGR,2072,2152
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,207250,215300
+CENTROID NGR,GB,208852,224687
+DTM AREA,  181.87
+ALTBAR, 152
+ASPBAR,185
+ASPVAR,0.23
+BFIHOST,0.537
+DPLBAR, 15.46
+DPSBAR, 96.0
+FARL,0.967
+FPEXT,0.0413
+LDP, 27.90
+PROPWET,0.44
+RMED-1H, 11.5
+RMED-1D, 43.8
+RMED-2D, 59.9
+SAAR,1437
+SAAR4170,1446
+SPRHOST,35.35
+URBCONC1990,-9999.000
+URBEXT1990,0.0008
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0035
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station. Large regulating reservoir affects flows. GENERAL: Velocity area station; artificial control installed in 1974 in the form of a DCWW water pipe. Channel width: 17.4m. STATION HYDROMETRY: Lb steep and high. Rb low flood bank on edge of pastoral floodplain. Flow > 2.6m spills onto rb. Pipe weir is known to freeze and elevate levels in winter, not corrected for. Two peak flow ratings applied across period of record, the most recent is valid from November 2001. Upper limit set to bank full. Rating fits well to all available gaugings. FLOW RECORD: 1986 POR max. triggered by 80-100mm storm but considerable uncertainty attends the magnitude of the peak flow (significant rating extrapolation was needed). Atypical recession throughout May - July 1984 remains under review. FLOW REGIME: Large regulating reservoir for PWS on one of the major tributaries of the Eastern Cleddau, can modify the river's response to rainfall. This was constructed and filled in the early 1970s.
+CATCHMENT,Mainly lowland with hills to N. Impermeable formations, mainly Ordovician with bands of igneous rock in N. Some Old Red Sandstone on southern boundary. Mainly grassland for dairy farming with some forest and patches of arable in low-lying areas to W.
+Qmed Suitability,Gauged to within 5% of QMED. Gaugings confirm the rating to 2.6m.
+Pooling Suitability,Few high flow gaugings. Rating can not be validated beyond QMED.
+[END]

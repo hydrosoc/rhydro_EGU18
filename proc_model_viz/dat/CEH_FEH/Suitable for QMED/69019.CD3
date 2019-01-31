@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 69019
+[END]
+[CDS DETAILS]
+NAME,Worsley Brook
+LOCATION,Eccles
+NOMINAL AREA,   24.05
+NOMINAL NGR,3752,3980
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,375300,398050
+CENTROID NGR,GB,375746,401590
+DTM AREA,   24.05
+ALTBAR,  61
+ASPBAR,187
+ASPVAR,0.55
+BFIHOST,0.349
+DPLBAR,  5.19
+DPSBAR, 22.2
+FARL,0.941
+FPEXT,0.2181
+LDP, 12.06
+PROPWET,0.44
+RMED-1H, 11.2
+RMED-1D, 34.3
+RMED-2D, 46.3
+SAAR, 956
+SAAR4170, 957
+SPRHOST,37.63
+URBCONC1990, 0.766
+URBEXT1990,0.2373
+URBLOC1990, 1.055
+URBCONC2000, 0.892
+URBEXT2000,0.3452
+URBLOC2000, 1.031
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Critical depth trapezoidal flume in artificial channel. Station closed 2001. GENERAL: Critical depth trapezoidal flume in artificial channel: throat width 0.6m, side slopes 1:2, structure full at 2.43m, flood banks at 3.13m. Station opened 1969 and closed April 2001. STATION HYDROMETRY: Flows fully contained. Twin box culvert 110m d/s with grids which are prone to blocking during floods, drowning the flume. One theoretical peak flow rating applied across period of record. Data quality poor. FLOW RECORD: Station not operational between December 1985 and June 1993. The AMAX for 2000-2001 occurs on the same day as those on surrounding stations, so is retained despite the station closure in this water year. FLOW REGIME: No major industrial or sewage discharges upstream of station. Several of the smaller tributaries have private impounding reservoirs originally devised for colliery and industrial supplies; these are of negligible area.
+CATCHMENT,Generally low relief catchment to the NW of Manchester. Solid geology is predominantly Coal Measures with Permo-Triassic S'sts to the South, extensively covered by Boulder Clay. Urban areas cover approximately half, otherwise poor pasture and heathland and small area of woodland. Dense motorway network includes the M61, M62, M63, M602. No catchment changes known.
+Qmed Suitability,Theoretical rating expected to perform well at QMED.
+Pooling Suitability,Variable backwater downstream and lack of gaugings beyond QMED to validate rating.
+[END]

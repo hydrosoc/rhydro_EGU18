@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 45009
+[END]
+[CDS DETAILS]
+NAME,Exe
+LOCATION,Pixton
+NOMINAL AREA,  147.82
+NOMINAL NGR,2934,1259
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,293500,126000
+CENTROID NGR,GB,291729,134755
+DTM AREA,  147.82
+ALTBAR, 309
+ASPBAR,185
+ASPVAR,0.20
+BFIHOST,0.548
+DPLBAR, 15.23
+DPSBAR,154.2
+FARL,0.950
+FPEXT,0.0169
+LDP, 36.67
+PROPWET,0.51
+RMED-1H, 12.2
+RMED-1D, 47.8
+RMED-2D, 65.5
+SAAR,1375
+SAAR4170,1441
+SPRHOST,34.63
+URBCONC1990,-9999.000
+URBEXT1990,0.0001
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0012
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Full range velocity area station. GENERAL: Full range velocity area station in natural section immediately d/s of bridge. The bridge washed away in 1960. Channel about 12m wide. STATION HYDROMETRY: Shallow rock bar d/s of station is natural low flow control. Limited bypasing. High flows from hydraulic model (for period of record). FLOW REGIME: Minor abstractions in catchment including some for public water supply. Low flows significantly affected by Wimbleball Reservoir post-1979.
+CATCHMENT,The catchment is entirely within the Exmoor National Park. Headwaters rise on Exmoor. Solid geology, predominantly Upper Devonian Grit and Shale. South of this is a transitional group, between the Devonian and Carboniferous. Catchment is virtually drift free. Land use is a combination of moorland, rough grazing and forestry. Wimbleball Reservoir impoundment in 1978.
+Qmed Suitability,Gauged to within 4% of QMED. Good fit to gaugings.
+Pooling Suitability,Few high flow gaugings mean that the rating beyond QMED cannot be validated. However rating felt to give reasonable performance during extreme flows, use with caution.
+[END]

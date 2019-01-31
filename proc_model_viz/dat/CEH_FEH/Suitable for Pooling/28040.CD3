@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 28040
+[END]
+[CDS DETAILS]
+NAME,Trent
+LOCATION,Stoke-On-Trent
+NOMINAL AREA,   58.52
+NOMINAL NGR,3891,3466
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,389200,346650
+CENTROID NGR,GB,389786,351443
+DTM AREA,   58.52
+ALTBAR, 185
+ASPBAR,228
+ASPVAR,0.19
+BFIHOST,0.403
+DPLBAR,  8.00
+DPSBAR, 68.3
+FARL,0.969
+FPEXT,0.0561
+LDP, 15.68
+PROPWET,0.44
+RMED-1H,  9.9
+RMED-1D, 32.3
+RMED-2D, 41.6
+SAAR, 861
+SAAR4170, 878
+SPRHOST,33.94
+URBCONC1990, 0.785
+URBEXT1990,0.1467
+URBLOC1990, 0.818
+URBCONC2000, 0.847
+URBEXT2000,0.1578
+URBLOC2000, 0.801
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Crump profile weir draining and urbanised and industrialised catchment with significant flow modification. GENERAL: Crump profile weir, 4.12m wide, modular throughout range. Liable to collect rubbish and fish baffles added in 2012. STATION HYDROMETRY: Four peak flow ratings applied across period of record.Current meter gaugings show a high degree of accuracy in the curve up to 31m3/s. FLOW REGIME: A responsive catchment affected by impounding reservoirs, discharges from three WRW's, plus mine drainage. Substantial flow modification in the early record, but reduced to significant through the 1980s. Flow affected by STW closure: effluent from Stoke diverted to other STW downstream of the gauge.
+CATCHMENT,Moderate relief catchment, significantly urbanised at Biddulph and Stoke on Trent, draining the Coal Measures; approximately quarter of catchment is covered with Boulder Clay.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged beyond AMAX3. All flows except the highest are in bank. Rating has excellent fit to gaugings.
+[END]

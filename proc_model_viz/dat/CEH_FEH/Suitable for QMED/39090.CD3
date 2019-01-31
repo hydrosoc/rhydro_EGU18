@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 39090
+[END]
+[CDS DETAILS]
+NAME,Cole
+LOCATION,Inglesham
+NOMINAL AREA,  139.79
+NOMINAL NGR,4208,1969
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,420850,196950
+CENTROID NGR,GB,421813,187519
+DTM AREA,  139.79
+ALTBAR, 111
+ASPBAR,  4
+ASPVAR,0.18
+BFIHOST,0.530
+DPLBAR, 16.36
+DPSBAR, 29.3
+FARL,0.969
+FPEXT,0.2078
+LDP, 31.13
+PROPWET,0.31
+RMED-1H,  9.5
+RMED-1D, 30.5
+RMED-2D, 38.8
+SAAR, 682
+SAAR4170, 680
+SPRHOST,34.21
+URBCONC1990, 0.730
+URBEXT1990,0.0573
+URBLOC1990, 1.251
+URBCONC2000, 0.859
+URBEXT2000,0.0655
+URBLOC2000, 1.269
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,The station, located in the lower River Cole catchment, forms part of the structure that splits the channel into two distributaries that flow into the River Thames. GENERAL: Compound Crump Weir (high central crest). STATION HYDROMETRY: The channel divides immediately below the weir, so levels in the left channel are higher than in the right channel. Part of the structure (left-hand side) is subject to non-modular conditions due to the differing levels in the weirs and this can cause significant data processing problems. Drowning, due to weed growth in summer, is likely. Standard Crump weir equation (summation of 3 crests) using tail levels. Tail reduction is employed in the left hand weir. Seems to estimate flows well. FLOW RECORD: Peak flows, calculated before the current methods of calculation (pre-1992), may be too low as the whole weir was assumed to be drowned. D/s correction only applied to part of the structure, so some overestimation at extreme flows. FLOW REGIME: Responsive regime with some baseflow from the Chalk. Runoff is influenced by gw abstraction/recharge.
+CATCHMENT,Chalk scarp headwaters but catchment is largely low-lying and impervious (clay). A mainly rural catchment with urban growth below the headwaters. The rapid development of eastern Swindon has been a recent major change. Storage ponds are also a catchment feature near Swindon.
+Qmed Suitability,QMED is just within bank full, though flow is possibly non-modular.
+Pooling Suitability,Highest flows are out of bank and modular limit unknown.
+[END]

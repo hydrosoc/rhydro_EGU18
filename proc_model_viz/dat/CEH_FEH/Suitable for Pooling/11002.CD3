@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 11002
+[END]
+[CDS DETAILS]
+NAME,Don
+LOCATION,Haughton
+NOMINAL AREA,  792.67
+NOMINAL NGR,3756,8201
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,375700,820150
+CENTROID NGR,GB,348554,814054
+DTM AREA,  792.67
+ALTBAR, 332
+ASPBAR, 82
+ASPVAR,0.11
+BFIHOST,0.573
+DPLBAR, 51.29
+DPSBAR,137.8
+FARL,0.997
+FPEXT,0.0507
+LDP,102.59
+PROPWET,0.55
+RMED-1H,  8.4
+RMED-1D, 34.9
+RMED-2D, 47.6
+SAAR, 916
+SAAR4170,1025
+SPRHOST,32.44
+URBCONC1990,-9999.000
+URBEXT1990,0.0010
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0016
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station, catchment drains the eastern Cairngorms. GENERAL: Velocity area station; about 40m wide. STATION HYDROMETRY: Cableway rated, natural control. Levels can be affected by ice. Minor bypassing only at the highest flood flow to date, in 2002. Well-fitted peak flow rating derived from current meter gaugings up to 4.8m (about 1.7 QMED), simple extrapolation beyond. Peak flow rating was revised in 2001 and a new single rating was judged to be suitable for whole period of record. FLOW RECORD: High flows 1969-1983 reprocessed in 1986. FLOW REGIME: Natural regime. Slow rising river, responsiveness dampened by superficial deposits.
+CATCHMENT,Mountainous headwaters, often snowy in winter. Mainly Dalradian metamorphics with large amounts of basic intrusives and a small pocket of ORS. High moorland, forestry, pastoral and arable in lower valleys. No significant catchment changes known.
+Qmed Suitability,No comment
+Pooling Suitability,No comment
+[END]

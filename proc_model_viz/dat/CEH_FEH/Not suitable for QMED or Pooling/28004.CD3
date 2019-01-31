@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 28004
+[END]
+[CDS DETAILS]
+NAME,Tame
+LOCATION,Lea Marston
+NOMINAL AREA,  794.74
+NOMINAL NGR,4206,2935
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,420600,293500
+CENTROID NGR,GB,410262,287270
+DTM AREA,  794.74
+ALTBAR, 132
+ASPBAR, 79
+ASPVAR,0.11
+BFIHOST,0.471
+DPLBAR, 29.02
+DPSBAR, 30.6
+FARL,0.946
+FPEXT,0.1176
+LDP, 53.21
+PROPWET,0.30
+RMED-1H, 10.8
+RMED-1D, 32.9
+RMED-2D, 40.8
+SAAR, 716
+SAAR4170, 722
+SPRHOST,36.22
+URBCONC1990, 0.862
+URBEXT1990,0.2707
+URBLOC1990, 1.082
+URBCONC2000, 0.944
+URBEXT2000,0.3827
+URBLOC2000, 1.116
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Station replaced by Lea Marston Lakes (28080) in 1982. GENERAL: Station replaced by Lea Marston Lakes (28080) in 1982. STATION HYDROMETRY: Gauging carried out from bridge and includes all flows. However, difficulties in measuring floodplain flows due to configuration of floodplain and location of gauging station. One rating applied across period of record to 1982. Doubt over the continuation of the curve above bankfull. Large scatter in the gaugings at all levels. QMED is calculated to be 50% less than that at the new site Lea Marston Lakes (28080). FLOW RECORD: Station flows merged into records for station 28080. FLOW REGIME: Runoff increased by effluent returns. Runoff reduced by industrial/agricultural abstraction.
+CATCHMENT,Alluvial and clay drift underlain by Keuper Marl. Heavily built up - Birmingham and Black Country.
+Qmed Suitability,Massive scatter in the gaugings at all levels, rating curve unreliable.
+Pooling Suitability,Massive scatter in the gaugings at all levels, rating curve unreliable.
+[END]

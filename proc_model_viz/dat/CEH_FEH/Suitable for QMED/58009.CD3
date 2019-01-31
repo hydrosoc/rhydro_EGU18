@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 58009
+[END]
+[CDS DETAILS]
+NAME,Ewenny
+LOCATION,Keepers Lodge
+NOMINAL AREA,   63.27
+NOMINAL NGR,2919,1782
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,292000,178250
+CENTROID NGR,GB,296022,181579
+DTM AREA,   63.27
+ALTBAR,  85
+ASPBAR,209
+ASPVAR,0.24
+BFIHOST,0.555
+DPLBAR,  7.92
+DPSBAR, 75.5
+FARL,1.000
+FPEXT,0.0957
+LDP, 14.52
+PROPWET,0.52
+RMED-1H, 11.6
+RMED-1D, 43.3
+RMED-2D, 58.2
+SAAR,1324
+SAAR4170,1386
+SPRHOST,29.19
+URBCONC1990, 0.656
+URBEXT1990,0.0373
+URBLOC1990, 0.726
+URBCONC2000, 0.809
+URBEXT2000,0.0603
+URBLOC2000, 0.667
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Flat V weir. Regime influenced by abstractions and effluent returns. GENERAL: Flat V weir. Channel width 12.25m. STATION HYDROMETRY: Weir 1:15 cross-slope terminating in a 1:2 sloping revetment. All flows contained. Velocity area calibration for high flows. Daily flow rating changed due to drowning caused by not being able to regularly clear d/s channel since early 1990s. Two peak flow ratings applied across period of record, the most recent is valid from June 1995. Ratings fit respective gaugings well. FLOW RECORD: Data 21/06/95 - end 2002 reprocessed. Poorer quality data (1962-1965) available for d/s station 58003 Ewenny Priory. FLOW REGIME: Regime influenced by abstractions and effluent returns.
+CATCHMENT,Coal Measures in N. Mixture of Millstone Grit, Carboniferous Limestone, Triassic and Lias sediments in S. Significant superficial deposits with Boulder Clay and alluvium. Mainly lowland area with dairy and livestock farming, some forest and urban development (including just u/s of station). On-going industrial and residential expansion in the catchment. Ford and Sony factories built in 1980s as well as housing estates.
+Qmed Suitability,Gauged above QMED. Suitable for QMED post June 1995.
+Pooling Suitability,Few high flow gaugings. Rating can not be validated to AMAX3
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 28019
+[END]
+[CDS DETAILS]
+NAME,Trent
+LOCATION,Drakelow Park
+NOMINAL AREA, 3066.71
+NOMINAL NGR,4239,3203
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,423900,320400
+CENTROID NGR,GB,408823,309054
+DTM AREA, 3066.71
+ALTBAR, 120
+ASPBAR,126
+ASPVAR,0.04
+BFIHOST,0.512
+DPLBAR, 58.18
+DPSBAR, 34.2
+FARL,0.948
+FPEXT,0.1319
+LDP, 96.55
+PROPWET,0.31
+RMED-1H, 10.6
+RMED-1D, 31.8
+RMED-2D, 39.4
+SAAR, 707
+SAAR4170, 722
+SPRHOST,34.72
+URBCONC1990, 0.821
+URBEXT1990,0.1149
+URBLOC1990, 1.196
+URBCONC2000, 0.912
+URBEXT2000,0.1544
+URBLOC2000, 1.214
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station with complex rating history owing to river regrading in 1965 and 1973 draining a very large catchment that contains urban and industrial land use. GENERAL: Velocity area station. The left bank is a low lying golf course that is inundated from 2.68mASD; the golf course is closed approximately once a year due to flooding. Bankfull stage is 3.0mASD. STATION HYDROMETRY: Complex rating history owing to river re-grading (1965 and 1973). Multiple peak flow ratings, particularly since 2001. High flow precision limited by ungauged flow over left bank. Much storage in valley gravels. Cableway misses flows over 4m. A number of gaugings have been taken to assess out of bank flows; on 1/11/00 gaugings taken at 3.216mASD showed floodplain flow to be 26% of the total flow of 252m3/s. FLOW RECORD: High flow precision limited by ungauged flow over Lb. Summer flows reprocessed in 2010 for period 2006-2010 to account for weed growth. 2011 flows reprocessed to account for severe weed growth. FLOW REGIME: Flows substantially modified, particularly by imports into the Tame system.
+CATCHMENT,Very large catchment. Small areas of Coal Measures in the Stoke area. Approx 25% of catchment is overlain by Boulder Clay and 10% by valley gravel, terraces and alluvium. Drift free areas mostly Triassic Mudstones and Triassic and Permian Sandstones. A large area of the catchment is urban with large urban industrial areas, otherwise the main land use is mixed farming.
+Qmed Suitability,Gauged above QMED. Well rated with confidence in model derived rating for high flows.
+Pooling Suitability,Gauged to within 17% of AMAX3. Well rated with confidence in model derived rating for high flows. Largest gaugings include floodplain flow. The highest AMAX event is below the level at which the cableway is bypassed (4m).
+[END]

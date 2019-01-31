@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 48003
+[END]
+[CDS DETAILS]
+NAME,Fal
+LOCATION,Tregony
+NOMINAL AREA,   89.03
+NOMINAL NGR,1921, 447
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,192100,44750
+CENTROID NGR,GB,194929, 54536
+DTM AREA,   89.03
+ALTBAR, 126
+ASPBAR,242
+ASPVAR,0.14
+BFIHOST,0.546
+DPLBAR, 13.92
+DPSBAR, 78.8
+FARL,0.983
+FPEXT,0.0656
+LDP, 27.77
+PROPWET,0.45
+RMED-1H, 11.8
+RMED-1D, 42.4
+RMED-2D, 56.7
+SAAR,1211
+SAAR4170,1231
+SPRHOST,34.60
+URBCONC1990, 0.537
+URBEXT1990,0.0175
+URBLOC1990, 1.019
+URBCONC2000, 0.697
+URBEXT2000,0.0173
+URBLOC2000, 0.991
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station augmented by a low flow side-contracted flume. Some data unreliable due to siltation of flume an inlet pipes. GENERAL: Originally a velocity-area station in a formalised trapezoidal channel built in 1961; augmented by a low flow, side-contracted flume 2.8m wide in 08/1967. STATION HYDROMETRY: Full range station with sound high flow measurement. One peak flow rating applied across period of record. FLOW RECORD: Data available from 06/1978, earlier data unreliable due to silting of inlet pipes. Data between 1967 and 1978 is unreliable due to siltation of the flume. HIFs on NRFA from 01/1981. FLOW REGIME: Moderate modification to flows owing to industrial abstractions and returns.
+CATCHMENT,Responsive catchment of moderate to low relief, draining Devonian slates, shales and grits. Upper reaches plateau-like alluvial flats. Traverses the kaolinised St Austell Granite. Land use is low grade agriculture and grazing, some woodland. No major changes to catchment.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged beyond AMAX3. Good fit to gaugings across stage range.
+[END]

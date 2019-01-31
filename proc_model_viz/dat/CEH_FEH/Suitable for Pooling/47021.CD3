@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 47021
+[END]
+[CDS DETAILS]
+NAME,Kensey
+LOCATION,Launceston Newport
+NOMINAL AREA,   34.83
+NOMINAL NGR,2330, 851
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,233000,85150
+CENTROID NGR,GB,226707, 85525
+DTM AREA,   34.83
+ALTBAR, 166
+ASPBAR, 64
+ASPVAR,0.23
+BFIHOST,0.584
+DPLBAR,  8.33
+DPSBAR,101.3
+FARL,0.998
+FPEXT,0.0218
+LDP, 16.03
+PROPWET,0.50
+RMED-1H, 12.4
+RMED-1D, 41.4
+RMED-2D, 56.7
+SAAR,1298
+SAAR4170,1273
+SPRHOST,32.41
+URBCONC1990, 0.719
+URBEXT1990,0.0209
+URBLOC1990, 0.355
+URBCONC2000, 0.788
+URBEXT2000,0.0174
+URBLOC2000, 0.258
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Open channel rated section in canalised channel. GENERAL: Open channel rated section in canalised channel - flood defence scheme. STATION HYDROMETRY: Channel found to stable and one peak flow rating applies for period of record. Station was initially installed to collect data for feasibility studies surrounding flood defence scheme. It was upgraded to a permanent station forming part of the flood warning system for River Kensey. As station is within defended reach, flood flows contained to high level - all data in bank to date (2013). Rating developed by gaugings. Gauged to around 50% of highest AMAX on record but extrapolation considered reasonable as flows in bank. Greater uncertainty exists in the low flow data due to the stony mobile bed condition. FLOW REGIME: Predominantly rural catchment.
+CATCHMENT,The River Kensey catchment overlies Shale and Grit. Over this area, extensive mechanical deformation has taken place resulting in minor folding and faulting. Igneous activity in the form of Spilitic Lavas and intrusive Dolerite and Diabase is also evident within the catchment. From its source it flows through gently undulating or relatively level land with a fairly wide level valley floor. The Kensey flows from its source in a westerly direction towards Launceston. Just upstream of the town, the river passes under the rail embankment and then flows through a narrow, well defined floodplain. No major changes to catchment.
+Qmed Suitability,well gauged to around QMED
+Pooling Suitability,despite some extrapolation all flows contained to date
+[END]

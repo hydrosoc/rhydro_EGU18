@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 39020
+[END]
+[CDS DETAILS]
+NAME,Coln
+LOCATION,Bibury
+NOMINAL AREA,  107.30
+NOMINAL NGR,4121,2062
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,412150,206250
+CENTROID NGR,GB,405568,216076
+DTM AREA,  107.30
+ALTBAR, 197
+ASPBAR,148
+ASPVAR,0.18
+BFIHOST,0.858
+DPLBAR, 19.77
+DPSBAR, 76.8
+FARL,0.968
+FPEXT,0.0291
+LDP, 35.78
+PROPWET,0.33
+RMED-1H, 10.6
+RMED-1D, 35.3
+RMED-2D, 45.0
+SAAR, 821
+SAAR4170, 818
+SPRHOST,12.17
+URBCONC1990, 0.400
+URBEXT1990,0.0100
+URBLOC1990, 1.021
+URBCONC2000, 0.499
+URBEXT2000,0.0065
+URBLOC2000, 0.965
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Crump weir located in the mid catchment of the River Coln. GENERAL: Crump weir (9.1m broad). Some overspill onto floodplain before design capacity reached. STATION HYDROMETRY: Modular throughout the range. Estimates flows well. Rated by a standard crump weir calculation confirmed by gaugings. FLOW RECORD: Overspill might be significant in extreme events (e.g. late-2000 floods and, particularly, July 2007). FLOW REGIME: Baseflow dominated flow regime. Runoff influenced by groundwater abstraction/recharge. Limited overall impact of artificial influences on river flows - minor net import from sewage effluent discharges.
+CATCHMENT,Pervious (Oolitic L'st) catchment on the dip-slope of the Cotswolds. Predominantly rural and dominated largely by agricultural land use (arable and grassland). Some scattered settlements also.
+Qmed Suitability,Flow is within bank and estimates reliable.
+Pooling Suitability,Gauged to within 4% of AMAX3.
+[END]

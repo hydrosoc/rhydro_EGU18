@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 39134
+[END]
+[CDS DETAILS]
+NAME,Ravensbourne East
+LOCATION,Bromley South
+NOMINAL AREA,    9.77
+NOMINAL NGR,5405,1687
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,540550,168750
+CENTROID NGR,GB,542354,167490
+DTM AREA,    9.77
+ALTBAR,  75
+ASPBAR,290
+ASPVAR,0.34
+BFIHOST,0.685
+DPLBAR,  3.38
+DPSBAR, 24.8
+FARL,0.993
+FPEXT,0.0682
+LDP,  7.28
+PROPWET,0.27
+RMED-1H, 11.2
+RMED-1D, 33.8
+RMED-2D, 44.1
+SAAR, 680
+SAAR4170, 700
+SPRHOST,24.99
+URBCONC1990, 0.864
+URBEXT1990,0.3481
+URBLOC1990, 0.751
+URBCONC2000, 0.923
+URBEXT2000,0.4841
+URBLOC2000, 0.816
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Flat V weir (1:10 cross slope) with vertical wing walls. Very responsive flow regime. GENERAL: Flat V weir (1:10 cross slope) with vertical wing walls. Straight approach with no significant modification to flow regime. Original structure built in 1962 as a critical depth flume. The structure was rebuilt in 1992. STATION HYDROMETRY: Full range station, which has been theoretically rated (standard Flat V weir calculation). Further gaugings needed to confirm rating. Very few gaugings available. The few that do exist suggest that the rating underestimates flow by 15%. FLOW REGIME: Very responsive flow regime.
+CATCHMENT,The Ravensbourne rises as Chalk springs (in Holwood Park; dry valleys extend into the North Downs). The lower catchment is mainly impervious Eocene deposits. Below the headwaters the catchment is heavily urbanised (south London).
+Qmed Suitability,Flow is within bank full and but and the structure is thought to perform well. Rating is thought to be reasonably accurate although highest gauging is just 25%of QMED.
+Pooling Suitability,Although all flow is within bank full, no gaugings exist to validate rating.
+[END]

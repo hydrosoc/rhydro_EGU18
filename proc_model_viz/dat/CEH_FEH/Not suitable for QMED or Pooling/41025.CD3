@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 41025
+[END]
+[CDS DETAILS]
+NAME,Loxwood Stream
+LOCATION,Drungewick
+NOMINAL AREA,   93.01
+NOMINAL NGR,5059,1309
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,506000,130950
+CENTROID NGR,GB,498045,134411
+DTM AREA,   93.01
+ALTBAR,  69
+ASPBAR,115
+ASPVAR,0.15
+BFIHOST,0.321
+DPLBAR, 16.82
+DPSBAR, 56.4
+FARL,0.962
+FPEXT,0.0937
+LDP, 29.87
+PROPWET,0.35
+RMED-1H, 11.6
+RMED-1D, 36.1
+RMED-2D, 48.7
+SAAR, 812
+SAAR4170, 804
+SPRHOST,46.46
+URBCONC1990, 0.359
+URBEXT1990,0.0062
+URBLOC1990, 0.818
+URBCONC2000, 0.709
+URBEXT2000,0.0178
+URBLOC2000, 1.048
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Asymmetrical compound Crump profile weir gauging a river with very responsive flow regime. Construction of an aqueduct u/s of the station may affect flood flows in the future. GENERAL: Asymmetrical compound Crump profile weir, crest widths 2.0m and 4.0m. Located 50m upstream of road bridge, 20m upstream of canal aqueduct (built 2002). Upstream of the gauging station the river winds across the floodplain, the embankment of the Wey & Arun Canal (situated on the left edge of the flood plain) acts to reduce the floodplain. Downstream of the gauge the river narrows & meanders sharply across the floodplain. STATION HYDROMETRY: Crest tapping present, no detectable fall across the crest. Structure insensitive at very low flows. Loxwood Stream is susceptible to siltation (e.g. in 2005). Approx. 150m downstream of the gauge a box culvert exists (5.3m wide, 2.9m high); this possibly has a smaller capacity than the gauge and may raise tailwater levels at the gauge. Full range - all but extreme flows contained; side bunds rise from the wing walls to give station capacity of ~57cumecs and contain larger flood events, forcing water through the gauging point - designed to overtop during very large events. Rated up to 149 cumecs although structure drowns at ~0.7m, invalidating rating on occasion (may result from construction of an aqueduct downstream; high levels in the Arun can also be a factor). One rating applied across period of record. Current rating uses hydraulic modelling beyond modular limit (0.7m) although it fits poorly to available gaugings. FLOW RECORD: Data estimated for Oct-Nov 1985. May-Oct 2005 flows are suspect due to siltation. Annual minimum (and 2004-06 drought minimum) in Oct 2005 accurate owing to flushing of stilling well. FLOW REGIME: Very responsive flow regime. Abstractions and discharges have a negligible impact on overall runoff but occasional anomalous behaviour at low flow. Aqueduct may affect flood flows in the future, as it restricts the downstream floodplain although at present it has been difficult to estimate its effect on flows, it may increase drowning.
+CATCHMENT,A rural catchment composed predominantly of Weald Clay, with Lower Greensand, Hythe Sandstone & Atherfield Clay outcropping along the western & north-western watershed. The Weald Clay is mainly argillaceous but includes subordinate sandstones & silts.
+Qmed Suitability,Rating appears to overestimates flows when non-modular (>0.7m)
+Pooling Suitability,Rating appears to overestimates flows when non-modular (>0.7m)
+[END]

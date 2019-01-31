@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 38001
+[END]
+[CDS DETAILS]
+NAME,Lee
+LOCATION,Feildes Weir
+NOMINAL AREA, 1045.10
+NOMINAL NGR,5390,2091
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,539050,209200
+CENTROID NGR,GB,533620,220804
+DTM AREA, 1045.10
+ALTBAR,  99
+ASPBAR,151
+ASPVAR,0.11
+BFIHOST,0.565
+DPLBAR, 29.56
+DPSBAR, 36.5
+FARL,0.952
+FPEXT,0.0701
+LDP, 64.71
+PROPWET,0.29
+RMED-1H, 10.9
+RMED-1D, 30.8
+RMED-2D, 38.3
+SAAR, 630
+SAAR4170, 636
+SPRHOST,34.05
+URBCONC1990, 0.715
+URBEXT1990,0.0574
+URBLOC1990, 1.152
+URBCONC2000, 0.854
+URBEXT2000,0.0772
+URBLOC2000, 1.112
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Located in the middle reaches of the River Lee, this station is marked by a complex history of changes to channel controls and bypassing. GENERAL: Historically the station was a 29m wide thin-plate weir (found to be insensitive) and 3 vertical-lift sluices controlling a parallel flood relief channel. The weir is immediately downstream of the confluence of the rivers Lee and Stort. Building started in 1976 and it completed in 1978 to improve hydrometric range and precision. Pre-1976 there was a barrage of gates/sluices (operation evident on hydrographs, pre-1930 especially) to control flows. From 1/1/97, flows normally the sum of stations 38027 (Stort at Glen Faba) and 38031 (Lee at Rye Bridge). In 2004 flow calculation changed to using a combination of weir and gate levels rather than summation. An ultrasonic station was built d/s and opened on the 01/01/2008. STATION HYDROMETRY: All flows (bar lockages) now contained but Ryemeads STW effluent bypasses the station. Flood flows on the Lee can cause reverse flows on Stort. Flows up to about 4.7 cumecs discharge over the weir; higher flows enter a flood channel. One rating applied across period of record. Weir rated using a physical model, with flood channel flows computed separately. FLOW RECORD: Occasional erratic performance of the two u/s stations (summed for total flow) can impact on the precision of Feildes Weir flows. Early peak flow data from the 1850s are estimates. Naturalised flows (New River abstraction only) from 1883. Gauging instigated by Beardmore during the 1850s (flood of October 1857 estimated as >250 cumecs, greatly exceeding any subsequent event). Annual calendar year maximum GDFs thereafter. This flow was particularly uncertain. Until 1931, GDFs were calculated as the mean of three daily readings recorded by lock keeper. Chart record from March 1932. Low flows probably under-estimated during this period (especially pre-1930). Measured peak flows post 1965. Station was out of commission in 1976 but late summer flows probably the lowest on record. Naturalised monthly flows March 1976 to April 1978 estimated by NRA. The quality of the record improved after these dates. Mill operation could produce particularly low flows in the early record (e.g. on Sundays). FLOW REGIME: Runoff reduced by abstraction for industry, agriculture and pws. Significant gw abstraction, with net export from catchment. Runoff increased by effluent returns. Effluent from Rymeads STW bypasses measuring structure, as does lockage from the Lee Navigation.
+CATCHMENT,A mainly pervious (Chalk) catchment with extensive Drift cover. Predominantly rural headwaters with significant urban growth in lower valley.
+Qmed Suitability,Insufficient known about current rating, leakage, summation of flows from Glen Faba and Rye Bridge. Lack of gaugings to come to a firm conclusion about the flows at this station.
+Pooling Suitability,Insufficient known about current rating, leakage, summation of flows from Glen Faba and Rye Bridge. Lack of gaugings to come to a firm conclusion about the flows at this station.
+[END]

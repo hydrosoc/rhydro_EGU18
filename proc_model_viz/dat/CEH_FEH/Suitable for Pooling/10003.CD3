@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 10003
+[END]
+[CDS DETAILS]
+NAME,Ythan
+LOCATION,Ellon
+NOMINAL AREA,  532.29
+NOMINAL NGR,3946,8303
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,394700,830350
+CENTROID NGR,GB,382301,837609
+DTM AREA,  532.29
+ALTBAR, 108
+ASPBAR,104
+ASPVAR,0.14
+BFIHOST,0.620
+DPLBAR, 24.96
+DPSBAR, 55.1
+FARL,0.993
+FPEXT,0.0470
+LDP, 55.13
+PROPWET,0.42
+RMED-1H,  8.3
+RMED-1D, 33.6
+RMED-2D, 44.3
+SAAR, 826
+SAAR4170, 857
+SPRHOST,27.83
+URBCONC1990,-9999.000
+URBEXT1990,0.0016
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0024
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station in largely agricultural catchment. Replacement for station 10001 - Ythan at Ardlethen. GENERAL: Velocity area station with natural control; about 18m wide. Replacement for 10001 (2.5km u/s, 1965-1983, chart records back to 1939). STATION HYDROMETRY: Small amounts of bypassing occur on lb during extreme flows. Cableway rated, fairly stable stage-discharge relationship. Peak flow ratings derived from current meter gaugings; 1st rating edition derived from gaugings up to 2.98m (1.5 QMED), 2nd rating edition from gaugings up to 2.5m (QMED); simple extrapolation beyond. Change in regime resulted in new rating from 1994. FLOW REGIME: Likely influence of agricultural drainage/abstraction on low flows. Superficial deposits dampen the responsiveness of the catchment.
+CATCHMENT,Gently undulating, relatively low lying catchment. Impermeable metamorphic Lower Dalradian formations overlain with Boulder Clay and morainic drift. Intrusion of ORS in the NW. Largely agricultural with some forest cover. No significant catchment changes known.
+Qmed Suitability,No comment
+Pooling Suitability,No comment
+[END]

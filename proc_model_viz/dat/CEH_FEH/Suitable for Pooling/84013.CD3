@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 84013
+[END]
+[CDS DETAILS]
+NAME,Clyde
+LOCATION,Daldowie
+NOMINAL AREA, 1901.23
+NOMINAL NGR,2671,6616
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,267150,661650
+CENTROID NGR,GB,285412,639653
+DTM AREA, 1901.23
+ALTBAR, 265
+ASPBAR,356
+ASPVAR,0.06
+BFIHOST,0.412
+DPLBAR, 60.56
+DPSBAR, 92.3
+FARL,0.958
+FPEXT,0.0659
+LDP,128.37
+PROPWET,0.59
+RMED-1H,  9.2
+RMED-1D, 35.8
+RMED-2D, 49.7
+SAAR,1128
+SAAR4170,1135
+SPRHOST,41.85
+URBCONC1990, 0.742
+URBEXT1990,0.0221
+URBLOC1990, 0.314
+URBCONC2000, 0.840
+URBEXT2000,0.0301
+URBLOC2000, 0.345
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station. Small influence of hydroelectric scheme at New Lanark. GENERAL: Velocity area station with cableway.; approx. 50m wide section. Lowest on the Clyde. STATION HYDROMETRY: Natural channel control. Well calibrated. Bypassing of flow can occur on right bank behind station hut at floods above 3.5m. These flows are occasionally gauged from the ramp/walkway. Occasional vandalism and problems with woody debris. Peak flow rating from current meter gaugings. Gaugings after mid-1987 to be treated with some suspicion. Both rating curves used have spot gaugings up to about QMED, simple extrapolation beyond. FLOW RECORD: Some monthly naturalised flows available (1967-74). FLOW REGIME: Some reservoirs in headwaters (Daer Reservoir). Small influence of hydroelectric scheme at New Lanark.
+CATCHMENT,Large catchment with upland headwaters. Mixed bedrock geology - Ordovician (in the south) to Carboniferous with superficial deposits, mainly Boulder Clay, below the headwaters. Hill pasture is the major land use in the moorland headwaters with some forestry. Mixed farming and urbanisation in the lower valley. In last 5 years, sewage of smaller towns, e.g. East Kilbride, transferred to Daldowie STW.
+Qmed Suitability,No comment
+Pooling Suitability,No comment
+[END]

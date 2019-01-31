@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 55001
+[END]
+[CDS DETAILS]
+NAME,Wye
+LOCATION,Cadora
+NOMINAL AREA, 4046.11
+NOMINAL NGR,3535,2090
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,353500,209000
+CENTROID NGR,GB,326458,248084
+DTM AREA, 4046.11
+ALTBAR, 226
+ASPBAR,127
+ASPVAR,0.10
+BFIHOST,0.544
+DPLBAR,132.02
+DPSBAR,116.2
+FARL,0.979
+FPEXT,0.0820
+LDP,246.76
+PROPWET,0.37
+RMED-1H, 10.1
+RMED-1D, 38.7
+RMED-2D, 50.3
+SAAR,1009
+SAAR4170,1053
+SPRHOST,35.45
+URBCONC1990, 0.573
+URBEXT1990,0.0069
+URBLOC1990, 0.658
+URBCONC2000, 0.723
+URBEXT2000,0.0075
+URBLOC2000, 0.670
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Station opened in 1936, recorder situated 1 mile upstream at railway bridge. Station closed and replaced by Redbrook (55023) in October 1969. GENERAL: Station opened in 1936 but recorder was situated 1 mile upstream at railway bridge. Station closed and replaced by Redbrook (55023) in October 1969 as flows were tidally affected. STATION HYDROMETRY: Floods contained within banks. Bankfull height unknown (bankfull stage at Redbrook is 5.125m). Peak flow rating for structure was originally derived CEH. No specified upper limit and lack of gaugings leave rating unconfirmed.
+CATCHMENT,Very large catchment, generally wet in west and drier in east and south. Mixed Palaeozoic geology, Ordovician to Carboniferous. Moorland, forestry and grazing on higher ground; arable practice in lower reaches. Little industrial development.
+Qmed Suitability,No check gaugings to validate rating, which is thought to be unreliable at high flows.
+Pooling Suitability,No check gaugings to validate rating, which is thought to be unreliable at high flows.
+[END]

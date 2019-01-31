@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 53026
+[END]
+[CDS DETAILS]
+NAME,Frome (Bristol)
+LOCATION,Frampton Cotterell
+NOMINAL AREA,   80.60
+NOMINAL NGR,3667,1822
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,366750,182200
+CENTROID NGR,GB,370303,183923
+DTM AREA,   80.60
+ALTBAR,  84
+ASPBAR,290
+ASPVAR,0.20
+BFIHOST,0.397
+DPLBAR,  9.75
+DPSBAR, 26.4
+FARL,0.991
+FPEXT,0.1692
+LDP, 19.59
+PROPWET,0.35
+RMED-1H, 10.4
+RMED-1D, 33.9
+RMED-2D, 46.5
+SAAR, 800
+SAAR4170, 804
+SPRHOST,41.11
+URBCONC1990, 0.709
+URBEXT1990,0.0432
+URBLOC1990, 0.814
+URBCONC2000, 0.856
+URBEXT2000,0.0642
+URBLOC2000, 0.857
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Crump profile weir opened in 1978 with pumping station upstream of gauging station. GENERAL: Station opened in 1978. Crump profile weir, crest 7.5m broad. STATION HYDROMETRY: Full range structure, but drowns out at high flows. Estimated 100-year flow contained by structure and it appears to have been over-designed. One theoretical rating applied across period of record. Gaugings can be difficult at site due to deep and slow moving water upstream. The site also suffers from siltation behind the weir. FLOW REGIME: Detention lakes upstream of gauge. Pumping station upstream of gauging station.
+CATCHMENT,Geology is mainly Coal Measures to the east of the River Frome, and Lias to the west. Responsive catchment, however detention lakes 4 to 6km upstream may truncate peaks. Land use is predominantly rural contains the town of Yate. No major changes to catchment.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged to within 6% of AMAX3. All flows contained with a reasonable fit to gaugings. No bypassing reported.
+[END]

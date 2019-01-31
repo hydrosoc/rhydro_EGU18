@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 54057
+[END]
+[CDS DETAILS]
+NAME,Severn
+LOCATION,Haw Bridge
+NOMINAL AREA, 9885.46
+NOMINAL NGR,3844,2278
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,384500,227900
+CENTROID NGR,GB,369150,284667
+DTM AREA, 9885.46
+ALTBAR, 145
+ASPBAR,119
+ASPVAR,0.04
+BFIHOST,0.513
+DPLBAR,134.61
+DPSBAR, 73.2
+FARL,0.978
+FPEXT,0.1060
+LDP,286.61
+PROPWET,0.32
+RMED-1H, 10.3
+RMED-1D, 33.3
+RMED-2D, 42.5
+SAAR, 793
+SAAR4170, 815
+SPRHOST,35.90
+URBCONC1990, 0.716
+URBEXT1990,0.0269
+URBLOC1990, 0.755
+URBCONC2000, 0.838
+URBEXT2000,0.0347
+URBLOC2000, 0.789
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station downstream of Warwickshire Avon inflow that is tidally affected and subject to heavily regulated/modified flows owing to PWS exports and effluent returns - provides the lowest gauge on the Severn. GENERAL: Velocity area station at B4213 road bridge, downstream of Warwickshire Avon inflow provides the lowest gauge on the Severn. Tidally affected - flows do not account for this, but cross path US gauge U/s at Deerhurst (54110, Dec 1995 - Oct 2012 ) measures tidal flow to bankfull. STATION HYDROMETRY: Difficult site for high flow gauging, involves gauging flow through bridges, culverts and across road at high flows. However, the site useful because it includes Avon flow. Tidally affected - flows do not account for this, but cross path US gauge u/s at Deerhurst (54110, Dec 1995-Oct 2012) measures tidal flow to bankfull. Hysteresis observed during high flow events. Prone to moderate weed growth and/or bed movement. Multiple ratings applied across period of record. Ratings applied are a compromise between allowing for bed movement and making the best use of the available out of bank gaugings. Most recent rating fits well to corresponding out of bank gaugings. FLOW RECORD: July 2007 peak exceeded limits of rating curve by a large margin, all flows for event estimated using National Flow Forecasting System hydrodynamic model. FLOW REGIME: Heavily regulated/modified flows; compensation flows from Llyn Clywedog and the Shropshire Groundwater Scheme, with PWS exports (to Liverpool, West Midlands and Gloucestershire) and effluent returns (chiefly to Avon, Stour (Worcs.) and Severn at Worcester).
+CATCHMENT,Very large, diverse catchment, lowest on the Severn. Paleozoic slates in Welsh headwaters, Permo-Triassic sediments in middle reaches and Jurassic and Liassic clays in the Avon basin.
+Qmed Suitability,Although considerable scatter in gaugings is evident. Recent rating fits well to out of bank gaugings.
+Pooling Suitability,Although considerable scatter in gaugings is evident. Recent rating fits well to out of bank gaugings (within 7% of AMAX3).
+[END]

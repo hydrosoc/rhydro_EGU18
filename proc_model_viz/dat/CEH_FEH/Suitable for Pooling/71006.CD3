@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 71006
+[END]
+[CDS DETAILS]
+NAME,Ribble
+LOCATION,Henthorn
+NOMINAL AREA,  446.17
+NOMINAL NGR,3721,4391
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,372200,439200
+CENTROID NGR,GB,380313,457758
+DTM AREA,  446.17
+ALTBAR, 238
+ASPBAR,198
+ASPVAR,0.10
+BFIHOST,0.367
+DPLBAR, 35.15
+DPSBAR, 87.5
+FARL,0.997
+FPEXT,0.0906
+LDP, 74.55
+PROPWET,0.61
+RMED-1H, 10.8
+RMED-1D, 43.2
+RMED-2D, 59.1
+SAAR,1343
+SAAR4170,1342
+SPRHOST,43.43
+URBCONC1990, 0.665
+URBEXT1990,0.0076
+URBLOC1990, 0.585
+URBCONC2000, 0.751
+URBEXT2000,0.0150
+URBLOC2000, 0.625
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Compound broad-crested weir, insensitive at low flows. Gauges a predominantly limestone catchment which drains the Yorkshire Dales. GENERAL: Compound broad-crested weir, low notch 3.8m wide, flanking crests each 10.3m wide and 0.3m higher. Superseded, in August 1968, the original velocity area station which had been opened in 1960 and a bed control added May 1965 to improve calibration. STATION HYDROMETRY: Weir drowns at high flows, and insensitive at low flow due to its breadth. Algal build-up and leaks affect low flows. No bypassing reported. Cableway until 1988 and from 1997. Single rating applied to period of record from 1968 derived from current meter gaugings, particularly those from 2000. Hydraulic model used to extend beyond gauged range. High flow gaugings from 2000 considered more accurate due to use of heavier weights. Flood Studies Report grade E for low flows only (designated in 1971). FLOW RECORD: Gauged daily flows: data reprocessed back to beginning of digital record (Dec 1976). Peak flows are presented only from the broad-crested weir, from 1968. FLOW REGIME: Largely natural runoff pattern. Minor abstractions and effluent discharges.
+CATCHMENT,Geology mainly Carboniferous Limestone overlain by Boulder Clay in valleys with intermittent Millstone Grit. The northern half of the catchment lies in the Yorkshire Dales National Park. Predominantly rural catchment with mixed farming and several small towns; moorland in the upper catchment. No significant catchment changes.
+Qmed Suitability,Gauged above QMED. Good fit to gaugings.
+Pooling Suitability,Gauged to within 25% of AMAX3. Channel is well contained, well-gauged, and modelled rating applied above gaugings.
+[END]

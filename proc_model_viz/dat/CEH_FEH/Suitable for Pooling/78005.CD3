@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 78005
+[END]
+[CDS DETAILS]
+NAME,Kinnel Water
+LOCATION,Bridgemuir
+NOMINAL AREA,  229.28
+NOMINAL NGR,3090,5844
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,309050,584500
+CENTROID NGR,GB,301517,593948
+DTM AREA,  229.28
+ALTBAR, 241
+ASPBAR,129
+ASPVAR,0.26
+BFIHOST,0.434
+DPLBAR, 21.35
+DPSBAR,110.7
+FARL,0.996
+FPEXT,0.0776
+LDP, 35.68
+PROPWET,0.62
+RMED-1H, 11.2
+RMED-1D, 41.9
+RMED-2D, 55.8
+SAAR,1397
+SAAR4170,1551
+SPRHOST,43.79
+URBCONC1990,-9999.000
+URBEXT1990,0.0002
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0004
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station with a natural flow regime. GENERAL: Velocity area station with cableway on a small channel at a well confined section. Large bend u/s but straight at gauge. Steep bank on the right bank. STATION HYDROMETRY: Natural channel control. Levels have gone above bankfull but not ever know to bypass station. Peak flow rating derived from current meter gaugings. Highest known gauging 3.6m, 131 cumecs (about QMED). Simple extrapolation for high flows. FLOW RECORD: Maximum recorded flow about 155 cumecs. FLOW REGIME: Natural catchment.
+CATCHMENT,Silurian shales in upper catchment; Triassic sandstone aquifer in lower catchment. Catchment supports hill pasture and forestry (drains Forest of AE). Minimal floodplains. No significant catchment changes known.
+Qmed Suitability,No comment
+Pooling Suitability,No comment
+[END]

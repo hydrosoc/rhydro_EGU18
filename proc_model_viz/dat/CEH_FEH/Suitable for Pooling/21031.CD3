@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 21031
+[END]
+[CDS DETAILS]
+NAME,Till
+LOCATION,Etal
+NOMINAL AREA,  634.68
+NOMINAL NGR,3925,6395
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,392550,639550
+CENTROID NGR,GB,394993,625892
+DTM AREA,  634.68
+ALTBAR, 209
+ASPBAR, 45
+ASPVAR,0.12
+BFIHOST,0.504
+DPLBAR, 39.24
+DPSBAR,127.4
+FARL,0.992
+FPEXT,0.0672
+LDP, 77.05
+PROPWET,0.46
+RMED-1H,  9.2
+RMED-1D, 37.9
+RMED-2D, 49.7
+SAAR, 827
+SAAR4170, 851
+SPRHOST,41.45
+URBCONC1990,-9999.000
+URBEXT1990,0.0011
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0021
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station downstream of Etal Mill. Closed in 1980. Replaced with downstream station 21806. GENERAL: Open-channel velocity-area station 300yds d/s from Etal Mill, on a large, incised meander. Closed 1980, but level-only site opened u/s on the weir at NT9250939562 in July 1999. Heaton Mill (21806) opened just d/s in 2001 as full-range flow station. STATION HYDROMETRY: Had cableway while open. Low flow control was a pipe d/s. Bypassing prevented by a low artificial bank running from hut to high ground at the side of the valley; some ponding near the gauge hut, beginning at 1.5m. One rating applied across peak flow period of record. Rated to 200 cumecs by current meter. Calibration reflects changes in channel cross-section at high stages. FLOW REGIME: Bell-shaped hydrograph. Small borehole abstractions from sandstone.
+CATCHMENT,Three main tributaries, Breamish, Wooler Water and Glen, rise on the Cheviot Massif but with differing channel length and flood travel time. A catchment with mixed geology (Cheviot andesites and granite, sandstone etc). No large groundwater sources. Upland vegetation of moorland and rough pasture and lowland arable and improved pasture. No known catchment changes over time.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged beyond AMAX3. No significant change in hydraulic control beyond this point expected.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 46006
+[END]
+[CDS DETAILS]
+NAME,Erme
+LOCATION,Ermington
+NOMINAL AREA,   43.62
+NOMINAL NGR,2641, 532
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,264150,53200
+CENTROID NGR,GB,263757, 60802
+DTM AREA,   43.62
+ALTBAR, 272
+ASPBAR,207
+ASPVAR,0.28
+BFIHOST,0.472
+DPLBAR, 10.67
+DPSBAR,100.7
+FARL,0.995
+FPEXT,0.0351
+LDP, 20.93
+PROPWET,0.47
+RMED-1H, 13.5
+RMED-1D, 58.3
+RMED-2D, 76.8
+SAAR,1714
+SAAR4170,1722
+SPRHOST,38.29
+URBCONC1990, 0.546
+URBEXT1990,0.0169
+URBLOC1990, 0.419
+URBCONC2000, 0.813
+URBEXT2000,0.0316
+URBLOC2000, 0.420
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station with cableway and Flat V control. GENERAL: Velocity area station and low level Flat V control approx. 9.4m wide. Station is located a few hundresd metres east of the village of Ermington STATION HYDROMETRY: Stony river bed. Cableway present. No bypassing. Good station. Well rated. One rating applied across period of record. Reasonable fit to available gaugings. FLOW REGIME: Significant flow modifications by abstractions and diversions for public water supply and sewage effluent returns from Ivybridge.
+CATCHMENT,Narrow, linear, north-south trending catchment draining southern flank of Dartmoor Granite. Headwaters in plateau-like moorland; main river section in steep, deeply incised valley with short tributaries. Off granite, Devonian Slates widely blanketed with river gravel and alluvium. Responsive catchment. Land-use is moorland in the upper catchment and predominantly low-grade agriculture elsewhere. Catchment includes town of Ivybridge. No major catchment changes.
+Qmed Suitability,Gauged to within 6% of QMED.
+Pooling Suitability,Although not gauged beyond QMED, rating fits well to non-modular flows and all flows contained.
+[END]

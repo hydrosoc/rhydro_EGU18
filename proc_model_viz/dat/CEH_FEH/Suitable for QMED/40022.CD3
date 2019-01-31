@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 40022
+[END]
+[CDS DETAILS]
+NAME,Great Stour
+LOCATION,Chart Leacon
+NOMINAL AREA,   66.96
+NOMINAL NGR,5992,1422
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,599250,142300
+CENTROID NGR,GB,594506,147890
+DTM AREA,   66.96
+ALTBAR,  91
+ASPBAR,184
+ASPVAR,0.34
+BFIHOST,0.744
+DPLBAR, 12.50
+DPSBAR, 40.9
+FARL,0.967
+FPEXT,0.0924
+LDP, 22.81
+PROPWET,0.34
+RMED-1H, 11.9
+RMED-1D, 33.3
+RMED-2D, 42.9
+SAAR, 726
+SAAR4170, 736
+SPRHOST,23.30
+URBCONC1990, 0.473
+URBEXT1990,0.0128
+URBLOC1990, 0.848
+URBCONC2000, 0.718
+URBEXT2000,0.0348
+URBLOC2000, 0.874
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Flat-V weir affected by vegetation and siltation problems and some upstream regulation. GENERAL: Flat V weir (7.96m broad; shallow approach depth - modular limit >0.217m) superseded - in 1979 - a velocity-area station (level records from 1967). The VA station was installed to provide design data for future structure; was subject to vegetation problems. Gauge is located 3.5km upstream of the confluence with the East Stour. STATION HYDROMETRY: The weir does not conform to British Standard as the downstream slope is inadequate and the approach channel is not straight and uniform. Flow becomes non-modular at stages. The low modular limit, Singleton Lake outflows & backwater effects from the B2229 road bridge hinder the gauges effectiveness at high flows. Vegetation and channel siltation problems, the latter possibly caused by concrete energy dissipation blocks downstream of the gauge. The 2002 review suggests that these may reduce the effectiveness of the gauge at moderate flows due to the already limited drop off of the weir outflow from Singleton Lake will impact flow over the weir. Gaugings taken by wading with rods, which can result in an underestimation of flow through the gauge. Theoretical rating, velocity-area calibration for high flows - but wide uncertainty band. Two peak flow ratings applied across period of record, the most recent is valid from October-1979 when weir constructed. Rating extended to 1.8m by hydraulic modelling but low confidence beyond 1.13m as out of bank. FLOW REGIME: Some upstream regulation: Hothfield flood retention reservoir upstream has a major impact on flood flows - designed to limit d/s flows to <6 m3/s. Spill into Singleton Lake (200m upstream), occurs at high flows with inflow to the river approximately 20m upstream gauged via a flapped outlet. Spills into Singleton Lake are unlikely to bypass the gauge.
+CATCHMENT,A largely impervious catchment, with mostly Clay soils, but some baseflow from the North Downs, trending south east towards Ashford. Rural grazing with some woodlands urban development near to station. M20 motorway & Channel Tunnel rail link are increasing the development pressures on the catchment
+Qmed Suitability,Gauged above QMED. Scatter in gaugings evident.
+Pooling Suitability,Few high flow gaugings. Rating can not be validated beyond QMED.
+[END]

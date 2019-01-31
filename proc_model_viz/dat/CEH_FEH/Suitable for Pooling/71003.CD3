@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 71003
+[END]
+[CDS DETAILS]
+NAME,Croasdale Beck
+LOCATION,Croasdale Flume
+NOMINAL AREA,   10.71
+NOMINAL NGR,3706,4546
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,370650,454600
+CENTROID NGR,GB,368809,456461
+DTM AREA,   10.71
+ALTBAR, 343
+ASPBAR,148
+ASPVAR,0.35
+BFIHOST,0.276
+DPLBAR,  3.66
+DPSBAR,156.7
+FARL,1.000
+FPEXT,0.0163
+LDP,  6.79
+PROPWET,0.60
+RMED-1H, 12.0
+RMED-1D, 55.3
+RMED-2D, 75.3
+SAAR,1882
+SAAR4170,1786
+SPRHOST,54.51
+URBCONC1990,-9999.000
+URBEXT1990,0.0000
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0000
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Non-standard trapezoidal flume installed in 1957 for paired catchment study. GENERAL: Non-standard compound trapezodial flume with stainless steel low flow throat in trapezoidal masonry section, 8.8m wide at flume full, 12.5m at bank full. Station opened in June 1957 and installed for paired catchment study with the wooded Bottoms Beck catchment nearby (station 71005). Crosdale considered the more reliable of the two. Station closed November 1977 to December 1982 and July 1989 to September 2003, with some gaps in the 1970s. STATION HYDROMETRY: All flows inbank, and thought not to drown. To counter problems with sediment \ blocking of the inlet pipes, the station was installed with throat tappings and two inlet pipes and stilling wells, with the traces plotted on the same graph to aid identification of any problems. Additionally, a water flushing system was installed in January 1967, though regular cleaning ceased around 1976-77. Early charts showed flows directly, from theoretical rating. Croasdale Beck now has a transducer (PTX) rather than the original two throat tappings and inlet pipes. One rating applied to recent record based on gaugings (1980s & 2000s) to top of concrete flume with hydraulic model (limited survey) to extend the rating. FLOW RECORD: Daily flow data presented to 1974. Annual maxima are presented for the period of record, though flows should be regarded as provisional - early charts need review, and there are no high flow gaugings. Dates of flood events to 1977 are probably water days. FLOW REGIME: Natural catchment adjacent to Stocks reservoir.
+CATCHMENT,Steep channel in a wet, high relief catchment. Geology is half Carboniferous Limestone and half Millstone Grit, blanketed by Boulder Clay. Mostly used for grazing. No catchment changes known.
+Qmed Suitability,Gauged above QMED
+Pooling Suitability,Ratings by physical & computational models are a good fit to gaugings. However, note problems in record before station re-opened in 2003, lack of high flow gaugings, and limited survey for model. Disparity in range of high flows in earlt/late period
+[END]

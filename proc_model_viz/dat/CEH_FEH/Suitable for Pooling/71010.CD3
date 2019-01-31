@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 71010
+[END]
+[CDS DETAILS]
+NAME,Pendle Water
+LOCATION,Barden Lane
+NOMINAL AREA,  110.62
+NOMINAL NGR,3836,4351
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,383700,435150
+CENTROID NGR,GB,388256,439474
+DTM AREA,  110.62
+ALTBAR, 252
+ASPBAR,260
+ASPVAR,0.12
+BFIHOST,0.388
+DPLBAR, 12.42
+DPSBAR, 98.9
+FARL,0.948
+FPEXT,0.0395
+LDP, 21.42
+PROPWET,0.58
+RMED-1H, 10.8
+RMED-1D, 42.4
+RMED-2D, 56.8
+SAAR,1249
+SAAR4170,1238
+SPRHOST,39.31
+URBCONC1990, 0.753
+URBEXT1990,0.0583
+URBLOC1990, 0.539
+URBCONC2000, 0.840
+URBEXT2000,0.0831
+URBLOC2000, 0.566
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Flat V weir affected by subsidence in early record but stable since 1980. Gauges a largely rural catchment with flows affected by numerous small reservoirs. GENERAL: Flat V weir 17m wide, constructed in 1971. Structure movement on the right bank due to mining subsidence affected low flows to around 1980, but not considered to have affected high flows significantly. A cableway was installed in 1996. STATION HYDROMETRY: Weir drowns above 0.5m but no bypassing reported. Rating has been adapted for mining subsidence and appears to have been stable since 1980. The early high flow gaugings were carried out from a road bridge upstream using a hand line; after detailed review, these were excluded from the rating development due to the low sinker weight and turbulence in flow under the bridge. Calibration by current meter at the site itself and by level correlation with earlier site at Quakers-in-Pendle (71801; 1968-1973). Ratings derived from current meter gauging with hydraulic model results for extreme flows. Three daily flow ratings applied, to cover differences in low flows. Ratings are identical for medium to high flows. FLOW REGIME: Flows affected by many polluting discharges and numerous small reservoirs.
+CATCHMENT,Geology consists of Carboniferous series - mostly Millstone Grit, with limestone in the north, and Coal Measures to the south-east. Peat moorland tops. A largely rural catchment including Nelson and Colne. No significant catchment changes.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged to a high level, with hydraulic model results above this.
+[END]

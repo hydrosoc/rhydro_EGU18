@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+201008
+[END]
+[CDS DETAILS]
+NAME,Derg
+LOCATION,Castlederg
+NOMINAL AREA,  335.52
+NOMINAL NGR,2265,3842
+[END]
+[DESCRIPTORS]
+IHDTM NGR,Ireland,226500,384250
+CENTROID NGR,Ireland,213774,381721
+DTM AREA,  335.52
+ALTBAR, 177
+ASPBAR,116
+ASPVAR,0.12
+BFIHOST,0.504
+DPLBAR, 20.17
+DPSBAR, 67.9
+FARL,0.914
+FPEXT,0.0771
+LDP, 38.17
+PROPWET,0.62
+RMED-1H,  9.5
+RMED-1D, 42.2
+RMED-2D, 56.8
+SAAR,1558
+SAAR4170,1504
+SPRHOST,35.43
+URBCONC1990,-0.002
+URBEXT1990,0.0021
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0007
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station with cableway. Highest gauged mean catchment runoff in NI. GENERAL: Velocity area station with masonry hut on rb. STATION HYDROMETRY: Cableway present. The rating is derived from current meter gaugings. Simple extrapolation is used beyond 3.04m (maximum gauged level). Low flow gaugings are carried out at the bridge upstream - it is shallow and rocky at the station. Cableway is used for high flow gauging. Top of flood bank 3.84m. Flood defence scheme carried out in late 1990's slightly upstream has probably not affected rating. Rating adequate; has been calibrated at high flows, although more high flow measurements would be advantageous. Simple extrapolation of the rating curve is used beyond approx 195m3/s. Check gaugings suggest some uncertainty in the low flow rating. FLOW RECORD: Daily flows from 1975 onwards reprocessed in 2002. Data in late Dec 2010 suspect just to a frozen stilling well. FLOW REGIME: There is a large water abstraction plant downstream. Loughs Derg and Mourne are in the headwaters; Lough Mourne is used for water supply in Co. Donegal. Aside from this, there are no significant water abstractions or effluent returns upstream of the station.
+CATCHMENT,Solid geology - Dalradian rock types form a generally impermeable basement composed of metamorphosed, schistose sandstone, shale, limestone and basic igneous intrusive and extrusive lithologies. Moinian and Ordovician igneous complexes form generally impermeable basement south of the Omagh Thrust. Carboniferous conglomerate, sandstone and mudstone are generally indurated. Drift geology - Extensive glacial till with sand and gravel and lake alluvium in valleys. Extensive rock near surface and post-glacial peat cover on high ground with restricted development of river alluvium in valleys. Predomintly upland heath, agricultural grassland, coniferous forest. Castlederg is the main settlement.
+Qmed Suitability,Fully contained at QMED flows. The ratio of maximum gauged flow to QMED (1.1) is good however high flow gaugings haven't been obtained recently and the site would benefit from additional high flow gaugings.
+Pooling Suitability,Only one gauging approaching QMED. Contained at all flows, with a representative growth curve for Northern Ireland.
+[END]

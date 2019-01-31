@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 54040
+[END]
+[CDS DETAILS]
+NAME,Meese
+LOCATION,Tibberton
+NOMINAL AREA,  159.87
+NOMINAL NGR,3680,3204
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,368050,320450
+CENTROID NGR,GB,375822,322858
+DTM AREA,  159.87
+ALTBAR,  98
+ASPBAR,228
+ASPVAR,0.14
+BFIHOST,0.588
+DPLBAR, 19.07
+DPSBAR, 30.0
+FARL,0.931
+FPEXT,0.1124
+LDP, 32.86
+PROPWET,0.34
+RMED-1H, 10.1
+RMED-1D, 29.1
+RMED-2D, 35.1
+SAAR, 700
+SAAR4170, 737
+SPRHOST,30.18
+URBCONC1990, 0.336
+URBEXT1990,0.0066
+URBLOC1990, 1.028
+URBCONC2000, 0.615
+URBEXT2000,0.0075
+URBLOC2000, 1.060
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Crump profile weir installed for the Shropshire Groundwater Scheme - suffers problems with high flow gaugings. GENERAL: Crump profile weir, 6m wide, installed for the Shropshire Groundwater Scheme. STATION HYDROMETRY: Weir drowns only at very high flows, but channel re-graded to further reduce the risk. Problems with high flow gaugings. Theoretical rating applied across period of record. FLOW REGIME: Indirectly affected by large PWS groundwater abstractions; otherwise spray irrigation and canal impoundment have moderate effect.
+CATCHMENT,Agricultural, very low relief catchment with high baseflow component. Drains Sherwood Sandstone outcrop; intermittent Boulder Clay and glacial sand and gravel.
+Qmed Suitability,Gauged above QMED. Theoretical equation expected to perform well.
+Pooling Suitability,All flows contained and weir not expected to drown until very high flows. Two highest gaugings expected to be erroneous but more required to validate rating.
+[END]

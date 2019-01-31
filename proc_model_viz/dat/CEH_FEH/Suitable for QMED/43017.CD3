@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 43017
+[END]
+[CDS DETAILS]
+NAME,West Avon
+LOCATION,Upavon
+NOMINAL AREA,   84.63
+NOMINAL NGR,4133,1559
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,413350,155950
+CENTROID NGR,GB,406845,160525
+DTM AREA,   84.63
+ALTBAR, 137
+ASPBAR,132
+ASPVAR,0.18
+BFIHOST,0.872
+DPLBAR, 12.76
+DPSBAR, 43.1
+FARL,1.000
+FPEXT,0.1188
+LDP, 24.25
+PROPWET,0.34
+RMED-1H, 10.3
+RMED-1D, 31.3
+RMED-2D, 41.1
+SAAR, 744
+SAAR4170, 765
+SPRHOST,13.57
+URBCONC1990, 0.457
+URBEXT1990,0.0173
+URBLOC1990, 1.076
+URBCONC2000, 0.694
+URBEXT2000,0.0112
+URBLOC2000, 1.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Crump weir on the West Avon. Adjacent station on the East Avon also gauges flow as the two meet on the confluence at Upavon. GENERAL: Crump profile weir, crest 4.57m wide constructed just u/s of the confluence of the East and West Avon just north of Upavon. Station adjacent to East Avon at Upavon (43014); the two weirs gauge the two branches of the Avon immediately upstream of their confluence at Upavon. STATION HYDROMETRY: Full range station, no drowning but susceptible to algal growth problems. Suspicion of small errors within the stilling well caused by increased buoyancy of the counter weight when submerged - may cause small errors in stage measurement in the order of a few mm's only. Theoretical, original rating; few high flow spot gaugings to confirm. Upper limit of rating is 0.40m/2.46cumecs. It is extrapolated beyond that limit. FLOW RECORD: High flow on 18/01/2011 - level of 0.586m, modularity was observed at 83.5%. A hydraulic jump was still present and there was no by-passing. FLOW REGIME: Minor groundwater abstractions in catchment. Frequent hatch activity throughout the flow range with potential for exaggerated or false peaks.
+CATCHMENT,Predominantly Upper Greensand and Lower Chalk. Small amount of river gravel and alluvium in valley bottom. The remaining geology consists of Upper and Middle Chalk, Clay and some Gault. Upper Chalk and Clay form the northern and extreme southern borders of the catchment. Rural land use. No major catchment changes.
+Qmed Suitability,Gauged to within 17% of QMED.
+Pooling Suitability,Few high flow gaugings. Rating can not be validated beyond QMED.
+[END]

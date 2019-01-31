@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 54025
+[END]
+[CDS DETAILS]
+NAME,Dulas
+LOCATION,Rhos-y-pentref
+NOMINAL AREA,   53.33
+NOMINAL NGR,2949,2824
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,294950,282500
+CENTROID NGR,GB,296850,279005
+DTM AREA,   53.33
+ALTBAR, 342
+ASPBAR, 58
+ASPVAR,0.10
+BFIHOST,0.439
+DPLBAR,  7.78
+DPSBAR,161.3
+FARL,1.000
+FPEXT,0.0241
+LDP, 15.22
+PROPWET,0.59
+RMED-1H, 10.1
+RMED-1D, 42.2
+RMED-2D, 55.5
+SAAR,1268
+SAAR4170,1291
+SPRHOST,40.26
+URBCONC1990,-9999.000
+URBEXT1990,0.0000
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0007
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Trapezoidal flume with side contractions in CEH experimental catchment. Natural flow regime. GENERAL: Trapezoidal flume, 15.9m wide, with side contractions to 13.7m in critical section, between 1.5m wing walls. STATION HYDROMETRY: Very large capacity (c140-150 cumecs) flume - should contain all but the most extreme flows. Shoals of shale fragments u/s and in throat of flume need annual clearing and also block intake pipes; 3 separate intakes increase chances of maintaining reliable stage recording throughout the range. However, it should be noted that annual gravel clearance is no longer undertaken. One peak flow rating applied across period of record modified from dilution gauging. No high flow gaugings. FLOW RECORD: Changes in clearance patterns lead to gravel accretion between Oct 2000 and June 2005. Despite reprocessing in 2006 to improve estimates, accuracy of low flows between 2000 and 2005 (particularly 2002, 2003) remains questionable due to blockage of stilling well intake. Low flow performance remains under review. Full period of record peak flow data reviewed and released in April 2017 (WINFAP Files v5). FLOW REGIME: Natural flow regime. Flashy response.
+CATCHMENT,A high relief, wet and responsive catchment on Silurian shales and slates with limited Boulder Clay coverage in the south and west of the catchment. Land use mainly pasture, forest and moorland.
+Qmed Suitability,Rating derived from theoretical flume equations and modified using dilution gaugings at low flows. All flows contained by the flume.
+Pooling Suitability,Rating derived from theoretical flume equations and modified using dilution gaugings at low flows. All flows contained by the flume.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 23013
+[END]
+[CDS DETAILS]
+NAME,West Allen
+LOCATION,Hindley Wrae
+NOMINAL AREA,   78.56
+NOMINAL NGR,3790,5582
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,379100,558250
+CENTROID NGR,GB,377487,551715
+DTM AREA,   78.56
+ALTBAR, 402
+ASPBAR, 36
+ASPVAR,0.27
+BFIHOST,0.280
+DPLBAR,  9.63
+DPSBAR,119.4
+FARL,0.998
+FPEXT,0.0224
+LDP, 18.05
+PROPWET,0.63
+RMED-1H, 10.3
+RMED-1D, 39.2
+RMED-2D, 54.2
+SAAR,1156
+SAAR4170,1259
+SPRHOST,51.63
+URBCONC1990,-9999.000
+URBEXT1990,0.0003
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0004
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station with cableway. Station closed 1983. GENERAL: Velocity area station with cableway. Initially there was a boulder bed control with reasonable stability, but gradual removal of boulders exposed a friable shale bed which then suffered rapid degradation so the inlet pipe became exposed above the water surface. Closed in 1983. STATION HYDROMETRY: Multiple peak flow ratings applied to period of record, the most recent is valid from February 1981. Periodic changes in the natural control have necessitated changes in ratings. FLOW REGIME: No known artificial influences.
+CATCHMENT,Upland catchment, comprising a series of shales, sandstones and limestones of Carboniferous age with some Millstone Grit. Boulder Clay cover in valley and extensive peat cover in headwaters. Land use is predominantly rough grazing. No known catchment changes.
+Qmed Suitability,Only gauged to 35% of QMED but rating expected to perform well at QMED.
+Pooling Suitability,No evidence to support high flow rating.
+[END]

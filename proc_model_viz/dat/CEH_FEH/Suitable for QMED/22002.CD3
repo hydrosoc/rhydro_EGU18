@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 22002
+[END]
+[CDS DETAILS]
+NAME,Coquet
+LOCATION,Bygate
+NOMINAL AREA,   60.01
+NOMINAL NGR,3869,6083
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,386900,608350
+CENTROID NGR,GB,383299,611170
+DTM AREA,   60.01
+ALTBAR, 406
+ASPBAR,120
+ASPVAR,0.18
+BFIHOST,0.413
+DPLBAR,  8.67
+DPSBAR,205.3
+FARL,1.000
+FPEXT,0.0077
+LDP, 15.93
+PROPWET,0.46
+RMED-1H,  9.8
+RMED-1D, 36.0
+RMED-2D, 48.7
+SAAR,1020
+SAAR4170,1071
+SPRHOST,51.12
+URBCONC1990,-9999.000
+URBEXT1990,0.0000
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0000
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,A standing wave flume with broad-crested side weirs. Site closed in 1980. GENERAL: A standing wave flume with broad-crested side weirs separated from the flume by substantial divide walls, flared at the u/s ends; overall width 8.8m. Beneath a road bridge with soffit at 2.2m. River valley is narrow and steep-sided at this point, with rocky bed. Site closed in 1980, reopened in 1999 as level-only flood warning site. STATION HYDROMETRY: A gravel accumulation problem (notably severe in 1977) was partly alleviated by installation of a gabion gravel trap u/s in 1952, cleaned biannually. However, accumulation continued, and the trap collapsed in 2000. Side weirs drown at high flows. No bypassing. Multiple peak flow ratings applied across period of record, the most recent is valid from April-1979 after gravel shoal developed. Flood Studies Report grade C due to uncertainty in rating. FLOW RECORD: Excessive gravel accumulation caused breaks in the early record but installation of a gravel trap in 1952 contributed to increased reliability; almost a continuous record 1957-1980 (when station decommissioned). Data from 1947-1966 from flow recorder with limit of 26.3 cumecs, therefore no floods recorded. FLOW REGIME: Hydrographs are sharp with multiple peaks. No known artificial influences.
+CATCHMENT,A very responsive catchment with small floodplains all the way up the catchment accommodating some over-bank storage. River flows in a steep Cheviot valley mantled by glacial material. Coquet river is a designated Site of Special Scientific Interest. No known catchment changes.
+Qmed Suitability,Although only gauged to 50% of QMED, all flow is contained within structure and extrapolation to QMED is expected to be reasonable.
+Pooling Suitability,Few high flow gaugings. Rating can not be validated beyond QMED.
+[END]

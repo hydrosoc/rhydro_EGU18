@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 47009
+[END]
+[CDS DETAILS]
+NAME,Tiddy
+LOCATION,Tideford
+NOMINAL AREA,   37.40
+NOMINAL NGR,2344, 596
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,234450,59600
+CENTROID NGR,GB,231069, 64364
+DTM AREA,   37.40
+ALTBAR, 109
+ASPBAR,150
+ASPVAR,0.20
+BFIHOST,0.591
+DPLBAR,  8.25
+DPSBAR,121.2
+FARL,1.000
+FPEXT,0.0237
+LDP, 15.76
+PROPWET,0.48
+RMED-1H, 11.8
+RMED-1D, 41.7
+RMED-2D, 55.2
+SAAR,1276
+SAAR4170,1348
+SPRHOST,30.81
+URBCONC1990, 0.552
+URBEXT1990,0.0074
+URBLOC1990, 1.564
+URBCONC2000, 0.725
+URBEXT2000,0.0107
+URBLOC2000, 1.360
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Crump profile weir opened in 1969. GENERAL: Station opened in 1969 with a Crump profile weir, 5.5 m wide and wing walls 2.3m high with subsidiary floodbanks. STATION HYDROMETRY: Weir fully modular when flow within flood banks. High flows gauged at road bridge. No bypassing. Rated by gaugings below 0.1m stage, theoretical rating above this. Few gaugings at low flows. Good site and record. All flows contained to date but analysis of tailwater levels post November 2012 flood (biggest on record) showed weir non-modular during event. High flows gauged off road bridge in the past and with ADCP on ropes now. Ratings based on theoretical Crump weir equation. Adjustment for drowning has been applied to the top end based on the findings of the December 2012 event. Extrapolation beyond max gauging at 6.5 m3/s reasonable as flows contained and drowning considered. Two peak flow ratings across period of record. FLOW REGIME: Natural to within 10% at Q95.
+CATCHMENT,Elongated, linear, natural catchment. Headwaters rise from southernmost outcrop of Bodmin granite. Great bulk of the catchment on Devonian shales and slates interspersed with tuffs and lavas. Moderate relief. Land use is agricultural, dairy and mixed farming rough grazing. Some forestry. No major changes to catchment.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,All flows contained and flow remains modular. No bypassing reported and rating expected to perform well.
+[END]

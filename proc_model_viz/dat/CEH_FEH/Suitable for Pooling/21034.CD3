@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 21034
+[END]
+[CDS DETAILS]
+NAME,Yarrow Water
+LOCATION,Craig Douglas
+NOMINAL AREA,  116.18
+NOMINAL NGR,3289,6244
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,328950,624450
+CENTROID NGR,GB,321511,621795
+DTM AREA,  116.18
+ALTBAR, 460
+ASPBAR,100
+ASPVAR,0.17
+BFIHOST,0.390
+DPLBAR, 11.07
+DPSBAR,222.8
+FARL,0.767
+FPEXT,0.0162
+LDP, 20.86
+PROPWET,0.72
+RMED-1H, 10.8
+RMED-1D, 46.4
+RMED-2D, 62.6
+SAAR,1555
+SAAR4170,1593
+SPRHOST,46.92
+URBCONC1990,-9999.000
+URBEXT1990,0.0000
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0000
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Large trapezoidal flume. Flows affected by Megget Reservoir and St Mary's Loch. GENERAL: Large trapezoidal flume. STATION HYDROMETRY: Regular cleaning of structure needed due to algal growth. All flows contained. Originally theoretical rating. Second rating was modelled using a physical model by Edinburgh University (1972). Confirmed with low gaugings up to 0.5m (about 0.1Q MED). FLOW RECORD: Low flows in Aug 1976 due to temporary damming of St Mary's Loch outlet. Monthly naturalised flows available. FLOW REGIME: Sensibly natural runoff until impounding for Megget Res. began in 1982. St Mary's Loch 2km u/s attenuates floods significantly.
+CATCHMENT,Silurian formations give impervious catchment supporting hill grazing and some forestry. Over half covered with superficial deposits. Megget Reservoir 1982.
+Qmed Suitability,Influence of reservoir from 1982
+Pooling Suitability,Influence of reservoir from 1982
+[END]

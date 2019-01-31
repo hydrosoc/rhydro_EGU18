@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 23010
+[END]
+[CDS DETAILS]
+NAME,Tarset Burn
+LOCATION,Greenhaugh
+NOMINAL AREA,   95.51
+NOMINAL NGR,3789,5878
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,378900,587900
+CENTROID NGR,GB,376211,592872
+DTM AREA,   95.51
+ALTBAR, 301
+ASPBAR,149
+ASPVAR,0.25
+BFIHOST,0.305
+DPLBAR,  9.61
+DPSBAR, 85.2
+FARL,1.000
+FPEXT,0.0291
+LDP, 18.45
+PROPWET,0.56
+RMED-1H,  9.7
+RMED-1D, 34.2
+RMED-2D, 45.0
+SAAR, 993
+SAAR4170,1063
+SPRHOST,52.58
+URBCONC1990,-9999.000
+URBEXT1990,0.0001
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0000
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station. Station closed 1980. GENERAL: Velocity area station in natural channel with control consisting mainly of boulders about 0.3m diameter, mobile in severe floods. Substantial change to control after flood in August 1975 affected calibration up to 1.5m; stability returned subsequently. Discontinued 1980. STATION HYDROMETRY: Two ratings applied to peak flow period of record, the most recent is valid from September 1975 after change in control as a result of flooding. This affected low flows only, upper limbs of both ratings remain the same. FLOW RECORD: Substantial change to control after flood in August 1975. FLOW REGIME: No known artificial influences.
+CATCHMENT,The geology is mainly sandstones and shale with thin limestone bands to the east, and a thin cover of Boulder Clay or peat. No known catchment changes.
+Qmed Suitability,Gauged to within 26% of QMED.
+Pooling Suitability,Few high flow gaugings to validate rating and relatively short record length.
+[END]

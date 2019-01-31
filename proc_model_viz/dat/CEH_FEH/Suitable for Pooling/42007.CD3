@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 42007
+[END]
+[CDS DETAILS]
+NAME,Alre
+LOCATION,Drove Lane Alresford
+NOMINAL AREA,   57.45
+NOMINAL NGR,4574,1326
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,457450,132600
+CENTROID NGR,GB,462212,133819
+DTM AREA,   57.45
+ALTBAR, 126
+ASPBAR,251
+ASPVAR,0.28
+BFIHOST,0.964
+DPLBAR,  7.07
+DPSBAR, 50.4
+FARL,0.864
+FPEXT,0.0281
+LDP, 12.69
+PROPWET,0.34
+RMED-1H, 10.3
+RMED-1D, 35.5
+RMED-2D, 46.8
+SAAR, 857
+SAAR4170, 877
+SPRHOST, 4.85
+URBCONC1990, 0.444
+URBEXT1990,0.0067
+URBLOC1990, 0.505
+URBCONC2000, 0.623
+URBEXT2000,0.0159
+URBLOC2000, 0.724
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Combination of flows from main and side weir on the largest tributary on the Itchen. Gauges a predominantly Chalk catchment with baseflow dominated regime. GENERAL: Combination of a main weir (2.5m wide Crump) and side weir (1.5m wide Crump). STATION HYDROMETRY: Bypassing occurs on the side weir component, but across the combined record bypassing is not significant. Using the two gauges flood flows are contained. Monthly current meter gaugings available from 1956. Theoretical ratings for both Crump weirs. FLOW RECORD: Total flow obtained by recording the annual maximum on the large weir & then deriving the appropriate level on the smaller side weir. Annual maxima largely derived by taking highest stage on 2.5m weir and using highest stage on corresponding day at 1.5m weir. Pre-1979 data available from main weir only. FLOW REGIME: Baseflow-dominated regime with narrow flow range but local surface runoff can generate very transitory peaks. From 1989, groundwater augmentation during drought conditions. Extensive watercress beds may attenuate flood flows. Spray irrigation may affect flows. Artesian wells present in catchment. Alre receives sewage from Alresford to Otford.
+CATCHMENT,The River Alre is the largest tributary of the River Itchen. Principally a permeable catchment (Upper Chalk overlain in patches by clay-with-flints). Groundwater catchment area substantially exceeds topographical catchment area. Rural character - rolling downland of mixed farming; some woodland. Very limited urbanisation - but concentrated near to the gauging station.
+Qmed Suitability,Good fit to ratings, high flow gaugings available. No bypassing.
+Pooling Suitability,Good fit to ratings, high flow gaugings available. No bypassing.
+[END]

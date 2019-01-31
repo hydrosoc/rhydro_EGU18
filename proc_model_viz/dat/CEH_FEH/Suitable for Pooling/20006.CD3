@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 20006
+[END]
+[CDS DETAILS]
+NAME,Biel Water
+LOCATION,Belton House
+NOMINAL AREA,   57.55
+NOMINAL NGR,3644,6768
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,364450,676800
+CENTROID NGR,GB,359968,671187
+DTM AREA,   57.55
+ALTBAR, 178
+ASPBAR,342
+ASPVAR,0.38
+BFIHOST,0.525
+DPLBAR, 11.06
+DPSBAR,104.6
+FARL,0.981
+FPEXT,0.0187
+LDP, 20.66
+PROPWET,0.43
+RMED-1H,  9.3
+RMED-1D, 43.5
+RMED-2D, 54.7
+SAAR, 742
+SAAR4170, 745
+SPRHOST,34.06
+URBCONC1990,-9999.000
+URBEXT1990,0.0001
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0008
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station with informal broad-crested weir. Station closed May 2000 (daily record ends 1998). GENERAL: Velocity area station. The section is a well defined straight channel whose banks have contained all recorded floods. Station closed May 2000 (daily record ends 1998). STATION HYDROMETRY: An irregular broad-crested weir of gabions was installed in Sept 1979. The rating has changed slightly as the control has settled. Rating for Sept 1979 to Jan 1993 is good; derived from current meter gaugings up to 1.4m (about 2.1 QMED), simple extrapolation beyond. Other periods have weaker ratings based on spot gaugings <0.4 QMED. FLOW REGIME: Flow regime is flashy and broadly natural.
+CATCHMENT,The catchment drains part of the NE Lammermuir Hills. Predominantly moorland with arable downstream. Geology: Silurian and Ordovician sedimentary rocks. No significant catchment changes known.
+Qmed Suitability,No comment
+Pooling Suitability,Period 1 Sept 1979 to 1 Jan 1993 has a good rating curve for high flows. Other periods have much weaker rating curves.
+[END]

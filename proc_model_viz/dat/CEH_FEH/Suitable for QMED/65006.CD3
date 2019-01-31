@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 65006
+[END]
+[CDS DETAILS]
+NAME,Seiont
+LOCATION,Peblig Mill
+NOMINAL AREA,   79.89
+NOMINAL NGR,2494,3622
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,249450,362300
+CENTROID NGR,GB,257850,360308
+DTM AREA,   79.89
+ALTBAR, 321
+ASPBAR,301
+ASPVAR,0.24
+BFIHOST,0.499
+DPLBAR, 14.03
+DPSBAR,261.8
+FARL,0.849
+FPEXT,0.0621
+LDP, 22.58
+PROPWET,0.49
+RMED-1H, 12.0
+RMED-1D, 65.2
+RMED-2D, 87.6
+SAAR,2258
+SAAR4170,2339
+SPRHOST,39.37
+URBCONC1990, 0.375
+URBEXT1990,0.0051
+URBLOC1990, 0.694
+URBCONC2000, 0.675
+URBEXT2000,0.0097
+URBLOC2000, 0.699
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,River section in a straight reach with a non-standard compound control. Pumped storage scheme marginally affects flows. GENERAL: River section in a straight reach with a gauging station located on the left bank upstream of a non-standard compound control (not owned by or managed/maintained by NRW). Originally built as part of investigations prior to construction of the Dinorwic pumped storage scheme. Treat data with caution. STATION HYDROMETRY: A rated section which has not yet been bypassed (possibility for bypassing on the lb floodplain). L/h bend in river channel present between structure and gauging hut. Well gauged for peak flows across the in-bank range, with a good fit of ratings to gaugings. Extrapolated beyond QMED. . FLOW RECORD: Full period of record peak flow data reviewed and released in April 2017 (WINFAP Files v5). FLOW REGIME: Dinorwic pumped storage scheme marginally affects flows.
+CATCHMENT,A steep, wet catchment on impermeable formations, with much bare rock surface - Snowdon and Glyder Fawr are both in the catchment. Contains two large ribbon lakes, Padarn and Peris, the latter acting as the lower reservoir of the Dinorwic scheme. Land use is mainly grassland (rough upland grazing), some forest.
+Qmed Suitability,Gauged to within 12% of QMED. QMED remains in bank and is well gauged.
+Pooling Suitability,Few high flow gaugings. Rating does not consider out of bank flow.
+[END]

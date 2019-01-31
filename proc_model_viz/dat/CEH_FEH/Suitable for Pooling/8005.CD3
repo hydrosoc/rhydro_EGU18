@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+  8005
+[END]
+[CDS DETAILS]
+NAME,Spey
+LOCATION,Boat of Garten
+NOMINAL AREA, 1261.30
+NOMINAL NGR,2946,8192
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,294700,819200
+CENTROID NGR,GB,275072,796806
+DTM AREA, 1261.30
+ALTBAR, 522
+ASPBAR,348
+ASPVAR,0.04
+BFIHOST,0.470
+DPLBAR, 47.44
+DPSBAR,174.2
+FARL,0.917
+FPEXT,0.0589
+LDP, 88.23
+PROPWET,0.70
+RMED-1H,  9.5
+RMED-1D, 36.4
+RMED-2D, 52.5
+SAAR,1277
+SAAR4170,1307
+SPRHOST,47.64
+URBCONC1990,-9999.000
+URBEXT1990,0.0005
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0011
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station with some of the catchment controlled for HEP. GENERAL: Velocity area station. Station re-located d/s of road bridge. STATION HYDROMETRY: Cableway rated. Natural control and relatively frequent rating changes. Nearly all flows contained; some bypassing can occur, but it is considered insignificant. Two peak flow ratings revised in 2016, derived from current meter gaugings, simple extrapolation beyond, have been applied to the whole record. FLOW RECORD: Full period of record peak flow data reviewed and released in April 2017 (WINFAP Files v5). Chart data between 01/10/1951 to 17/01/1988 was digitised in 2016. FLOW REGIME: Loch Insh and Insh marshes may influence flood behaviour. 380 sq km developed for hydro-power with diversions and storage; substantial net export. Reservoirs for hydropower: Spey Dam (1944), Loch an T-Seilich (1941) and Cuaich Dam (1961). Forests are partly native woodland, partly plantations.
+CATCHMENT,Upland catchment with mountainous headwaters often snowy in winter. Bedrock granites and Moinian metamorphics overlain by superficial deposits over more than half of the catchment. Land use of forest cover moorland and pastoral and some arable farming. Cuaich Dam impounded during period of record (1961).
+Qmed Suitability,Gauged above QMED
+Pooling Suitability,Gauged to 75% of AMAX3
+[END]

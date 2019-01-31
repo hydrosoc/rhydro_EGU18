@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 42010
+[END]
+[CDS DETAILS]
+NAME,Itchen
+LOCATION,Highbridge & Allbrook Total
+NOMINAL AREA,  339.90
+NOMINAL NGR,4461,1211
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,446800,121100
+CENTROID NGR,GB,457279,132838
+DTM AREA,  339.90
+ALTBAR, 111
+ASPBAR,247
+ASPVAR,0.11
+BFIHOST,0.949
+DPLBAR, 29.10
+DPSBAR, 54.0
+FARL,0.949
+FPEXT,0.0513
+LDP, 50.50
+PROPWET,0.34
+RMED-1H, 10.1
+RMED-1D, 34.8
+RMED-2D, 45.3
+SAAR, 834
+SAAR4170, 874
+SPRHOST, 6.09
+URBCONC1990, 0.014
+URBEXT1990,0.0143
+URBLOC1990, 0.573
+URBCONC2000, 0.773
+URBEXT2000,0.0289
+URBLOC2000, 0.648
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Combination of flows from two stations at Highbridge and Allbrook. Gauges a predominantly Chalk catchment with baseflow dominated regime and complex water utilisation. GENERAL: Combination of flow records from Allbrook (Crump weir) and Highbridge (thin plate weir). STATION HYDROMETRY: Combined site contains most flows (rare bypassing resulted from wrong sluice settings). Bypassing very rare, including in Dec 2000 - remarkable peak flow confirmed by gauging; good performance across flow regime. Both sites gauged up to 100-150% above what had previously been gauged in the 2000 event. River banks are very low, typically 20-30cm, summer levels often higher than winter due to weeding. However, flooding on any scale is rare. Both weirs rated theoretically and ratings confirmed by gaugings. FLOW RECORD: Flows for Allbrook for Nov/Dec 1993 were estimated due to fish pass construction. FLOW REGIME: Baseflow-dominated regime. Groundwater augmentation possible during droughts, but has never been used. Artificial influences (groundwater abstractions, cress farms) have moderate but increasing impact on regime. Small net export of water. A new flow condition at a major abstraction at Otterbourne upstream will reduce abstraction in drought years from 2018 and close it entirely once in 150 years. Flow augmentation from groundwater during droughts, a 2nd augmentation scheme (Candover) was developed in 1976, importing groundwater from the Alre catchment. Reinstated in 1989 drought, contributing about 0.15 cumecs to the Itchen flows. FIRAS augmentation scheme from 1989 provided groundwater support (derived from the Alre sub-catchment), estimated to have increased flows at Highbridge by 0.46 cumecs. Groundwater abstractions for public water supply & cress farms have minor, but increasing impact on baseflow dominated regime; small net export of water. Strong fishing influence on river management, the Itchen one of the country's premier game fishing rivers. 2 common hatch sluice gates 750m upstream of site, release water from the navigation channel, to regulate water levels in the old canal. Culvert between Allbrook & Highbridge spills water into the flood plain causing bypassing at approx. 0.5 cumecs - plans in place to halt this.
+CATCHMENT,The River Itchen rises from springs above Alresford, its 3 main tributaries are the Candover Stream, Cheriton Stream & the River Alre. River Itchen begins at their confluence above Alresford. Very permeable catchment (<10% mixed permeability). Mostly Chalk, with sparse clay-with-flints cover on the eastern border. Tertiary deposits, mostly clay, overlie chalk at southern end of catchment. Groundwater catchment (~490 sq. km), exceeds topographical catchment (360 sq. km). Land use mainly arable with scattered settlements (but Winchester is just upstream). Digital catchment created from separate DTM-derived catchments for compound structure sites.
+Qmed Suitability,Reasonable fit to rating. Bypassing is estimated and included in rating. Confirmed with high flow gaugings.
+Pooling Suitability,Reasonable fit to rating. Bypassing is estimated and included in rating. Confirmed with high flow gaugings.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 37017
+[END]
+[CDS DETAILS]
+NAME,Blackwater
+LOCATION,Stisted
+NOMINAL AREA,  140.38
+NOMINAL NGR,5792,2242
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,579250,224300
+CENTROID NGR,GB,567758,232356
+DTM AREA,  140.38
+ALTBAR,  84
+ASPBAR,134
+ASPVAR,0.16
+BFIHOST,0.493
+DPLBAR, 22.16
+DPSBAR, 29.5
+FARL,0.994
+FPEXT,0.0688
+LDP, 40.00
+PROPWET,0.31
+RMED-1H, 11.4
+RMED-1D, 28.4
+RMED-2D, 35.3
+SAAR, 579
+SAAR4170, 604
+SPRHOST,39.11
+URBCONC1990, 0.573
+URBEXT1990,0.0217
+URBLOC1990, 0.639
+URBCONC2000, 0.765
+URBEXT2000,0.0255
+URBLOC2000, 0.551
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,'Essex' profile gauging a predominantly Chalk catchment affected by artificial influences including urban runoff and Ely Ouse/Essex scheme. GENERAL: 'Essex' profile (modified Flat V Crump) weir with crest tapping. No spillway. STATION HYDROMETRY: Modest modular limit (around 0.62m) affected by weed growth. No spillway. VA rating for high flows. One peak flow rating applied across period of record. Some of the gaugings were based on float-runs and may not be reliable. The flow is derived through the rating curve and then under non-modular conditions, a macro is applied within WISKI which applies a reduction factor. Therefore, under high flows, the stage and flow won't match through the modular rating. FLOW RECORD: No POT data are presented for this station as they have no non-modular flow correction applied. AMAX data have been corrected, but in some cases can be below the daily flow as these are not corrected. Flows can be artificially increased by Ely Ouse transfer scheme (e.g. June 2015). FLOW REGIME: Urban runoff from Braintree. Minor adjustments needed for ground and surface water abstractions, sewage and industrial effluent and Ely Ouse/Essex discharges. Net effect - minor export of water.
+CATCHMENT,Upper two-thirds of catchment are Chalk, remainder London Clay (exposed in valleys), all overlain with Boulder Clay and some glacial gravel. Mainly rural (arable predominates) but with Braintree urban area in lower valley, just u/s of station.
+Qmed Suitability,Some scatter in gaugings evident but QMED estimates are thought to be reasonable.
+Pooling Suitability,Although gauged to within 2% of AMAX3, significant scatter and no gaugings above bank full reduces confidence in rating for high flows.
+[END]

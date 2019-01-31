@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 64002
+[END]
+[CDS DETAILS]
+NAME,Dysynni
+LOCATION,Pont-y-Garth
+NOMINAL AREA,   74.93
+NOMINAL NGR,2631,3066
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,263150,306600
+CENTROID NGR,GB,269100,309379
+DTM AREA,   74.93
+ALTBAR, 314
+ASPBAR,209
+ASPVAR,0.21
+BFIHOST,0.448
+DPLBAR,  9.70
+DPSBAR,323.1
+FARL,0.951
+FPEXT,0.0551
+LDP, 18.67
+PROPWET,0.66
+RMED-1H, 11.8
+RMED-1D, 67.0
+RMED-2D, 90.8
+SAAR,2166
+SAAR4170,2035
+SPRHOST,42.81
+URBCONC1990,-9999.000
+URBEXT1990,0.0002
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0000
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station with informal flat-v style pitching strip. Natural flow regime. GENERAL: Velocity area station with informal flat-v style pitching strip. Station opened in 1965 as 64602 Pont Y Garth in a 40m wide section between floodbanks, controlled by sheet piling d/s in straight channel which was dredged prior to station construction. Station was insensitive at low flows, so moved 50m d/s in 1997 and renamed Dysynni New; sheet-piling removed and weir constructed. Dysynni has now been renamed Pont y Garth for consistency. STATION HYDROMETRY: Insensitive at low flows. Suffers from weed growth in the channel and on the pitching strip control, with regular clearance sometimes difficult due to high water levels, and also gravel accumulation. Significant gravel removal in 2014 has improved section so that pitching strip operates correctly. Station is vulnerable to tidal influence since removal of sheet piling, which is allowed for in the rating. Recent tree clearance to left bank will enable higher flows to be gauged, although difficult to gauge at high flows due to flashy response. Two peak flow ratings applied across period of record. Rating takes account of non modular flow and is extrapolated beyond QMED. FLOW RECORD: Pre-1997 data from the old station at a slightly different location is rejected pending review of consistency with the later data. New station re-rated from Oct 1997. In 2011, updated with reprocessed flows for 2000 and 2001. FLOW REGIME: Natural to within 10% at Q95.
+CATCHMENT,Impermeable Ordovician sediments with volcanic rocks outcropping. Tal-y-Llyn (southernmost ribbon lake in Britain) lies within catchment. Mostly grassland, with areas of upland heath. Some forest in S of catchment.
+Qmed Suitability,Gauged above QMED, although there is some scatter in the high flow gaugings.
+Pooling Suitability,Gauged to within 14% of AMAX3. Not classified as suitable given the station's vulnerability to tidal influences.
+[END]

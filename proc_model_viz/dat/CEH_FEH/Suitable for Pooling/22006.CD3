@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 22006
+[END]
+[CDS DETAILS]
+NAME,Blyth
+LOCATION,Hartford Bridge
+NOMINAL AREA,  273.67
+NOMINAL NGR,4242,5800
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,424300,580000
+CENTROID NGR,GB,411289,575861
+DTM AREA,  273.67
+ALTBAR, 115
+ASPBAR, 94
+ASPVAR,0.25
+BFIHOST,0.333
+DPLBAR, 23.10
+DPSBAR, 31.9
+FARL,0.990
+FPEXT,0.1148
+LDP, 44.77
+PROPWET,0.42
+RMED-1H,  9.4
+RMED-1D, 33.2
+RMED-2D, 42.8
+SAAR, 696
+SAAR4170, 725
+SPRHOST,38.61
+URBCONC1990, 0.738
+URBEXT1990,0.0100
+URBLOC1990, 0.889
+URBCONC2000, 0.802
+URBEXT2000,0.0095
+URBLOC2000, 0.842
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station with flat V weir. Weir modified to prevent sedimentation in 1978. GENERAL: Velocity area station, with flat V weir (24.3m wide) for low flow control installed in 1968. Distance between wing walls was reduced to 20.0m in November 1978 to prevent sedimentation, and walls raised from 1.0m to 1.5m. Located on a straight section with stony bed, just u/s of a rock rapid. STATION HYDROMETRY: Three ratings applied across period of record, the most recent is valid from November 1978 when weir modifications necessitated a rating change. Flood Studies Report grade A1. FLOW RECORD: No bypassing except in flood events of December 1978 and March 1979, although over-topped at high flows. Flows 19/09/2014-06/10/2014 affected by fish pass installation. FLOW REGIME: Small net export of water as the majority of runoff from headwaters of River Pont (approx 25.8 sqkm) is diverted to Whittle Dene reservoirs.
+CATCHMENT,Mostly low-lying, moderate-permeability catchment (Millstone Grit and Coal Measures), with around four fifths of the catchment covered by boulder clay. Mixed arable and grassland. No known catchment changes.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged to 34% of AMAX3. No bypassing reported although weir may drown.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 37005
+[END]
+[CDS DETAILS]
+NAME,Colne
+LOCATION,Lexden
+NOMINAL AREA,  235.88
+NOMINAL NGR,5962,2261
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,596250,226100
+CENTROID NGR,GB,581429,232556
+DTM AREA,  235.88
+ALTBAR,  66
+ASPBAR,121
+ASPVAR,0.15
+BFIHOST,0.537
+DPLBAR, 24.60
+DPSBAR, 30.4
+FARL,0.970
+FPEXT,0.0761
+LDP, 46.14
+PROPWET,0.25
+RMED-1H, 11.0
+RMED-1D, 27.8
+RMED-2D, 34.5
+SAAR, 566
+SAAR4170, 595
+SPRHOST,38.13
+URBCONC1990, 0.539
+URBEXT1990,0.0140
+URBLOC1990, 0.830
+URBCONC2000, 0.755
+URBEXT2000,0.0217
+URBLOC2000, 0.794
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Large trapezoidal flume, station provides flood warning for Colchester. GENERAL: Large trapezoidal flume with d/s level recorder. Provides flood warning for Colchester. STATION HYDROMETRY: Spillway flow commences at 17.0 cumecs (1.75m), flows above this are estimated (guided by highest gauging at 2.1m). Bypassed on the lb at very high flows. Occasional weedgrowth problems. One peak flow rating applied across period of record. Reasonable fit to gaugings although rating may slightly underestimate out of bank flows. FLOW RECORD: No POT data are presented for this station as they have no non-modular flow correction applied. AMAX data have been corrected, but in some cases can be below the daily flow as these are not corrected. Naturalised flows for period 1959 to 1976. Exceptionally low summer 1965 flows under review. Flows can be artificially increased by Ely Ouse transfer scheme (e.g. June 2015). FLOW REGIME: Runoff reduced by surface water/groundwater abstraction for public water supply, industry and agriculture.
+CATCHMENT,Mainly London Clay and some Upper Chalk, with superficial deposits of semi-pervious Boulder Clay and some sands and gravels. Rural, predominantly arable land.
+Qmed Suitability,Gauged above QMED. Reasonable fit to gaugings.
+Pooling Suitability,Gauged beyond AMAX3. Reasonable fit to gaugings
+[END]

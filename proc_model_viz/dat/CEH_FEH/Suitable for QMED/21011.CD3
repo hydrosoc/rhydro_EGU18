@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 21011
+[END]
+[CDS DETAILS]
+NAME,Yarrow Water
+LOCATION,Philiphaugh
+NOMINAL AREA,  232.46
+NOMINAL NGR,3439,6276
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,343900,627700
+CENTROID NGR,GB,327402,624662
+DTM AREA,  232.46
+ALTBAR, 411
+ASPBAR,105
+ASPVAR,0.16
+BFIHOST,0.443
+DPLBAR, 24.15
+DPSBAR,214.6
+FARL,0.875
+FPEXT,0.0267
+LDP, 41.71
+PROPWET,0.70
+RMED-1H, 10.1
+RMED-1D, 41.2
+RMED-2D, 55.7
+SAAR,1347
+SAAR4170,1388
+SPRHOST,42.11
+URBCONC1990,-9999.000
+URBEXT1990,0.0002
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0002
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station on the Yarrow Water, in the Borders in the south east of Scotland. GENERAL: Velocity area station; about 25m wide natural coarse gravel bedded straight section. STATION HYDROMETRY: Control unstable. Sensibly natural regime before Megget Res. began impounding in 1982 (small overall impact on water balance), and flood peaks are also attenuated by St Mary's Loch. To date all flows contained. Peak flow rating derived from current meter gaugings, simple extrapolation beyond. Rating reviewed in 2016. FLOW RECORD: Monthly naturalised flows available. Full period of record peak flow data reviewed and released in April 2017 (WINFAP Files v5). FLOW REGIME: Storage reservoirs: St. Mary's Loch and Megget, both used for public water supplies. Close to confluence and so backing up from the River Tweed must be influential at extreme highs.
+CATCHMENT,Upland catchment developed mainly on Silurian shale; approx half superficial deposit cover. Hill grazing is the principal land use; some forest. Megget Reservoir (1982)
+Qmed Suitability,Gauged to QMED
+Pooling Suitability,No gauging above QMED, peaks attenuated
+[END]

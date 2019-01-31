@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 27025
+[END]
+[CDS DETAILS]
+NAME,Rother
+LOCATION,Woodhouse Mill
+NOMINAL AREA,  351.10
+NOMINAL NGR,4432,3857
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,443250,385700
+CENTROID NGR,GB,440144,373782
+DTM AREA,  351.10
+ALTBAR, 134
+ASPBAR, 77
+ASPVAR,0.16
+BFIHOST,0.494
+DPLBAR, 23.27
+DPSBAR, 69.2
+FARL,0.937
+FPEXT,0.0537
+LDP, 39.49
+PROPWET,0.38
+RMED-1H, 10.5
+RMED-1D, 34.4
+RMED-2D, 43.0
+SAAR, 756
+SAAR4170, 760
+SPRHOST,27.97
+URBCONC1990, 0.103
+URBEXT1990,0.1033
+URBLOC1990, 0.883
+URBCONC2000, 0.871
+URBEXT2000,0.1250
+URBLOC2000, 0.940
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station with cableway. Catchment includes former opencast mine Rother Valley Country Park. GENERAL: Velocity area station (15m wide) with current meter cableway. Measuring section is located in a trapezoidal channel that contains all flows. The gauge is d/s of the washland storage scheme controlled by regulator gate on the channel to pond water at times of high flow. Orgreave Weir acts as a partial control, 1.2km downstream. Orgreave weir breached by subsidence in June 1973. Repairs completed by October 1974 but structure substantially altered. The downstream reach is heavily reconstructed and flows through an area of active opencast mining, subject to subsidence. STATION HYDROMETRY: No bypassing is known. Two peak flow ratings applied across period of record, the most recent is valid from January 1974. Rating by multipoint current meter gauging from cableway. Flood Studies Report grade B assumed in 1975, now A1 to 2m, A2 to 3m and B above. FLOW RECORD: Chart records from May 1959 and flow records from October 1961. Sequences of identical low flows in the 1960s (but realistic). Reliable flow records begin January 1976. FLOW REGIME: Rother Valley Country Park mined by opencast methods, 1976-1981 but restored to become large controlled washlands in 1988. The washlands upstream of Woodhouse Mill are controlled by two in-line river regulators, which results in occasional distortion of the natural hydrograph. These structures have only been operated together twice, in the November 2000 and 2007 floods, but have a very significant effect on peak flows in the Rother. Abstractions and storage in reservoirs of northeast Derbyshire, Chesterfield, Bolsover and Clowne. Imports from the Derwent Valley reservoirs to Linacre reservoir. Abstractions to water supply from Ogston reservoir. Borehole abstractions made to Crowhole reservoir.
+CATCHMENT,Catchment draining the moors and fertile farming valleys southwest of Sheffield. Mixed geology, principally Middle and Lower Coal Measures, with overlying Permian sands, marls and Magnesian Limestone are found down the eastern watershed. Land use: moorland headwaters, mixed farming and heavily urbanised valleys. Extensive urban development of Chesterfield over period of record.
+Qmed Suitability,Gauged beyond QMED. Reasonable fit to gaugings.
+Pooling Suitability,Although gauged to within 3% of AMAX3, high flows are not a reflection of the catchment response but a reflection of the operation of the washland regulators upstream.
+[END]

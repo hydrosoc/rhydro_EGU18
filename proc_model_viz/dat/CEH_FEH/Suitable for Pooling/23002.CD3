@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 23002
+[END]
+[CDS DETAILS]
+NAME,Derwent
+LOCATION,Eddys Bridge
+NOMINAL AREA,  118.11
+NOMINAL NGR,4041,5507
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,404100,550800
+CENTROID NGR,GB,396342,549463
+DTM AREA,  118.11
+ALTBAR, 363
+ASPBAR, 49
+ASPVAR,0.28
+BFIHOST,0.316
+DPLBAR, 11.34
+DPSBAR, 96.9
+FARL,0.996
+FPEXT,0.0203
+LDP, 23.06
+PROPWET,0.59
+RMED-1H, 10.4
+RMED-1D, 41.2
+RMED-2D, 52.1
+SAAR, 943
+SAAR4170, 960
+SPRHOST,48.18
+URBCONC1990,-9999.000
+URBEXT1990,0.0003
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0007
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Broad-crested weir with central low flow flume. Heavily influenced by Derwent reservoir. GENERAL: Broad-crested weir with central low flow flume (up to 126 cumecs), no dividing walls. Low flow crest at 181 mAOD, broad crests at 181.26 mAOD. Model calibration. From 1965 flows controlled by Derwent Reservoir 2km u/s, stark contrast with previous natural regime. A good control, situated in a well-defined, straight channel; flat agricultural land on one side, steep wooded slope on the other. STATION HYDROMETRY: Original peak flow rating by flume formula, refined with physical model test and applied throughout record. Data after 1965 is heavily influenced by Derwent reservoir and is excluded from the peak flow database series. POT not extracted between 1965-1970 by Flood Studies Report. Flood Studies Report grade A1. FLOW REGIME: Data is heavily influenced by Derwent reservoir (impounded 1965). Substantial net export of water. Burnhope Burn enters the Derwent d/s of the reservoir; flows from this are partly diverted to reservoir.
+CATCHMENT,An upland moorland catchment used for rough grazing. Construction of Derwent reservoir early 1960s. Geology is a mixture of Carboniferous Limestone and Millstone Grit partially overlain by Boulder Clay in lower valley and peat in headwaters.
+Qmed Suitability,Although not gauged to QMED, rating checked using physical model test.
+Pooling Suitability,Flow always contained within structure and rating believed to be satisfactory.
+[END]

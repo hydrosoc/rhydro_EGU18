@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 68010
+[END]
+[CDS DETAILS]
+NAME,Fender
+LOCATION,Ford Lane
+NOMINAL AREA,   18.01
+NOMINAL NGR,3280,3880
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,328050,388000
+CENTROID NGR,GB,328767,385448
+DTM AREA,   18.01
+ALTBAR,  45
+ASPBAR, 11
+ASPVAR,0.21
+BFIHOST,0.432
+DPLBAR,  4.02
+DPSBAR, 29.0
+FARL,0.999
+FPEXT,0.1024
+LDP,  8.86
+PROPWET,0.38
+RMED-1H, 10.4
+RMED-1D, 30.0
+RMED-2D, 38.9
+SAAR, 774
+SAAR4170, 783
+SPRHOST,37.10
+URBCONC1990, 0.851
+URBEXT1990,0.2004
+URBLOC1990, 0.836
+URBCONC2000, 0.885
+URBEXT2000,0.2078
+URBLOC2000, 0.885
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Compound trapezoidal flume. Station closed 1981. GENERAL: Compound trapezoidal flume with vertical sides. Station opened in 1971 and closed 1981. STATION HYDROMETRY: One peak flow rating applied across period of record, based on theoretical for flume. No gaugings are available to validate rating. FLOW RECORD: Gaps in POT data caused by significant and recurrent vandalism. FLOW REGIME: Some groundwater abstractions and several small discharges.
+CATCHMENT,A heavily urbanised, low relief catchment draining parts of Birkenhead and Heswall on the Wirral. Underlying geology is primarily sandstone. No catchment changes known.
+Qmed Suitability,No gaugings available to validate theoretical rating, but structure believed to perform satisfactorily at QMED.
+Pooling Suitability,No gaugings available so not confident in extrapolating theoretical rating.
+[END]

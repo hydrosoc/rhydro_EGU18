@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+201009
+[END]
+[CDS DETAILS]
+NAME,Owenkillew
+LOCATION,Crosh
+NOMINAL AREA,  440.62
+NOMINAL NGR,2418,3866
+[END]
+[DESCRIPTORS]
+IHDTM NGR,Ireland,241850,386650
+CENTROID NGR,Ireland,257981,388071
+DTM AREA,  440.62
+ALTBAR, 234
+ASPBAR,179
+ASPVAR,0.07
+BFIHOST,0.355
+DPLBAR, 25.49
+DPSBAR,115.5
+FARL,0.997
+FPEXT,0.0441
+LDP, 48.34
+PROPWET,0.64
+RMED-1H,  8.5
+RMED-1D, 36.3
+RMED-2D, 49.7
+SAAR,1367
+SAAR4170,1332
+SPRHOST,48.23
+URBCONC1990,-0.002
+URBEXT1990,0.0016
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0002
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station with cableway. GENERAL: Velocity area station replaced that at Killymore in 1980, because of mobile bed problems. Killymore, about a mile upstream, was part of the original core network from the early 1970's. STATION HYDROMETRY: River gets out-of-bank at high flows. The rating is derived from current meter gaugings. Simple extrapolation is used beyond 3.458m (maximum gauged level). Gauging and rating is good but some gaugings at higher flows would be useful. FLOW RECORD: Daily flows for full period of record reprocessed in 2002. Data in late 2010 suspect likely due to frozen stilling well. FLOW REGIME: No water abstractions or significant returns.
+CATCHMENT,Catchment of grassland, heath and forest with substantial agriculture. Solid geology -Moinian and Dalradian rock types form a generally impermeable basement composed of metamorphosed, schistose sandstone, shale, limestone and basic igneous intrusive and extrusive lithologies. Drift geology - glacial till extensive and overlain with sand, gravel and river alluvium. Rock near surface and post-glacial peat cover extensive on high ground with restricted development of river alluvium in valleys.
+Qmed Suitability,Unmeasured floodplain flow is less than 10 % at QMED flows and the maximum gauged flow is similar to QMED (ratio of Max Gauge to QMED = 0.96)
+Pooling Suitability,No - Not fully contained at high flows with unmeasured floodplain flow > 20 %.
+[END]

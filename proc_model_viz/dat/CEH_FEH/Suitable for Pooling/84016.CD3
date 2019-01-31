@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 84016
+[END]
+[CDS DETAILS]
+NAME,Luggie Water
+LOCATION,Condorrat
+NOMINAL AREA,   35.34
+NOMINAL NGR,2739,6725
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,273900,672550
+CENTROID NGR,GB,276325,671269
+DTM AREA,   35.34
+ALTBAR, 139
+ASPBAR,306
+ASPVAR,0.26
+BFIHOST,0.327
+DPLBAR,  5.81
+DPSBAR, 56.0
+FARL,0.995
+FPEXT,0.0528
+LDP, 13.26
+PROPWET,0.58
+RMED-1H,  8.8
+RMED-1D, 35.1
+RMED-2D, 46.2
+SAAR,1089
+SAAR4170,1060
+SPRHOST,41.41
+URBCONC1990, 0.665
+URBEXT1990,0.0366
+URBLOC1990, 0.537
+URBCONC2000, 0.814
+URBEXT2000,0.0659
+URBLOC2000, 0.602
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station in a catchment with significant urban development. GENERAL: Velocity area approx. 8m wide section with compound broad-crested weir, central low flow notch, about 8m wide. Cableway and weir installed in March 1968. Occasional vandalism. STATION HYDROMETRY: Bypassing may occur at the very highest flows (e.g. Dec 1994), and these may be influenced by the hump-backed bridge d/s. Peak flow ratings derived from current meter gaugings up to 1.5m (about 0.9 QMED), simple extrapolation beyond. FLOW RECORD: Data prior to March 1968 is of poor quality (operational as a VA station from 17/11/1962; this data is not held by SEPA). FLOW REGIME: Natural catchment, though minor influences at low flows from open cast mining. The deep coal mines were closed prior to station opening.
+CATCHMENT,Lowland catchment. Predominantly Coal Measures with intrusive basalt overlain extensively by Boulder Clay, some peat in the headwaters. Much of the catchment is agricultural in character with significant urban development in the north (Cumbernauld), and some forestry. No controlled storages but significant local depressions and boggy areas. Housing development encroaching on right bank floodplain d/s.
+Qmed Suitability,No comment
+Pooling Suitability,No comment
+[END]

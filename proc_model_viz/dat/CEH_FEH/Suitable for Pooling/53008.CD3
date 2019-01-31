@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 53008
+[END]
+[CDS DETAILS]
+NAME,Avon
+LOCATION,Great Somerford
+NOMINAL AREA,  305.17
+NOMINAL NGR,3964,1833
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,396500,183200
+CENTROID NGR,GB,388258,186712
+DTM AREA,  305.17
+ALTBAR, 119
+ASPBAR,112
+ASPVAR,0.28
+BFIHOST,0.622
+DPLBAR, 18.89
+DPSBAR, 28.7
+FARL,0.988
+FPEXT,0.0930
+LDP, 34.50
+PROPWET,0.34
+RMED-1H, 10.3
+RMED-1D, 33.0
+RMED-2D, 42.0
+SAAR, 804
+SAAR4170, 836
+SPRHOST,27.97
+URBCONC1990, 0.559
+URBEXT1990,0.0077
+URBLOC1990, 0.868
+URBCONC2000, 0.738
+URBEXT2000,0.0090
+URBLOC2000, 0.906
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Opened as one of the first compound Crump weirs in Britain in 1963. Situated 90m downstream of Great Somerford road bridge. GENERAL: Station located near the village of Great Somerford, 4km south east of Malmesbury and was opened in 1963 as one of the first Compound Crump weirs in Britain. Compound Crump profile weir having low flow crest between two flanking sections. Situated 90m downstream of Great Somerford road bridge. STATION HYDROMETRY: Full range station, all except extreme flows (e.g. 07/1968 drowned the structure) contained. Flows go out of bank upstream before bankfull at the structure. Full review carried out in 03/1998 to try to explain discrepancy between original rating & recent low flow gaugings. Still some uncertainty whether the adopted rating is the most appropriate. 5 year review carried out in 2010 but no changes were made FLOW REGIME: Flows augmented by groundwater scheme in catchment.
+CATCHMENT,Catchment mainly comprises Oolitic Limestone, with left bank tributaries draining off clays. Generally rapid to peak but slow recession. The upper catchment is dominated by the limestone of the Cotswold Hills. Land use is predominantly rural. No major catchment changes.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged to within 20% of AMAX3. All flows in bank.
+[END]

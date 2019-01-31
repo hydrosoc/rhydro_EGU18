@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 54114
+[END]
+[CDS DETAILS]
+NAME,Avon
+LOCATION,Warwick
+NOMINAL AREA, 1012.49
+NOMINAL NGR,4299,2652
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,429900,265300
+CENTROID NGR,GB,444445,273270
+DTM AREA, 1012.49
+ALTBAR, 106
+ASPBAR,261
+ASPVAR,0.04
+BFIHOST,0.417
+DPLBAR, 39.52
+DPSBAR, 30.7
+FARL,0.968
+FPEXT,0.1187
+LDP, 76.94
+PROPWET,0.30
+RMED-1H, 11.2
+RMED-1D, 32.6
+RMED-2D, 40.8
+SAAR, 654
+SAAR4170, 679
+SPRHOST,42.51
+URBCONC1990, 0.796
+URBEXT1990,0.0583
+URBLOC1990, 0.774
+URBCONC2000, 0.885
+URBEXT2000,0.0733
+URBLOC2000, 0.776
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,An open channel site, with the river impounded 1.5 km downstream of the site, it has very limited navigation and has a small seasonal weed growth effect. GENERAL: An open channel site, with the river impounded 1.5 km downstream of the site, it has very limited navigation and has a small seasonal weed growth effect. STATION HYDROMETRY: Site rarely bypassed. Cross section considered to be stable. Multiple ratings applied across period of record, the most recent is valid from December-2000. Dramatic shift in ratings a result of datum change in 1981. Ratings fit well to corresponding gaugings. FLOW RECORD: Station closed 22/06/1983 to 01/06/1984. Chart data for 29/12/1982 to 02/01/1986 examined for POTs. FLOW REGIME: Responsive regime with evident artificial influences. Influences at low flows come from public water supply and returns on the River Leam.
+CATCHMENT,The catchment is a mainly low relief and largely agricultural but has built up areas at Rugby and Leamington. The geology is mainly Lower Lias and Keuper Marl.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged to within 9% of AMAX3.
+[END]

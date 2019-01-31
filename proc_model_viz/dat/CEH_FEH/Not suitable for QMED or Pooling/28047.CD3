@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 28047
+[END]
+[CDS DETAILS]
+NAME,Oldcotes Dyke
+LOCATION,Blyth
+NOMINAL AREA,   86.49
+NOMINAL NGR,4614,3875
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,461500,387550
+CENTROID NGR,GB,455145,387564
+DTM AREA,   86.49
+ALTBAR,  74
+ASPBAR, 87
+ASPVAR,0.36
+BFIHOST,0.714
+DPLBAR,  9.32
+DPSBAR, 34.8
+FARL,0.956
+FPEXT,0.0814
+LDP, 18.78
+PROPWET,0.35
+RMED-1H, 11.4
+RMED-1D, 31.8
+RMED-2D, 42.5
+SAAR, 654
+SAAR4170, 614
+SPRHOST,19.26
+URBCONC1990, 0.721
+URBEXT1990,0.0712
+URBLOC1990, 1.214
+URBCONC2000, 0.860
+URBEXT2000,0.0755
+URBLOC2000, 1.284
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Crump profile Flat V weir station draining baseflow dominated catchment with substantial augmentation of low flows from WRW. GENERAL: Crump profile Flat V weir set in 1:2 sloping sidewalls (7.3 wide at V full). Reasonable approach d/s of a road bridge. Low modular limit (7-8 cumecs) but rarely exceeds vee full. No account made for floodplain or non-modular flow conditions. STATION HYDROMETRY: Multiple ratings applied across period of record. Ratings have generic upper limb and slightly different for low flows. Wading gaugings taken u/s of bridge should site back-up (owing to weed growth). No account made for floodplain or non-modular flow conditions. Low modular limit (7-8 cumecs) but rarely exceeds vee full. Weir drowns at 0.75mASD. Cannot gauge above 0.4mASD. Following recommendations from Hi Flows UK rating convergence project the ratings for Oldcoats Dyke for the period of record have been retro-fitted with the latest high flow section. FLOW RECORD: June 2007 high flows unreliable as level beyond limit of measuring structure. Flows from October 1999 reprocessed in 2012 to account for negative shift in gaugings of unknown cause - resulting in lowering of low flow estimates. Following recommendations from Hi Flows UK rating convergence project the ratings for Oldcoats Dyke for the period of record have been retro-fitted with the latest high flow section. FLOW REGIME: Base flow dominated with substantial augmentation of low flows from WRW.
+CATCHMENT,Moderate relief catchment, sited where the river crosses the Triassic Sandstone outcrop, mostly draining Magnesian Limestone but includes Coal Measures, Permian Marl & sandstones. Rural catchment arable farming as dominant land use.
+Qmed Suitability,Not gauged to within 30% of QMED. QMED above modular limit.
+Pooling Suitability,QMED above modular limit.
+[END]

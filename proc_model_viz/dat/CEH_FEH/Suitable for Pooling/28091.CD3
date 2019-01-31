@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 28091
+[END]
+[CDS DETAILS]
+NAME,Ryton
+LOCATION,Blyth
+NOMINAL AREA,  228.23
+NOMINAL NGR,4631,3871
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,463150,387150
+CENTROID NGR,GB,455874,383901
+DTM AREA,  228.23
+ALTBAR,  71
+ASPBAR, 79
+ASPVAR,0.26
+BFIHOST,0.758
+DPLBAR, 18.39
+DPSBAR, 31.5
+FARL,0.957
+FPEXT,0.0908
+LDP, 40.05
+PROPWET,0.30
+RMED-1H, 11.4
+RMED-1D, 31.7
+RMED-2D, 41.8
+SAAR, 646
+SAAR4170, 626
+SPRHOST,17.71
+URBCONC1990, 0.769
+URBEXT1990,0.0682
+URBLOC1990, 1.098
+URBCONC2000, 0.864
+URBEXT2000,0.0715
+URBLOC2000, 1.117
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Electromagnetic station in a straight reach, installed in March 1984 downstream of a gentle bend to replace Serlby Park (28016) - data transmitted to West Stockwith pumping station to control regime to the tidal Trent. GENERAL: Electromagnetic station in a straight reach, installed March 1984 downstream of a gentle bend - replacing station 28016. Data transmitted to West Stockwith pumping station to control regime to the tidal Trent. Extreme events only would overtop flood banks. Replaces 28016. STATION HYDROMETRY: Electromagnetic gauge with only the most extreme flows overtopping. Good quality data except at low flows. FLOW REGIME: Deep, slow, baseflow dominated flow regime. Moderate net effect on flows by WRWs and abstraction.
+CATCHMENT,Moderate and low relief catchment. Headwaters drain Magnesian Limestone; bulk underlain by Permian Marl and Sherwood Sandstone. Mainly Drift free. Apart from Worksop, wholly rural, mainly arable farming.
+Qmed Suitability,Gauged above QMED. All flows in bank, flows measured directly by EM gauge
+Pooling Suitability,All flows in bank, flows measured directly by EM gauge
+[END]

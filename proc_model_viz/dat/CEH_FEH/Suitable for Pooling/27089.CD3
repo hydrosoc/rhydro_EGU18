@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 27089
+[END]
+[CDS DETAILS]
+NAME,Wharfe
+LOCATION,Tadcaster
+NOMINAL AREA,  815.35
+NOMINAL NGR,4477,4441
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,447700,444150
+CENTROID NGR,GB,410930,458205
+DTM AREA,  815.35
+ALTBAR, 258
+ASPBAR,128
+ASPVAR,0.13
+BFIHOST,0.416
+DPLBAR, 66.41
+DPSBAR,106.3
+FARL,0.930
+FPEXT,0.0576
+LDP,118.47
+PROPWET,0.41
+RMED-1H, 11.1
+RMED-1D, 40.2
+RMED-2D, 52.8
+SAAR,1130
+SAAR4170,1138
+SPRHOST,40.79
+URBCONC1990, 0.628
+URBEXT1990,0.0115
+URBLOC1990, 0.571
+URBCONC2000, 0.776
+URBEXT2000,0.0180
+URBLOC2000, 0.592
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Multi-path ultrasonic station. Early problems with siltation. Originally intended to replace 27002 but poor early performance meant both stations still open. GENERAL: Multi-path ultrasonic gauging station (cross configuration) installed in 1990 just u/s of tidal limit of the Wharfe. Bed scouring during 1991 flood necessitated recalibration. Initial problems with sand deposition due to over-wide channel. 27089 originally intended to replace 27002 (Flint Mill) - closure of 27002 has been delayed due to initially variable performance of Tadcaster. Cableway - moved from 27002 to 27089. STATION HYDROMETRY: No known bypassing, although does leave the banks d/s. Attenuation of u/s signal can be a problem in summer due to low velocity and thermal stratification of river. Rating for infilling gaps in ultrasonic data revised in 2014 and is used as a backup only. POT series all derived from ultrasonic data. Substitute rating from ultrasonic flow data used to infill gaps. At peak flows (>150 cumecs) data are verified by current metering and a rating curve is applied; station rated excellent for high flow measurement. FLOW RECORD: Low flows in May-June 2008, due to issues with Ultrasonic equipment, were infilled from the rating but should be treated with caution. Rating used to infill ultrasonic data gaps revised in 2014 and slightly increases low flows and decreases high flows by 10-15%. FLOW REGIME: Regulation effect of headwater reservoirs evident at low flows, small net export of water.
+CATCHMENT,Mainly Carboniferous Limestone, grits and Coal Measures, some Magnesian Limestone above Tadcaster. Signifcant outcrops of Boulder Clay and some alluvial deposits in valleys. Largely rural catchment - moorland, Pennine headwaters, arable farming and some urban development in the lower catchment. No known catchment changes.
+Qmed Suitability,Gauged above QMED. Full range ultrasonic flow gauge
+Pooling Suitability,Gauged beyond AMAX3. Full range ultrasonic with satisfactory correlation with Flint Mill.
+[END]

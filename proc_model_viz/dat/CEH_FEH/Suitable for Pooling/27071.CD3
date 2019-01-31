@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 27071
+[END]
+[CDS DETAILS]
+NAME,Swale
+LOCATION,Crakehill
+NOMINAL AREA, 1354.44
+NOMINAL NGR,4425,4733
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,442500,473300
+CENTROID NGR,GB,422328,495093
+DTM AREA, 1354.44
+ALTBAR, 182
+ASPBAR,116
+ASPVAR,0.10
+BFIHOST,0.436
+DPLBAR, 56.05
+DPSBAR, 66.9
+FARL,0.994
+FPEXT,0.1193
+LDP,116.15
+PROPWET,0.38
+RMED-1H, 10.8
+RMED-1D, 34.4
+RMED-2D, 43.7
+SAAR, 835
+SAAR4170, 872
+SPRHOST,39.86
+URBCONC1990, 0.548
+URBEXT1990,0.0090
+URBLOC1990, 0.713
+URBCONC2000, 0.742
+URBEXT2000,0.0130
+URBLOC2000, 0.749
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Crump weir in a catchment draining the North Yorkshire Dales and the Vale of York. Station superseded 27008 in 1980. All data is held against this station number. GENERAL: Crump profile weir (20m width) for low-moderate flows, with high flow calibration (velocity area) based on u/s cableway at Leckby Grange (27008). Gaugings now done using ARC-Boat. Weir was built in a new channel to the left of the natural one, and the river diverted into it. Fish and eel pass installed late 2014. This station superseded the velocity area station at Leckby Grange (27008) 3km u/s, which closed in 1980. 27008 had variable low flow control and weedgrowth. Weedgrowth was especially severe in 1976 and may still occasionally cause problems. All data for this site is held against this station number. STATION HYDROMETRY: Often drowns before levels reach the top of the wing walls. Flood banks can be breached u/s (left and possibly the right bank); bypassing may be cause of poor agreement with check gaugings at high stages. High flow calibration based on u/s cableway (at Leckby Grange, 27008). Gauged almost to maximum flow but significant high flow scatter. Comprehensive peak flow rating review (2010) significantly reduced high flows above around 0.9m stage to account for non-modular flows at the weir and to fit to recent high flow gaugings. Rating subject to change over time. Fish and eel pass designed to have negligible impact on weir discharge. FLOW RECORD: The AMAX record for Crakehill was combined with the early AMAX data from the closed Leckby station (27008) in the 27071.am WINFAP file to present a single long dataset from water year 1955 onwards. Flows prior to June 1980 derived exclusively from Leckby Grange (27008, July-August 1976 flows estimated). The AMAX data for Crakehill were used for the period of overlap in 1980-1984. FLOW REGIME: Sensibly natural regime, flashy response. No known artificial influences.
+CATCHMENT,Catchment drains North Yorkshire Dales, lower catchment in the flat Vale of York. Mixed geology - mainly Limestones, Sandstones (especially below Richmond) and Shales; substantial superficial deposits, predominantly Boulder Clay. Moorland and grassland in headwaters, Vale of York has substantial arable cover. No known catchment changes.
+Qmed Suitability,Gauged above QMED. Some scatter in gaugings evident.
+Pooling Suitability,Gauged beyond AMAX3. Some uncertainty once flow over bank. Recent gauging (Sep 2012) within 5% of new rating.
+[END]

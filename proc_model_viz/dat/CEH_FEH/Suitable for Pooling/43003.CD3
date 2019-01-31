@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 43003
+[END]
+[CDS DETAILS]
+NAME,Avon
+LOCATION,East Mills  Total
+NOMINAL AREA, 1459.45
+NOMINAL NGR,4158,1143
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,415850,114350
+CENTROID NGR,GB,405962,140938
+DTM AREA, 1459.45
+ALTBAR, 130
+ASPBAR,144
+ASPVAR,0.13
+BFIHOST,0.894
+DPLBAR, 55.81
+DPSBAR, 64.2
+FARL,0.985
+FPEXT,0.0694
+LDP, 95.13
+PROPWET,0.34
+RMED-1H, 10.7
+RMED-1D, 33.4
+RMED-2D, 43.8
+SAAR, 807
+SAAR4170, 838
+SPRHOST,10.21
+URBCONC1990, 0.557
+URBEXT1990,0.0149
+URBLOC1990, 0.883
+URBCONC2000, 0.750
+URBEXT2000,0.0163
+URBLOC2000, 0.845
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Combined site consisting of East Mills Weir and East Mills Flume. GENERAL: Combined site consisting East Mills Weir (43811) and East Mills Flume (43810). Weir is a compound Crump profile weir with central notch fish pass. Flume consists of a critical depth rectangular flume. STATION HYDROMETRY: This station is a combined site consisting of East Mills Weir and East Mills Flume. High flows for both structures gauged from Fordingbridge bypass road bridge until 2002. Bypassing was previously an issue but re-rating has been carried out at both structures. Combined flows for the 2 structures are produced by summing individual flows under 40cumecs. Above 40cumecs combined flows are derived by a separate mathematical relationship which takes the bypassing into account. Managed weed growth within d/s channel can cause non-modularity at flume and affects weir flows; since 01/01/2012 flows have been measured during times of non-modularity using a HADCP. Gaugings have proven it to be an accurate way of measuring flow at this site. Small irrigation carrier 3km upstream at Burgate bypasses gauge (normally <3% total flow). FLOW REGIME: A small irrigation carrier fed from the River Avon at Burgate about 2 miles upstream bypasses the gauging station and is later returned to the main channel, (normally >3% total flow). The abstraction controlled by one hatch.
+CATCHMENT,Predominantly permeable (Chalk) catchment. Land use is rural. No major catchment changes
+Qmed Suitability,Protected flow series with bypassing accounted for.
+Pooling Suitability,Protected flow series with bypassing accounted for.
+[END]

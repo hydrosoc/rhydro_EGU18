@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 27021
+[END]
+[CDS DETAILS]
+NAME,Don
+LOCATION,Doncaster
+NOMINAL AREA, 1252.87
+NOMINAL NGR,4569,4039
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,457000,404000
+CENTROID NGR,GB,435409,391201
+DTM AREA, 1252.87
+ALTBAR, 154
+ASPBAR, 77
+ASPVAR,0.20
+BFIHOST,0.492
+DPLBAR, 46.80
+DPSBAR, 76.7
+FARL,0.922
+FPEXT,0.0571
+LDP, 83.24
+PROPWET,0.34
+RMED-1H, 10.5
+RMED-1D, 35.9
+RMED-2D, 47.2
+SAAR, 800
+SAAR4170, 800
+SPRHOST,29.91
+URBCONC1990, 0.754
+URBEXT1990,0.1180
+URBLOC1990, 0.847
+URBCONC2000, 0.878
+URBEXT2000,0.1345
+URBLOC2000, 0.874
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Ultrasonic station in the centre of Doncaster. Heavily urbanised catchment and numerous artificial influences on the flow regime. GENERAL: Full range ultrasonic since 2000 in the centre of Doncaster. Previously a velocity-area station, 24m wide, formerly with cableway in a straight, embanked open channel reach from 1958. The ultrasonics are in an open channel control with significant hysteresis. New road bridge completed January 2001. STATION HYDROMETRY: By-passing via the Sheffield and South Yorkshire Navigation, 1km u/s and is measured at Long Sandall Lock. Significant scatter in gaugings above 1m stage. Recalibrated in late 1970s following removal of rubble weir (low flow control) due to measurement problems. Gauge zero was raised 1m in April 1978. Daily mean flow rating reviewed in 2014: Rating D implemented 11/01/1978-31/12/2000, Rating E implemented 01/01/2001 to present. Multiple peak flow ratings applied across period of record, the most recent is valid from September 1977. Rated by current meter gauging (by cableway 1977 to 2000). Extrapolated above 5.49m. Full range Ultrasonic since December 2000. Flood Studies Report (1975) grade A1 to 2.3m, B above this. FLOW RECORD: Intermittent records exist for as early as 1868 (see FSR), but they are not considered reliable, or representative of the modern catchment. Channel improvements, carried out in 1957, lowered water levels in the lower Don. Missing data 1976-1977 due to rubble weir removal. Post-1977 flows reprocessed in 1996 (increased flows >150 cumecs). November 2000 flood peak is believed to be underestimated. June 2007 flood peak gauged at c.350 cumecs by ADVP. FLOW REGIME: River regulators and sluices on the Rother and Dearne tributaries control the operation of washlands in extreme floods (> 10-year return period). Only thought to have been operated twice: November 2000 and in 1982. The heavily reservoired Don headwaters and Chesterfield and Clowne areas provide for a net import for supply via supply from the Derwent Valley and groundwater abstractions. There is a network of controlled washlands on the Don and its tributaries that help to protect urban areas.
+CATCHMENT,The catchment drains the east flank of the Pennines above Chesterfield, Sheffield and Barnsley. These areas comprise high moorland headwaters and heavily urbanised and industrialised valleys. Mixed geology: Millstone Grit (headwaters), Coal Measures, Magnesian Limestone and Triassic Sandstones. Moorland headwaters, mixed agriculture in valleys with significant urban areas, including Doncaster. The eastern part of the catchment is low-lying, and was historically marshland, being drained in the 17th and 18th centuries by Dutch engineers. Historic tree-clearing, particularly in the Rother and Dearne valleys. Old mining areas are commonly subject to subsequent land-subsidence which poses a problem for the extensive raised flood banks. Once agricultural, Doncaster and Askern are now largely urbanised. Recent landscaping of Rother Country Park included significant tree planting. River regulators have been introduced over a period of time from 1958 to 1988.
+Qmed Suitability,Gauged well beyond QMED with all flow contained
+Pooling Suitability,Gauged beyond AMAX3. No flow bypasses station.
+[END]

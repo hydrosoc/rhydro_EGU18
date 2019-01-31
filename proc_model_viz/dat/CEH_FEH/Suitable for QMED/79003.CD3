@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 79003
+[END]
+[CDS DETAILS]
+NAME,Nith
+LOCATION,Hall Bridge
+NOMINAL AREA,  153.02
+NOMINAL NGR,2684,6129
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,268400,613000
+CENTROID NGR,GB,260222,610468
+DTM AREA,  153.02
+ALTBAR, 330
+ASPBAR,355
+ASPVAR,0.16
+BFIHOST,0.358
+DPLBAR, 15.84
+DPSBAR,121.6
+FARL,0.972
+FPEXT,0.0674
+LDP, 28.76
+PROPWET,0.63
+RMED-1H, 10.6
+RMED-1D, 45.0
+RMED-2D, 62.8
+SAAR,1512
+SAAR4170,1568
+SPRHOST,45.45
+URBCONC1990,-9999.000
+URBEXT1990,0.0017
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0029
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station. Largely natural with controlled storage of Afton Res. having occasional significant effect. GENERAL: Velocity area station. Straight and uniform approach. STATION HYDROMETRY: All flows contained by bridge opening below station which is likely high flow control. Low flows controlled by riffles near bridge. Rating derived from current meter gaugings. Ratings extrapolated above 2.0m (approx. 65 cumecs, about 0.9 QMED), and rating above 10 cumecs is believed to have shifted considerably since mid 2006 to now over-predict flows. High flows since this time should therefore be treated with caution. Unable to gain access to the station during highest events to be able to gauge. Simple extrapolation for high flows. FLOW RECORD: Treat Dec 2013 peak with caution. FLOW REGIME: Largely natural with controlled storage of Afton Res. having occasional significant effect. Public water supply only affects low flows.
+CATCHMENT,Silurain shales and Coal Measures overlain by, predominantly, Boulder Clay with Peat in the headwaters. Patches of volcanic rocks. Upland catchment supporting pasture and rough grazing; some forest cover. U-shaped valley, notable floodplains. No significant catchment changes known.
+Qmed Suitability,Gauged to QMED
+Pooling Suitability,Possible backing up from the bridge during large events and absence of gaugings above QMED
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 28027
+[END]
+[CDS DETAILS]
+NAME,Erewash
+LOCATION,Sandiacre
+NOMINAL AREA,  183.70
+NOMINAL NGR,4482,3364
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,448250,336400
+CENTROID NGR,GB,446002,347002
+DTM AREA,  183.70
+ALTBAR, 100
+ASPBAR,161
+ASPVAR,0.14
+BFIHOST,0.409
+DPLBAR, 16.76
+DPSBAR, 52.4
+FARL,0.925
+FPEXT,0.0654
+LDP, 33.98
+PROPWET,0.35
+RMED-1H, 10.6
+RMED-1D, 31.4
+RMED-2D, 39.6
+SAAR, 708
+SAAR4170, 719
+SPRHOST,35.39
+URBCONC1990, 0.761
+URBEXT1990,0.1087
+URBLOC1990, 0.893
+URBCONC2000, 0.885
+URBEXT2000,0.1549
+URBLOC2000, 0.947
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Multi path Ultrasonic time-of-flight gauge. River spilts flows through two rectangular flood drainage channels. GENERAL: Two rectangular concrete flood drainage channels, each 3.9m wide, 3.09m deep, separated by divide wall 1m high. Informal low flow controls installed 1981; data improved but use with care (esp. low flows). Closed 1984, reopened 1991 as multi-path ultrasonic gauge. STATION HYDROMETRY: Ultrasonic site - no ratings available. Pre 1972 the data is from CEH data holdings. Between 1972 and 1992 the data is the sum of the flows from the left (4027) and right (4227) channels. After 1992 the total flows are measured using an ultrasonic gauge. Unstable ratings. Informal low flow controls installed 1981; data improved but use with care (especially low flows). Closed 1984, reopened 1991 as a multiple ultrasonic operation. Stop boards can close one channel at low flows. All flows contained. FLOW REGIME: Substantial augmentation from mine drainage and mining towns' STW. Runoff influenced by groundwater abstraction/recharge. Runoff increased by effluent returns. Runoff reduced by industrial/agricultural abstraction. Substantial mining in catchment.
+CATCHMENT,Low to moderate relief catchment draining Carboniferous Coal Measures with Permian and Triassic rocks on east and south boundaries. Significant urban fraction, otherwise arable and grazing land use.
+Qmed Suitability,Gauged above QMED. All flows contained and ultrasonic appears to perform well.
+Pooling Suitability,Gauged to within 2% of AMAX3. All flows contained and ultrasonic appears to perform well.
+[END]

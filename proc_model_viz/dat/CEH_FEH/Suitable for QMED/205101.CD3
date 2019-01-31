@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+205101
+[END]
+[CDS DETAILS]
+NAME,Blackstaff
+LOCATION,Eason's
+NOMINAL AREA,   13.96
+NOMINAL NGR,3317,3723
+[END]
+[DESCRIPTORS]
+IHDTM NGR,Ireland,331750,372350
+CENTROID NGR,Ireland,330591,371140
+DTM AREA,   13.96
+ALTBAR,  54
+ASPBAR, 66
+ASPVAR,0.27
+BFIHOST,0.413
+DPLBAR,  2.93
+DPSBAR, 54.7
+FARL,0.997
+FPEXT,0.1628
+LDP,  5.54
+PROPWET,0.52
+RMED-1H,  9.8
+RMED-1D, 36.1
+RMED-2D, 49.1
+SAAR, 990
+SAAR4170, 990
+SPRHOST,36.76
+URBCONC1990,-2.000
+URBEXT1990,0.1982
+URBLOC1990, 0.928
+URBCONC2000, 0.926
+URBEXT2000,0.4229
+URBLOC2000, 0.863
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station. GENERAL: Velocity area station. Originally installed in 1976, which included the Ballymurphy sub-catchment, but was moved slightly upstream to upstream of an existing small weir when the Ballymurphy Stream was diverted in approximately 1978. STATION HYDROMETRY: River is culverted immediately downstream of the Eason's site where it flows through a series of industrial units, predominantly car garages and showrooms. Low flows gauged by wading; high flows off bridge (difficult due to flashy response). High flow rating from current meter gaugings. Simple extrapolation beyond 1.24m (max gauging). Recent gaugings have allowed calibration of upper end of rating. FLOW RECORD: Sometimes blockages at a grille hundreds of metres downstream have affected levels.
+CATCHMENT,Solid geology - south-eastern half underlain by permeable Triassic sandstone (Sherwood) that is overlain in turn by impermeable Triassic mudstone (Mercia) and Jurassic mudstone. Thin Cretaceous chalk is indurated and overlain by Palaeogene basalt lava flows. Drift geology - glacial till covers much of the area with extensive sand and gravel, estuarine clay (sleech) and river alluvium at the southern end of the catchment. Flashy response.
+Qmed Suitability,Station now closed but maximum gauged flow was 0.8 times the QMED. Station is fully contained and the rating gives a good fit for the check gaugings.
+Pooling Suitability,Does not meet numerical criteria for pooling suitability. Although all flows contained significant scatter in gaugings makes extrapolation unreliable.
+[END]

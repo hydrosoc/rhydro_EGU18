@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 34006
+[END]
+[CDS DETAILS]
+NAME,Waveney
+LOCATION,Needham Mill
+NOMINAL AREA,  376.07
+NOMINAL NGR,6229,2811
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,622900,281150
+CENTROID NGR,GB,613458,275350
+DTM AREA,  376.07
+ALTBAR,  46
+ASPBAR, 44
+ASPVAR,0.06
+BFIHOST,0.422
+DPLBAR, 20.96
+DPSBAR, 15.9
+FARL,0.998
+FPEXT,0.1806
+LDP, 35.27
+PROPWET,0.28
+RMED-1H, 10.8
+RMED-1D, 27.3
+RMED-2D, 35.4
+SAAR, 594
+SAAR4170, 604
+SPRHOST,36.60
+URBCONC1990, 0.521
+URBEXT1990,0.0129
+URBLOC1990, 0.937
+URBCONC2000, 0.706
+URBEXT2000,0.0137
+URBLOC2000, 0.948
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Main weir and side weir gauging a rural catchment with clay and Chalk bedrock, weed growth and u/s sluice action apparent in flow record. GENERAL: Compound Crump weir 8.5m wide in main channel with single crested Crump in mill bypass. STATION HYDROMETRY: Suffers from weed growth problems. Sluice action at mill 2.4 km u/s is infrequent but evident in flow records; sluice rarely open after 1985. Multiple ratings applied to period of record. Rating shapes comparable to bankfull/QMED before they diverge. Reasonable fit to gaugings. Rating takes account of both the main weir and the mill bypass. FLOW RECORD: Record affected by the Waveney Groundwater Scheme between 1975 and 1979. FLOW REGIME: Surface water abstractions, and use of river gravels as an aquifer, influence flows but overall impact is minimal.
+CATCHMENT,Clay and Chalk largely overlain with Boulder Clay. Rural, predominantly arable land.
+Qmed Suitability,Gauged to within 5% of QMED. All ratings comparable to bankfull.
+Pooling Suitability,Few high flow gaugings. Ratings are different beyond bankfull and neither can not be validated beyond QMED.
+[END]

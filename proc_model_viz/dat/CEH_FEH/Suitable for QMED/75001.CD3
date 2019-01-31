@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 75001
+[END]
+[CDS DETAILS]
+NAME,St Johns Beck
+LOCATION,Thirlmere Reservoir
+NOMINAL AREA,   41.87
+NOMINAL NGR,3313,5195
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,331300,519500
+CENTROID NGR,GB,331637,515084
+DTM AREA,   41.87
+ALTBAR, 465
+ASPBAR,324
+ASPVAR,0.14
+BFIHOST,0.380
+DPLBAR,  7.01
+DPSBAR,285.4
+FARL,0.721
+FPEXT,0.0178
+LDP, 14.51
+PROPWET,0.71
+RMED-1H, 13.1
+RMED-1D, 69.1
+RMED-2D, 93.5
+SAAR,2598
+SAAR4170,2676
+SPRHOST,52.29
+URBCONC1990,-9999.000
+URBEXT1990,0.0000
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0000
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Compound Crump weir gauging the compensation and flood discharges from Thirlmere reservoir. GENERAL: Compound Crump profile weir, 13.6m wide overall, central notch 1.96m wide and 0.31m lower than flanking crests, each 5.5m wide. Station building raised above flood level in 2001. Station measures compensation and flood spill discharges from Thirlmere reservoir approx. 1km upstream. Replaced a rectangular thin-plate weir in January 1973. STATION HYDROMETRY: Modular limit 0.7m (centre crest), 0.8m (side crests), 1.04m (full structure). Station is bypassed on both banks at high flows, with significant out of bank flow at the highest flows. The bridge downstream can be blocked by debris, backing-up the weir. During the 2005 event the bridge was almost totally blocked with debris causing a significant rise in levels. The highest flows have been compared with the spillweir (Thirlmere Dam Wall) at Thirlmere Reservoir. Rating from theory and check gaugings to 1m, above this from weir equations at Thirlmere Dam Wall and stage-stage relationship between the two stations. More high flow gaugings necessary to confirm or improve the rating. FLOW RECORD: Daily mean flow record begins in 1935 and is missing from 1937-45, 1968-69 and 1970-72. Naturalised monthly flows 1964-1966. Confidence in the flow record before the installation of the compound Crump weir in 1973 is low. FLOW REGIME: Flow pattern reflects heavy abstraction, compensation flows and flood spill discharges of Thirlmere 1km upstream. Natural water level of Thirlmere was raised 17m by impounding dam at beginning of 20th Century. Abstractions from Thirlmere Reservoir for Manchester, pumped from Dunmail Raise. Catchwater channel diverts streams from Mill Gill to Helvellyn Gill into Thirlmere Reservoir at all but highest flows.
+CATCHMENT,Catchment composed entirely of impervious Ordovician Borrowdale Volcanics, runoff from these into the reservoir is rapid. Rock outcrop, rough pasture with heather. Sheep grazing, some forestry
+Qmed Suitability,A Crump weir gauged to within 4% of QMED.
+Pooling Suitability,No gaugings above QMED, and although high flows derived from (& checked against) outflow from Thirlmere, still some uncertainty, and variable effect of downstream access bridge.
+[END]

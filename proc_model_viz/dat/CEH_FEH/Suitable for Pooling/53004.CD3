@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 53004
+[END]
+[CDS DETAILS]
+NAME,Chew
+LOCATION,Compton Dando
+NOMINAL AREA,  128.87
+NOMINAL NGR,3648,1647
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,364800,164750
+CENTROID NGR,GB,357938,160243
+DTM AREA,  128.87
+ALTBAR, 120
+ASPBAR, 28
+ASPVAR,0.24
+BFIHOST,0.591
+DPLBAR, 15.69
+DPSBAR, 70.9
+FARL,0.842
+FPEXT,0.0450
+LDP, 29.37
+PROPWET,0.35
+RMED-1H, 11.2
+RMED-1D, 38.6
+RMED-2D, 51.0
+SAAR, 987
+SAAR4170, 958
+SPRHOST,28.88
+URBCONC1990, 0.483
+URBEXT1990,0.0088
+URBLOC1990, 0.869
+URBCONC2000, 0.615
+URBEXT2000,0.0093
+URBLOC2000, 0.947
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Trapezoidal critical depth flume in deeply incised channel opened in 1958 north of the village of Compton Dando. Ultrasonic gauge installed 2007. GENERAL: Station opened in 1958 north of the village of Compton Dando. Trapezoidal critical depth flume in deeply incised channel 5-6 m deep. Wide natural flood plain to north, terrace to south. Ultrasonic gauge installed 11/2007. STATION HYDROMETRY: Full range station but overestimates flows above 2m owing to backing-up. Two peak flow ratings applied across period of record. The top two segments were added following some high flow modelling work. FLOW RECORD: The peak flow associated with the event is roughly estimated as 100 cumecs (previously 226 cumecs) but this is very uncertain due to significant extrapolation and debris in the flume. FLOW REGIME: Large storage reservoir of Chew Valley Lake in headwaters; controls approx 40% of catchment area. Flows significantly affected by seasonal compensation flows and surface water abstractions for public water supply and industry.
+CATCHMENT,Catchment of mixed geology - predominantly clay. Headwaters fed by limestone springs. Steep valleys downstream of reservoir on impermeable Coal Measures. Land-use is rural. Chew Valley Lake (a reservoir), provides significant storage -started to fill in the mid 1950s.
+Qmed Suitability,Gauged above QMED. High confidence in rating.
+Pooling Suitability,Gauged to within 18% of AMAX3. Confident in model derived rating beyond QMED.
+[END]

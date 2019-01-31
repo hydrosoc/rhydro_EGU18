@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 44009
+[END]
+[CDS DETAILS]
+NAME,Wey
+LOCATION,Broadwey
+NOMINAL AREA,    8.00
+NOMINAL NGR,3666, 838
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,366600,83900
+CENTROID NGR,GB,365870, 85605
+DTM AREA,    8.00
+ALTBAR, 101
+ASPBAR,191
+ASPVAR,0.39
+BFIHOST,0.779
+DPLBAR,  3.00
+DPSBAR,117.5
+FARL,1.000
+FPEXT,0.0157
+LDP,  6.29
+PROPWET,0.38
+RMED-1H, 10.9
+RMED-1D, 37.9
+RMED-2D, 51.8
+SAAR, 894
+SAAR4170, 937
+SPRHOST,17.40
+URBCONC1990, 0.268
+URBEXT1990,0.0075
+URBLOC1990, 0.307
+URBCONC2000, 0.640
+URBEXT2000,0.0233
+URBLOC2000, 0.301
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Flat V crump profile weir. GENERAL: Flat V Crump profile weir, crest 4.5m wide, crest slopes 1:10. STATION HYDROMETRY: Almost a full range station but bypassed along a road 1/2 mile u/s at highest flows. Structure capacity 3.3cumecs. Weedy river. First hand observation during 07/2012 event indicates the weir was still modular at 0.5m. Theoretical original rating. Upper limit of rating is 0.34m/1.02m3/s and flows are extrapolated beyond this limit. Flows affected by pumping at Friar Waddon. One peak flow rating across the period of record. FLOW REGIME: Natural to within 10% at Q95. Sensibly natural regime, although substantial Gw abstraction affects headwaters at Upwey. Some hatch activity upstream but does not affect average daily flow.
+CATCHMENT,Predominantly a limestone catchment, Kimmeridge Clay, Portland Sand, Purbeck beds. Land use is mainly pastoral agriculture. Runoff figures suggest topographical and hydrological catchment areas do not coincide. No major catchment changes.
+Qmed Suitability,Although not gauged to within 30% of QMED., theoretical rating expected to apply to QMED.
+Pooling Suitability,Few high flow gaugings. Rating can not be validated beyond QMED.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 33052
+[END]
+[CDS DETAILS]
+NAME,Swaffham Lode
+LOCATION,Swaffham Bulbeck
+NOMINAL AREA,   33.13
+NOMINAL NGR,5552,2628
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,555300,262850
+CENTROID NGR,GB,555300,262850
+DTM AREA,   33.13
+ALTBAR,  30
+ASPBAR,292
+ASPVAR,0.39
+BFIHOST,0.841
+DPLBAR,  6.82
+DPSBAR, 25.6
+FARL,0.998
+FPEXT,0.2017
+LDP, 12.22
+PROPWET,0.26
+RMED-1H, 10.6
+RMED-1D, 29.0
+RMED-2D, 35.6
+SAAR, 567
+SAAR4170, 571
+SPRHOST,13.70
+URBCONC1990, 0.010
+URBEXT1990,0.0100
+URBLOC1990, 0.694
+URBCONC2000, 0.744
+URBEXT2000,0.0121
+URBLOC2000, 0.690
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Crump profile weir gauging a Chalk catchment with predominantly arable land use and significant artificial deposits. GENERAL: Crump profile weir, 2.5m broad (wing wall height 1.6m), situated immediately u/s of road bridge. Prior to 1973 thin-plate weir, 1.45m broad. Also called Gutter Bridge. STATION HYDROMETRY: Current theoretical rating fits well to gaugings. Two ratings applied across period of record, the most recent is valid from December-1973 when crump weir installed necessitating a change in rating. FLOW REGIME: Regime influenced by gw abstraction/recharge. Significant groundwater abstractions for PWS. Runoff increased by effluent returns.
+CATCHMENT,Chalk with no appreciable superficial deposits. Predominantly arable land use. Catchment boundary manually digitised due to issue with IHDTM incorrectly delineating the upper catchment.
+Qmed Suitability,Gauged above QMED. Flow remains modular with good fit to gaugings.
+Pooling Suitability,Weir expected to drown at approximately 0.33m which is not accounted for in current rating.
+[END]

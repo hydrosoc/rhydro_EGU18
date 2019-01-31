@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+205011
+[END]
+[CDS DETAILS]
+NAME,Annacloy
+LOCATION,Kilmore Bridge
+NOMINAL AREA,  186.21
+NOMINAL NGR,3448,3508
+[END]
+[DESCRIPTORS]
+IHDTM NGR,Ireland,344850,350850
+CENTROID NGR,Ireland,337716,353824
+DTM AREA,  186.21
+ALTBAR,  95
+ASPBAR, 85
+ASPVAR,0.15
+BFIHOST,0.440
+DPLBAR, 15.16
+DPSBAR, 66.3
+FARL,0.960
+FPEXT,0.1041
+LDP, 29.58
+PROPWET,0.53
+RMED-1H, 10.4
+RMED-1D, 38.7
+RMED-2D, 51.0
+SAAR, 968
+SAAR4170, 971
+SPRHOST,44.65
+URBCONC1990,-2.000
+URBEXT1990,0.0235
+URBLOC1990, 0.941
+URBCONC2000, 0.741
+URBEXT2000,0.0113
+URBLOC2000, 0.898
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station gauging a predominantly rural catchment with responsive regime. GENERAL: Velocity area station. STATION HYDROMETRY: Weed growth can affect low flow levels and bank vegetation can affect high flows. Further downstream, the river becomes flat and discharges through the Quoile Barrage. Goes out of bank on rb but contained up to more than QMED. Low flows gauged by wading, u/s at the bridge. High flow rating derived from current meter gaugings (cableway). Simple extrapolation beyond 60.4m3/s (max gauging). FLOW RECORD: Daily flows for full period of record reprocessed in 2002. FLOW REGIME: Responsive regime. No significant artificial influences.
+CATCHMENT,Solid geology - Ordovician/Silurian greywacke sandstones and shales form indurated bedrock. Drift geology - rock near surface, drumlinised glacial till, peat and limited river alluvium. Predominantly improved grassland, some urban development (including Ballynahinch).
+Qmed Suitability,Good range of gaugings with flows recorded up to 1.72 times QMED. The station is contained at QMED
+Pooling Suitability,Station is contained at full range of flows with a representative growth curve
+[END]

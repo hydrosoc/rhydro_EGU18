@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 44002
+[END]
+[CDS DETAILS]
+NAME,Piddle
+LOCATION,Baggs Mill
+NOMINAL AREA,  183.79
+NOMINAL NGR,3913, 876
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,391300,87650
+CENTROID NGR,GB,377763, 97463
+DTM AREA,  183.79
+ALTBAR, 105
+ASPBAR,143
+ASPVAR,0.21
+BFIHOST,0.860
+DPLBAR, 23.16
+DPSBAR, 79.5
+FARL,0.969
+FPEXT,0.0537
+LDP, 38.29
+PROPWET,0.36
+RMED-1H, 11.0
+RMED-1D, 37.0
+RMED-2D, 48.9
+SAAR, 942
+SAAR4170,1004
+SPRHOST,12.93
+URBCONC1990,-9999.000
+URBEXT1990,0.0033
+URBLOC1990,-9999.000
+URBCONC2000, 0.575
+URBEXT2000,0.0051
+URBLOC2000, 0.904
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Rectangular critical depth 'humped' flume. Flume can be severely affected by weed growth. GENERAL: Rectangular critical depth 'humped' flume, 4.885m wide. Situated in left-hand bend of river. STATION HYDROMETRY: Cessation of weed cutting in upstream channel in 2009 has altered the pattern of bypassing. In 2012 the flume was severely affected by significant bypassing (up to 60% of flow by passing on 09/07/2012) due to weed growth upstream of the gauging station. Complex water meadow system 2-3km upstream can result in minor short-term fluctuations in the river flow. Theoretical rating; gaugings have confirmed rating at high flows. Two ratings applied across period of record. Most recent rating takes account of bypassing but is theoretical below 0.737. Limb two was derived by regression using gaugings with break point for bank full levels. FLOW REGIME: Minor groundwater abstractions in catchment.
+CATCHMENT,Upper catchment - Chalk; lower catchment - Tertiary, sands, gravels and clays. Land use is predominantly agricultural. No major changes to catchment.
+Qmed Suitability,Gauged to within 6% of QMED. Good fit to gaugings.
+Pooling Suitability,Gauged to within 24% of AMAX3. However, site bypassed at ~8m3s-1 which is not accounted for in rating.
+[END]

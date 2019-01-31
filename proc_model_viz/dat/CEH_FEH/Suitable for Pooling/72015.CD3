@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 72015
+[END]
+[CDS DETAILS]
+NAME,Lune
+LOCATION,Lunes Bridge
+NOMINAL AREA,  140.83
+NOMINAL NGR,3612,5029
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,361200,502900
+CENTROID NGR,GB,363047,505307
+DTM AREA,  140.83
+ALTBAR, 318
+ASPBAR, 46
+ASPVAR,0.07
+BFIHOST,0.440
+DPLBAR, 10.49
+DPSBAR,145.9
+FARL,0.993
+FPEXT,0.0549
+LDP, 20.14
+PROPWET,0.71
+RMED-1H, 12.1
+RMED-1D, 55.4
+RMED-2D, 80.0
+SAAR,1630
+SAAR4170,1597
+SPRHOST,39.48
+URBCONC1990,-9999.000
+URBEXT1990,0.0011
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0022
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Non-standard, compound bed control built into the invert of a railway bridge. Predominantly natural flow regime. GENERAL: Non-standard, compound bed control built into the invert of a railway bridge. Overall width 11.65m, with 4.2m wide central notch. Weir eroded. Station opened in 1978; repaired in 1989, June to September 2009, and February to May 2011. Station replaced Tebay (72010). STATION HYDROMETRY: Flows are fully contained in concrete channel under the bridge therefore rating applicable to full range. Erosion could affect low flows. High-flow gauging by cableway 10m upstream. Flows above a stage of 3.5m cannot be gauged accurately due to high velocities lifting the bomb up towards the surface. Separate daily flow ratings applied before and after works in Sept 2009. Peak flow rating derived from current meter gaugings, with top limb from hydraulic modelling. FLOW RECORD: No data for 29 days in summer 2009 and between February and May 2011 due to weir repairs. Repairs in 2010 and 2011 caused overestimation of low flows. FLOW REGIME: Predominantly natural flow regime.
+CATCHMENT,A predominantly rural catchment with high relief on the eastern edge of the Lake District. High relief, moorland catchment on Carboniferous Limestone and Silurian Shales. About a fifth of the catchment covered by Boulder Clay. No significant catchment changes.
+Qmed Suitability,Gauged to within 13% of QMED.
+Pooling Suitability,Although there is considerable scatter amongst the highest gaugings, this believed due to gauging difficulties rather than variable flows. All high flows contained in concrete channel. Rating extrapolated by hydraulic modelling.
+[END]

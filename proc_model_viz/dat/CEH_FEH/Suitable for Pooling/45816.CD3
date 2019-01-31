@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 45816
+[END]
+[CDS DETAILS]
+NAME,Haddeo
+LOCATION,Upton
+NOMINAL AREA,    6.81
+NOMINAL NGR,2988,1288
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,298850,128900
+CENTROID NGR,GB,300161,130641
+DTM AREA,    6.81
+ALTBAR, 310
+ASPBAR,210
+ASPVAR,0.24
+BFIHOST,0.590
+DPLBAR,  3.07
+DPSBAR, 81.0
+FARL,1.000
+FPEXT,0.0114
+LDP,  6.01
+PROPWET,0.37
+RMED-1H, 11.7
+RMED-1D, 41.8
+RMED-2D, 60.4
+SAAR,1210
+SAAR4170,1293
+SPRHOST,31.27
+URBCONC1990,-9999.000
+URBEXT1990,0.0000
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0050
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Flat V weir opened in 1993. GENERAL: Station opened in 01/1993 with a Flat V weir, crest length approximately 5m wide. Relatively straight approach with a stable bed. Velocity area station for higher flows. STATION HYDROMETRY: No bypassing or drowning out. Considered a good station. Station just upstream of Wimbleball Reservoir. Bankfull at 1.6m. One rating applied across period of record confirmed to 0.5m by spot flow gaugings. FLOW REGIME: Wimbleball Reservoir is just a few meters downstream.
+CATCHMENT,Relatively small catchment area consisting mostly of Upper Devonian sandstones, siltstones and slates. Land use is mainly rural and agricultural. No major urbanisation in the catchment. Wimbleball Reservoir impounded 1978.
+Qmed Suitability,Good fit to rating.
+Pooling Suitability,Although only confirmed to 0.5m, structure is thought to perform well at flows beyond QMED and valid to bankfull.
+[END]

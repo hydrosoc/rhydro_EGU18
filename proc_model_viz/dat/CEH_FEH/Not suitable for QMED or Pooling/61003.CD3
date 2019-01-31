@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 61003
+[END]
+[CDS DETAILS]
+NAME,Gwaun
+LOCATION,Cilrhedyn Bridge
+NOMINAL AREA,   28.77
+NOMINAL NGR,2005,2349
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,200500,234900
+CENTROID NGR,GB,204161,233808
+DTM AREA,   28.77
+ALTBAR, 233
+ASPBAR,306
+ASPVAR,0.19
+BFIHOST,0.494
+DPLBAR,  5.51
+DPSBAR,121.3
+FARL,1.000
+FPEXT,0.0238
+LDP, 10.97
+PROPWET,0.44
+RMED-1H, 12.1
+RMED-1D, 51.2
+RMED-2D, 67.2
+SAAR,1565
+SAAR4170,1474
+SPRHOST,38.98
+URBCONC1990,-9999.000
+URBEXT1990,0.0000
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0001
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station in straight reach. Natural flow regime. Station used for flood forecasting. GENERAL: Velocity area station in straight reach, width: 7.0m. Station used for flood forecasting. STATION HYDROMETRY: Road bridge u/s concentrates flow. Recorder sited on flood bank on right. Secondary in-river sensor installed due to intake pipe being exposed during low flows. Small low-lying area on lb at 2.5m. d/s bend in channel which can skew flow at high flows. Flashy catchment, lack of high flow gaugings. Single peak flow rating across period of record but significant scatter in gaugings, particularly at high flows. FLOW RECORD: Uncertainty in peak data, should be treated with caution. Flows since 1982 reprocessed in 2010 leading to decrease in both low and high flows. Flows since 11 October 1995 reprocessed in 2011 leading to to significant increase in high flows (which had been truncated under previous rating). FLOW REGIME: Steep-sided catchment - very responsive. Natural to within 10% at Q95.
+CATCHMENT,Small catchment within Pembrokeshire Coast National Park. Impermeable Ordovician formations with intrusions of igneous rock. Mainly grassland, dairy farming in lower areas and livestock on hills. Small patches of woodland and arable.
+Qmed Suitability,Gauged to within 21% of QMED but not considered reliable at QMED
+Pooling Suitability,Rating uncertain beyond QMED.
+[END]

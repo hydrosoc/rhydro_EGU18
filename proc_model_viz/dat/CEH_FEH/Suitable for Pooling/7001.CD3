@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+  7001
+[END]
+[CDS DETAILS]
+NAME,Findhorn
+LOCATION,Shenachie
+NOMINAL AREA,  415.59
+NOMINAL NGR,2825,8335
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,282550,833550
+CENTROID NGR,GB,273215,821453
+DTM AREA,  415.59
+ALTBAR, 560
+ASPBAR, 24
+ASPVAR,0.11
+BFIHOST,0.451
+DPLBAR, 25.60
+DPSBAR,138.9
+FARL,0.982
+FPEXT,0.0392
+LDP, 50.96
+PROPWET,0.68
+RMED-1H, 10.3
+RMED-1D, 39.4
+RMED-2D, 56.9
+SAAR,1217
+SAAR4170,1429
+SPRHOST,55.84
+URBCONC1990,-9999.000
+URBEXT1990,0.0002
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0002
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station in a responsive catchment with minimal storage. Catchment nested within 7002. GENERAL: Velocity area station; ; 50m wide river section. Prior to January 1978, station located 700m u/s and cableway 500m d/s of present site; spot gauging info for this site not available - hence less confidence in this period. Catchment nested within that of 7002. STATION HYDROMETRY: Boulder control. Ice formation is a common problem causing uncertainty in measuring flows. Liable to extremely rapid rises in level but adequately gauged to bankfull. Peak flow record revised in 2016, one rating adopted for the whole record derived from current meter gaugings, simple extrapolation beyond. No gaugings available pre-1978. Pre-1978 rating previously held has been corrected causing an increase of 12% in QMED. FLOW RECORD: Erroneously elevated flows e.g. Dec 1978 - Jan 1979, Dec 1981 - Jan 1982, Jan 2001, Dec 2009 - Jan 2010 and Dec 2010 due to ice formation. Full period of record peak flow data reviewed and released in April 2017 (WINFAP Files v5). Chart data between 1961 & 1982 was digitised in 2016. FLOW REGIME: Very responsive catchment with a natural regime. Minimal surface storage (but significant winter snow cover).
+CATCHMENT,Mountainous headwaters, often snowy in winter. Predominantly metamorphic with granitic intrusions. Extensive blanket peat over long, narrow, steep-sided catchment. Rough pasture and moorland, minimal tree cover. No significant catchment changes known.
+Qmed Suitability,Gauged above QMED
+Pooling Suitability,Contained in bank to AMAX3. Little scatter in gaugings.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 97002
+[END]
+[CDS DETAILS]
+NAME,Thurso
+LOCATION,Halkirk
+NOMINAL AREA,  414.48
+NOMINAL NGR,3131,9595
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,313100,959550
+CENTROID NGR,GB,307126,945994
+DTM AREA,  414.48
+ALTBAR, 149
+ASPBAR, 39
+ASPVAR,0.21
+BFIHOST,0.292
+DPLBAR, 29.54
+DPSBAR, 37.6
+FARL,0.861
+FPEXT,0.1083
+LDP, 58.44
+PROPWET,0.58
+RMED-1H,  8.4
+RMED-1D, 33.8
+RMED-2D, 46.9
+SAAR,1058
+SAAR4170,1020
+SPRHOST,55.23
+URBCONC1990,-9999.000
+URBEXT1990,0.0001
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0003
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station; 50% of the catchment drains through Loch More. GENERAL: Velocity area station, about 30m wide STATION HYDROMETRY: Stable rock bar control. To date all flows contained. Adequately rated to bankfull but difficulty in c/m low flows. Ratings derived from current meter gaugings up to 171 cumecs (about 1.4QMED), simple extrapolation beyond. Peak flow rating was revised in 2003 (by SEPA) and a new single rating for peak flows only was judged to be suitable for whole period of record. FLOW REGIME: 50% of catchment drains through Loch More which is used for river regulation (mainly freshets for fishing). Public water supply is taken from Loch Calder - this loch would naturally drain into both the Thurso and Forss catchments, but the outlet to Forss to the North is blocked by a barrage. Average net abstraction from Loch Calder 5% of long-term average runoff.
+CATCHMENT,Upland headwaters. Mixed bedrock permeability with about 1/3 impermeable, largely overlain by superficial deposits. Blanket peat cover. Land use is moorland and rough pasture with some tree cover. Extensive afforestation of upper catchment from late 1970s. Catchment characterised by small lochs.
+Qmed Suitability,No comment
+Pooling Suitability,No comment
+[END]

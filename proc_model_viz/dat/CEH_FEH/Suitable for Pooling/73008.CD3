@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 73008
+[END]
+[CDS DETAILS]
+NAME,Bela
+LOCATION,Beetham
+NOMINAL AREA,  127.43
+NOMINAL NGR,3496,4805
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,349600,480600
+CENTROID NGR,GB,355396,484837
+DTM AREA,  127.43
+ALTBAR, 136
+ASPBAR,243
+ASPVAR,0.21
+BFIHOST,0.529
+DPLBAR, 14.19
+DPSBAR, 88.0
+FARL,0.952
+FPEXT,0.0931
+LDP, 29.33
+PROPWET,0.68
+RMED-1H, 10.5
+RMED-1D, 43.7
+RMED-2D, 56.7
+SAAR,1294
+SAAR4170,1305
+SPRHOST,33.01
+URBCONC1990,-9999.000
+URBEXT1990,0.0029
+URBLOC1990,-9999.000
+URBCONC2000, 0.557
+URBEXT2000,0.0097
+URBLOC2000, 0.590
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Flat V weir, velocity area for medium/high flows. Minor impact from Killington Reservoir. GENERAL: Opened July 1969. Flat V weir 18.9m across, 1:20 cross slope. Velocity area for medium/high flows. STATION HYDROMETRY: Severe algal and weed problems. Believed to become non-modular, but not to fully drown. No bypassing. No permanent cableway, but high flows well gauged to beyond QMED. One rating applied across period of record. Rating fits well to gaugings. FLOW REGIME: Minor impact from Killington Reservoir. Low flows may be affected by discharges from paper mill.
+CATCHMENT,Predominantly Silurian slate with Carboniferous Limestone in lower reaches. Boulder Clay covers a large proportion of tje catchment, giving rise to arable farming and permanent grassland. The remainder is rough grazing. No significant catchment changes.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged to within 18% of AMAX3. No expected significant change in control or bypassing.
+[END]

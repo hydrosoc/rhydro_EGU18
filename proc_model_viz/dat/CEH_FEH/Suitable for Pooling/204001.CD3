@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+204001
+[END]
+[CDS DETAILS]
+NAME,Bush
+LOCATION,Seneirl Bridge
+NOMINAL AREA,  298.98
+NOMINAL NGR,2941,4362
+[END]
+[DESCRIPTORS]
+IHDTM NGR,Ireland,294200,436250
+CENTROID NGR,Ireland,303070,432467
+DTM AREA,  298.98
+ALTBAR, 119
+ASPBAR,245
+ASPVAR,0.17
+BFIHOST,0.561
+DPLBAR, 23.32
+DPSBAR, 43.8
+FARL,0.992
+FPEXT,0.1640
+LDP, 46.75
+PROPWET,0.61
+RMED-1H,  8.2
+RMED-1D, 36.3
+RMED-2D, 48.6
+SAAR,1116
+SAAR4170,1154
+SPRHOST,29.33
+URBCONC1990,-0.002
+URBEXT1990,0.0084
+URBLOC1990, 0.574
+URBCONC2000,-9999.000
+URBEXT2000,0.0026
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area with cableway and natural control. GENERAL: Velocity area station. STATION HYDROMETRY: Stable bed with section control. Out of bank at flows above QMED. The rating is derived from current meter gaugings. Simple extrapolation occurs above approx 63m3/s (highest gauging). FLOW RECORD: Full period of record daily flows reprocessed in 2002 (but existing data retained for 1974 and Oct/Nov 1973). FLOW REGIME: Altnahinch reservoir upstream, impact is minor.
+CATCHMENT,Solid geology - the area is mostly underlain by Palaeogene basalt lava flows. Beneath basalt occurs permeable Triassic sandstone (Sherwood) that is overlain by indurated Cretaceous chalk. Impermeable Oligocene Lough Neagh Group clays and lignite underlie the south-west of the area, while the east is composed of Dalradian rock types that form a generally impermeable basement composed of metamorphosed, schistose sandstone, shale, limestone and basic igneous intrusive and extrusive lithologies. Drift geology - extensive glacial till with sand and gravel around the River Bush and other major valleys. Rock near surface and extensive post-glacial peat cover on high ground with restricted development of river alluvium in valleys. Predominantly grassland with some horticulture (mainly potatoes), coniferous woodland and shrub heath. Contains the town of Ballymoney.
+Qmed Suitability,Station contained at high flows and has a good range of gaugings with a maximum gauged flow to QMED ratio of 1.01.
+Pooling Suitability,Gets out of bank during extreme events but is acceptable for pooling.
+[END]

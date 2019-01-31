@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 31005
+[END]
+[CDS DETAILS]
+NAME,Welland
+LOCATION,Tixover
+NOMINAL AREA,  419.62
+NOMINAL NGR,4970,2996
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,497000,299650
+CENTROID NGR,GB,477728,293383
+DTM AREA,  419.62
+ALTBAR, 111
+ASPBAR, 98
+ASPVAR,0.11
+BFIHOST,0.377
+DPLBAR, 34.81
+DPSBAR, 50.9
+FARL,0.971
+FPEXT,0.0980
+LDP, 58.21
+PROPWET,0.30
+RMED-1H, 12.1
+RMED-1D, 31.7
+RMED-2D, 40.4
+SAAR, 636
+SAAR4170, 644
+SPRHOST,45.06
+URBCONC1990, 0.594
+URBEXT1990,0.0081
+URBLOC1990, 1.058
+URBCONC2000, 0.767
+URBEXT2000,0.0131
+URBLOC2000, 1.120
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Station measuring peak flows from a rural catchment with mixed geology and some artificial influences. GENERAL: Rated VA station with cableway. A Crump weir at Barrowden upstream measures the low flow range up to 4.3 cumecs, with Tixover used above this. STATION HYDROMETRY: Sluices at Doddington downstream affect flow below 11.33 cumecs, but are always open during high floods. Channel works as part of the Stamford to Market Harborough improvement scheme in 1971 affected the rating at Tixover - hence new rating from 01/10/1971. Two ratings applied across period of record, the most recent is valid from 01/10/1971 after channel works were conducted. Both ratings assume gates fully open at Doddington. FLOW REGIME: Abstraction upstream at Eye Brook Reservoir.
+CATCHMENT,Geology mixed, predominantly very low permeability, mostly covered with Boulder Clay. Land use mainly rural.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged to within 20% of AMAX3. Reasonable fit to gaugings.
+[END]

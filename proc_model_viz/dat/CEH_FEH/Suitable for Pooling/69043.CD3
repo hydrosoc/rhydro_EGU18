@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 69043
+[END]
+[CDS DETAILS]
+NAME,Irk
+LOCATION,Collyhurst Weir
+NOMINAL AREA,   72.30
+NOMINAL NGR,3848,3996
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,384850,399700
+CENTROID NGR,GB,388222,405128
+DTM AREA,   72.30
+ALTBAR, 116
+ASPBAR,229
+ASPVAR,0.35
+BFIHOST,0.510
+DPLBAR, 11.58
+DPSBAR, 45.3
+FARL,0.924
+FPEXT,0.1143
+LDP, 20.57
+PROPWET,0.57
+RMED-1H, 11.0
+RMED-1D, 36.2
+RMED-2D, 49.6
+SAAR,1026
+SAAR4170,1049
+SPRHOST,31.73
+URBCONC1990, 0.814
+URBEXT1990,0.2841
+URBLOC1990, 0.964
+URBCONC2000, 0.897
+URBEXT2000,0.3899
+URBLOC2000, 0.965
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Curved non-standard round nosed broad-crested weir to replace Scotland Weir (69003). Gauges a catchment with moorland headwaters but urbanised lower catchment. GENERAL: Curved non-standard round-nosed broad-crested weir, 2m high, at the end of a formalised brick-walled reach. Opened April 1995 to replace Scotland Weir (69003). STATION HYDROMETRY: Stilling well with shaft encoders. External pressure sensor in river. Weir is insensitive but better than Scotland Weir. Gaugings carried out using a hand-line since 1985 (before station opened); no room for a cableway for high flow gaugings. Single peak flow rating applied across period of record developed from current meter gaugings since 04/10/1995, with modelled top-end. Algal growth up to 5cm deep can occur on weir crest. FLOW REGIME: Many industrial abstractions and discharges and one small reservoir upstream.
+CATCHMENT,Solid geology; Coal Measures in the headwaters with Sherwood Sandstone and Permian marls in the lower catchment. Catchment entirely overlain by Boulder Clay and sands and gravels. The river rises in open moorland before entering the densely populated and urbanised Lower Irk catchment, which includes Oldham and Manchester. No catchment changes known.
+Qmed Suitability,Although not gauged to within 30% of QMED, measured flows in this range are thought to be reliable as they are consistent with those at Scotland Weir.
+Pooling Suitability,Few high flow gaugings but high flows consistent with Scotland Weir record and thought to be suitable for pooling.
+[END]

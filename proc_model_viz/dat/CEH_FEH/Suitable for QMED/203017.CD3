@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+203017
+[END]
+[CDS DETAILS]
+NAME,Upper Bann
+LOCATION,Dynes Bridge
+NOMINAL AREA,  315.94
+NOMINAL NGR,3043,3511
+[END]
+[DESCRIPTORS]
+IHDTM NGR,Ireland,304250,351050
+CENTROID NGR,Ireland,320222,338639
+DTM AREA,  315.94
+ALTBAR, 135
+ASPBAR,298
+ASPVAR,0.07
+BFIHOST,0.449
+DPLBAR, 33.37
+DPSBAR, 86.7
+FARL,0.974
+FPEXT,0.0781
+LDP, 56.14
+PROPWET,0.53
+RMED-1H, 10.5
+RMED-1D, 40.9
+RMED-2D, 55.2
+SAAR,1023
+SAAR4170,1081
+SPRHOST,35.46
+URBCONC1990,-2.000
+URBEXT1990,0.0238
+URBLOC1990, 0.480
+URBCONC2000, 0.798
+URBEXT2000,0.0095
+URBLOC2000, 0.489
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station with cableway, natural control. GENERAL: Velocity area station with cableway, natural section control for low flows. STATION HYDROMETRY: Cableway present. Natural section control for low flows. Channel capacity is large. Main road bridge 100m d/s gives partial control at medium and high stages. Simple extrapolation has been used beyond 3.08m (maximum gauged level). FLOW RECORD: 1978 peak estimated (flood banks overtopped). Flows from 1979 onwards reprocessed in 2002. Upper one third of the drainage area is regulated with a minimum prescribed flow of 18Ml/d at Bannfield (203033). FLOW REGIME: Upper third of the drainage area is regulated with Spelga Dam located in the headwaters of the River Bann.
+CATCHMENT,Geology: impermeable quartzite and granite overlain by superficial deposits mainly till. Significant upland, predominantly grassland or heath, limited afforestation. Urban area at Banbridge, no major industry.
+Qmed Suitability,Yes - QMED only just above gauged range and appears to be in-bank.
+Pooling Suitability,No - Not gauged above QMED, and flow spills over right bank, potentially significant, though contained by bridge 70m downstream. Station growth curve gives unrealistic growth factors.
+[END]

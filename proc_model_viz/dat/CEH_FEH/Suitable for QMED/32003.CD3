@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 32003
+[END]
+[CDS DETAILS]
+NAME,Harpers Brook
+LOCATION,Old Mill Bridge
+NOMINAL AREA,   70.46
+NOMINAL NGR,4983,2798
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,498350,279850
+CENTROID NGR,GB,491255,284602
+DTM AREA,   70.46
+ALTBAR,  89
+ASPBAR,112
+ASPVAR,0.19
+BFIHOST,0.415
+DPLBAR, 12.50
+DPSBAR, 37.7
+FARL,1.000
+FPEXT,0.0618
+LDP, 26.99
+PROPWET,0.30
+RMED-1H, 12.6
+RMED-1D, 31.5
+RMED-2D, 39.9
+SAAR, 622
+SAAR4170, 618
+SPRHOST,40.93
+URBCONC1990, 0.530
+URBEXT1990,0.0081
+URBLOC1990, 1.108
+URBCONC2000, 0.764
+URBEXT2000,0.0170
+URBLOC2000, 1.153
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Site with several gauging structures throughout POR, gauging a predominantly rural, natural catchment. GENERAL: Rated section prior to 1965, then compound Crump profile weir (central crest 1.22m, total crest length 3.66m). Replaced in 1998 by flat V (4.04m wide between existing wing walls). STATION HYDROMETRY: The compound Crump profile had calibration confirmed to 4.8 cumecs, but the weir drowned around 7 cumecs and was bypassed in extreme floods. Current flat V is modular to approx. 20 cumecs. Considerable floodplain inundation above about 1.5 QMED, therefore significant uncertainty attends highest flows. Two ratings applied across period of record, the most recent is valid from Oct-1998 when flat-V installed. No ratings have out of bank limbs; 1938-1964 considered unreliable above 1.99m, 1964-1998 unreliable above 1.67m, 1998-date unreliable above 1.7m. FLOW RECORD: Highest peak flow of 22 cumecs in 1981 is extrapolated and should be treated with caution. The HIF of 15.6 cumecs on 10/04/1998 is likely to be an under-estimate; the flow was not captured but it may have been the highest on record. FLOW REGIME: Natural to within 10% at Q95.
+CATCHMENT,Natural catchment. Low-lying impervious catchment, clay largely covered with Boulder Clay. predominantly agricultural with some forest. Some ironstone mines working until early 1980s. Catchment area increased by 8% (4.66sq.km) after diversion from Willow Brook in 1963. In April 1979, 3.64sq.km was diverted from Harpers Brook to Ise Brook - this is not accounted for in the catchment area.
+Qmed Suitability,Flow contained by formal structure and remains modular. QMED estimates thought to be reasonable.
+Pooling Suitability,Out of bank flow not considered and all ratings unreliable at high flows.
+[END]

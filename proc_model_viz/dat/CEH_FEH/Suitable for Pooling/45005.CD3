@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 45005
+[END]
+[CDS DETAILS]
+NAME,Otter
+LOCATION,Dotton
+NOMINAL AREA,  202.83
+NOMINAL NGR,3086, 884
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,308700,88450
+CENTROID NGR,GB,313401,101016
+DTM AREA,  202.83
+ALTBAR, 144
+ASPBAR,195
+ASPVAR,0.11
+BFIHOST,0.549
+DPLBAR, 19.90
+DPSBAR, 85.0
+FARL,0.996
+FPEXT,0.0503
+LDP, 41.11
+PROPWET,0.40
+RMED-1H, 11.4
+RMED-1D, 38.4
+RMED-2D, 49.5
+SAAR, 971
+SAAR4170,1016
+SPRHOST,34.34
+URBCONC1990, 0.777
+URBEXT1990,0.0079
+URBLOC1990, 0.824
+URBCONC2000, 0.749
+URBEXT2000,0.0241
+URBLOC2000, 0.712
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity-area station opened in 1962 and rebuilt after 1968 flood. GENERAL: Velocity area station with cableway. Station opened in 10/1962 and rebuilt after 1968 flood. Flat V Informal shallow V weir installed 1971. Located 90m downstream of Dotton Footbridge. STATION HYDROMETRY: Full range station, low embankments at field level extend containment. Gabions stabilise bed and banks. Bypassing occurs during exceptional events. Multiple ratings applied across period of record, the most recent is valid from 11/2000 after high flow events in Nov/Dec 2000 altered channel geometry u/s and d/s of station. FLOW REGIME: Substantial groundwater and surface water abstractions in catchment for public water supply and industrial/agricultural purposes. Flows increased by effluent returns.
+CATCHMENT,Rises in Greensand and Gault Clay of the Blackdown Hills. Predominantly Keuper sandstones and marls. Extensive alluvium and valley gravels lower down. Some heathland, woodland and pasture, and a wide range of agriculture. No major catchment changes.
+Qmed Suitability,Good fit to gaugings.
+Pooling Suitability,Gauged to within 3% of AMAX3. Rating fits well to gaugings in and out of bank.
+[END]

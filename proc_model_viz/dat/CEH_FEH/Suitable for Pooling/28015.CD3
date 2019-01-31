@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 28015
+[END]
+[CDS DETAILS]
+NAME,Idle
+LOCATION,Mattersey
+NOMINAL AREA,  528.18
+NOMINAL NGR,4690,3895
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,469000,389500
+CENTROID NGR,GB,460694,370341
+DTM AREA,  528.18
+ALTBAR,  77
+ASPBAR, 68
+ASPVAR,0.20
+BFIHOST,0.787
+DPLBAR, 39.39
+DPSBAR, 32.7
+FARL,0.904
+FPEXT,0.1188
+LDP, 62.61
+PROPWET,0.27
+RMED-1H, 11.4
+RMED-1D, 32.3
+RMED-2D, 41.4
+SAAR, 650
+SAAR4170, 652
+SPRHOST,18.92
+URBCONC1990, 0.748
+URBEXT1990,0.0674
+URBLOC1990, 1.169
+URBCONC2000, 0.868
+URBEXT2000,0.0705
+URBLOC2000, 1.211
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Station where flow derived from ADCP to replace previous electromagnetic/velocity area stations in a slow responding rural catchment. GENERAL: Originally velocity area station; electromagnetic gauge since 1982 in reach between two bridges and trapezoidal flood banks. Primary recording switched to ADCP in July 2015. Flood flows fully contained. STATION HYDROMETRY: Original velocity area station was prone to severe seasonal weed growth and unstable ratings due to variable backwater effect. Over-bank flow occurring above 1.9m inundating a wide floodplain. In Jan 1982 the channel was re-graded and rating relationship altered considerably; levels fell and velocities increased. The flow series from pre and post the electromagnetic gauge (installed 1982) are not consistent. 1982-1994 shows good agreement to spot flow gaugings. 1994-2015 shows under-recording of flows with a bias of -6.7%. ADCP installed September 2014 to run in parallel to electromagnetics during calibration. Primary flow derived from ADCP after lightning strike rendered electromagnetic gauge inoperable in November 2015. FLOW RECORD: Pre-electromagnetic data (1965-82) removed as unreliable. Gauge failed in 2000 floods but peak flow was gauged. FLOW REGIME: Generally slow response. Reservoir(s) in the catchment together with significant abstraction and effluent returns affect runoff.
+CATCHMENT,Low relief catchment, moderate in headwaters. Tributaries rise on Magnesian Limestone, then traverse outcrop of Sherwood Sandstone. Lower reaches underlain by alluvium and Mercia Mudstone. A portion of the catchment is urban, with Mansfield in the headwaters. Otherwise land use is predominantly rural, arable farming.
+Qmed Suitability,Gauged above QMED
+Pooling Suitability,Gauged to period of record maximum flow
+[END]

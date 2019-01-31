@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 27015
+[END]
+[CDS DETAILS]
+NAME,Derwent
+LOCATION,Stamford Bridge
+NOMINAL AREA, 1639.27
+NOMINAL NGR,4711,4556
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,471150,455600
+CENTROID NGR,GB,476226,482747
+DTM AREA, 1639.27
+ALTBAR, 126
+ASPBAR,163
+ASPVAR,0.14
+BFIHOST,0.604
+DPLBAR, 58.80
+DPSBAR, 76.1
+FARL,0.994
+FPEXT,0.1408
+LDP,104.56
+PROPWET,0.34
+RMED-1H, 10.6
+RMED-1D, 32.2
+RMED-2D, 42.2
+SAAR, 763
+SAAR4170, 782
+SPRHOST,28.44
+URBCONC1990, 0.541
+URBEXT1990,0.0071
+URBLOC1990, 0.874
+URBCONC2000, 0.721
+URBEXT2000,0.0080
+URBLOC2000, 0.861
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station, the lowest station on the Yorkshire Derwent. Superseded by 27041 and closed in 1975. GENERAL: Broad-crested non-standard weir 31m wide replaced by velocity area station in 1967. Flood flows diverted to Scarborough via the Sea Cut (27033). The lowest gauging station on the Yorkshire Derwent, operating since 1932. Superseded in 1973 by 27041 (Buttercrambe) d/s. Station closed 31-12-1975. Levels only are now recorded at Stamford Bridge. STATION HYDROMETRY: Discharges which bypass the weir via a flood sluice are taken into account; the flood plain occasionally overflows behind the station and the weir has drowned on rare occasions. Multiple peak flow ratings applied across period of record, the most recent is valid from July 1969. Calibrated by current metering below the weir, in conjunction with formula calibration of the weir. Flood Studies Report grade before 1958, Z; 1958-1962, B; after 1962, A2; overall A2. FLOW REGIME: Flood flows from 88.8 sq.km of the headwaters (eastern North Yorkshire Moors) are diverted from the Derwent via the Sea Cut; these flows are measured by station 27033 at Scarborough. Instantaneous peak flows are not corrected for flow diverted down the Sea Cut because of the difficulty of establishing a time correlation; diverted catchment area is 5% of Stamford Bridge catchment. No significant reservoirs.
+CATCHMENT,Large catchment with mixed geology. Predominantly rural, mixed agriculture with moorland in headwaters. Downstream of Malton the Lias and Oolite series dipping northeast are cut through and underneath there, and down to Stamford Bridge, are Rhaetic and Trias Marls and sand. All Cretaceous, Jurassic and Triassic strata are represented in the catchment. The Vale of Pickering is alluvial. No known catchment changes.
+Qmed Suitability,No gaugings are documented so suitability cannot be assessed.
+Pooling Suitability,No gaugings are documented so suitability cannot be assessed.
+[END]

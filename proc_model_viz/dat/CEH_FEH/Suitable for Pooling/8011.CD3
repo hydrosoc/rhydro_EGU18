@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+  8011
+[END]
+[CDS DETAILS]
+NAME,Livet
+LOCATION,Minmore
+NOMINAL AREA,  102.78
+NOMINAL NGR,3201,8290
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,320150,829000
+CENTROID NGR,GB,324552,823501
+DTM AREA,  102.78
+ALTBAR, 445
+ASPBAR,333
+ASPVAR,0.17
+BFIHOST,0.449
+DPLBAR, 11.38
+DPSBAR,168.4
+FARL,1.000
+FPEXT,0.0241
+LDP, 22.22
+PROPWET,0.63
+RMED-1H,  9.0
+RMED-1D, 37.0
+RMED-2D, 50.4
+SAAR,1001
+SAAR4170,1141
+SPRHOST,41.99
+URBCONC1990,-9999.000
+URBEXT1990,0.0010
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0001
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station in an upland catchment with a natural regime and no significant abstractions. GENERAL: Velocity area station about 13m wide. STATION HYDROMETRY: Boulder/rubble control (remnant of an old weir), good low flow calibration. Build up of debris can occur on weir control. Some bypassing on lb occurs at extreme flows, originating from further u/s. Tapping pipe shortened in 1986 to avoid velocity drawdown; before 25/09/87 levels recorded in well were often less than readings on gauge. Peak flow rating derived from current meter gaugings up to 49 cumecs (about 1.4QMED), simple extrapolation beyond. Before 25/09/87 an adjustment had to be made on gauged stages - rating derived from the adjusted gaugings. FLOW REGIME: Natural regime, no significant abstractions (minor distillery abstractions in the past).
+CATCHMENT,Upland catchment. Mountainous headwaters, often snowy in winter. Moorland with some afforestation developed on complex basement geology - metamorphics and igneous rocks, overlain by significant superficial cover. No significant catchment changes known.
+Qmed Suitability,No comment
+Pooling Suitability,No comment
+[END]

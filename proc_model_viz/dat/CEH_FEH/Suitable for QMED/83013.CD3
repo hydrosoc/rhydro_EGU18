@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 83013
+[END]
+[CDS DETAILS]
+NAME,Irvine
+LOCATION,Glenfield
+NOMINAL AREA,  211.89
+NOMINAL NGR,2429,6369
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,243000,637000
+CENTROID NGR,GB,252534,636317
+DTM AREA,  211.89
+ALTBAR, 167
+ASPBAR,249
+ASPVAR,0.22
+BFIHOST,0.348
+DPLBAR, 20.17
+DPSBAR, 63.9
+FARL,0.986
+FPEXT,0.0704
+LDP, 39.30
+PROPWET,0.59
+RMED-1H,  9.3
+RMED-1D, 37.0
+RMED-2D, 52.9
+SAAR,1222
+SAAR4170,1221
+SPRHOST,41.73
+URBCONC1990, 0.799
+URBEXT1990,0.0150
+URBLOC1990, 0.402
+URBCONC2000, 0.785
+URBEXT2000,0.0158
+URBLOC2000, 0.407
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Broad crested masonry weir on the River Irvine. GENERAL: Broad crested masonry weir, diagonal to flow, approx. 15-20m wide. Originally, station installed and maintained by Glenfield and Kennedy Works. Station taken over by CRPB (now SEPA) on 14/04/1982. STATION HYDROMETRY: The flood walls and banks are approx. 3m high. All but very high flows contained. Pre-1982 ratings were derived by hydraulic formulae with correction for drowning and skewness of weir and checking against a few measurements. Uncertainty of rating curves (pre-1982) above 113cumecs. Peak flow ratings derived from current meter gaugings up to 0.7m (about 0.3 QMED), simple extrapolation beyond. Rating accuracy not good at low flows, reflected in occasional lower flows recorded than at Newmilns upstream. FLOW RECORD: Bypassing known in the past via abandoned railway line (1932 and 1961 events). Peak flows rejected until 1982 because there was significant influence by a very active sluice. FLOW REGIME: Natural flow regime.
+CATCHMENT,Mostly lowland catchment. Predominantly Carboniferous and igneous bedrock, with localised ORS; extensively overlain by superficial deposits (mainly Boulder Clay). Rural catchment with forested areas in NE and urbanisation along main valley (Darvel, Newmilns, Galston and Kilmarnock). Flood walls built approximately spring 1998.
+Qmed Suitability,But use with caution. Further investigation as to which time period the QMED estimate comes from is warranted.
+Pooling Suitability,rating review recommended, high spot gaugings needed, temporarily rating equation based on theoretical rating table used
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 67010
+[END]
+[CDS DETAILS]
+NAME,Gelyn
+LOCATION,Cynefail
+NOMINAL AREA,   12.76
+NOMINAL NGR,2842,3420
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,284250,342050
+CENTROID NGR,GB,283510,343523
+DTM AREA,   12.76
+ALTBAR, 424
+ASPBAR,243
+ASPVAR,0.02
+BFIHOST,0.251
+DPLBAR,  3.65
+DPSBAR,127.8
+FARL,0.969
+FPEXT,0.0321
+LDP,  7.72
+PROPWET,0.71
+RMED-1H, 12.2
+RMED-1D, 61.8
+RMED-2D, 84.3
+SAAR,2002
+SAAR4170,2044
+SPRHOST,58.35
+URBCONC1990,-9999.000
+URBEXT1990,0.0000
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0000
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Compound Crump profile weir. Station closed 1981-83 and 1984-87 for financial reasons; fully operational since 1988. Natural flow regime. GENERAL: Compound Crump profile weir. STATION HYDROMETRY: Seasonal weed growth is managed but it is difficult to clean heavy moss growth on flanking weirs. Combination of no cableway and poor access makes high flow gaugings difficult. Despite station closure and re-commissioning, homogeneous hydrometric performance; compound crump weir identical to that originally installed in 1960s. Two peak flow ratings applied across period of record, the most recent is valid from April 1972. Flows prior to 1968 calculated with a non-standard rating equation. FLOW RECORD: Station closed 1981-83 and 1984-87 for financial reasons; flows exist for intervening period, thought to be due to informal data collection. Fully operational since 1988. FLOW REGIME: Very responsive regime. Natural to within 10% at Q95.
+CATCHMENT,Impermeable Lower Ordovician volcanics with occasional heavily indurated shales. Drift cover minimal. Boulder Clay in valley. Upland pasture, rural. Very little natural storage available.
+Qmed Suitability,Not gauged to within 30% of QMED. However, flow reportedly remains modular with no bypassing.
+Pooling Suitability,Few high flow gaugings. Rating cannot be validated beyond QMED
+[END]

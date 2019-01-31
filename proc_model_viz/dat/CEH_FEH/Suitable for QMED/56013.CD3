@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 56013
+[END]
+[CDS DETAILS]
+NAME,Yscir
+LOCATION,Pont-Ar-Yscir
+NOMINAL AREA,   63.55
+NOMINAL NGR,3003,2304
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,300350,230400
+CENTROID NGR,GB,297636,238410
+DTM AREA,   63.55
+ALTBAR, 349
+ASPBAR,151
+ASPVAR,0.18
+BFIHOST,0.495
+DPLBAR, 11.95
+DPSBAR,137.9
+FARL,1.000
+FPEXT,0.0257
+LDP, 23.08
+PROPWET,0.61
+RMED-1H, 10.7
+RMED-1D, 45.5
+RMED-2D, 59.5
+SAAR,1299
+SAAR4170,1426
+SPRHOST,38.25
+URBCONC1990,-9999.000
+URBEXT1990,0.0000
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0003
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Crump weir with aluminium-bronze crest. Natural flow regime. GENERAL: Crump weir with aluminium-bronze crest, width 9m. STATION HYDROMETRY: Wingwalls up to 2.45m, then old railway abutments to 3.28m so station not bypassed. Banks either side of old railway crossing approx 2.3m. No cableway. Calibration confirmed by gaugings. Full range, rarely non-modular. Two peak flow ratings applied across period of record. FLOW RECORD: Flows since 01/09/1999 reprocessed in 2011 due to new rating, leading to small changes in GDFs and HIFs. FLOW REGIME: Natural to within 10% at the Q95.
+CATCHMENT,Old Red Sandstone, low permeability. Natural catchment draining from upland areas of Cambrian Hills. Permeable strata in lower catchment, seldom wet. Land use is mainly grassland, mostly hill farming. Upland heath in upper catchment with seasonally wet peaty soils. Isolated patches of forest.
+Qmed Suitability,Not gauged to within 30% of QMED. However, rating is expected to perform well at QMED.
+Pooling Suitability,Site does not meet numerical criteria, gaugings beyond QMED required to confirm rating.
+[END]

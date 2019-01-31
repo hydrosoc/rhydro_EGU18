@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 33049
+[END]
+[CDS DETAILS]
+NAME,Stanford Water
+LOCATION,Buckenham Tofts
+NOMINAL AREA,   46.45
+NOMINAL NGR,5834,2952
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,583400,295300
+CENTROID NGR,GB,590028,295982
+DTM AREA,   46.45
+ALTBAR,  39
+ASPBAR,203
+ASPVAR,0.16
+BFIHOST,0.853
+DPLBAR,  9.54
+DPSBAR, 12.9
+FARL,0.915
+FPEXT,0.1649
+LDP, 18.15
+PROPWET,0.31
+RMED-1H, 11.1
+RMED-1D, 28.2
+RMED-2D, 35.7
+SAAR, 645
+SAAR4170, 635
+SPRHOST,16.31
+URBCONC1990,-9999.000
+URBEXT1990,0.0038
+URBLOC1990,-9999.000
+URBCONC2000, 0.775
+URBEXT2000,0.0075
+URBLOC2000, 1.366
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Discontinued station situated between two lakes used to measure discharge from pilot groundwater scheme in a Chalk catchment overlain by Boulder Clay, nearly natural flow at Q95. GENERAL: Site used pre-existing broad-crested weir between two small lakes. Station was designed to measure discharge from pilot groundwater scheme area, although is largely natural. Lake outlet is at TL 834 953, joining Wissey 0.5 miles downstream of station. Punch tape recorder at upstream face introduced in Jan 1973. The recorder measured the level of the lake, and runoff of whole catchment drained to the lake, hence catchment area is calculated to the outlet. Watercourse is also referred to as Buckenham Tofts Stream. STATION HYDROMETRY: Two ratings applied across period of record, the most recent is valid from October-1973. FLOW REGIME: Natural to within 10% at Q95.
+CATCHMENT,Chalk overlain by Boulder Clay with some gravel and alluvium in the valley. Predominantly impervious.
+Qmed Suitability,QMED within modular range and theoretical rating expected to perform well.
+Pooling Suitability,Non-modular flows not accounted for and there are no gaugings to validate the rating.
+[END]

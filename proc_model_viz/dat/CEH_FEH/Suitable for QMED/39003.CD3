@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 39003
+[END]
+[CDS DETAILS]
+NAME,Wandle
+LOCATION,South Wimbledon
+NOMINAL AREA,  177.66
+NOMINAL NGR,5265,1705
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,526600,170600
+CENTROID NGR,GB,530257,160938
+DTM AREA,  177.66
+ALTBAR, 114
+ASPBAR,334
+ASPVAR,0.31
+BFIHOST,0.758
+DPLBAR, 17.37
+DPSBAR, 57.8
+FARL,0.985
+FPEXT,0.0774
+LDP, 32.45
+PROPWET,0.31
+RMED-1H, 10.9
+RMED-1D, 33.2
+RMED-2D, 43.0
+SAAR, 724
+SAAR4170, 725
+SPRHOST,20.47
+URBCONC1990, 0.247
+URBEXT1990,0.2473
+URBLOC1990, 0.619
+URBCONC2000, 0.894
+URBEXT2000,0.3643
+URBLOC2000, 0.682
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Station is sum of rectangular critical-depth flume with additional side flume. Artificial flow pattern, influenced by groundwater abstraction/recharge, urban runoff. GENERAL: Compound station, consisting rectangular critical-depth flume, 5.5m wide. A compound station since 1999, when a side flume was added - a small rectangular flume, approx 1m wide with approx 1m wingwalls. The side channel contributes only 2-5% of the total flow. Superseded (following channel improvements) Wandle Park immediately u/s (sporadic data available 1939-1960). STATION HYDROMETRY: Drowns (and bypassed) during notable floods. 'Pitot' effect noted in 1986 and inlet pipe altered accordingly. Original theoretical calibration broadly confirmed by subsequent gauging programme and hydraulic modelling. FLOW RECORD: September 1968 peak flow estimated at c40 cumecs (earlier est. of 56 cumecs includes runoff from the Graveney). In the July 2007 event slight drowning and bypassing began at an estimated flow of about 30 m3/s. AMAX data 1964 to 2004 reviewed, previous data from Wandle Park is excluded. FLOW REGIME: The flow regime has a large baseflow component, influenced by groundwater abstraction/recharge. Urban runoff and sewage effluent (some deriving from outside the catchment) also strongly influence flow patterns. Very artificial flow pattern. Automatic weirs affect pattern, otherwise no processing issues. Topographic catchment substantially exceeds effective drainage area, estimated as 54 km2. This estimate of the effective area includes 34 km2 between Beddington Park & Connolly's Mill plus the estimate of 20 km2 to Beddington Park.
+CATCHMENT,The Wandle is spring-fed from Chalk headwaters but the lower catchment is largely London Clay. Urban/suburban (but some river restoration underway) with significant areas of parkland.
+Qmed Suitability,Peaks for the post 1964 period suitable for QMED.
+Pooling Suitability,Complex bypassing and no high flow gaugings to confirm rating.
+[END]

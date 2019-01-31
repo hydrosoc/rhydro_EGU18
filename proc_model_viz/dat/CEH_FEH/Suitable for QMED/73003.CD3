@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 73003
+[END]
+[CDS DETAILS]
+NAME,Kent
+LOCATION,Burneside
+NOMINAL AREA,   74.52
+NOMINAL NGR,3507,4955
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,350700,495550
+CENTROID NGR,GB,346219,501623
+DTM AREA,   74.52
+ALTBAR, 265
+ASPBAR,168
+ASPVAR,0.22
+BFIHOST,0.466
+DPLBAR, 11.23
+DPSBAR,173.2
+FARL,0.942
+FPEXT,0.0633
+LDP, 22.30
+PROPWET,0.71
+RMED-1H, 12.1
+RMED-1D, 58.9
+RMED-2D, 81.7
+SAAR,1895
+SAAR4170,1884
+SPRHOST,42.58
+URBCONC1990,-9999.000
+URBEXT1990,0.0025
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0037
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station, closed in 2000 and replaced by Bowston (73017). GENERAL: Velocity-area station in natural channel on an industrial site within a paper factory. Station opened 1974 and closed June 2000, replaced by Bowston (73017). Site became problematic due to river bank problems, access difficulties and the absence of a low flow control. STATION HYDROMETRY: Full range of flows contained. No permanent cableway, gauging by wading up to 0.8m, high flows by temporary cableway. Station reconstructed in 1991, which included a 30 inch concrete well, situated on the left bank, and boulders, to act as a control. Station closed from 25/1/91 to 15/4/1991 for reconstruction. Change in control affected low flow rating, but impact on high flow rating thought to be insignificant. High flow gaugings at Bowston (new replacement station) used to develop a single peak flow rating applied throughout. There are 10 ratings for low-medium flows. FLOW RECORD: Station opened 15/08/1974, but no data before 1/10/1981. FLOW REGIME: Near natural catchment with minor discharges.
+CATCHMENT,Impervious Lower Palaeozoic slate; flagstone and shale covered in middle reaches of valleys by Boulder Clay which supports permanent grassland, remainder for grazing. Rises in the mountainous Lake District; steep descent to Kendal.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Although gauged to around AMAX3, some scatter at the top end; match with Bowston needs further investigation
+[END]

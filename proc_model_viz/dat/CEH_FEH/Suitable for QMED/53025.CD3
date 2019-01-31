@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 53025
+[END]
+[CDS DETAILS]
+NAME,Mells
+LOCATION,Vallis
+NOMINAL AREA,  118.05
+NOMINAL NGR,3757,1491
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,375750,149100
+CENTROID NGR,GB,367967,146969
+DTM AREA,  118.05
+ALTBAR, 179
+ASPBAR, 70
+ASPVAR,0.26
+BFIHOST,0.656
+DPLBAR, 12.06
+DPSBAR, 60.5
+FARL,0.943
+FPEXT,0.0453
+LDP, 28.03
+PROPWET,0.37
+RMED-1H, 11.4
+RMED-1D, 39.5
+RMED-2D, 51.8
+SAAR,1056
+SAAR4170,1058
+SPRHOST,19.93
+URBCONC1990, 0.507
+URBEXT1990,0.0110
+URBLOC1990, 0.830
+URBCONC2000, 0.650
+URBEXT2000,0.0195
+URBLOC2000, 0.952
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Crump profile weir opened in 1980 in connection with monitoring of Mendip quarrying impacts. Numerous old and disused quarry sites in catchment. GENERAL: Station is located 1km north west of Frome and was opened in 1979/1980 in connection with monitoring of Mendip quarrying impacts. Crump profile weir, crest 6m broad. STATION HYDROMETRY: Full range station. All but highest flows contained within structure. The channel bed is rocky and the channel is lined with trees. Theoretical rating for the weir, valid until the modular limit but is not valid for non-modular flows. FLOW REGIME: Minor augmentation by effluent returns.
+CATCHMENT,The catchment upstream is characterised as rural with numerous old and disused quarry sites, urbanisation is minimal with the main settlements being villages. Geology is predominantly Carboniferous Limestone with Coal Measures. Many of the soils are permeable or well drained, although over the coal measures the soils are slowly permeable and seasonally waterlogged. No major catchment changes.
+Qmed Suitability,Rating fits well to gaugings at QMED.
+Pooling Suitability,Too few high flow gaugings to validate rating beyond QMED, single gauging which exists indicates that rating grossly under-estimates flows.
+[END]

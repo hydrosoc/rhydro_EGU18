@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 23001
+[END]
+[CDS DETAILS]
+NAME,Tyne
+LOCATION,Bywell
+NOMINAL AREA, 2172.36
+NOMINAL NGR,4038,5617
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,403850,561650
+CENTROID NGR,GB,378954,572789
+DTM AREA, 2172.36
+ALTBAR, 286
+ASPBAR, 83
+ASPVAR,0.09
+BFIHOST,0.318
+DPLBAR, 55.02
+DPSBAR, 93.7
+FARL,0.961
+FPEXT,0.0504
+LDP, 94.29
+PROPWET,0.51
+RMED-1H,  9.9
+RMED-1D, 35.6
+RMED-2D, 47.7
+SAAR,1016
+SAAR4170,1082
+SPRHOST,48.19
+URBCONC1990,-9999.000
+URBEXT1990,0.0020
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0026
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Principal gauging station on the Tyne - a velocity area station. Flow regime influenced by releases from Kielder. GENERAL: Principal gauging station on the Tyne. Velocity area station with cableway on a wide reach. Blockage/damage to stilling pipe caused problems in early 1990s. Removal of gravel from d/s river bed between 1961 and 1963 affected water levels, leading to replacement of stilling well at lower level; high flows relatively unaffected. STATION HYDROMETRY: Before 1961 and after 1964 station considered good for high flow measurement. Ratings have changed over the record owing to alterations in control and bed levels resulting from gravel extraction. Three peak flow ratings for the period of record. Ratings fit well to corresponding gaugings. Flood Studies Report grade A1 before and after 1962-65, B during. FLOW RECORD: As a result of re-rating after gravel extraction the October 1967 flood is now thought to have been lower than the January 2005 peak of 1370 cumecs. Rating applied in September 2013 resulted in reduced flows (from 1992 onwards), especially at low levels. FLOW REGIME: Some export of water, and regime influenced by pulsed hydropower releases from Kielder, but limited impact on annual runoff. In drought years, Kielder releases maintenance low flows (4.2 cumecs min.) and support transfers to the Derwent, Wear and Tees which are abstracted at Riding Mill 500m u/s.
+CATCHMENT,A large, impervious catchment (largely Carboniferous Limestone) with extensive superficial deposits (peat, boulder clay, alluvium) draining from north Pennines. Includes Kielder Reservoir which controls 241 sq.km of the catchment (impounded 1982). around half of the catchment is grassland, with extensive moorland arable farming confined to the lower valley. There has been significant afforestation in the catchment since 1926.
+Qmed Suitability,Gauged above QMED. Although no structural control, rating extrapolation is supported by gaugings and no bypassing is known of.
+Pooling Suitability,Gauged to within 20% of AMAX3. Although no structural control, rating extrapolation is supported by gaugings and no bypassing is known of.
+[END]

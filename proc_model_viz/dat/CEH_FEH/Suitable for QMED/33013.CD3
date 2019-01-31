@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 33013
+[END]
+[CDS DETAILS]
+NAME,Sapiston
+LOCATION,Rectory Bridge
+NOMINAL AREA,  196.16
+NOMINAL NGR,5895,2790
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,589550,279050
+CENTROID NGR,GB,594869,268498
+DTM AREA,  196.16
+ALTBAR,  52
+ASPBAR,  1
+ASPVAR,0.17
+BFIHOST,0.611
+DPLBAR, 20.53
+DPSBAR, 18.5
+FARL,0.975
+FPEXT,0.1367
+LDP, 37.21
+PROPWET,0.28
+RMED-1H, 10.7
+RMED-1D, 28.2
+RMED-2D, 35.1
+SAAR, 589
+SAAR4170, 606
+SPRHOST,28.47
+URBCONC1990, 0.432
+URBEXT1990,0.0109
+URBLOC1990, 1.039
+URBCONC2000, 0.697
+URBEXT2000,0.0198
+URBLOC2000, 1.043
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Gauging a catchment with minor artificial influences using a theoretical rating. GENERAL: Rectangular thin-plate weir, 8.8m broad, suppressed end contractions. STATION HYDROMETRY: Rating theoretical. Rating confirmed by gaugings to 0.6m, non-modular conditions unaccounted for. One rating applied across period of record. FLOW RECORD: Flows in 2014 may be affected by periodic damming. Since 2012 the site suffers from sudden and localized changes in river flow which manifest as short term increase, decreas, and recovery in GDF and as HIF much higher than GDF. FLOW REGIME: Minor groundwater abstractions for PWS and agriculture. Some effluent returns.
+CATCHMENT,Predominately Chalk with Boulder Clay cover. Agricultural land use, predominantly arable.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Although gauged to within 22% of AMAX3, non-modular flow is not considered by the current rating.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 39049
+[END]
+[CDS DETAILS]
+NAME,Silk Stream
+LOCATION,Colindeep Lane
+NOMINAL AREA,   31.07
+NOMINAL NGR,5217,1895
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,521750,189500
+CENTROID NGR,GB,519554,192305
+DTM AREA,   31.07
+ALTBAR,  79
+ASPBAR,171
+ASPVAR,0.37
+BFIHOST,0.182
+DPLBAR,  5.33
+DPSBAR, 40.1
+FARL,0.972
+FPEXT,0.0848
+LDP, 10.10
+PROPWET,0.29
+RMED-1H, 10.7
+RMED-1D, 32.5
+RMED-2D, 42.2
+SAAR, 685
+SAAR4170, 699
+SPRHOST,50.29
+URBCONC1990, 0.863
+URBEXT1990,0.3060
+URBLOC1990, 0.800
+URBCONC2000, 0.929
+URBEXT2000,0.4020
+URBLOC2000, 0.806
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,The station is located on the Silk Stream, a small tributary of the River Brent. The station is used in a number of national studies of urban and suburban runoff response. GENERAL: Flat V weir (1:10 cross slope, width: 8.5m). STATION HYDROMETRY: A d/s bridge acts as a control in high flows (1.3m gauge height) and may cause the weir to drown. Tail recorder data shows that the modular limit is variable but generally occurs at stages between 0.4 and 0.5m. Tail measurements are not used to correct non-modular flows. Debris in the channel can influence the hydrometric performance and siltation between the weir and d/s bridge is also a problem. Significant u/s deposition can occur and this can also alter the performance of the weir. The surrounding open space has been used as a dumping ground. One theoretical rating applied across period of record. The structure is operated as a rated section with 2 limbs. The lower limb is based on the theoretical rating for a Flat V weir, gaugings suggest there is a tendency to underestimate flows. The upper limb, which covers the non-modular range, was derived from very limited gaugings and confidence remains low. FLOW RECORD: Some bypassing occurs during floods (July 2007 flood exceeded the calibration limit and peak flow may be underestimated). Patchy flow record prior to 1981. Daily flow data from 1975-1978 estimated using modelling and should be treated with caution. Poorer quality pre-1973 data available for two earlier stations on the river (built in 1928 and 1944); significant river improvements undertaken in the 1950s. FLOW REGIME: Responsive regime. Net impact of abstractions and discharges uncertain; artificial influences evident at low flows.
+CATCHMENT,Catchment is largely London Clay with a little Drift cover. Rural/suburban headwaters and is heavily urbanised downstream. Responsive regime.
+Qmed Suitability,Gauged to within 25% of QMED.
+Pooling Suitability,Few high flow gaugings. Rating can not be validated beyond QMED.
+[END]

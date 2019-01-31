@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 39016
+[END]
+[CDS DETAILS]
+NAME,Kennet
+LOCATION,Theale
+NOMINAL AREA, 1037.39
+NOMINAL NGR,4649,1708
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,464950,170850
+CENTROID NGR,GB,433674,170432
+DTM AREA, 1037.39
+ALTBAR, 151
+ASPBAR, 99
+ASPVAR,0.13
+BFIHOST,0.766
+DPLBAR, 46.99
+DPSBAR, 54.9
+FARL,0.965
+FPEXT,0.0783
+LDP, 90.53
+PROPWET,0.31
+RMED-1H, 10.5
+RMED-1D, 32.9
+RMED-2D, 42.3
+SAAR, 758
+SAAR4170, 769
+SPRHOST,18.72
+URBCONC1990, 0.610
+URBEXT1990,0.0138
+URBLOC1990, 0.815
+URBCONC2000, 0.774
+URBEXT2000,0.0170
+URBLOC2000, 0.671
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,The primary gauging station in the lower River Kennet catchment. A large Crump weir spans the river but the structure does not contain the highest flows. GENERAL: Crump weir (15.9m broad) equipped with pressure tapping (not used in flow calculations) & d/s recorder. STATION HYDROMETRY: Cableway installed in 1999 but it was subsequently removed. The weir has subsided with a difference in level from left to right of 41mm across the weir crest. Standard Crump weir equation using tail levels. Often drowned above 0.5m. Bypassing occurs through gravel pits on the south side of the flood plain, hence flood flows may be underestimated by the peak flow rating. FLOW RECORD: Bypassing on the south side of the floodplain, with some flow in the Kennet & Avon Canal and over reduction of drowned flows, may cause underestimation of peak flows. GDFs 04-24/12/98 estimated by the NRFA using the Kennet at Newbury (39103). This was due to missing levels, as the gauging hut was refurbished. FLOW REGIME: High baseflow component but responsive contribution from the R. Enbourne. Can react quickly to heavy rainfall. Flows influenced by groundwater abstraction/recharge (WBGS), particularly during drought. Abstraction for industrial/agricultural purposes but have little net impact. Minor contribution to the Kennet & Avon Canal.
+CATCHMENT,Primarily a rural catchment, especially in the headwaters, with scattered settlements (Newbury is the largest town) and significant urban development concentrated along the Kennet Valley. A mainly pervious catchment (Chalk with significant Drift cover) but the lowest quarter is largely impermeable.
+Qmed Suitability,Gauged above QMED. Flows below bank full and estimates thought to be reasonable.
+Pooling Suitability,Gauged to within 3% of AMAX3. Rating is thought to provide reasonable estimates despite known flow underestimation.
+[END]

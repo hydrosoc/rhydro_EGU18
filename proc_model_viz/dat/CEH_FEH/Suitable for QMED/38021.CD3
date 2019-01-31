@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 38021
+[END]
+[CDS DETAILS]
+NAME,Turkey Brook
+LOCATION,Albany Park
+NOMINAL AREA,   41.49
+NOMINAL NGR,5359,1985
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,536000,198500
+CENTROID NGR,GB,530132,201930
+DTM AREA,   41.49
+ALTBAR,  78
+ASPBAR,119
+ASPVAR,0.25
+BFIHOST,0.242
+DPLBAR,  9.27
+DPSBAR, 55.3
+FARL,0.948
+FPEXT,0.0441
+LDP, 14.40
+PROPWET,0.29
+RMED-1H, 10.9
+RMED-1D, 30.8
+RMED-2D, 39.7
+SAAR, 667
+SAAR4170, 662
+SPRHOST,47.94
+URBCONC1990, 0.697
+URBEXT1990,0.0439
+URBLOC1990, 0.836
+URBCONC2000, 0.877
+URBEXT2000,0.0709
+URBLOC2000, 0.869
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Station located on a small tributary of the River Lee that has flow record of over forty years. It is located within an suburban area with relatively low rainfall. GENERAL: Flat V weir, 6m wide, situated within a concrete-lined channel. STATION HYDROMETRY: Structure drowns occasionally and all but extreme floods are contained. The station is subject to debris accumulation. Floats get caught up on step irons in the stilling well. Standard Flat V calculation. Structure operates in accordance with theory of Flat V weirs and estimating accuracy is high. However, this accuracy can only be verified at low stages. FLOW RECORD: The weir is insensitive. Level data and rating available for 1972 to 1979 data. FLOW REGIME: Very responsive flow regime. Minor net export due to gw abstractions. Abstractions for pws. Large ornamental lake in headwaters. Levels occasionally affected by the new river overspill at Maidens Bridge.
+CATCHMENT,A largely impervious catchment (Tertiary clays and glacial deposits). The headwaters drain Enfield Chase but there is significant urban development near the gauging station. Mix of land use is typical of much of the English Lowlands.
+Qmed Suitability,Gauged above QMED. Good agreement between rating and gaugings.
+Pooling Suitability,Rating beyond QMED cannot be confirmed.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 38020
+[END]
+[CDS DETAILS]
+NAME,Cobbins Brook
+LOCATION,Sewardstone Road
+NOMINAL AREA,   38.79
+NOMINAL NGR,5387,1999
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,538700,200000
+CENTROID NGR,GB,542752,202543
+DTM AREA,   38.79
+ALTBAR,  71
+ASPBAR,254
+ASPVAR,0.14
+BFIHOST,0.223
+DPLBAR,  7.75
+DPSBAR, 44.4
+FARL,0.997
+FPEXT,0.0580
+LDP, 13.76
+PROPWET,0.29
+RMED-1H, 11.1
+RMED-1D, 32.8
+RMED-2D, 40.5
+SAAR, 616
+SAAR4170, 609
+SPRHOST,49.52
+URBCONC1990, 0.799
+URBEXT1990,0.0378
+URBLOC1990, 0.736
+URBCONC2000, 0.823
+URBEXT2000,0.0514
+URBLOC2000, 0.768
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,This station, opened in June 1971, is on a small tributary of the River Lee within a suburban area. The station has a relatively large capacity gauging structure and has a flow record in excess of forty years. GENERAL: Trapezoidal critical-depth flume with an overall width of 10m. STATION HYDROMETRY: Drowning and damage to the exit transition (repaired in 1992) influences the performance of the station. Two ratings have been applied across the POR. The most recent is valid from October 1982. This post M25 construction rating was derived by hydraulic modelling (Halcrow). It includes backwater effects from the M25 culvert (350m d/s of the station) and a double pipe crossing (500m d/s). Two existing ratings are very similar up to 1m. FLOW RECORD: The gap in the record from June 1982 to May 1983 inclusive was due to the building of the M25 motorway; flows could not be estimated as the river was diverted through two pipes which were too small for the purpose. In January 1992 repairs were carried out to the exit transit which was damaged and affecting performance. There is also a gap of 2 months - August & September 1994 - for repairs to the weir. Recorded flows may be overestimates and the structure is insensitive at low flows. FLOW REGIME: The net impact of PWS abstractions and discharges on the natural responsive flow pattern is minimal. M25 motorway runoff can, however, be significant. In 2010 a large flood storage area was built near Cobbins Brook to protect Waltham Abbey and so will reduce flood peaks at Sewardstone Road.
+CATCHMENT,Cobbins Brook drains an impervious (London Clay) catchment which includes part of Epping Forest. Substantial urban development occurs in the vicinity of the gauging station but this constitutes a small percentage of the overall catchment landuse.
+Qmed Suitability,Although all gaugings are taken at t low flows, model derived rating is thought to be reliable and weir is of standard design.
+Pooling Suitability,Although all gaugings are taken at t low flows, model derived rating is thought to be reliable and weir is of standard design.
+[END]

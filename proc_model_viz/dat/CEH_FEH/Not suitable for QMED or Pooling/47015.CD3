@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 47015
+[END]
+[CDS DETAILS]
+NAME,Tavy
+LOCATION,Ludbrook
+NOMINAL AREA,  198.05
+NOMINAL NGR,2476, 681
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,247600,68200
+CENTROID NGR,GB,251816, 76694
+DTM AREA,  198.05
+ALTBAR, 270
+ASPBAR,237
+ASPVAR,0.27
+BFIHOST,0.553
+DPLBAR, 17.13
+DPSBAR,104.9
+FARL,0.999
+FPEXT,0.0295
+LDP, 32.64
+PROPWET,0.48
+RMED-1H, 12.8
+RMED-1D, 50.8
+RMED-2D, 66.9
+SAAR,1555
+SAAR4170,1559
+SPRHOST,30.89
+URBCONC1990, 0.701
+URBEXT1990,0.0113
+URBLOC1990, 0.618
+URBCONC2000, 0.770
+URBEXT2000,0.0123
+URBLOC2000, 0.643
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Unconventional structure comprising a flume set within shallow wing walls which curve through 90 degrees. GENERAL: Unconventional control opened in 1981 comprising a flume set within shallow (0.3m) wing walls which curve through 90 deg. W to fill the whole channel (20m). Cableway spans 32m. STATION HYDROMETRY: Well contained but highest flows out-of-bank. Greater uncertainty at higher flows due to lack of gaugings. Additional gaugings are available for the site prior to installation of the flume. One peak flow rating across period of record; not confirmed for out-of-bank flow and theoretical rating extrapolated beyond 1.5m. Caution must be exercised in the data since 1993 until a rating review is undertaken (due in 2015) as gaugings show negative systematic deviation of between 10-15%. FLOW REGIME: Low flows dominated by abstractions for hydropower station and public water supply for Plymouth and the Morwellham canal.
+CATCHMENT,A responsive catchment draining from the western flank of the Dartmoor Granite plateau; valleys are steeply incised and forested below Tavistock. Land cover is moorland, rough grazing and low-grade agriculture. No major catchment changes.
+Qmed Suitability,Gauged to within 23% of QMED. Good fit to gaugings. However, data under review in 2013.
+Pooling Suitability,Highest flows out of bank. Rating can not be validated beyond QMED.
+[END]

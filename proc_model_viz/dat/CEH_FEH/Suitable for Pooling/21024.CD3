@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 21024
+[END]
+[CDS DETAILS]
+NAME,Jed Water
+LOCATION,Jedburgh
+NOMINAL AREA,  139.95
+NOMINAL NGR,3655,6213
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,365600,621350
+CENTROID NGR,GB,365677,610877
+DTM AREA,  139.95
+ALTBAR, 253
+ASPBAR,  6
+ASPVAR,0.25
+BFIHOST,0.437
+DPLBAR, 18.67
+DPSBAR,111.6
+FARL,0.997
+FPEXT,0.0284
+LDP, 33.79
+PROPWET,0.57
+RMED-1H,  9.5
+RMED-1D, 32.7
+RMED-2D, 43.2
+SAAR, 914
+SAAR4170, 975
+SPRHOST,43.99
+URBCONC1990,-9999.000
+URBEXT1990,0.0045
+URBLOC1990,-9999.000
+URBCONC2000, 0.677
+URBEXT2000,0.0062
+URBLOC2000, 0.219
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station. Flows are largely natural and uncontrolled. GENERAL: Velocity area station on straight reach, about 16m wide. This station replaces one 0.5km d/s, installed in 1959, with rather poor and variable daily level readings. STATION HYDROMETRY: Natural channel control. A rock ledge is the control for very low flows; under higher flow conditions control passes to d/s channel bar. Bypassing can occur on the lb at levels above 3m. Peak flow rating derived by current meter gaugings up to 2.6m (about 1.1 QMED), simple extrapolation beyond. FLOW REGIME: Flows are largely natural and uncontrolled.
+CATCHMENT,An upland, mainly Old Red Sandstone catchment (approx. 2/3 overlain by superficial deposits). Land use mainly hill grazing with some forestry. No significant catchment changes known.
+Qmed Suitability,No comment
+Pooling Suitability,No comment
+[END]

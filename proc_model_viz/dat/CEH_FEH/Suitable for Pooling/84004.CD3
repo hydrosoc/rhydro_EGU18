@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 84004
+[END]
+[CDS DETAILS]
+NAME,Clyde
+LOCATION,Sills of Clyde
+NOMINAL AREA,  742.27
+NOMINAL NGR,2928,6423
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,292850,642350
+CENTROID NGR,GB,295914,628171
+DTM AREA,  742.27
+ALTBAR, 343
+ASPBAR,357
+ASPVAR,0.05
+BFIHOST,0.458
+DPLBAR, 42.94
+DPSBAR,135.1
+FARL,0.964
+FPEXT,0.0625
+LDP, 78.33
+PROPWET,0.60
+RMED-1H,  9.8
+RMED-1D, 39.5
+RMED-2D, 54.1
+SAAR,1223
+SAAR4170,1249
+SPRHOST,42.58
+URBCONC1990,-9999.000
+URBEXT1990,0.0011
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0021
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station on the Clyde draining the Southern Uplands. GENERAL: Velocity area station; about 15m wide section. Sited on a 200m straight natural reach between two sharp opposing bends. Flows are straight at cableway but there is some turbulence. Station transferred from SDD to Clyde RPB in Jul 1969. STATION HYDROMETRY: Natural control. Low flow control is a riffle 30m d/s. Weed growth in summer affects low flows. To date all flows contained. Peak flow ratings derived from current meter gaugings up to 2.9m (1.7 QMED), simple extrapolation beyond. FLOW RECORD: Flows from Jan 1978 reprocessed in 2012/13. FLOW REGIME: Small storage reservoirs and one larger reservoir that feeds South Lanarkshire.
+CATCHMENT,Upland catchment draining part of Southern Uplands, with several small storage reservoirs in headwaters. Silurian and Ordovician sedimentary rocks, approx. half of which overlain by superficial deposits, mainly Boulder Clay and sands and gravels. Land use: rough grazing, improved pasture, moorland, and afforestation. No significant catchment changes known.
+Qmed Suitability,No comment
+Pooling Suitability,No comment
+[END]

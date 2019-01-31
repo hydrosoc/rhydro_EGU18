@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 27006
+[END]
+[CDS DETAILS]
+NAME,Don
+LOCATION,Sheffield Hadfields
+NOMINAL AREA,  364.88
+NOMINAL NGR,4389,3909
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,438950,390900
+CENTROID NGR,GB,426677,393030
+DTM AREA,  364.88
+ALTBAR, 262
+ASPBAR, 73
+ASPVAR,0.28
+BFIHOST,0.416
+DPLBAR, 23.52
+DPSBAR,106.5
+FARL,0.884
+FPEXT,0.0298
+LDP, 51.20
+PROPWET,0.37
+RMED-1H, 10.6
+RMED-1D, 40.7
+RMED-2D, 54.2
+SAAR,1014
+SAAR4170,1010
+SPRHOST,38.36
+URBCONC1990, 0.793
+URBEXT1990,0.1072
+URBLOC1990, 0.452
+URBCONC2000, 0.903
+URBEXT2000,0.1331
+URBLOC2000, 0.469
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Broad-crested, skewed, semi-circular masonry weir with long record. Heavily reservoired catchment draining the East Pennines. GENERAL: Broad-crested, skewed, semi-circular masonry weir (44.5m wide) with sloping upstream face. Upstream level recorder since 1921 originally poor due to limited range and position at foundry intake, now located on inside bend in river, upstream of the weir. Cableway installed 1961 located 100m d/s destroyed in 1989, new cableway installed u/s in November 1997. Hut and contents stolen, 1985, replaced 1986. Fish pass installed November 2012. STATION HYDROMETRY: Rarely bypassed or drowned. Current meter gauging previously from footbridge, downstream of weir. Rated by a current meter from a cableway. Daily flow rating applied in December 2014 back to November 2012 following fish pass construction. This rating alters the lower limb (below 0.52m stage) to compensate for the fish pass. Four peak flow ratings applied across period of record. Good fit to gaugings. In 1975 Flood Studies Report grade A2 to 2m and B above (overall grade A2). Current grade A1 to 2m and A2 above. FLOW RECORD: Data is available from 21/11/1956. Flows from 1982 reprocessed in 2002 and 2014. Bypassed in June 2007 event. June 2007 peak flow is estimated 259 cumecs and stage 4.68m (wrack survey). Flows reprocessed from 2/11/2012 in 2015 after new rating developed for fish pass resulting in a slightly lower flow estimate. FLOW REGIME: Fast responding catchment with a large urban component near to the outlet. Heavily reservoired with estimated 40% of catchment draining through around 23 reservoirs. Variation in Don Valley reservoir content has very significant effect on overall percentage runoff from the catchment in flood. Addition of water from borehole to Scout Dyke reservoir group, intermittent discharge from South Yorkshire Navigation and sewage treatment effluent discharge. Compensation forms a large part of baseflow. Significant net loss of water from the catchment with abstraction to Yorkshire Grid.
+CATCHMENT,Catchment draining the eastern flank of the Pennines, to Sheffield. Mixed geology including Upper Carboniferous Millstone Grit, Middle and Lower Coal Measures sandstones and shales with a generally easterly dip. Moorland headwaters used for rough grazing contrast with the heavily urbanised (up to a fifth of the catchment) lower catchment (now less industrial); mixed rural in mid-catchment. Ongoing increase in area of development during period of record.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged beyond AMAX3. Fits to gaugings in non-modular range with high flow rating from modelling confirmed by gauging. Still some uncertainty in June 2007 peak flow but reasonably high confidence in other AMAX flows.
+[END]

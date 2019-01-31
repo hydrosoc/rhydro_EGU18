@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 15007
+[END]
+[CDS DETAILS]
+NAME,Tay
+LOCATION,Pitnacree
+NOMINAL AREA, 1149.08
+NOMINAL NGR,2924,7534
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,292400,753400
+CENTROID NGR,GB,259167,739906
+DTM AREA, 1149.08
+ALTBAR, 467
+ASPBAR, 83
+ASPVAR,0.06
+BFIHOST,0.442
+DPLBAR, 47.49
+DPSBAR,230.0
+FARL,0.836
+FPEXT,0.0373
+LDP, 89.04
+PROPWET,0.70
+RMED-1H, 10.4
+RMED-1D, 49.4
+RMED-2D, 69.9
+SAAR,1950
+SAAR4170,1900
+SPRHOST,44.60
+URBCONC1990,-9999.000
+URBEXT1990,0.0005
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0007
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station on the upper Tay. Part of the catchment controlled for HEP. GENERAL: Velocity area station, about 90m wide. STATION HYDROMETRY: Cableway present. Control is unstable gravel bed. To date all flows contained. Peak flow ratings from current meter gaugings; rating 1 from gaugings up to 2.6m (about 1.3QMED). rating 2 from gaugings up to 3.5m (about 1.5QMED), simple extrapolation beyond. Some hydraulic re-construction has been done. FLOW RECORD: Naturalised monthly flows available from 1973 to 1987. FLOW REGIME: 293 sq.km (25% of catchment) controlled for HEP but no further development post-1960.
+CATCHMENT,Mountainous headwaters, often snowy in winter. Most of the catchment is steep. Bedrock almost entirely metamorphic; half overlain by superficial deposits. Land use mainly moorland, rough grazing and forestry. Contains Loch Tay - the largest natural standing water body in greater Tay catchment.
+Qmed Suitability,No comment
+Pooling Suitability,No comment
+[END]

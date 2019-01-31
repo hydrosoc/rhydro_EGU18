@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+201010
+[END]
+[CDS DETAILS]
+NAME,Mourne
+LOCATION,Drumnabuoy House
+NOMINAL AREA, 1843.90
+NOMINAL NGR,2347,3959
+[END]
+[DESCRIPTORS]
+IHDTM NGR,Ireland,234750,395950
+CENTROID NGR,Ireland,241532,378147
+DTM AREA, 1843.90
+ALTBAR, 168
+ASPBAR,167
+ASPVAR,0.03
+BFIHOST,0.448
+DPLBAR, 47.44
+DPSBAR, 79.6
+FARL,0.977
+FPEXT,0.0787
+LDP, 78.11
+PROPWET,0.62
+RMED-1H,  8.7
+RMED-1D, 35.0
+RMED-2D, 47.0
+SAAR,1288
+SAAR4170,1261
+SPRHOST,38.84
+URBCONC1990,-2.000
+URBEXT1990,0.0121
+URBLOC1990, 0.816
+URBCONC2000,-9999.000
+URBEXT2000,0.0030
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station with cableway and natural control. GENERAL: Velocity-area station with masonry hut on rb. STATION HYDROMETRY: Cableway present. Station sited to be as far downstream on the Mourne system without being affected by the River Finn or the tide. The rating is derived from current meter gaugings. Simple extrapolation is used beyond 4.27m (maximum gauged level). Gauging and rating is good. Last high flow gauging carried out in October 2002. Low flow gauging is carried out just downstream. FLOW RECORD: Daily flows for full period of record reprocessed in 2002. FLOW REGIME: There is a slight effect of water abstractions. The station has the largest catchment of any in Northern Ireland that has a natural flow regime, and has a relatively small urban percentage.
+CATCHMENT,A mainly rural catchment (grassland and heath with limited afforestation), with urban development at Omagh and Castlederg. Solid geology - Moinian and Dalradian rock types form a generally impermeable basement composed of metamorphosed, schistose sandstone, shale, limestone and basic igneous intrusive and extrusive lithologies. Moinian and Ordovician igneous complexes form generally impermeable basement south of the Omagh Thrust. Ordovician and Silurian greywacke sandstones and shales form some of the ground and are generally indurated. Much of south is composed of Devonian and Carboniferous conglomerate, sandstone, mudstone and limestone that are generally indurated. Drift geology - Extensive glacial till with sand and gravel and lake alluvium in valleys. Extensive rock near surface and post-glacial peat cover on high ground with restricted development of river alluvium in valleys.
+Qmed Suitability,Highest gauging is within 12% of QMED with unmeasured floodplain flow is less than 10%.
+Pooling Suitability,The unmeasured floodplain flow is estimated to be less than 10% of total flows and ther station growth curve appears acceptable for Northern Ireland catchments and therefore station "OK for pooling."
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 39044
+[END]
+[CDS DETAILS]
+NAME,Hart
+LOCATION,Bramshill House
+NOMINAL AREA,   84.08
+NOMINAL NGR,4755,1591
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,475500,159200
+CENTROID NGR,GB,479611,153333
+DTM AREA,   84.08
+ALTBAR,  87
+ASPBAR,353
+ASPVAR,0.24
+BFIHOST,0.589
+DPLBAR, 11.58
+DPSBAR, 32.0
+FARL,0.947
+FPEXT,0.1215
+LDP, 20.61
+PROPWET,0.35
+RMED-1H, 11.8
+RMED-1D, 31.7
+RMED-2D, 41.2
+SAAR, 707
+SAAR4170, 702
+SPRHOST,30.00
+URBCONC1990, 0.619
+URBEXT1990,0.0366
+URBLOC1990, 1.020
+URBCONC2000, 0.871
+URBEXT2000,0.0840
+URBLOC2000, 1.033
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,The station is located on the River Hart above the confluence with the River Whitewater. GENERAL: Crump weir, 4.0m broad, with crest and d/s tappings. STATION HYDROMETRY: Pressure tapping used in the past, but this was discontinuous as they were prone to blockage. This entails considerable adjustments to the modular flow. Banks overtopped in extreme floods. Standard Crump weir calculation, using tail levels. Requires lots of editing; d/s correction acceptable. FLOW RECORD: Station always drowned in minor floods and flow is often out of bank. High flows are therefore uncertain. Poor low flow record due to weed-induced drowning. FLOW REGIME: Flows augmented by effluent derived from outside the catchment.
+CATCHMENT,Chalk headwaters but a mainly impermeable (Eocene formations with a limited overburden of glacial deposits) catchment. Mixed land use. Rural tracts with considerable woodland but also includes growing urban development in the headwaters including Camberley and Farnborough.
+Qmed Suitability,Flows in non-modular range are very uncertain and need correcting. As QMED is quite high, estimates will be affected by these problems.
+Pooling Suitability,Flows in non-modular range are very uncertain and need correcting.
+[END]

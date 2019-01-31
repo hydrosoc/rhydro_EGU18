@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+  6008
+[END]
+[CDS DETAILS]
+NAME,Enrick
+LOCATION,Mill of Tore
+NOMINAL AREA,  107.02
+NOMINAL NGR,2450,8299
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,245050,829950
+CENTROID NGR,GB,238424,828131
+DTM AREA,  107.02
+ALTBAR, 346
+ASPBAR,353
+ASPVAR,0.13
+BFIHOST,0.433
+DPLBAR, 11.37
+DPSBAR,118.3
+FARL,0.839
+FPEXT,0.0467
+LDP, 25.24
+PROPWET,0.70
+RMED-1H,  9.2
+RMED-1D, 35.5
+RMED-2D, 51.1
+SAAR,1290
+SAAR4170,1339
+SPRHOST,43.43
+URBCONC1990,-9999.000
+URBEXT1990,0.0002
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0000
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station in upland catchment. Catchment drains through Loch Meiklie. GENERAL: Velocity area station; 15m wide river section. STATION HYDROMETRY: Natural boulder control. Flows recede to unexpectedly low levels, possibly due to sub-surface flows below station. Prior to 1991 when flood embankments were built, bypassing occurred on right bank at extreme flows above about 2.3m. Rating derived from current meter gaugings, simple extrapolation beyond. Peak flow rating was revised in 2003 a new single rating for peak flows only was judged to be suitable for whole period of record. Rating revised in 2016. FLOW RECORD: Full period of record peak flow data reviewed and released in April 2017 (WINFAP Files v5). FLOW REGIME: Flows 100% natural but whole catchment drains through Loch Meiklie (1 sq.km).
+CATCHMENT,Mountainous headwaters, often snowy in winter. Typical upland catchment. Impermeable Moinian metamorphics overlain with superficial deposits. Rough grazing and moorland with approx a quarter forested, especially around Loch Meiklie. No significant catchment changes known.
+Qmed Suitability,Gauged to QMED
+Pooling Suitability,Out of bank at QMED
+[END]

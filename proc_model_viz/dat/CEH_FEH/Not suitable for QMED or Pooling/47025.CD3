@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 47025
+[END]
+[CDS DETAILS]
+NAME,Wolf
+LOCATION,Germansweek
+NOMINAL AREA,   10.77
+NOMINAL NGR,2445, 942
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,244600,94250
+CENTROID NGR,GB,245994, 95819
+DTM AREA,   10.77
+ALTBAR, 215
+ASPBAR,237
+ASPVAR,0.28
+BFIHOST,0.409
+DPLBAR,  3.21
+DPSBAR, 76.9
+FARL,1.000
+FPEXT,0.0070
+LDP,  5.54
+PROPWET,0.50
+RMED-1H, 12.1
+RMED-1D, 37.7
+RMED-2D, 48.5
+SAAR,1190
+SAAR4170,1299
+SPRHOST,40.81
+URBCONC1990,-9999.000
+URBEXT1990,0.0000
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0005
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station in a relatively small catchment. GENERAL: Station started in 1991 with a low level bed control. Channel approximately 5.2m wide. STATION HYDROMETRY: Maximum flows may be considerable over-estimates as out of bank section of rating is simply an extrapolation of the in-bank rating. Access problems at high flows and wading gauging only. Mobile bed. Bankfull at 0.89m. Two ratings applied across period of record.
+CATCHMENT,Relatively small catchment area consists of Upper Carboniferous (mainly shale) with some areas of Sandstone, alluvium and river deposits. Land use mostly rural/agricultural. No urbanisation in the catchment. Roadford reservoir (downstream) completed in 1989. No major catchment changes.
+Qmed Suitability,Not gauged to within 30% of QMED. Rating does not consider out of bank flow. Data under review 2013.
+Pooling Suitability,Few high flow gaugings. Rating can not be validated beyond QMED. Data under review 2013.
+[END]

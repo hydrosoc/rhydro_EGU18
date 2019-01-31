@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 28045
+[END]
+[CDS DETAILS]
+NAME,Meden/Maun
+LOCATION,Bothamsall / Haughton
+NOMINAL AREA,  258.81
+NOMINAL NGR,4681,3732
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,468150,372850
+CENTROID NGR,GB,457647,363771
+DTM AREA,  258.81
+ALTBAR, 100
+ASPBAR, 71
+ASPVAR,0.24
+BFIHOST,0.831
+DPLBAR, 19.45
+DPSBAR, 37.7
+FARL,0.934
+FPEXT,0.0663
+LDP, 32.59
+PROPWET,0.28
+RMED-1H, 11.2
+RMED-1D, 32.4
+RMED-2D, 41.4
+SAAR, 678
+SAAR4170, 682
+SPRHOST,16.48
+URBCONC1990, 0.783
+URBEXT1990,0.0917
+URBLOC1990, 1.171
+URBCONC2000, 0.895
+URBEXT2000,0.1056
+URBLOC2000, 1.207
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Site data is a combination of DMFs from Bothamsall (4045) on the Meden and Haughton (4034) on the Maun - both trapezoidal flumes, rated by C/m - the river divides upstream of the two gauging points and then joins again downstream. Station closed in 1984. GENERAL: The Meden and Maun join then split u/s of the gauging points. This is a combination record of DMFs from the Meden at Bothamshall and the Maun at Haughton. No combined peak flows available (those provided are for the Meden). Both stations originally velocity-area stations with trapezoidal flumes built in 1963/4 - closed in 1984. STATION HYDROMETRY: Flows derived from addition of two subsidiary sites - no ratings. Poor ratings record. FLOW RECORD: The levels given are at Bothamsall (the site with greater flows). FLOW REGIME: Runoff influenced by groundwater abstraction/recharge. Runoff increased by effluent returns.
+CATCHMENT,The lower two thirds of the catchment is Permian and Triassic Sandstones with Permain Magensian Limestone upstream. The catchment includes Mansfield and adjacent former coal mining area. It is almost entirely free of Drift deposits.
+Qmed Suitability,The major station (Bothamsall) is well rated up to QMED.
+Pooling Suitability,The major station (Bothamsall) has no high flow gaugings and none at out of bank stages.
+[END]

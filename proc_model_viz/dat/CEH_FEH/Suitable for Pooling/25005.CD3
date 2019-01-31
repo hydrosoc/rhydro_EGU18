@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 25005
+[END]
+[CDS DETAILS]
+NAME,Leven
+LOCATION,Leven Bridge
+NOMINAL AREA,  194.15
+NOMINAL NGR,4444,5120
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,444500,512100
+CENTROID NGR,GB,453157,507565
+DTM AREA,  194.15
+ALTBAR, 126
+ASPBAR,300
+ASPVAR,0.23
+BFIHOST,0.381
+DPLBAR, 27.05
+DPSBAR, 75.9
+FARL,0.994
+FPEXT,0.1067
+LDP, 44.61
+PROPWET,0.34
+RMED-1H, 10.1
+RMED-1D, 33.3
+RMED-2D, 43.6
+SAAR, 726
+SAAR4170, 727
+SPRHOST,40.45
+URBCONC1990, 0.560
+URBEXT1990,0.0098
+URBLOC1990, 0.956
+URBCONC2000, 0.736
+URBEXT2000,0.0137
+URBLOC2000, 0.967
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Compound broad-crested weir with bypass Crump weir. Station closed 2007 and replaced by 25029. GENERAL: A pre-existing two-stage compound broad-crested weir 17.4m wide, with a bypass Crump profile weir 4.6m wide, adapted for gauging in 1959. The site is badly silted u/s and difficult to maintain. Station closed in May 2007 and replaced by a new station 6km u/s (25029). STATION HYDROMETRY: Sharp bend and road bridge just u/s of weirs and large drop below, therefore believed to be modular throughout range. Bypassing occurs on u/s bend rather than at station. Suffers from siltation upstream of the weir which may affect calculated flows. Tidal effects are rare, and the water level at weir footings is now ponded to high tide level by Tees Barrage. Theoretical daily flow rating (but also gauged to almost QMED). One peak flow rating established by current meter gauging applied across period of record. Rating may be extended by use of ADCP gauging for high flows. FLOW RECORD: Bypassed once in 2000, but thought to be due to a bridge blockage; 2000 flood peak may consequently be unreliable, though capacity of weir and bridge calculated as 107 cumecs. Suspect daily flow data removed 04/08/2005 - 06/01/2006 due to construction of fish pass. FLOW REGIME: Sensibly natural regime. No known artificial influences.
+CATCHMENT,Headwaters drain from the Cleveland Hills. Mixed geology of mostly Permian/Jurassic age, generally low permeability. Almost all the catchment is overlain by superficial deposits, mainly Boulder Clay. Mixed agriculture, with some moorland and forestry in headwaters, minor urban development in the lower valley. No known catchment changes.
+Qmed Suitability,Gauged to within 12% of QMED.
+Pooling Suitability,Although no gaugings beyond QMED, flows well contained by a modular control (almost) throughout the full range. Some by-pass on the right bank in the biggest flood events.
+[END]

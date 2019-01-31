@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 84012
+[END]
+[CDS DETAILS]
+NAME,White Cart Water
+LOCATION,Hawkhead
+NOMINAL AREA,  236.26
+NOMINAL NGR,2498,6629
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,249900,662900
+CENTROID NGR,GB,254656,655442
+DTM AREA,  236.26
+ALTBAR, 146
+ASPBAR,  9
+ASPVAR,0.25
+BFIHOST,0.414
+DPLBAR, 20.35
+DPSBAR, 63.9
+FARL,0.927
+FPEXT,0.0827
+LDP, 36.66
+PROPWET,0.60
+RMED-1H,  9.7
+RMED-1D, 40.6
+RMED-2D, 56.5
+SAAR,1306
+SAAR4170,1270
+SPRHOST,38.16
+URBCONC1990, 0.843
+URBEXT1990,0.1277
+URBLOC1990, 0.747
+URBCONC2000, 0.870
+URBEXT2000,0.1277
+URBLOC2000, 0.755
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station with complex water utilisation. GENERAL: Velocity area station; approx. 20m wide section in a straight reach of uniform cross-section. Occasional vandalism. STATION HYDROMETRY: Rock bar control but weed growth causes low flow rating variations. Bypassing on right bank at extreme floods above 3.3m. Peak flow ratings from current meter gaugings, simple extrapolation beyond. Ratings reviewed in 2016. FLOW RECORD: Complex water utilisation; some monthly naturalised flows available (1963-74). Full period of record peak flow data reviewed and released in April 2017 (WINFAP Files v5). FLOW REGIME: Storage in the catchment with complex water utilisation. Urban drainage systems.
+CATCHMENT,Predominantly lowland catchment. Carboniferous rocks (basalt in the headwaters) dominate; greater than half overlain by Boulder Clay. Much of the catchment is open pasture (with several small lochs) but the northern part is heavily urbanised (Glasgow); some forestry. Notable floodplains. Development of East Kilbride and Newton Mearns (suburban development). Flood prevention scheme planned for the future.
+Qmed Suitability,Gauged to QMED
+Pooling Suitability,Bypassing above 3.3m
+[END]

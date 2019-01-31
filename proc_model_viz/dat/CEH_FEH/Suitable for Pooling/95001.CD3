@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 95001
+[END]
+[CDS DETAILS]
+NAME,Inver
+LOCATION,Little Assynt
+NOMINAL AREA,  138.47
+NOMINAL NGR,2146,9249
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,214700,924900
+CENTROID NGR,GB,223042,922196
+DTM AREA,  138.47
+ALTBAR, 292
+ASPBAR,272
+ASPVAR,0.14
+BFIHOST,0.399
+DPLBAR, 13.40
+DPSBAR,190.3
+FARL,0.670
+FPEXT,0.0344
+LDP, 26.13
+PROPWET,0.77
+RMED-1H, 10.0
+RMED-1D, 57.2
+RMED-2D, 85.5
+SAAR,2208
+SAAR4170,2019
+SPRHOST,45.87
+URBCONC1990,-9999.000
+URBEXT1990,0.0000
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0000
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station. Low flow regime can be affected by Loch Assynt gate operation. GENERAL: Velocity area station, about 30m wide. STATION HYDROMETRY: Completely contained river section with adequately gauged stable calibration in excess of MAF. Rock control. To date all flows contained. Rating derived from current meter gaugings, simple extrapolation beyond. Peak flow rating was revised in 2003 and a new single rating for peak flows only was judged to be suitable for the whole period of record. Rating reviewed in 2016. FLOW RECORD: Very low flows in May/June 1998 and April 2002 due to gate operations at Loch Assynt. Full period of record peak flow data reviewed and released in April 2017 (WINFAP Files v5). FLOW REGIME: Flow regime completely natural except for occasional operation of gates for fisheries purposes which mainly influence low flows. The gates are immediately u/s at outlet to Loch Assynt (surface area: 7.9 sq.km) and can result in very low flows.
+CATCHMENT,Mountainous headwaters, often snowy in winter. Predominantly Lewisian gneiss with Lewisian basic rock intrusions; some superficial deposits. Catchment is rough grazing and moorland with many lochans, of which Loch Assynt dominates (surface area 7.9 sq km). No significant catchment changes known.
+Qmed Suitability,Gauged above QMED
+Pooling Suitability,Gauged to 90% of AMAX3
+[END]

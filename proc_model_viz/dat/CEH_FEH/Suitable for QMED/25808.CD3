@@ -1,0 +1,49 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 25808
+[END]
+[CDS DETAILS]
+NAME,Burnt Hill
+LOCATION,Moor House
+NOMINAL AREA,    0.75
+NOMINAL NGR,3752,5332
+[END]
+[DESCRIPTORS]
+CENTROID NGR,GB, -9999, -9999
+DTM AREA,    0.75
+ALTBAR, 614
+ASPBAR,215
+ASPVAR,0.85
+BFIHOST,0.294
+DPLBAR,  0.88
+DPSBAR,116.9
+FARL,1.000
+FPEXT,-9999.0000
+LDP,  1.81
+PROPWET,0.64
+RMED-1H, 11.0
+RMED-1D, 44.1
+RMED-2D, 59.6
+SAAR,1499
+SAAR4170,1790
+SPRHOST,53.30
+URBCONC1990, 0.000
+URBEXT1990,0.0000
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0000
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,A V-notch weir level only station. Affected by siltation problems at low flows. Peak flows only. Station closed December 1962. GENERAL: A V-notch weir with stilling pool and water level recorder. Heavy silting was reported at times of low flow, with 400 cubic feet of silt removed over five years. Peak flow only station. Station closed 31/12/1962. STATION HYDROMETRY: Zero of V notch is 0.532m on staff gauge. Imprecise at low flows, and inaccurate at high flows once water level rises above the top of the V notch at 0.324m. Single peak flow theoretical rating applied throughout. Confirmed by check gaugings. Flood Studies Report grade C due to uncertainty in extrapolation. FLOW REGIME: Runoff likely to be low during wintry conditions.No known artificial influences.
+CATCHMENT,A very small upland catchment draining into the Tees via the Trout Beck. During the experimental period of recording the catchment was both burnt (being heather moorland) and artificially drained.
+Qmed Suitability,QMED is contained within V notch, plus check gaugings confirm rating to above QMED.
+Pooling Suitability,Although gauged beyond AMAX3, high flows are not contained within the structure of the weir making rating extrapolation unreliable.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 54906
+[END]
+[CDS DETAILS]
+NAME,Stour (Worcs)
+LOCATION,Kidderminster Gilt Edge
+NOMINAL AREA,  323.24
+NOMINAL NGR,3829,2768
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,382900,276850
+CENTROID NGR,GB,388305,287270
+DTM AREA,  323.24
+ALTBAR, 114
+ASPBAR,254
+ASPVAR,0.08
+BFIHOST,0.655
+DPLBAR, 24.02
+DPSBAR, 59.7
+FARL,0.978
+FPEXT,0.0542
+LDP, 46.79
+PROPWET,0.30
+RMED-1H, 10.7
+RMED-1D, 31.1
+RMED-2D, 38.8
+SAAR, 693
+SAAR4170, 701
+SPRHOST,26.95
+URBCONC1990, 0.834
+URBEXT1990,0.1651
+URBLOC1990, 1.202
+URBCONC2000, 0.910
+URBEXT2000,0.2264
+URBLOC2000, 1.219
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Chart only with cableway site replaced by 54006 Kidderminster Callows Lane. GENERAL: Replaced by 54006 Kidderminster Callows Lane. Chart only with cableway. Recorder situated on upstream face of a twin box culvert. STATION HYDROMETRY: Cableway rated. Silt and debris accumulation at culvert downstream can cause inaccuracies at low flows. Above bankfull flow is impossible to measure - peaks estimated out of bank. It is thought that the top 4 AMAX events were out of bank and estimated. No information on missing data periods. One rating applied across period of record. Rating fits the gaugings well at higher flows but less below 0.75m. FLOW REGIME: Industrial influences on flow regime
+CATCHMENT,Mainly urban - West Midlands towns. River flows through a wide faulted trough of Triassic sandstones and conglomerates. Higher ground to the east and west consists of marls, sanstones and breccias of the Upper Coal Measures with inliers of Upper Silluirain shales and limestones in the east. Spreads of boulder clay occur north of Swindon and sands and gravels flank the main valley.
+Qmed Suitability,Gauged above QMED. Reasonable number of gaugings.
+Pooling Suitability,Gauged to within 13% of AMAX3. Good fit to gaugings although the peak flows AMAX2 and AMAX4 are estimated and more unreliable.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 52014
+[END]
+[CDS DETAILS]
+NAME,Tone
+LOCATION,Greenham
+NOMINAL AREA,   57.74
+NOMINAL NGR,3078,1202
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,307900,120300
+CENTROID NGR,GB,304520,127442
+DTM AREA,   57.74
+ALTBAR, 240
+ASPBAR,138
+ASPVAR,0.21
+BFIHOST,0.553
+DPLBAR, 11.83
+DPSBAR,144.8
+FARL,0.937
+FPEXT,0.0115
+LDP, 21.18
+PROPWET,0.35
+RMED-1H, 11.3
+RMED-1D, 37.8
+RMED-2D, 52.6
+SAAR,1100
+SAAR4170,1152
+SPRHOST,33.30
+URBCONC1990,-9999.000
+URBEXT1990,0.0001
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0015
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Crump profile weir to replace previous rated section. River bed contains silt and stones with weed visible. GENERAL: The station is located 15 km west of Taunton and was opened in 1967 as a rated section with an unstable bed. Compound Flat V Crump profile weir, 8.06m wide, installed 08/1979. Small road bridge upstream of station. STATION HYDROMETRY: River bed contains silt and stones, weed visible. At high flows estimates made from debris marks as surrounding land floods. Bankfull channel is 1.6m. Two peak flow ratings applied across period of record, the most recent is valid from 08/1979 after crump weir installed. Some scatter in gaugings. FLOW RECORD: Data missing from 01/1978 to 07/1981. FLOW REGIME: Low flows maintained from Clatworthy Reservoir and this reservoir affects runoff. Abstractions for water supply.
+CATCHMENT,The upper part of the catchment drains the Brendon Hills. Geology is predominantly Old Red Sandstone. Land use is rural. Flat pasture land on right side of river. Sloping pasture land on left side. No major catchment changes.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,All gaugings in bank and significant number of flood flows are out of bank. Rating can not be validated beyond QMED.
+[END]

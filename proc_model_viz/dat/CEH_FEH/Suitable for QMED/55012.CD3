@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 55012
+[END]
+[CDS DETAILS]
+NAME,Irfon
+LOCATION,Cilmery
+NOMINAL AREA,  246.66
+NOMINAL NGR,2995,2507
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,299550,250750
+CENTROID NGR,GB,289404,250198
+DTM AREA,  246.66
+ALTBAR, 333
+ASPBAR,136
+ASPVAR,0.11
+BFIHOST,0.431
+DPLBAR, 20.67
+DPSBAR,158.6
+FARL,0.997
+FPEXT,0.0419
+LDP, 39.53
+PROPWET,0.65
+RMED-1H, 10.8
+RMED-1D, 50.0
+RMED-2D, 66.4
+SAAR,1627
+SAAR4170,1639
+SPRHOST,42.75
+URBCONC1990,-9999.000
+URBEXT1990,0.0004
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0020
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station with Crump profile flat V weir. Natural flow regime. GENERAL: Velocity area station, initially with a gravel shoal control. Improved in 1979 by installing a 25m wide Crump profile Flat V weir. STATION HYDROMETRY: Cableway spans 44m. Above approx. 3m the rb floodplain is inundated. Multiple peak flow ratings applied across period of record. Gaugings fit well to respective ratings. FLOW RECORD: Weir rebuilt between 31/8/94 and 7/9/94, no data available. A major event in October 1998 altered the shape of the channel at low flows. Flows since 23 October 1998 reprocessed in January 2013 due to new rating, resulting in minor decreases to daily means from this date (almost unnoticeable in 2000, 2001 and 2011), and to monthly maxima (relatively large decreases in 1998 and 1999). FLOW REGIME: Natural to within 10% at Q95.
+CATCHMENT,Natural catchment.Headwaters drain the very wet Tywi Forest, underlain by indurated Ordovician sediments. The middle and lower reaches are on relatively more permeable Silurian rocks, but generally a responsive catchment of very low permeability. Predominantly upland pasture (mainly grassland) but with some forested areas, mainly in western headwaters.
+Qmed Suitability,Gauged above QMED. Good fit to ratings.
+Pooling Suitability,Few high flow gaugings. Rating cannot be validated beyond QMED.
+[END]

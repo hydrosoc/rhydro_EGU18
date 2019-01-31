@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 76008
+[END]
+[CDS DETAILS]
+NAME,Irthing
+LOCATION,Greenholme
+NOMINAL AREA,  333.42
+NOMINAL NGR,3486,5580
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,348600,558100
+CENTROID NGR,GB,359555,566486
+DTM AREA,  333.42
+ALTBAR, 225
+ASPBAR,220
+ASPVAR,0.14
+BFIHOST,0.359
+DPLBAR, 27.74
+DPSBAR, 76.0
+FARL,0.994
+FPEXT,0.0671
+LDP, 64.38
+PROPWET,0.62
+RMED-1H, 10.4
+RMED-1D, 35.1
+RMED-2D, 46.5
+SAAR,1073
+SAAR4170,1072
+SPRHOST,46.46
+URBCONC1990,-9999.000
+URBEXT1990,0.0015
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0027
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station with non-standard shallow V weir. GENERAL: Velocity area station with non-standard shallow V weir (2m wide in the direction of flow) installed between February and August 1975. Originally (1967-1975), had a plastic pipe control that was effective over most of the flow range. STATION HYDROMETRY: Permanent cableway. The present shallow V control is insensitive at low levels but retains control in reasonably high flows. Thought to be affected sometimes by high levels in the River Eden. Floodplain flow occurs at very high flows. One peak flow rating applied across period of record. Upper limbs of rating developed by hydraulic modelling. Flood Studies Report grade B. FLOW REGIME: Medium-high flows can be affected by backing-up from the Eden. Moderately affected by Castle Carrock Reservoir and associated public water supply abstractions from the River Gelt, which controls <1% of the area.
+CATCHMENT,Tributaries rising in the Pennines are short, steep and flashy through heather and moorland cover. Solid geology dominated by Carboniferous L'st - outcrops on steep slopes. Extensive hill peat, Boulder Clay, and glacial sands and gravels. Land-use is moorland to arable. Some urbanisation in villages and Brampton town. Afforestation began in the 1950s, peaked in the 1970s and, by 2000, constituted almost 20% of the catchment.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged beyond AMAX3. Bypassing accounted for in rating.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 63001
+[END]
+[CDS DETAILS]
+NAME,Ystwyth
+LOCATION,Pont Llolwyn
+NOMINAL AREA,  170.10
+NOMINAL NGR,2590,2772
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,259050,277300
+CENTROID NGR,GB,271973,274219
+DTM AREA,  170.10
+ALTBAR, 265
+ASPBAR,278
+ASPVAR,0.12
+BFIHOST,0.489
+DPLBAR, 19.16
+DPSBAR,159.8
+FARL,0.990
+FPEXT,0.0471
+LDP, 41.11
+PROPWET,0.63
+RMED-1H, 10.5
+RMED-1D, 45.6
+RMED-2D, 60.6
+SAAR,1456
+SAAR4170,1509
+SPRHOST,39.17
+URBCONC1990,-9999.000
+URBEXT1990,0.0006
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0012
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station; non-standard oak weir shallow V bed control. Natural flow regime. GENERAL: Velocity area station; non-standard oak weir shallow V bed control, installed in 1973. Channel width: 16m. STATION HYDROMETRY: Stable section. Recorder on steep lb. Floods spill over rb onto floodplain (approx 30m wide) and bypass station. Intake pipe has issues with blockages - lower intake pipe buried in lb gabions. One peak flow rating applied across period of record. Rating accounts for out of bank flow derived by hydraulic modelling. FLOW RECORD: Records from 1963. Post-1985 flows below 3 cumecs are unreliable due to blockage of lower inlet pipe. Channel re-graded and weir refurbished 21 - 27/09/98 (GDFs estimated by NRFA), new rating produced. POR max.in Dec 1964 is listed as 153 cumecs on Hiflows-UK database; this may be an underestimate due to bypassing. FLOW REGIME: Some discharges from lead mines (minor). Natural to within 10% at Q95.
+CATCHMENT,Impermeable silurian deposits. Peaty soils in eastern hills, seasonally wet. Most of western catchment has soils with permeable substrata. Mainly grassland, hill farming in uplands, livestock at lower levels. Some forest.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Although not gauged within 30% of AMAX3, rating does take into account out of bank flow and is expected to perform acceptably. Some uncertainty in modelled rating so use with caution.
+[END]

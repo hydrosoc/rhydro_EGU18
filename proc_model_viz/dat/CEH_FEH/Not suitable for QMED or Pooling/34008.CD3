@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 34008
+[END]
+[CDS DETAILS]
+NAME,Ant
+LOCATION,Honing Lock
+NOMINAL AREA,   44.43
+NOMINAL NGR,6331,3270
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,633100,327050
+CENTROID NGR,GB,628125,332365
+DTM AREA,   44.43
+ALTBAR,  31
+ASPBAR,121
+ASPVAR,0.20
+BFIHOST,0.806
+DPLBAR, 10.38
+DPSBAR, 21.4
+FARL,0.978
+FPEXT,0.1240
+LDP, 18.10
+PROPWET,0.31
+RMED-1H, 11.4
+RMED-1D, 29.8
+RMED-2D, 38.5
+SAAR, 632
+SAAR4170, 647
+SPRHOST,19.04
+URBCONC1990, 0.752
+URBEXT1990,0.0437
+URBLOC1990, 1.135
+URBCONC2000, 0.835
+URBEXT2000,0.0500
+URBLOC2000, 1.089
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Structure utilising the fall of an old navigation lock, gauging a rural catchment with sand, gravel, and loam, some flow bypasses the station through a marshy are u/s of station. GENERAL: Crump type weir utilising the fall of an old navigation lock. No chart back up: limited space within kiosk. STATION HYDROMETRY: One rating applied across period of record. FLOW RECORD: Logger failure Jan 1998 so no DMFs. Suspect data in summer 1996. FLOW REGIME: Gw abstractions for public water supply moderately reduce the natural runoff.
+CATCHMENT,Predominantly rural catchment of approximately half sand and gravel and half loam. Immediately u/s is a large marshy area with dense weed growth from which some flow bypasses the station.
+Qmed Suitability,Not gauged to within 30% of QMED. Rating overestimates flow.
+Pooling Suitability,Rating cannot be confirmed for high flows.
+[END]

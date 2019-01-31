@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 22007
+[END]
+[CDS DETAILS]
+NAME,Wansbeck
+LOCATION,Mitford
+NOMINAL AREA,  282.01
+NOMINAL NGR,4174,5857
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,417450,585800
+CENTROID NGR,GB,404914,587655
+DTM AREA,  282.01
+ALTBAR, 182
+ASPBAR,112
+ASPVAR,0.26
+BFIHOST,0.347
+DPLBAR, 20.15
+DPSBAR, 50.8
+FARL,0.973
+FPEXT,0.0591
+LDP, 39.01
+PROPWET,0.45
+RMED-1H,  9.5
+RMED-1D, 34.0
+RMED-2D, 44.6
+SAAR, 794
+SAAR4170, 847
+SPRHOST,41.66
+URBCONC1990,-9999.000
+URBEXT1990,0.0005
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0003
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station with flat V weir and flume. Record combines data for 22005 and 22007. GENERAL: Velocity area station. Flat V weir and central flume for low flow measurement (3m wide, overall width 18m) installed 1974, replacing older broad-crested weir also with central flume (located above Tynemouth Corporation intake). Cableway. Just below the station, the channel is confined in deep, steep-sided valley at bend in river. The data series for this station (22007) combines records from Highford (22005) from February 1963, replaced by Mitford from November 1966. In the early period, medium and high flows were measured 0.5 miles d/s at Highford Dam. This had an autographic recorder from February 1963-September 1968, replaced by a punched tape recorder until October 1975. The station was never properly calibrated by gauging, but flows were derived by correlation with Mitford. STATION HYDROMETRY: Cableway allows for high flow gauging, but wading behind the hut is also necessary at highest levels. Multiple peak flow ratings applied across period of record, the most recent is valid from December 1975 post weir modifications. Ratings in good agreement with respective gaugings. Recalibration of peak flow rating produced substantial reduction in flood flows. Flood Studies Rating grade A1. FLOW RECORD: Period-of-record maximum flow occurred in September 2008 which exceeded the previous maximum recorded in March 1963. Data 17/09/2014-07/10/2014 affected by fish pass installation and eel pass repairs. FLOW REGIME: Font Reservoir impounds 30.3 sq.km of upper catchment on River Font tributary and affects flood flows through drawdown and attenuation. Morpeth dam operational from 2015, reducing medium to high flows. Modest net effect of export from headwater reservoir. The catchment produces sharp hydrographs, but shows a bigger lag than is typical for the area. Northumbrian Water's PWS abstraction at Mitford (just d/s of gauging station) closed by the mid-1990s.
+CATCHMENT,A mainly lowland catchment located on moderately permeable Millstone Grit and Upper, Middle and Lower Limestones with extensive boulder clay cover. Around half the catchment is grassland, mixed arable and woodland. No known catchment changes.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged to within 23% of AMAX3. Some bypassing of cableway but this has been wade-gauged and extrapolation of rating should be reasonable. Weir not expected to fully drown.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 33019
+[END]
+[CDS DETAILS]
+NAME,Thet
+LOCATION,Melford Bridge
+NOMINAL AREA,  311.37
+NOMINAL NGR,5879,2830
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,587950,283000
+CENTROID NGR,GB,599013,291010
+DTM AREA,  311.37
+ALTBAR,  39
+ASPBAR,221
+ASPVAR,0.08
+BFIHOST,0.707
+DPLBAR, 27.54
+DPSBAR, 13.9
+FARL,0.932
+FPEXT,0.1901
+LDP, 45.99
+PROPWET,0.31
+RMED-1H, 11.0
+RMED-1D, 28.2
+RMED-2D, 35.4
+SAAR, 620
+SAAR4170, 636
+SPRHOST,23.94
+URBCONC1990, 0.616
+URBEXT1990,0.0136
+URBLOC1990, 0.950
+URBCONC2000, 0.774
+URBEXT2000,0.0141
+URBLOC2000, 0.883
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Triangular profile weir gauging rural, predominantly Chalk catchment, and with some artificial influences. GENERAL: Triangular profile weir, 6.2m broad. STATION HYDROMETRY: Weir subject to drowning during summer due to weed growth d/s. Theoretical rating modified in Apr 1968. One peak flow rating applied across period of record. Out of bank and non-modular flows are accounted for. FLOW RECORD: Significant high flow event in September 1968 missing from record. Flows in autumn 2003 raised by flow augmentation during drought conditions. 2007-2008 late summer peak flows suspect due to possible stilling well blockage causing underestimation of flows. FLOW REGIME: Flows are affected by groundwater abstraction for agriculture/industry, and by groundwater augmentation during drought conditions which can significantly raise flows. Runoff increased by effluent returns.
+CATCHMENT,Predominantly Chalk catchment largely overlain by Boulder Clay. Primarily arable land, with some grassland and forestry.
+Qmed Suitability,Gauged above QMED with good fit to rating.
+Pooling Suitability,Gauged to AMAX3. Rating accounts for non-modular and out of bank flows.
+[END]

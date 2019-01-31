@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 58005
+[END]
+[CDS DETAILS]
+NAME,Ogmore
+LOCATION,Brynmenyn
+NOMINAL AREA,   74.21
+NOMINAL NGR,2903,1844
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,290400,184450
+CENTROID NGR,GB,293418,189898
+DTM AREA,   74.21
+ALTBAR, 268
+ASPBAR,192
+ASPVAR,0.22
+BFIHOST,0.492
+DPLBAR,  9.17
+DPSBAR,222.2
+FARL,0.999
+FPEXT,0.0247
+LDP, 16.31
+PROPWET,0.52
+RMED-1H, 12.9
+RMED-1D, 59.5
+RMED-2D, 78.8
+SAAR,1977
+SAAR4170,2009
+SPRHOST,35.74
+URBCONC1990, 0.569
+URBEXT1990,0.0214
+URBLOC1990, 0.962
+URBCONC2000, 0.673
+URBEXT2000,0.0326
+URBLOC2000, 0.928
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Flat V weir; velocity area station for high flows. Flows influenced by effluent discharge and abstractions. GENERAL: Flat V weir; velocity area station for high flows. Channel width is 13.7m. STATION HYDROMETRY: Weir 1:20 cross slopes, 1:2 u/s slope, 1:5 d/s. All flows contained. Three peak flow ratings applied across period of record. FLOW RECORD: Weir refurbishment phase I Sep 2012 - Apr 2013, with data recorded at a temporary sensor over this whole period; nearby 58001 Ogmore at Bridgend used to infill missing data and correct erroneous data. Full period of record peak flow data reviewed and released in April 2017 (WINFAP Files v5). FLOW REGIME: Runoff increased by effluent discharge u/s. Flow reduced by industrial and agricultural abstraction. Abstraction also for PWS.
+CATCHMENT,Mainly Coal Measures. Predominantly grassland with livestock farming, some heathland in upland area. Forested areas throughout. Peaty soils in upper areas, seasonally wet. Urban development in the valleys.
+Qmed Suitability,Gauged above QMED. Rating in good agreement with check gaugings.
+Pooling Suitability,Maximum gauged flow only within 40% AMAX3. However, rating is expected to perform well up to 2.0m (beyond AMAX3).
+[END]

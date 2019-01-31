@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 52003
+[END]
+[CDS DETAILS]
+NAME,Halsewater
+LOCATION,Halsewater
+NOMINAL AREA,   88.31
+NOMINAL NGR,3206,1252
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,320650,125250
+CENTROID NGR,GB,315401,130292
+DTM AREA,   88.31
+ALTBAR, 105
+ASPBAR,156
+ASPVAR,0.29
+BFIHOST,0.625
+DPLBAR,  9.85
+DPSBAR, 80.1
+FARL,0.991
+FPEXT,0.0673
+LDP, 19.81
+PROPWET,0.35
+RMED-1H, 11.2
+RMED-1D, 35.8
+RMED-2D, 47.1
+SAAR, 851
+SAAR4170, 886
+SPRHOST,30.52
+URBCONC1990, 0.701
+URBEXT1990,0.0056
+URBLOC1990, 0.567
+URBCONC2000, 0.707
+URBEXT2000,0.0150
+URBLOC2000, 0.585
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Flat V fibreglass weir built in 1981 to replace previous rated section. Station is part of the flood warning system for Taunton. GENERAL: Station opened in 1961 as a rated section with an unstable bed. Flat V fibreglass weir (for low flows), 6.0m wide, built in 08/1981. Located 0.5km upstream of confluence with River Tone. Road bridge 40m d/s. Station is part of the flood warning system for Taunton. STATION HYDROMETRY: Flows >7 cumecs result in out of bank flow approx. 180m upstream of station and bypassing occurs. Above 18.7mAOD flows are affected by backwater from the River Tone. One rating applied across period of record despite control change in 1981. Rating is a combination of theoretical rating for the weir and best-fit curve for medium and high flows. FLOW REGIME: Runoff natural to within 10% at Q95. No significant abstractions or discharges. Flood attenuation reservoir constructed at Norton Fitzwarren, approximately 2 km upstream, commissioned 12/2007.
+CATCHMENT,Catchment of mixed geology - predominantly Jurassic limestone, sandstone and marl, with headwaters in Brendon Hills. Impermeable rock and steep sloping upper catchment result in rapid response to rainfall. Land use: mainly rural -agriculture. No major changes in catchment.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged to within 23% of AMAX3. However, considerable scatter in gaugings and rating does not account for bypassing or drowned flow conditions.
+[END]

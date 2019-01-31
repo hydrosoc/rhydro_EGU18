@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+  4006
+[END]
+[CDS DETAILS]
+NAME,Bran
+LOCATION,Dosmucheran
+NOMINAL AREA,  117.54
+NOMINAL NGR,2204,8601
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,220450,860200
+CENTROID NGR,GB,212722,856679
+DTM AREA,  117.54
+ALTBAR, 351
+ASPBAR, 56
+ASPVAR,0.05
+BFIHOST,0.333
+DPLBAR, 13.08
+DPSBAR,164.6
+FARL,0.814
+FPEXT,0.0479
+LDP, 23.51
+PROPWET,0.83
+RMED-1H,  9.6
+RMED-1D, 51.0
+RMED-2D, 75.5
+SAAR,2203
+SAAR4170,2016
+SPRHOST,52.93
+URBCONC1990,-9999.000
+URBEXT1990,0.0000
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0000
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station in wet Highland catchment. Substantial storage in Loch a'Croisg. GENERAL: Velocity area station, about 30 m wide. STATION HYDROMETRY: Gravel control. Cableway capacity considerably exceeds bankfull. All flows to date contained. Gauged up to 93 cumecs. Peak flow ratings derived from current meter gaugings up to 92 cumecs (about 1.1 QMED), simple extrapolation beyond. Peak flow rating was revised in 2003 and a new single rating for peak flows only was judged to be suitable for whole period of record. FLOW RECORD: Early January and early December 2010 flows considered suspect due to extended period of freezing conditions. FLOW REGIME: Natural regime. Substantial storage in Loch a'Croisg (45% of catchment). Lochans also common between 300-400 m, but flow regime is responsive and natural.
+CATCHMENT,Very wet, rugged, Highland catchment. Mountainous headwaters, often snowy in winter. Predominantly Moinian metamorphic with mica schist and gneiss intrusions. Approximately a third covered with superficial deposits. Largely moorland and rough grazing. Minimal tree cover. Achnasheen is the only significant settlement. No significant catchment changes known.
+Qmed Suitability,No comment
+Pooling Suitability,No comment
+[END]

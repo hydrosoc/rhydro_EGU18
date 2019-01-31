@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 62002
+[END]
+[CDS DETAILS]
+NAME,Teifi
+LOCATION,Llanfair
+NOMINAL AREA,  517.58
+NOMINAL NGR,2433,2406
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,243300,240650
+CENTROID NGR,GB,259932,253697
+DTM AREA,  517.58
+ALTBAR, 243
+ASPBAR,272
+ASPVAR,0.09
+BFIHOST,0.484
+DPLBAR, 38.65
+DPSBAR,106.1
+FARL,0.993
+FPEXT,0.0619
+LDP, 76.24
+PROPWET,0.54
+RMED-1H, 10.7
+RMED-1D, 43.3
+RMED-2D, 59.3
+SAAR,1392
+SAAR4170,1417
+SPRHOST,38.97
+URBCONC1990,-9999.000
+URBEXT1990,0.0014
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0037
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Natural river section in straight reach of river. Station closed 01/11/82 and re-opened 12/4/2002. PWS may have minor affect on flow regime. GENERAL: Natural river section in straight reach of river. Channel width is approx 22.6m. Station closed 01/11/82 and re-opened 12/4/2002. STATION HYDROMETRY: Cableway was removed in mid-2000s. Bed material is alluvium deposits - mix of boulders and grit. Steep lb, rb more gentle. Low flow performance is believed to be very good. Two (similar) peak flow ratings applied across period of record, the most recent is valid from April 2002 when site re-opened. Rating upper limit of 3m and is well gauged to bank full. FLOW RECORD: Flows since April 2002 reprocessed with new rating in 2010. Full period of record peak flow data reviewed and released in April 2017 (WINFAP Files v5). FLOW REGIME: PWS impounding reservoirs in upland and minor agricultural abstractions; Tregaron bog (10 sq.km.) has partial effect on flows. Nonetheless, a sensibly natural flow regime.
+CATCHMENT,Mainly impermeable Ordovician and Silurian geology. Peaty, seasonally wet soils in upland areas. Apart from Tregaron bog, most of the lower areas have soils with permeable substrata. Predominantly grassland. Hill farming in uplands, dairy farming in southern area.
+Qmed Suitability,Gauged to within 10% of QMED.
+Pooling Suitability,Few high flow gaugings. Rating can not be validated beyond QMED.
+[END]

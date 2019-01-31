@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+203028
+[END]
+[CDS DETAILS]
+NAME,Agivey
+LOCATION,Whitehill
+NOMINAL AREA,  100.42
+NOMINAL NGR,2883,4193
+[END]
+[DESCRIPTORS]
+IHDTM NGR,Ireland,288350,419400
+CENTROID NGR,Ireland,280765,413973
+DTM AREA,  100.42
+ALTBAR, 179
+ASPBAR, 51
+ASPVAR,0.33
+BFIHOST,0.404
+DPLBAR, 15.61
+DPSBAR, 59.5
+FARL,0.999
+FPEXT,0.0929
+LDP, 27.37
+PROPWET,0.61
+RMED-1H,  8.2
+RMED-1D, 35.4
+RMED-2D, 49.1
+SAAR,1270
+SAAR4170,1277
+SPRHOST,41.80
+URBCONC1990,-2.000
+URBEXT1990,0.0139
+URBLOC1990, 0.582
+URBCONC2000,-9999.000
+URBEXT2000,0.0033
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station with cableway. GENERAL: Velocity area station. STATION HYDROMETRY: Cableway present. Out of bank at flows below QMED. Rating derived from current meter gaugings from cableway. Simple extrapolation occurs beyond 2.244m (maximum gauged level). Needs more high flow gaugings. FLOW RECORD: Rating considered stable. Flows from 1975 onwards reprocessed in 2002. FLOW REGIME: There has recently been two Hydro-Electric Power schemes installed upstream (one within 20m of the station), which have caused substantial issues.
+CATCHMENT,Significant proportion of upland, predominantly grassland or heath and coniferous woodland. No urban areas or major industry. Solid geology - the area is mostly underlain by Palaeogene basalt lava flows. Generally impermeable Dalradian occurs in the south. Drift geology - upstream, drumlinised glacial till with restricted lacustrine and river alluvium and areas of peat. Downstream the area of glacio-lacustrine alluvium become much more extensive.
+Qmed Suitability,Maximum gauged flow is greater than QMED (1.012 ratio), the station is contained at QMED
+Pooling Suitability,Out of bank flows are restrictict to a narrow floodplain. Flood peak data deemed suitable for pooling.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 25020
+[END]
+[CDS DETAILS]
+NAME,Skerne
+LOCATION,Preston le Skerne
+NOMINAL AREA,  152.77
+NOMINAL NGR,4292,5237
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,429200,523750
+CENTROID NGR,GB,431319,529339
+DTM AREA,  152.77
+ALTBAR, 112
+ASPBAR,145
+ASPVAR,0.21
+BFIHOST,0.437
+DPLBAR, 13.88
+DPSBAR, 35.9
+FARL,0.977
+FPEXT,0.1191
+LDP, 29.50
+PROPWET,0.32
+RMED-1H,  9.8
+RMED-1D, 29.0
+RMED-2D, 37.7
+SAAR, 654
+SAAR4170, 696
+SPRHOST,34.77
+URBCONC1990, 0.657
+URBEXT1990,0.0386
+URBLOC1990, 1.099
+URBCONC2000, 0.818
+URBEXT2000,0.0489
+URBLOC2000, 1.092
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station with informal low-flow control. Flow regime influenced by Hurworth Burn reservoir. GENERAL: Velocity area station. Cableway. No wing walls. Straight approach. All flows contained in channel. An informal low-flow control (1:20 cross-slope, 6m wide) was built in 1978 to overcome weed growth problems. STATION HYDROMETRY: Two peak flow ratings applied across period of record, the most recent is valid from September 1978. Rating by fit to current meter gaugings before and after low-flow control. Very well gauged at high flows - up to maximum recorded. FLOW RECORD: Pre-1978 flows influenced by weed growth; weed growth continues to be problematic. FLOW REGIME: Hurwroth Burn reservoir covers 13.4km2 of the catchment. In the past, there was a small export of water from two headwater reservoirs (servicing Hartlepool) which used to affect low flows. These reservoirs are no longer in use, but it is unclear when they stopped being used. Minewater additions affect parts of the early record. Up to half of dry-weather flow consists of effluents, mainly sewage.
+CATCHMENT,Relatively dry catchment mainly on high permeability Magnesian Limestone; almost all the catchment is overlain by superficial deposits, mainly Boulder Clay. Moorland headwaters; mixed agricultural land use and significant floodplain drained fen peak (carrs) where overbank flood storage may attenuate extreme flood peaks. Just over a tenth of the catchment is built-up. No known catchment changes.
+Qmed Suitability,Gauged above QMED. Good fit to gaugings.
+Pooling Suitability,Gauged beyond AMAX3. Good fit to gaugings.
+[END]

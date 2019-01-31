@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 86001
+[END]
+[CDS DETAILS]
+NAME,Little Eachaig
+LOCATION,Dalinlongart
+NOMINAL AREA,   31.83
+NOMINAL NGR,2142,6820
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,214250,682000
+CENTROID NGR,GB,211516,681123
+DTM AREA,   31.83
+ALTBAR, 274
+ASPBAR, 69
+ASPVAR,0.11
+BFIHOST,0.393
+DPLBAR,  5.04
+DPSBAR,277.7
+FARL,1.000
+FPEXT,0.0268
+LDP,  9.88
+PROPWET,0.71
+RMED-1H, 11.9
+RMED-1D, 55.5
+RMED-2D, 75.5
+SAAR,2341
+SAAR4170,2362
+SPRHOST,47.17
+URBCONC1990,-9999.000
+URBEXT1990,0.0000
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0005
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station in a compact, steep, mountainous catchment with a very responsive flow regime. GENERAL: Velocity area station; approx. 17m wide. Cableway on site until 1988. STATION HYDROMETRY: compound artificial control (low flow notch, broad-crested flanks). At high flows weir is drowned and control is natural channel. All flows contained to date. Peak flow ratings derived using meter gaugings up to 0.8m (about 0.3 QMED), simple extrapolation beyond. Based on cableway spot gaugings up to 1988. FLOW REGIME: Natural flow regime but catchwaters divert a small runoff volume to Loch Tarsan. Very responsive flow regime. There are also some minor industrial and agricultural abstractions.
+CATCHMENT,A compact, steep, mountainous catchment, often snowy in winter - very wet - developed on ancient metamorphic formations; overlain by limited superficial deposits. Landuse mainly forest and moorland. Minimal floodplains. No significant catchment changes known, however ongoing forestry operations in catchment.
+Qmed Suitability,With some caution.
+Pooling Suitability,Spot gaugings only up to about a third of QMED. Higher spot gaugings required to confirm extrapolated rating,
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 34011
+[END]
+[CDS DETAILS]
+NAME,Wensum
+LOCATION,Fakenham
+NOMINAL AREA,  162.93
+NOMINAL NGR,5919,3293
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,591950,329300
+CENTROID NGR,GB,585485,327854
+DTM AREA,  162.93
+ALTBAR,  62
+ASPBAR, 50
+ASPVAR,0.12
+BFIHOST,0.857
+DPLBAR, 14.70
+DPSBAR, 16.8
+FARL,0.993
+FPEXT,0.1425
+LDP, 26.80
+PROPWET,0.29
+RMED-1H, 11.1
+RMED-1D, 30.4
+RMED-2D, 38.6
+SAAR, 698
+SAAR4170, 701
+SPRHOST,14.39
+URBCONC1990, 0.546
+URBEXT1990,0.0172
+URBLOC1990, 0.818
+URBCONC2000, 0.706
+URBEXT2000,0.0108
+URBLOC2000, 0.754
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Station gauging a Chalk catchment with mainly permeable soil types that contribute to muted flood response, minimal gw extractions. GENERAL: Compound Crump with low flow notch, immediately u/s of Fakenham Mill. STATION HYDROMETRY: An automated lifting gate for retaining summer levels acts as a sharp-crested weir. Gate is raised in winter to pass high flows. Unlikely to be bypassed apart from in exceptional events, not known to go non modular within operating range, theoretically rated. There are two ratings at the site, one for gate open and one for gate closed. When gate is up (open) there appears to be a small underestimation of flow by the rating, probably due to small amount of bypass at structure. FLOW REGIME: Permeable soils contribute to muted flood response. Gw abstractions have a minimal impact on runoff.
+CATCHMENT,Low-lying Chalk catchment largely overlain with Boulder Clay and some sands and gravels. Mainly permeable soil types. Predominantly arable.
+Qmed Suitability,No high flow gaugings to confirm rating.
+Pooling Suitability,No high flow gaugings to confirm rating.
+[END]

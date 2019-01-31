@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 28012
+[END]
+[CDS DETAILS]
+NAME,Trent
+LOCATION,Yoxall
+NOMINAL AREA, 1206.60
+NOMINAL NGR,4132,3177
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,413200,317700
+CENTROID NGR,GB,392747,326331
+DTM AREA, 1206.60
+ALTBAR, 129
+ASPBAR,177
+ASPVAR,0.07
+BFIHOST,0.520
+DPLBAR, 41.35
+DPSBAR, 41.7
+FARL,0.951
+FPEXT,0.1145
+LDP, 72.87
+PROPWET,0.35
+RMED-1H, 10.5
+RMED-1D, 31.2
+RMED-2D, 38.9
+SAAR, 746
+SAAR4170, 761
+SPRHOST,33.98
+URBCONC1990, 0.773
+URBEXT1990,0.0650
+URBLOC1990, 1.226
+URBCONC2000, 0.863
+URBEXT2000,0.0812
+URBLOC2000, 1.224
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station replaced by electromagnetic gauge in 1994 - subsequently replaced by ultrasonic gauge due to failure in 2011. GENERAL: Originally a velocity area station, but replaced with an electromagnetic gauge in December 1994. Following failure of the electromagnetic gauge, an ultrasonic gauge was installed in 2011. Located just downstream of a major road bridge and a smaller single track arched bridge. STATION HYDROMETRY: Two velocity-area sites were used prior to December 1994. The first (just d/s of bridge) opened 1959 and closed after river re-grading in 1976, the second & current site (50 m d/s of original site) began in 1974. Earliest record indifferent, with bypassing at high flows. Severe weed growth required summer rating adjustments. Cableway measured in-channel flows (some eddying below bridge, can cause reversal of flows at cableway). Cableway bypassed by highest flows. Out of bank culvert flows are gauged from the road bridge and added to flows at the cableway to give a total flow. Electromagnetic gauge replaced VA station in 1995 but has underestimated flows >20cumecs. Ultrasonic gauge replaced EM gauge in 2011. Multiple ratings applied across period of record, revised in 2016. Many gaugings, but wide scatter as a result of weed growth in summer. Ratings 2 & 3 appear not to fit the few out-of-bank gaugings in early period. Current rating fits better at out of bank flows. FLOW RECORD: Training bank on right banks at the site in 1986 prevented out-of-bank flows re-joining river just upstream of gauging station. Large floods can still spill out-of-bank upstream of the training banks on the right bank, and bypass the station, flowing through two flood relief culverts under the road. FLOW REGIME: Significant modification to flows including reservoir(s) in catchment and regulation from surface water and/or ground water. Runoff is influenced by groundwater abstraction/recharge and effluent returns, and is reduced by industrial/agricultural/public water supply abstraction.
+CATCHMENT,Large diverse catchment with Coal Measures in the headwaters and Triassic Mudstone and Permain and Triassic Sandstones elsewhere. Approx 30% Boulder Clay and Till deposits with large gravel terraces providing storage alongside the main river. Mixed farming, sand and gravel extraction, industrial development.
+Qmed Suitability,Although QMED is in-bank, considerable scatter results in uncertain estimates.
+Pooling Suitability,Out of bank flows uncertain.
+[END]

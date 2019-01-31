@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 57003
+[END]
+[CDS DETAILS]
+NAME,Taff
+LOCATION,Tongwynlais
+NOMINAL AREA,  486.88
+NOMINAL NGR,3131,1818
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,313150,181800
+CENTROID NGR,GB,302613,201860
+DTM AREA,  486.88
+ALTBAR, 307
+ASPBAR,160
+ASPVAR,0.14
+BFIHOST,0.420
+DPLBAR, 32.06
+DPSBAR,162.3
+FARL,0.952
+FPEXT,0.0410
+LDP, 57.30
+PROPWET,0.50
+RMED-1H, 12.7
+RMED-1D, 62.6
+RMED-2D, 83.1
+SAAR,1801
+SAAR4170,1817
+SPRHOST,42.20
+URBCONC1990, 0.639
+URBEXT1990,0.0420
+URBLOC1990, 0.809
+URBCONC2000, 0.757
+URBEXT2000,0.0639
+URBLOC2000, 0.787
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Natural river section with bed control. Reservoirs in upper catchment affect runoff. Abstraction and effluent returns in valley. Station used for flood warning. GENERAL: Natural river section with bed control. Channel width approx 40m. Station closed 1972. Telemetry installed in 1999 and site opened as a flood warning station. Main station at 57005 Pontypridd. STATION HYDROMETRY: Station located on left bank. Rated by current meter. Well-defined rating to bankfull, estimated thereafter but based on model for Treforest flood protection scheme. Most recent rating is valid from January 1965. FLOW RECORD: NRFA hold no flow data past the stations closure in 1972. FLOW REGIME: Direct water supply reservoirs in upper catchment affect runoff. Abstraction and effluent returns in valley for mining, industry and agriculture.
+CATCHMENT,Mainly Coal Measures in the south, with Millstone Grit. Carboniferous Limestone and Old Red Sandstone in the north. Some peat on hills, Boulder Clay and Alluvium in valleys. Taff valley, u/s of station, is narrow and steep. Land use is pasture, some forestry and moorland in headwaters, some urban development in lower valley.
+Qmed Suitability,Not gauged to within 30% of QMED. Insufficient gaugings at high flows to confirm rating.
+Pooling Suitability,Insufficient gaugings at high flows to confirm rating.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 23012
+[END]
+[CDS DETAILS]
+NAME,East Allen
+LOCATION,Wide Eals
+NOMINAL AREA,   88.25
+NOMINAL NGR,3802,5583
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,380200,558350
+CENTROID NGR,GB,383544,551707
+DTM AREA,   88.25
+ALTBAR, 386
+ASPBAR, 17
+ASPVAR,0.23
+BFIHOST,0.298
+DPLBAR, 12.10
+DPSBAR,106.0
+FARL,0.997
+FPEXT,0.0268
+LDP, 23.04
+PROPWET,0.59
+RMED-1H, 10.3
+RMED-1D, 40.2
+RMED-2D, 53.6
+SAAR,1050
+SAAR4170,1152
+SPRHOST,47.58
+URBCONC1990,-9999.000
+URBEXT1990,0.0017
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0017
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station with no known artificial influences. Station closed 1981. GENERAL: Velocity area station with boulder and gravel control which is mobile at high flows. Discontinued 1981. STATION HYDROMETRY: Multiple peak flow ratings applied to period of record. Rating revised in 1974, following changes to the natural control; reverted to original rating after further changes in 1976. FLOW REGIME: No known artificial influences.
+CATCHMENT,Uplands covered with peat, thick Boulder Clay in valleys. Mostly forested. Improved pasture at lower elevations. No known catchment changes.
+Qmed Suitability,Not gauged to within 30% of QMED.
+Pooling Suitability,No evidence to support high flow rating.
+[END]

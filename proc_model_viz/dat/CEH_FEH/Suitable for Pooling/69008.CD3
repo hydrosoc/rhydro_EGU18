@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 69008
+[END]
+[CDS DETAILS]
+NAME,Dean
+LOCATION,Stanneylands
+NOMINAL AREA,   58.87
+NOMINAL NGR,3846,3830
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,384600,383000
+CENTROID NGR,GB,392325,379278
+DTM AREA,   58.87
+ALTBAR, 187
+ASPBAR,288
+ASPVAR,0.34
+BFIHOST,0.552
+DPLBAR, 14.48
+DPSBAR, 87.2
+FARL,0.960
+FPEXT,0.1028
+LDP, 26.37
+PROPWET,0.52
+RMED-1H, 10.3
+RMED-1D, 33.3
+RMED-2D, 44.0
+SAAR, 954
+SAAR4170, 918
+SPRHOST,28.78
+URBCONC1990, 0.619
+URBEXT1990,0.0314
+URBLOC1990, 0.595
+URBCONC2000, 0.804
+URBEXT2000,0.0632
+URBLOC2000, 0.543
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,A compound crump weir on the River Dean. Moorland headwaters. GENERAL: Station opened late 1966 with Compound Crump weir. All sections 3.05m wide, the two side weirs being 0.46m above central lower crest. Downstream recorder added July 2013 to monitor effect of downstream "pre-weir" to aid fish passage. No events above bankfull. STATION HYDROMETRY: The channel bed upstream is silty, and the main problem has been blockage of the inlet pipe; the well Pipe extended July 2007. Channel accretes at high flow requiring regular clearance. Low to medium range calibrated by current meter. Few gaugings, none at high flows, and those at medium flows are comparatively recent. Observations during events confirm weir highly unlikely to have ever drowned (see photos). FLOW RECORD: Some peaks in the series are thought to have been under-recorded; however, the percentage under-estimate of flow is thought to be low. FLOW REGIME: Although catchment descriptors are very similar, flow response is much slower and less peaky than at Wilmslow. An electro-magnetic gauge at Manchester Airport downstream of the confluence of the Dean and the Bollin confirms flows at the two upstream stations. (The Manchester Airport station is now closed). Significant flow disturbance from reservoir, abstractions and returns. Lamaload Reservoir (completed 1964) in the headwaters of the catchment.
+CATCHMENT,Steep moorland headwaters drain Millstone Grit from W Pennines and contain Lamaload Res. Lower catchment developed on Boulder Clay covered Triassic sandstones and contains Bollington.
+Qmed Suitability,Theoretical rating with check gaugings and observations of flood events
+Pooling Suitability,Theoretical rating and weir observed not to drown under high flows. Inlet blockage insufficient to exclude station from pooling groups. 
+[END]

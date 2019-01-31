@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 39023
+[END]
+[CDS DETAILS]
+NAME,Wye
+LOCATION,Hedsor
+NOMINAL AREA,  134.18
+NOMINAL NGR,4895,1866
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,489600,186700
+CENTROID NGR,GB,483929,195468
+DTM AREA,  134.18
+ALTBAR, 149
+ASPBAR,129
+ASPVAR,0.18
+BFIHOST,0.797
+DPLBAR, 17.06
+DPSBAR, 87.9
+FARL,0.984
+FPEXT,0.0349
+LDP, 27.05
+PROPWET,0.30
+RMED-1H, 11.8
+RMED-1D, 34.6
+RMED-2D, 44.1
+SAAR, 755
+SAAR4170, 781
+SPRHOST,19.59
+URBCONC1990, 0.655
+URBEXT1990,0.0701
+URBLOC1990, 0.750
+URBCONC2000, 0.817
+URBEXT2000,0.1127
+URBLOC2000, 0.744
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,The lowest site on the Wye, located downstream of Wycombe. GENERAL: Crump weir, 6.1m broad installed on a slight bend. STATION HYDROMETRY: Bend in channel causes a build-up of silt on the upstream right hand apron. Modular throughout the flow range. All but extreme floods contained. Protected flows derived from standard Crump weir equation. FLOW RECORD: Mill operation evident in early record. FLOW REGIME: The flow regime (especially during low flows) is significantly influenced by artificial influences especially abstractions (particularly gw). The recent closure of the u/s High Wycombe STW has meant that sewage effluent has been redirected to Marlow STW. A groundwater compensation flow has been put in place for the river. However there is no daily variation damping at low flows. Flashy response from growing urban fraction but regime remains baseflow dominated.
+CATCHMENT,Dip-slope valley in the Chiltern. A mainly pervious (Chalk) catchment with an overburden of Clay-with-Flints (glacial deposits) on the higher ground. Rural headwaters but contains several growing urban/suburban centres in the lower valley (including Wycombe).
+Qmed Suitability,Gauged above QMED. All flows within bank full.
+Pooling Suitability,There are some discrepancies between gaugings and the rating at extreme flows, but all the flows are within bank full.
+[END]

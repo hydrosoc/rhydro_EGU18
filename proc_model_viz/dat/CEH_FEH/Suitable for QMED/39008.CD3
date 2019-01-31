@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 39008
+[END]
+[CDS DETAILS]
+NAME,Thames
+LOCATION,Eynsham
+NOMINAL AREA, 1626.76
+NOMINAL NGR,4444,2087
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,444500,208700
+CENTROID NGR,GB,414914,204781
+DTM AREA, 1626.76
+ALTBAR, 135
+ASPBAR,133
+ASPVAR,0.18
+BFIHOST,0.686
+DPLBAR, 58.15
+DPSBAR, 39.0
+FARL,0.946
+FPEXT,0.1923
+LDP, 96.74
+PROPWET,0.32
+RMED-1H, 10.0
+RMED-1D, 32.3
+RMED-2D, 40.7
+SAAR, 730
+SAAR4170, 755
+SPRHOST,24.09
+URBCONC1990, 0.665
+URBEXT1990,0.0244
+URBLOC1990, 0.975
+URBCONC2000, 0.820
+URBEXT2000,0.0268
+URBLOC2000, 0.986
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Complex structure utilised to estimate flows based on the main river channel within the Upper Thames Catchment. Naturalised flows are available during the period of record. GENERAL: Complex barrage of gates and weirs with a total breadth of 30m. Farmoor ultrasonic station (39129) was intended to replace flow measurement at Eynsham. STATION HYDROMETRY: Bypassed at peak flows through an uncalibrated side channel, though flow estimates are reasonably accurate. Non-standard site-specific flow calculation. Needs manual entry of lock gates movements from Tackle sheets to calculate flows. Tail levels are recorded relative to a different datum to the head levels. The two datums correspond (approx.) to the Standard Head and Standard Tail Water Levels for the weir (the weir crest levels of Eynsham and the d/s weir at Kings). FLOW RECORD: Naturalised flows available during the period of record. Early flow data derived from once-daily gaugeboard readings. July 2007 peak estimated at 135 cumecs. Some flows estimated from Farmoor (39129) e.g. 16 November to the 31 December 2010. FLOW REGIME: Reservoir(s) within catchment affect flows, including Farmoor Reservoir immediately u/s. The off-take, operating from 1955 and is immediately u/s of the station, can take a large proportion of the flow. Flows reduced by public water supply abstraction but increased by effluent returns. Levels affected by gate and lock movements.
+CATCHMENT,The geology is mixed with pervious headwaters (Oolitic L'st) and Oxford Clay in lower reaches. Mainly rural with development concentrated along the valley bottom and u/s around Swindon.
+Qmed Suitability,Gauged to within 25% of QMED. Rating reflects flow data fairly accurately, however flow through side weir is not gauged and should be measured. Weir is by-passed through this channel at fairly low stages.
+Pooling Suitability,Few high flow gaugings. Rating can not be validated beyond QMED.Weir is bypassed at low stages and not accounted for.
+[END]

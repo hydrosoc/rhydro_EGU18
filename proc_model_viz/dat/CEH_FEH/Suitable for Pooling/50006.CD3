@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 50006
+[END]
+[CDS DETAILS]
+NAME,Mole
+LOCATION,Woodleigh
+NOMINAL AREA,  327.00
+NOMINAL NGR,2660,1210
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,266050,121050
+CENTROID NGR,GB,274174,128744
+DTM AREA,  327.00
+ALTBAR, 210
+ASPBAR,216
+ASPVAR,0.17
+BFIHOST,0.502
+DPLBAR, 19.53
+DPSBAR,124.9
+FARL,0.999
+FPEXT,0.0316
+LDP, 33.19
+PROPWET,0.54
+RMED-1H, 12.1
+RMED-1D, 42.3
+RMED-2D, 55.3
+SAAR,1306
+SAAR4170,1359
+SPRHOST,36.85
+URBCONC1990,-9999.000
+URBEXT1990,0.0010
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0035
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station built in 1965 with cableway. GENERAL: Velocity area station built in 1965 with cableway, rock ledges/gravel shoals as controls. STATION HYDROMETRY: Gauging by wading at low flows and off remote bridges at higher flows until 11/2001 when a cableway was built. Straight reach, affected by weed growth. Goes out of bank on left bank. Bypassing occurs. One rating applied across period of record. Gauged above bank full with good fit to rating. FLOW REGIME: Reservoir(s) in catchment have minor effect on flows. Low flows moderately affected by public water supply abstraction and augmentation from Exe-Taw transfers. Some effluent returns.
+CATCHMENT,Fairly responsive catchment of moderate relief descending from Exmoor through incised, forested valleys. Geology of sandstones and shales; Devonian in headwaters, Carboniferous lower down. Land-use is predominantly rural with grazing and low grade agriculture. No major catchment changes.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged to within 6% of AMAX3. Rating thought to be reliable.
+[END]

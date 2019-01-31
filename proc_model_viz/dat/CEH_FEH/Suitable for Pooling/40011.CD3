@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 40011
+[END]
+[CDS DETAILS]
+NAME,Great Stour
+LOCATION,Horton
+NOMINAL AREA,  341.26
+NOMINAL NGR,6115,1553
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,611550,155350
+CENTROID NGR,GB,604423,145673
+DTM AREA,  341.26
+ALTBAR,  84
+ASPBAR,187
+ASPVAR,0.04
+BFIHOST,0.706
+DPLBAR, 26.05
+DPSBAR, 50.9
+FARL,0.965
+FPEXT,0.1212
+LDP, 49.67
+PROPWET,0.34
+RMED-1H, 12.0
+RMED-1D, 34.4
+RMED-2D, 45.4
+SAAR, 748
+SAAR4170, 761
+SPRHOST,25.41
+URBCONC1990, 0.634
+URBEXT1990,0.0227
+URBLOC1990, 1.000
+URBCONC2000, 0.793
+URBEXT2000,0.0321
+URBLOC2000, 1.079
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Broad-crested weir in trapezoidal section plus a Velocity-Area section for flows >20 cumecs. GENERAL: Broad-crested weir (width: 10.55m, insensitive) in trapezoidal section plus a velocity-area section for flows >20 cumecs. There is a confluence 0.2 km upstream of the gauge, upstream of which the Stour flows through multiple channels. STATION HYDROMETRY: The weir is British Standard horizontal and broad crested, both upstream and downstream faces having a rounded nose; however, non-standard 0.02 m height variation along the crest width (1.8m). Flow is contained by sloping side bunds, with no wing walls. Throughout the record the station has never gone out of range at the weir, however a 2002 station review revealed secondary flow paths along the public footpath between the channel and sewage ponds. Problems with downstream channel erosion at the end of the concrete structure, resulting in a local channel widening of approx. 2m. Electromagnetic gauge installed 1992 but rarely used as weir rating is so reliable. Theoretical rating endorsed by gaugings. Two peak flow ratings applied across period of record, the most recent is valid from January-1969. Current rating reliable; derived from a modified theoretical weir equation and valid to 1.5m when flow is out of bank. FLOW RECORD: Intermittent discharge noted in files (1965) from a water wheel on a controlled tributary stream. FLOW REGIME: Substantial baseflow but relatively flashy storm response. Very modest net impact of artificial influences on runoff (import of 0.03 m3/s in 1998). Modest public water supply and irrigation abstractions in lower valley - some counterbalancing due to small amounts of effluent (from outside catchment). Considerable abstractions from boreholes within 8km upstream and downstream (started 1968/1969). Station adjacent to sewage treatment ponds and in extreme events could spill into the ponds. Upstream regulation from Chartham Paper Mills (0.8km upstream) evident on hydrographs. Runoff increased by effluent returns. Flood storage reservoirs (Hothfield & Aldington), constructed above Ashford (1990-92). In 1968 a number of water pumping stations opened on the River Stour, namely Chilham and Chartham pumping stations. Upstream mill regulation evident in hydrographs.
+CATCHMENT,The east and west branches of the Stour flow over Weald Clay; below the confluence (at Ashford - the only significant urban area). Chalk dominates, also Gault Clay, Folkestone Beds, Sandgate Beds, Hythe Beds, Weald Clay. Remainder London Clay, Woolwich Beds, Thanet Beds, Atherfield Clay. A rural catchment with mixed land use; Ashford is the only significant urban area. M20 motorway and Channel Tunnel rail link are increasing the development pressures on the catchment. River bed is open textured gravel of considerable depth, which is a feature of the River Stour from Wye to Canterbury.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged beyond AMAX3. Rating is thought to be reliable.
+[END]

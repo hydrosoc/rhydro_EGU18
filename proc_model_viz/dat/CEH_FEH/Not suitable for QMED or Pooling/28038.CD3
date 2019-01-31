@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 28038
+[END]
+[CDS DETAILS]
+NAME,Manifold
+LOCATION,Hulme End
+NOMINAL AREA,   44.67
+NOMINAL NGR,4106,3595
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,410600,359550
+CENTROID NGR,GB,407104,363073
+DTM AREA,   44.67
+ALTBAR, 329
+ASPBAR, 93
+ASPVAR,0.25
+BFIHOST,0.426
+DPLBAR,  8.55
+DPSBAR, 99.3
+FARL,1.000
+FPEXT,0.0437
+LDP, 16.56
+PROPWET,0.51
+RMED-1H, 10.2
+RMED-1D, 38.7
+RMED-2D, 50.7
+SAAR,1172
+SAAR4170,1196
+SPRHOST,37.71
+URBCONC1990,-9999.000
+URBEXT1990,0.0016
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0016
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station closed in 1982. GENERAL: Concrete weir with iron girder across crest (metal crest added 1968). Crest level 213.281mAOD, 8.5m wide. STATION HYDROMETRY: One rating applied across period of record, not believed to be based on theoretical weir equations. No gaugings above 0.7m. Rating not validated above level of highest spot gauging (0.7m / ~11 cumecs). FLOW REGIME: Responsive catchment. Runoff reduced by public water supply abstraction. Runoff increased by effluent returns
+CATCHMENT,Underlain entirely by Namurian shales and grits. Land use upland pasture with sheep grazing and moorland.
+Qmed Suitability,Not gauged to within 30% of QMED.
+Pooling Suitability,No gaugings available to confirm rating at high flows.
+[END]

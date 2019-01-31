@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 53005
+[END]
+[CDS DETAILS]
+NAME,Midford Brook
+LOCATION,Midford
+NOMINAL AREA,  147.27
+NOMINAL NGR,3763,1611
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,376350,161100
+CENTROID NGR,GB,368322,155845
+DTM AREA,  147.27
+ALTBAR, 125
+ASPBAR, 53
+ASPVAR,0.15
+BFIHOST,0.625
+DPLBAR, 14.18
+DPSBAR, 79.5
+FARL,0.990
+FPEXT,0.0409
+LDP, 23.92
+PROPWET,0.36
+RMED-1H, 11.2
+RMED-1D, 37.9
+RMED-2D, 50.9
+SAAR, 965
+SAAR4170, 972
+SPRHOST,29.08
+URBCONC1990, 0.627
+URBEXT1990,0.0301
+URBLOC1990, 1.071
+URBCONC2000, 0.774
+URBEXT2000,0.0437
+URBLOC2000, 1.074
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Trapezoidal critical depth flume upstream of confluence with the River Avon. Ultrasonic gauge installed 2007. GENERAL: The station is located approximately 1km south of Bath and was opened in 1961. Trapezoidal critical depth flume 2.4km upstream of confluence with the River Avon. Ultrasonic gauge installed 11/2007. STATION HYDROMETRY: Full range station. The channel bed in the vicinity of the station consists of large stones and alluvium and is lined in parts with trees and vegetation. Algal growth affects sensitivity at low flows. Bypassing may occur on left-hand bank above 3m stage. No backwater action. Present rating is based on the theoretical rating for the structure, and confirmed by a few gaugings up to 2.5m. FLOW REGIME: Runoff influenced by groundwater abstraction/recharge. Surface water abstraction takes place for public water supply. Flows increased by effluent returns.
+CATCHMENT,The Midford catchment is made up of two parallel river systems; the Cam Brook and Wellow Brook. Both run almost the length of the catchment before joining at Midford. The area is mainly rural although there are urban areas at Midsomer Norton and Radstock with smaller centres at Paulton and Peasedown St. John. Predominantly impermeable catchment - Lias with Coal Measures. Deep steep sided valleys; responds rapidly to rainfall. No major catchment changes.
+Qmed Suitability,Gauged to within 22% of QMED. Theoretical rating expected to perform well to QMED.
+Pooling Suitability,Bypassing begins above 3m and is not considered in current rating.
+[END]

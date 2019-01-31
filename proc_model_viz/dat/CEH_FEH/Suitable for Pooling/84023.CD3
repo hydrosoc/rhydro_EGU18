@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 84023
+[END]
+[CDS DETAILS]
+NAME,Bothlin Burn
+LOCATION,Auchengeich
+NOMINAL AREA,   34.76
+NOMINAL NGR,2679,6716
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,268000,671600
+CENTROID NGR,GB,268860,668525
+DTM AREA,   34.76
+ALTBAR,  84
+ASPBAR,309
+ASPVAR,0.02
+BFIHOST,0.313
+DPLBAR,  9.02
+DPSBAR, 38.3
+FARL,0.912
+FPEXT,0.1367
+LDP, 15.75
+PROPWET,0.58
+RMED-1H,  8.6
+RMED-1D, 32.0
+RMED-2D, 43.0
+SAAR,1029
+SAAR4170,1002
+SPRHOST,39.72
+URBCONC1990, 0.670
+URBEXT1990,0.0748
+URBLOC1990, 0.974
+URBCONC2000, 0.828
+URBEXT2000,0.0942
+URBLOC2000, 0.960
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Crump single-crested weir with flow pattern affected by motorway runoff and STW effluent. GENERAL: Crump (triangular profile) single-crested weir. STATION HYDROMETRY: Flow contained over the full range. There is some siltation behind the weir. Theoretical rating confirmed by low flow gaugings to 0.18m (about 0.11 QMED). FLOW REGIME: Sensibly natural regime but motorway (M73) runoff and STW effluent may influence flow pattern.
+CATCHMENT,A small undulating catchment, containing three old mining villages, developed on Scottish Carboniferous L'st overlain with superficial deposits (approx. 80% Boulder Clay). Significantly urbanised with grassland, pasture, wetlands and some forestry. Small lochs in the catchment headwaters. Building of the M73 and M80 motorway (1970s).
+Qmed Suitability,No comment
+Pooling Suitability,No comment
+[END]

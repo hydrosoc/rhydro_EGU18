@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 27052
+[END]
+[CDS DETAILS]
+NAME,Whitting
+LOCATION,Sheepbridge
+NOMINAL AREA,   54.27
+NOMINAL NGR,4376,3747
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,437650,374750
+CENTROID NGR,GB,433892,376826
+DTM AREA,   54.27
+ALTBAR, 182
+ASPBAR,113
+ASPVAR,0.27
+BFIHOST,0.536
+DPLBAR,  6.57
+DPSBAR, 91.6
+FARL,0.995
+FPEXT,0.0232
+LDP, 12.45
+PROPWET,0.38
+RMED-1H, 10.5
+RMED-1D, 34.9
+RMED-2D, 44.3
+SAAR, 834
+SAAR4170, 824
+SPRHOST,25.12
+URBCONC1990, 0.754
+URBEXT1990,0.0892
+URBLOC1990, 0.895
+URBCONC2000, 0.847
+URBEXT2000,0.1058
+URBLOC2000, 0.906
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Crump weir in a confined channel with no known bypassing. GENERAL: Crump weir, 5.98m wide. No cableway. Confined in a straight concrete channel between road and railway embankments (3m high walls for 200m) in an industrialised valley. Station is 500m downstream of confluence of River Drone with Barlow Brook. STATION HYDROMETRY: No known bypassing. Multiple daily and peak flow ratings applied across period of record, the most recent is valid from January 1980. Developed from theoretical Crump rating with current meter gauging. FLOW REGIME: Estimated 4.3% of catchment drains through Crowhole Reservoir. Dronfield Dam flood storage reservoir approximately 6km upstream may have some impact on flood flows. Sewage effluent returns.
+CATCHMENT,Geology: Lower Coal Measure Standstones and Shales. Broad, gentle syncline is centred almost East West, along Barlow Beck.Mixed agriculture with moorland headwaters, significant urban development and industrialised valleys. Declining influence of coal mining industry since mine closures around 1920. There are numerous abandoned coal workings.
+Qmed Suitability,Gauged to within 25% of QMED. Theoretical structure and good containment allow some confidence in rating extrapolation.
+Pooling Suitability,Few high flow gaugings. Rating can not be validated beyond QMED. Structure almost certainly drowns at very high flows, but rating does not take account of this. Largest events (79,82) probably significant overestimates
+[END]

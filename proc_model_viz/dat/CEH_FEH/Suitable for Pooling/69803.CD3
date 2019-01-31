@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 69803
+[END]
+[CDS DETAILS]
+NAME,Roch
+LOCATION,Rochdale
+NOMINAL AREA,  110.53
+NOMINAL NGR,3882,4127
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,388200,412700
+CENTROID NGR,GB,392289,415155
+DTM AREA,  110.53
+ALTBAR, 250
+ASPBAR,221
+ASPVAR,0.19
+BFIHOST,0.470
+DPLBAR, 10.78
+DPSBAR,109.6
+FARL,0.896
+FPEXT,0.0684
+LDP, 18.74
+PROPWET,0.57
+RMED-1H, 11.6
+RMED-1D, 45.2
+RMED-2D, 61.9
+SAAR,1306
+SAAR4170,1274
+SPRHOST,34.22
+URBCONC1990, 0.754
+URBEXT1990,0.1019
+URBLOC1990, 0.717
+URBCONC2000, 0.827
+URBEXT2000,0.1393
+URBLOC2000, 0.717
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Non-standard broad-crested weir on artificial channel. Many small reservoirs in the catchment influence the flow regime. GENERAL: Station opened February 1993 on a non-standard, round-nosed broad-crested weir 12.2m wide with crest length of 1.25m and sloping downstream face. Side walls on approach 3.4m high. Situated on a reach of artificial channel. STATION HYDROMETRY: There is a drop of several metres at the weir so will not drown. No bypassing. There is no cableway, and gaugings are taken upstream at Oaken Road footbridge. One peak flow rating applied across period of record confirmed by gaugings and hydraulic modelling. FLOW REGIME: Many small reservoirs in headwaters, controlling less than 25% of catchment.
+CATCHMENT,The upper catchment is peat-covered moorland, consisting mostly of coal measures and Millstone Grit. The lower part of the catchment is highly urbanised and contains Rochdale. No catchment changes known.
+Qmed Suitability,Theoretical \ modelled rating confirmed by gaugings to QMED
+Pooling Suitability,Gauged to within 2% of AMAX3. Rating extended using hydraulic modelling; well-built weir with high vertical side walls.
+[END]

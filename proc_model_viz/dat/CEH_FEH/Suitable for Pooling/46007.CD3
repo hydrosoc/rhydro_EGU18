@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 46007
+[END]
+[CDS DETAILS]
+NAME,West Dart
+LOCATION,Dunnabridge
+NOMINAL AREA,   47.50
+NOMINAL NGR,2643, 741
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,264350,74200
+CENTROID NGR,GB,260715, 76572
+DTM AREA,   47.50
+ALTBAR, 424
+ASPBAR,143
+ASPVAR,0.23
+BFIHOST,0.367
+DPLBAR,  7.80
+DPSBAR, 86.5
+FARL,1.000
+FPEXT,0.0489
+LDP, 14.36
+PROPWET,0.47
+RMED-1H, 14.2
+RMED-1D, 66.2
+RMED-2D, 87.8
+SAAR,1987
+SAAR4170,1890
+SPRHOST,47.75
+URBCONC1990,-9999.000
+URBEXT1990,0.0022
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0033
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Informal Flat V low flow control between stone batter wing walls. GENERAL: Informal Flat V low flow control 13.5m wide between stone batter wing walls raised by approximately 0.1m in 1976. Cableway span approximately 30m. In straight reach between two right hand bends. STATION HYDROMETRY: High possibility of out of bank flow. Bypassing occurs. Multiple peak flow ratings applied across period of record. Good fit to gaugings. FLOW RECORD: Closed between 1981 and 1990. Gap between 20/07/1990 and 18/09/1990. FLOW REGIME: Upper part of catchment affected by interception from Devonport and Prison leats that feed Burrator Reservoir. Runoff reduced by public water supply abstraction.
+CATCHMENT,Responsive, upland catchment of subdued relief, high on Dartmoor Granite plateau. Land use is low grade agriculture, peat moorland. No major catchment changes.
+Qmed Suitability,Gauged to within 13% of QMED. Good fit to gaugings.
+Pooling Suitability,Gauged out of bank and top limb accounts for bypassing beyond 2.5m
+[END]

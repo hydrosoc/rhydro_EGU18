@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 53006
+[END]
+[CDS DETAILS]
+NAME,Frome (Bristol)
+LOCATION,Frenchay
+NOMINAL AREA,  151.64
+NOMINAL NGR,3637,1772
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,363750,177200
+CENTROID NGR,GB,367438,182323
+DTM AREA,  151.64
+ALTBAR,  73
+ASPBAR,291
+ASPVAR,0.09
+BFIHOST,0.362
+DPLBAR, 13.71
+DPSBAR, 28.6
+FARL,0.993
+FPEXT,0.1452
+LDP, 27.74
+PROPWET,0.35
+RMED-1H, 10.6
+RMED-1D, 34.4
+RMED-2D, 46.9
+SAAR, 792
+SAAR4170, 795
+SPRHOST,43.42
+URBCONC1990, 0.763
+URBEXT1990,0.0716
+URBLOC1990, 0.794
+URBCONC2000, 0.879
+URBEXT2000,0.1138
+URBLOC2000, 0.829
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Trapezoidal critical depth flume. Flume swamped in the storms of 1965 and 1968. GENERAL: Station opened in 1961. Trapezoidal critical depth flume. STATION HYDROMETRY: Full range station. Flume designed on basis of pre-urbanisation flow estimates - site swamped in storms of 1965 and 1968. Extra retaining walls have been installed. No drowning. One rating applied across period of record. Good fit to available gaugings. FLOW RECORD: Between 16/03/2015 and 19/03/2015 data estimated as bed and bank stabilisation work carried out. FLOW REGIME: Runoff natural to within 10% at Q95.
+CATCHMENT,Catchment of complex geology: eastern and central catchment dominated by sandstones of the Coal Measures and Mercia Mudstone; west less permeable having Mercia Mudstone and Liassic clays. Superficial deposits are meltwater gravels and terraces, mainly in west. There is a large proportion of urban development (~23%) in catchment, otherwise rural.
+Qmed Suitability,Gauged to within 12% of QMED.
+Pooling Suitability,Recent ultrasonic gauge supports rating, though flows slightly higher.
+[END]

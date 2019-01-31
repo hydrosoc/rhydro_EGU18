@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 26803
+[END]
+[CDS DETAILS]
+NAME,Water Forlornes
+LOCATION,Driffield
+NOMINAL AREA,   32.42
+NOMINAL NGR,5023,4583
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,502250,458300
+CENTROID NGR,GB,498434,463036
+DTM AREA,   32.42
+ALTBAR, 104
+ASPBAR,153
+ASPVAR,0.32
+BFIHOST,0.949
+DPLBAR,  7.80
+DPSBAR, 65.5
+FARL,1.000
+FPEXT,0.0158
+LDP, 13.28
+PROPWET,0.31
+RMED-1H, 10.7
+RMED-1D, 33.2
+RMED-2D, 42.9
+SAAR, 721
+SAAR4170, 758
+SPRHOST, 6.51
+URBCONC1990, 0.725
+URBEXT1990,0.0062
+URBLOC1990, 0.065
+URBCONC2000, 0.774
+URBEXT2000,0.0072
+URBLOC2000, 0.067
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Thin-plate sharp edged weir, inside a broad-crested, vertical sided masonry weir in a rural catchment draining the Yorkshire Wolds. GENERAL: Thin-plate sharp edged weir, inside a broad-crested, vertical sided masonry weir around 5m wide. Situated around 1.25km downstream of the source. Built in the early 1970s but fell into disrepair in the 1980s. Station re-commissioned in 1998. STATION HYDROMETRY: There is no need for a cableway as the watercourse is small enough to be safely gauged by hand at all flows. Peak flow rating derived from gaugings, and accounts for transition from thin-plate to broad-crested weir. FLOW RECORD: Dam-building by children regularly affects water levels. Regularly dries up completely. FLOW REGIME: No known artificial influences.
+CATCHMENT,A predominantly rural catchment draining the Yorkshire Wolds. Geology is Chalk overlain by drift and gravels. No known catchment changes.
+Qmed Suitability,Yes - gauged above QMED
+Pooling Suitability,Yes - Gauged to approaching the highest flows.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 39007
+[END]
+[CDS DETAILS]
+NAME,Blackwater
+LOCATION,Swallowfield
+NOMINAL AREA,  359.81
+NOMINAL NGR,4730,1647
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,473100,164800
+CENTROID NGR,GB,479802,154750
+DTM AREA,  359.81
+ALTBAR,  88
+ASPBAR,352
+ASPVAR,0.19
+BFIHOST,0.630
+DPLBAR, 19.59
+DPSBAR, 32.1
+FARL,0.886
+FPEXT,0.1318
+LDP, 35.88
+PROPWET,0.32
+RMED-1H, 11.8
+RMED-1D, 32.0
+RMED-2D, 41.4
+SAAR, 708
+SAAR4170, 712
+SPRHOST,26.79
+URBCONC1990, 0.681
+URBEXT1990,0.0664
+URBLOC1990, 1.108
+URBCONC2000, 0.872
+URBEXT2000,0.1323
+URBLOC2000, 1.106
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Station located on the Blackwater just above the confluence with the River Loddon. Combined flow from two Crump weirs which replaced the existing flume in 1970. The original structures dated from October 1952. GENERAL: Two Crump weirs (main 4.6m wide, capacity 14.5 cumecs; side 2.7m wide, capacity 11 cumecs) based within separate channels due to limitations on bridge openings and channel capacities. These superseded the original flume (capacity 4.5 cumecs) and a 9m wide side-spilling weir (capacity 27 cumecs) during 1970. The main weir is constructed on the site of the flume and the second weir is 300m u/s on the adjacent channel. STATION HYDROMETRY: Both weirs have separate ratings and crest tappings. Crest heights were selected to improve flood water levels and maintain equable distribution of flow between the channels. Minor bypassing of the side weir occurs in flood conditions; overflows were more frequent pre-1970. One peak flow rating applied across the POR has been derived by hydraulic modelling. Total flow is determined from the stage recorded on the main weir. More detailed modelling is required to improve out-of-bank rating. FLOW REGIME: Responsive flow regime. Runoff influenced by groundwater abstraction/recharge, increased by effluent returns. Sewage effluent is a major component of low flows (large STWs at Camberley and Sandhurst), also some net import of sewage effluent. Overall modest increase in runoff.
+CATCHMENT,Permeable Chalk in the headwaters; clay, sands and alluvium in the valley. Substantial and expanding urban development in the eastern Blackwater Valley, but some large rural tracts of arable and pasture land remain. There are also significant areas of heath and woodland. Exact delineation of the hydrological catchment near the North Wey is difficult.
+Qmed Suitability,Although few check gaugings, confident in model derived rating. Non-modular flow may occur above 1m. Use data pre 1970 with caution.
+Pooling Suitability,Although few check gaugings, confident in model derived rating. Non-modular flow may occur above 1m. Use data pre 1970 with caution.
+[END]

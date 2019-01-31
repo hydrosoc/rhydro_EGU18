@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+203042
+[END]
+[CDS DETAILS]
+NAME,Crumlin
+LOCATION,Cidercourt Bridge
+NOMINAL AREA,   54.36
+NOMINAL NGR,3134,3765
+[END]
+[DESCRIPTORS]
+IHDTM NGR,Ireland,313450,376550
+CENTROID NGR,Ireland,320857,376884
+DTM AREA,   54.36
+ALTBAR, 143
+ASPBAR,283
+ASPVAR,0.44
+BFIHOST,0.338
+DPLBAR, 10.81
+DPSBAR, 41.5
+FARL,1.000
+FPEXT,0.0913
+LDP, 19.47
+PROPWET,0.52
+RMED-1H, 10.7
+RMED-1D, 35.8
+RMED-2D, 46.0
+SAAR, 991
+SAAR4170,1012
+SPRHOST,39.61
+URBCONC1990,-2.000
+URBEXT1990,0.0227
+URBLOC1990, 0.417
+URBCONC2000, 0.762
+URBEXT2000,0.0052
+URBLOC2000, 0.295
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station with cableway and natural control. GENERAL: Velocity area station constructed in 1980. STATION HYDROMETRY: Cableway present. High flows gauged up to 34 cumecs above which rating is extrapolated. The rating equation valid from 16/05/06 is very provisional due to lowering of the channel - there has been no change to the rating equation since this time. FLOW RECORD: Daily flows from 1983 onwards reprocessed in 2002. August 2008 peak flows above bankfull and subject to considerable uncertainty.
+CATCHMENT,Mostly upland - predominantly grassland or heath. No urban areas, some scattered light industry. Solid geology - the area is underlain by Palaeogene basalt lava flows. Drift geology - extensive glacial till (part drumlinised) with development of river alluvium in valleys.
+Qmed Suitability,Needs more gaugings at the high end, with a maximum gauged flow of 0.86 times QMED. The station is contained at QMED and the rating gives a good fit for the gauged flows (10% deviation).
+Pooling Suitability,Check gaugings agree with rating to QMED. No gaugings beyond QMED or bank full and ratings takes no account of bypassing flow.
+[END]

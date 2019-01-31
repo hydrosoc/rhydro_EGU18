@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 96002
+[END]
+[CDS DETAILS]
+NAME,Naver
+LOCATION,Apigill
+NOMINAL AREA,  474.02
+NOMINAL NGR,2713,9567
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,271350,956750
+CENTROID NGR,GB,260918,936912
+DTM AREA,  474.02
+ALTBAR, 224
+ASPBAR, 81
+ASPVAR,0.06
+BFIHOST,0.338
+DPLBAR, 35.02
+DPSBAR,111.7
+FARL,0.822
+FPEXT,0.0698
+LDP, 56.74
+PROPWET,0.73
+RMED-1H,  8.7
+RMED-1D, 40.4
+RMED-2D, 55.3
+SAAR,1383
+SAAR4170,1485
+SPRHOST,52.34
+URBCONC1990,-9999.000
+URBEXT1990,0.0001
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0000
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station; approximately half of the catchment drains through Loch Naver. GENERAL: Velocity area station; 40m wide river section with narrow 6m floodplain on rb but otherwise completely contained. STATION HYDROMETRY: Gravel control - regular need to reassess low flow rating. Calibrated to bankfull; ratings derived form current meter gaugings up to 228 cumecs (about 1.5QMED), simple extrapolation beyond. Peak flow rating revised in 2003 and a new single rating for high flows only was judged to be suitable for whole period of record. To date all flows contained. FLOW REGIME: Flows 98% natural with small interbasin transfer to the Shin hydro-electric scheme. Half of the catchment drains through Loch Naver. Several small high level lochs within catchment in addition to the total surface area of Lochs Coire, Meadie and Naver of 13 sq.km.
+CATCHMENT,Mountainous headwaters, often snowy in winter. Impermeable bedrock with a large proportion overlain by superficial deposits. Predominantly Torridonian sandstone with granitic intrusions. Typical Highland mix of rough grazing and moorland; some forestry. No significant catchment changes known.
+Qmed Suitability,No comment
+Pooling Suitability,No comment
+[END]

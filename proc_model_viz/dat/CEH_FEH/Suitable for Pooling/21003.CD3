@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 21003
+[END]
+[CDS DETAILS]
+NAME,Tweed
+LOCATION,Peebles
+NOMINAL AREA,  698.12
+NOMINAL NGR,3258,6400
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,325850,640000
+CENTROID NGR,GB,314088,636305
+DTM AREA,  698.12
+ALTBAR, 355
+ASPBAR, 25
+ASPVAR,0.05
+BFIHOST,0.517
+DPLBAR, 25.22
+DPSBAR,181.0
+FARL,0.974
+FPEXT,0.0506
+LDP, 49.87
+PROPWET,0.56
+RMED-1H,  9.4
+RMED-1D, 37.7
+RMED-2D, 49.7
+SAAR,1140
+SAAR4170,1199
+SPRHOST,37.16
+URBCONC1990,-9999.000
+URBEXT1990,0.0019
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0025
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station with storage in headwater reservoirs. GENERAL: Velocity area station with cableway. From 1939 to 1958 flows measured at Priorsford Bridge about 360m u/s; records correlated from 1950. STATION HYDROMETRY: Natural section (~45m wide) with stable gravel bed control. At very low levels stilling well tends to bottom out. Bypassing occurs on lb at floods above about 2.8m. Peak flow rating derived from current meter gaugings, simple extrapolation beyond. Prior to 1959 no direct measurements were made and the rating was derived by correlation with Priorsford Bridge (edition 4). Rating revised in 2016. FLOW RECORD: Monthly naturalised flows available. Pre-1959 data is rejected because the gauging station was moved 360m upstream from Priorsford Bridge. Full period of record peak flow data reviewed and released in April 2017 (WINFAP Files v5). Chart data between 1960 & 1986 was digitised in 2016. FLOW REGIME: Storage in Talla, Fruid, Baddinsgill and West Water Reservoirs for public water supply - overall runoff is diminished.
+CATCHMENT,Upland catchment. Bedrock mostly impervious Palaeozoic and igneous formations with substantial superficial deposits in the valleys. Hill grazing predominates; some improved grassland to N; elsewhere some forest and arable. Notable floodplains. Fruid Reservoir (1968).
+Qmed Suitability,Gauged to QMED
+Pooling Suitability,Bypassing above 2.6m
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 43010
+[END]
+[CDS DETAILS]
+NAME,Allen
+LOCATION,Loverley Farm
+NOMINAL AREA,   94.84
+NOMINAL NGR,4006,1085
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,400700,108550
+CENTROID NGR,GB,398756,115827
+DTM AREA,   94.84
+ALTBAR, 112
+ASPBAR,168
+ASPVAR,0.30
+BFIHOST,0.944
+DPLBAR, 11.79
+DPSBAR, 64.8
+FARL,0.985
+FPEXT,0.0521
+LDP, 20.41
+PROPWET,0.35
+RMED-1H, 10.6
+RMED-1D, 34.9
+RMED-2D, 46.7
+SAAR, 872
+SAAR4170, 942
+SPRHOST, 6.29
+URBCONC1990,-9999.000
+URBEXT1990,0.0033
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0046
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Ultrasonic station (replaced Crump weir in 2013) in a predominantly Chalk catchment. Some abstractions / recharges influence the flow regime. GENERAL: Ultrasonic station installed at Loverley Farm in 2013 to replace Loverley Mill Crump weir. Crump weir situated under old mill house, 1.84m wide. Built in 1969 for the specific purpose of measuring the low summer flows and later made operational over the full flow range. STATION HYDROMETRY: Good full-range station. Bypassing occurs in very extreme events, between a stage of 0.6m and 0.7m (less than 10%). Training banks upstream raised following bypassing in winter of 2000/01 and 2002/03. Hatches just u/s control flow, which bypasses the station, into an old mill pond. Loverley Mill (Crump Weir): There is frequent hatch action and three rating equations for various hatch settings; calculation of flows only possible under finite hatch settings. They are largely unproven and therefore theoretical. Comparison of flow with recent ultrasonic gauge show that in 2012 when both the hatches are closed the rating is good (less than 6% difference between the 2 sites.) When 1 hatch is open the maximum difference between the two sites goes up to 17% and when both hatches are open the maximum difference between the two sites rises to 20%. FLOW RECORD: No stage data, or hatch opening information, available prior to 1992, so early record POT and AMAX are rejected. Digital POT and AMAX data (from 01/01/1992) are presented. Data from US station begins 01/10/2013. FLOW REGIME: Runoff reduced by public water supply abstraction and influenced by groundwater abstraction/recharge, but increased by effluent returns.
+CATCHMENT,Predominantly Chalk catchment. Rural land use. No major catchment changes.
+Qmed Suitability,Despite lack of gaugings to confirm extrapolating of rating to high flows, flows mostly contained within structure so assumed reliable up to QMED.
+Pooling Suitability,Lack of gaugings to confirm extrapolating of rating to extremely high flows
+[END]

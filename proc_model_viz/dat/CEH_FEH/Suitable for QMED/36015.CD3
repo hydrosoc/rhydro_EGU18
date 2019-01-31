@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 36015
+[END]
+[CDS DETAILS]
+NAME,Stour
+LOCATION,Lamarsh
+NOMINAL AREA,  481.29
+NOMINAL NGR,5896,2357
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,589650,235750
+CENTROID NGR,GB,576876,247077
+DTM AREA,  481.29
+ALTBAR,  80
+ASPBAR,135
+ASPVAR,0.12
+BFIHOST,0.474
+DPLBAR, 30.90
+DPSBAR, 32.8
+FARL,0.987
+FPEXT,0.0777
+LDP, 60.21
+PROPWET,0.26
+RMED-1H, 10.6
+RMED-1D, 27.7
+RMED-2D, 35.1
+SAAR, 583
+SAAR4170, 600
+SPRHOST,39.36
+URBCONC1990, 0.581
+URBEXT1990,0.0151
+URBLOC1990, 0.881
+URBCONC2000, 0.759
+URBEXT2000,0.0207
+URBLOC2000, 0.904
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Station using float runs for gauging a predominantly rural catchment with mixed geology and with major artificial influences. GENERAL: Flat V weir with low flow sharp-crested rectangular notch. STATION HYDROMETRY: No spillway. Flood banks contain approx. 35 cumecs. Reasonable fit to gaugings up to bank full. Breaching u/s may cause bypassing. Gaugings for this station are float runs, and less accurate than standard methods. One rating applied across period of record. FLOW RECORD: No POT data are presented for this station as they have no non-modular flow correction applied. AMAX data have been corrected, but in some cases can be below the daily flow as these are not corrected. Naturalised flows 1972-1976, since then adjustments needed for abstractions, discharges and PWS predominantly for Haverhill. FLOW REGIME: Ely/Ouse Transfer Scheme adjustments already made. Runoff reduced by public water supply (predominantly for Haverhill), industrial and agricultural abstraction from surface water and gw. Runoff increased by effluent returns. Flow affected by Ely/Ouse Transfer Scheme.
+CATCHMENT,Mainly Upper Chalk with some London Clay in S, overlain by superficial deposits (predominantly Boulder Clay). Mainly rural, predominantly arable land, some built-up areas.
+Qmed Suitability,Gauged above QMED. Reasonable fit to gaugings.
+Pooling Suitability,Rating does not consider out of bank flows or bypassing and rating extrapolation above bankfull is highly uncertain.
+[END]

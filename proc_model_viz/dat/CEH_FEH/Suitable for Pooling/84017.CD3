@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 84017
+[END]
+[CDS DETAILS]
+NAME,Black Cart Water
+LOCATION,Milliken Park
+NOMINAL AREA,  103.16
+NOMINAL NGR,2411,6620
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,241100,662000
+CENTROID NGR,GB,234788,659867
+DTM AREA,  103.16
+ALTBAR, 175
+ASPBAR, 85
+ASPVAR,0.09
+BFIHOST,0.445
+DPLBAR, 12.15
+DPSBAR, 89.3
+FARL,0.786
+FPEXT,0.0545
+LDP, 24.80
+PROPWET,0.61
+RMED-1H, 10.9
+RMED-1D, 50.9
+RMED-2D, 69.9
+SAAR,1790
+SAAR4170,1755
+SPRHOST,42.39
+URBCONC1990, 0.666
+URBEXT1990,0.0095
+URBLOC1990, 0.570
+URBCONC2000, 0.826
+URBEXT2000,0.0166
+URBLOC2000, 0.714
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station. Flows significantly affected by operation of Castle Semple Loch and Barr Loch (fed by Calder Water). GENERAL: Velocity area station about 27m wide. STATION HYDROMETRY: Station has informal (dished) concrete low flow control of length 26.52m and natural high flow control. Overtopping of rb can occur when stage exceeds 1m. Peak flow ratings derived from current meter gaugings up to 1.1 m (about QMED), simple extrapolation beyond (stabel rating). Problems with winch resulted in bad gaugings in early 1990s. FLOW RECORD: Flow control evident on the hydrograph trace, although less obvious post 1980. Monthly naturalised flows available (1967-74). Site was recalibrated back to 2001 during the 2010 review, mainly affecting low flows. FLOW REGIME: Several lochs and reservoirs (e.g. Rowbanks) provide storage, flows sig. affected by operation of Castle Semple Loch and Barr Loch (fed by Calder Water). 75% of the catchment is controlled by Castle Semple Loch.
+CATCHMENT,Predominantly lowland, wet, catchment. Principally impervious - Carboniferous basalt and igneous intrusions, overlain by Boulder Clay. Peat in some upland areas, river gravel on floodplains. Rural land use, urbanisation in valley; some forestry. No significant catchment changes known.
+Qmed Suitability,No comment
+Pooling Suitability,No comment
+[END]

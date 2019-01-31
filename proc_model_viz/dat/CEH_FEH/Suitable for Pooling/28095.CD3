@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 28095
+[END]
+[CDS DETAILS]
+NAME,Tame
+LOCATION,Hopwas Bridge
+NOMINAL AREA, 1429.23
+NOMINAL NGR,4181,3051
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,418100,305150
+CENTROID NGR,GB,418588,292945
+DTM AREA, 1429.23
+ALTBAR, 120
+ASPBAR, 83
+ASPVAR,0.05
+BFIHOST,0.488
+DPLBAR, 38.52
+DPSBAR, 29.6
+FARL,0.938
+FPEXT,0.1287
+LDP, 70.49
+PROPWET,0.30
+RMED-1H, 10.7
+RMED-1D, 32.5
+RMED-2D, 40.3
+SAAR, 691
+SAAR4170, 704
+SPRHOST,35.86
+URBCONC1990, 0.844
+URBEXT1990,0.1803
+URBLOC1990, 1.183
+URBCONC2000, 0.932
+URBEXT2000,0.2497
+URBLOC2000, 1.210
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station used primarily for water quality purposes - replaces 28005, Elford which was several km upstream. GENERAL: Velocity area station immediately downstream of Hopwas road bridge with a cableway between training banks that contain the majority of high flows. Station used primarily for water quality purposes. Some bypassing, but accounted for in rating. Site replaces 28005, Elford which was several km upstream. Very broad flood plain on both banks. Suffers from heavy weed growth requiring retrospective rating adjustments. STATION HYDROMETRY: Suffers from heavy weed growth which contributes to over-estimation of runoff requiring retrospective rating adjustments - but all are based on the winter curve applied here as the majority of floods are in winter and flatten weeds. As a result of these weeds there is significant scatter in gaugings. Ratings revised in 2016. FLOW RECORD: Magnitude of June and July 2007 flood events subject to considerable overestimation due to hydraulic conditions and increased channel and floodplain rugosity. Gaugings taken during events suggest peak flows of around 210 cumecs in June and 200 cumecs in July 2007. 2011 summer flows not stored in GDF record as considerably affected.
+CATCHMENT,Catchment predominantly Mercia Mudstones with some shales and limestones. Overlain by Boulder Clay in the headwater with sands and gravels within the valleys. Mixed farming and urbanised catchment
+Qmed Suitability,Gauged above QMED. Less scatter in spot gaugings around QMED and above indicating weeds have less impact on high flows.
+Pooling Suitability,Gauged to within 1% of AMAX3. Less scatter in spot gaugings around QMED and above indicating weeds have less impact on high flows.
+[END]

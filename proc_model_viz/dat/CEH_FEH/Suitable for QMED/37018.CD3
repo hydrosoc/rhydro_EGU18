@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 37018
+[END]
+[CDS DETAILS]
+NAME,Ingrebourne
+LOCATION,Gaynes Park
+NOMINAL AREA,   44.74
+NOMINAL NGR,5551,1861
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,555150,186150
+CENTROID NGR,GB,555952,192585
+DTM AREA,   44.74
+ALTBAR,  62
+ASPBAR,204
+ASPVAR,0.09
+BFIHOST,0.283
+DPLBAR,  9.78
+DPSBAR, 43.3
+FARL,0.985
+FPEXT,0.0433
+LDP, 17.36
+PROPWET,0.27
+RMED-1H, 11.1
+RMED-1D, 31.1
+RMED-2D, 37.9
+SAAR, 594
+SAAR4170, 609
+SPRHOST,45.45
+URBCONC1990, 0.780
+URBEXT1990,0.1157
+URBLOC1990, 0.834
+URBCONC2000, 0.831
+URBEXT2000,0.1658
+URBLOC2000, 0.855
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Essex profile modified Flat V Crump weir situated in a rural headwater with artificial influences from urban land uses. GENERAL: 'Essex' profile (modified Flat V Crump) weir in 9.5m wide section. Non standard weir. STATION HYDROMETRY: All but exceptional floods contained. Pressure tapping not maintained to the correct standard and is not used as often as it should be. Thus pressure tapping is unreliable. Model-based calibration assumes modularity; however, drowning occurs above about 7 cumecs. Rating estimates of flow thought to be reasonable. One peak flow rating applied across period of record. FLOW RECORD: Naturalised flow available for period 1970-75. FLOW REGIME: Runoff increased by effluent returns but reduced by industrial/agricultural abstraction. Minor net augmentation of runoff through transfer from River Beam. Reservoir(s) in the catchment affect runoff.
+CATCHMENT,Largely impermeable catchment (London Clay/glacial deposits). Rural headwaters but substantial urban development around lower reaches.
+Qmed Suitability,Gauged to within 27% of QMED.
+Pooling Suitability,Few high flow gaugings. Rating can not be validated beyond QMED.
+[END]

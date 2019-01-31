@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 23017
+[END]
+[CDS DETAILS]
+NAME,Team
+LOCATION,Team Valley
+NOMINAL AREA,   62.35
+NOMINAL NGR,4249,5584
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,424950,558450
+CENTROID NGR,GB,422476,555286
+DTM AREA,   62.35
+ALTBAR, 124
+ASPBAR, 94
+ASPVAR,0.15
+BFIHOST,0.371
+DPLBAR, 10.17
+DPSBAR, 63.9
+FARL,0.995
+FPEXT,0.0664
+LDP, 22.00
+PROPWET,0.33
+RMED-1H,  9.8
+RMED-1D, 34.6
+RMED-2D, 43.7
+SAAR, 685
+SAAR4170, 702
+SPRHOST,36.02
+URBCONC1990, 0.738
+URBEXT1990,0.0948
+URBLOC1990, 0.769
+URBCONC2000, 0.859
+URBEXT2000,0.1350
+URBLOC2000, 0.856
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station with ultrasonics installed 1998. Early POT and AMAX data recorded at Walter Wilson in Team Valley Trading Estate. GENERAL: Velocity area station in culverted section below road bridge, low flow control is the concrete invert of the culvert. Ultrasonics installed 1998. Peak flows only are provided for 1975 to 1990, recorded at Walter Wilson in Team Valley Trading Estate in straight, engineered section with clay banks and silty bed. Control was channel structures d/s of A692 bridge and pipe crossing. Construction of the 1990 Gateshead Garden Festival site lowered the bed level, exposing the inlet pipe, and the station was temporarily closed. STATION HYDROMETRY: Low flow control exercised by pre-existing weir. Uncertainties in the peak level recorded in the June 2012 event led to a survey of the site to establish when overtopping into adjacent field occurs as the highest peak levels are all very similar at around 1.3m. Ultrasonic installation providing full calibration in 1998 (deactivated April 2005). One peak flow rating applied across period of record in April 2004 based upon ultrasonic data. Analysis of uncertainties in the ultrasonic rating calculation suggests the lower and upper bounds for QMAX are -10% and +8% at this site. Previous peak flow rating was theoretical supplemented by current meter gaugings. FLOW RECORD: Missing AMAX data for 1990 due to construction of Gateshead Garden Festival Site. Daily flows for period of record reprocessed in 2002. Dropouts throughout the period of record (for example, in April, July, September, October & November 2014 and July 2015) thought to be caused by reductions in minewater pumping at Kibblesworth (1 mile upstream). FLOW REGIME: Sewage effluent and pumped minewaters affect the very responsive regime.
+CATCHMENT,A primarily rural catchment on the SW edge of Gateshead, on moderate permeability bedrock overlain with extensive boulder clay and some alluvium. Land use is mixed agriculture with extensive urbanised areas, industry and former coal mines in lower catchment. No known catchment changes.
+Qmed Suitability,Gauged to QMED
+Pooling Suitability,Old site checked by current meter. New rating from ultrasonic velocity meter and fully contained.
+[END]

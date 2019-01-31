@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+203011
+[END]
+[CDS DETAILS]
+NAME,Main
+LOCATION,Dromona
+NOMINAL AREA,  243.57
+NOMINAL NGR,3048,4090
+[END]
+[DESCRIPTORS]
+IHDTM NGR,Ireland,304900,409000
+CENTROID NGR,Ireland,309089,415944
+DTM AREA,  243.57
+ALTBAR, 169
+ASPBAR,226
+ASPVAR,0.14
+BFIHOST,0.492
+DPLBAR, 17.78
+DPSBAR, 57.9
+FARL,0.993
+FPEXT,0.1291
+LDP, 32.51
+PROPWET,0.61
+RMED-1H,  9.0
+RMED-1D, 36.6
+RMED-2D, 50.2
+SAAR,1205
+SAAR4170,1268
+SPRHOST,34.81
+URBCONC1990,-2.000
+URBEXT1990,0.0062
+URBLOC1990, 1.102
+URBCONC2000,-9999.000
+URBEXT2000,0.0018
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area without cableway, controlled by a weir of capped sheet piles. GENERAL: Velocity area station with level recorder; instrumentation housed in compartment at top of the vertical well pipe. STATION HYDROMETRY: Major arterial drainage scheme, channel deepening and bridge replacement, was implemented in the 1980s from the confluence with the River Braid to the headwaters. During river works the cap was removed from weir leading to site moving upstream at ID 049 090 on 1/11/80, retaining same name. Two rating curves -derived from current meter gaugings. No cableway - high flow gauging from gauging bridge. Simple extrapolation used above approx 51m3/s. High flow gauging in 2002 confirmed validity of rating. FLOW RECORD: Peak flow data presented for period after major arterial drainage scheme and channel improvements completed in 1990. Instrument failure lead to missing daily data from Nov 2010 - Jan 2011. FLOW REGIME: Water abstracted from Dungonnell Reservoir in the Clogh catchment (12.5Ml/d) is predominantly returned D/s of station.
+CATCHMENT,No significant centres of habitation. Solid geology - the area is underlain predominantly by Palaeogene basalt lava flows. Drift geology -Extensive drumlinised glacial till with sand and gravel concentrated around the River Main and other major valleys. Extensive rock near surface and post-glacial peat cover on high ground with development of river alluvium in valleys.
+Qmed Suitability,Requires some more high flow gaugings as maximum gauged flow to QMED ratio is 1.03. Bankfull stage unknown but thought to be contained at QMED flows.
+Pooling Suitability,Unmeasured floodplain flow is negligible (supported by photos), rating extrpolation gives acceptable flows.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 43009
+[END]
+[CDS DETAILS]
+NAME,Stour
+LOCATION,Hammoon
+NOMINAL AREA,  518.75
+NOMINAL NGR,3820,1146
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,382000,114650
+CENTROID NGR,GB,376202,119595
+DTM AREA,  518.75
+ALTBAR, 100
+ASPBAR,106
+ASPVAR,0.07
+BFIHOST,0.442
+DPLBAR, 26.52
+DPSBAR, 49.9
+FARL,0.992
+FPEXT,0.1226
+LDP, 45.93
+PROPWET,0.36
+RMED-1H, 10.8
+RMED-1D, 34.6
+RMED-2D, 44.3
+SAAR, 849
+SAAR4170, 894
+SPRHOST,40.02
+URBCONC1990, 0.512
+URBEXT1990,0.0095
+URBLOC1990, 0.966
+URBCONC2000, 0.718
+URBEXT2000,0.0104
+URBLOC2000, 0.998
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Compound Crump weir on the River Stour with severe weed growth. GENERAL: Compound Crump profile weir with low flow crest 6.1m wide, total breadth 18.3m. Structure situated under road bridge STATION HYDROMETRY: Station drowns early. Water meadow system operates - area floods during high discharges and becomes inaccessible. Modular limit is unknown and probably seasonally variable. Severe weed growth. Non-modularity observed at stage around 0.7m (~Q13). Station regularly bypassed at approximately 2.3-2.6m (>Q2). Rating takes account for both of these situations. In-channel gaugings are carried out at the site but out of bank gaugings are taken at Stourpaine Bridge. Two peak flow ratings applied across period of record. Latest theoretical to 0.72m, regression with break point for bank full levels to 3m and high flow model beyond (>3m). FLOW REGIME: Substantial ground & surface water abstractions within catchment affect flow, including abstraction for public water supply. Two water mills upstream may produce hydrograph perturbations, particularly when mean flows are less than 300cumecs (e.g. 11/1978).
+CATCHMENT,Predominantly impermeable (clay) catchment but with outcrops of more permeable substrates. Oxford and Cambridge Clays upstream, Chalk downstream. Rural land use. No major catchment changes.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged to within 14% of AMAX3. Good fit to gaugings.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 28043
+[END]
+[CDS DETAILS]
+NAME,Derwent
+LOCATION,Chatsworth
+NOMINAL AREA,  344.34
+NOMINAL NGR,4260,3683
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,426050,368400
+CENTROID NGR,GB,418886,383584
+DTM AREA,  344.34
+ALTBAR, 335
+ASPBAR,139
+ASPVAR,0.12
+BFIHOST,0.461
+DPLBAR, 24.03
+DPSBAR,158.7
+FARL,0.909
+FPEXT,0.0258
+LDP, 42.62
+PROPWET,0.41
+RMED-1H,  9.9
+RMED-1D, 38.5
+RMED-2D, 54.0
+SAAR,1170
+SAAR4170,1180
+SPRHOST,37.49
+URBCONC1990,-9999.000
+URBEXT1990,0.0023
+URBLOC1990,-9999.000
+URBCONC2000, 0.655
+URBEXT2000,0.0061
+URBLOC2000, 0.553
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station that provides flood forecasting information and has flows substantially affected by Derwent reservoirs. GENERAL: Velocity area station approx. 36m wide at bankfull, with a cableway span of 51m. Important flood forecasting station. D/s shoal as a control, but shoal and rating are not too stable. All but extreme flows contained. Substantially affected by Derwent reservoirs. STATION HYDROMETRY: Downstream shoal acts as a control, but shoal and rating are not too stable. All but extreme flows contained. The pre 1976 data is thought to be less reliable due to inconsistencies over the way the datum change has been handled. Multiple ratings applied over period of record representing subtle changes in low flows. Three have been applied when high flows limb has been adjusted. The most recent is valid from March-1999. Spot gauged during highest recorded flood (6/11/2000). FLOW RECORD: Analomous flow in Aug/Sept 1975 under review. FLOW REGIME: Quite responsive. Flows substantially affected by Derwent reservoirs.
+CATCHMENT,Upland catchment with peat covered moorlands in the headwaters. Geology: predominantly Millstone Grit, with some western tributaries draining Carboniferous Limestone. Predominantly pasture.
+Qmed Suitability,Gauged above QMED. Good fit to gaugings.
+Pooling Suitability,Gauged beyond AMAX3. Good fit to gaugings.
+[END]

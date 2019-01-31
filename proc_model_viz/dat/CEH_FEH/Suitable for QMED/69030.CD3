@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 69030
+[END]
+[CDS DETAILS]
+NAME,Sankey Brook
+LOCATION,Causey Bridges
+NOMINAL AREA,  147.74
+NOMINAL NGR,3587,3922
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,358750,392200
+CENTROID NGR,GB,352485,397337
+DTM AREA,  147.74
+ALTBAR,  51
+ASPBAR,147
+ASPVAR,0.15
+BFIHOST,0.471
+DPLBAR, 13.40
+DPSBAR, 24.3
+FARL,0.941
+FPEXT,0.1769
+LDP, 24.69
+PROPWET,0.38
+RMED-1H, 11.4
+RMED-1D, 33.2
+RMED-2D, 46.0
+SAAR, 903
+SAAR4170, 903
+SPRHOST,33.24
+URBCONC1990, 0.788
+URBEXT1990,0.1411
+URBLOC1990, 0.902
+URBCONC2000, 0.867
+URBEXT2000,0.1628
+URBLOC2000, 0.896
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station in low-lying catchment containing some large urban areas. GENERAL: Velocity-area station opened 1953. A trench-piled bed control and stone pitched left bank that built in July 1983 acts as a weir up to 0.35m, above which it drowns. STATION HYDROMETRY: The channel bed is laden with stones and boulders. The highest flows are above bankfull, at 2.66 m on the right bank, but with the possibility of bypassing upstream before this. Susceptible to siltation and weed growth. Backwater problems from sluice operation ceased with closure of adjacent canal in 1976. Rating affected by land drainage improvement works downstream in 1976 and 1977. Subsequent channel regrading required frequent recalibration between 1977 and 1983, and a significant change occurred from the high flows of spring 1981. Multiple ratings applied across period of record. Few spot gaugings at high flows, some scatter. FLOW RECORD: Revised daily flow data from start of record (1/1977) to 9/2006 loaded in 10/2009: flows from 17/6/77 to 30/8/77 increased by approx 2.5 times; previous max GDF on 28/12/78 reduced from 38.5 to 28.9 m3s-1; other differences generally minor. FLOW REGIME: Several small lakes (e.g. Newton Lake) and meres. Industrial abstraction and effluent.
+CATCHMENT,A low lying catchment of gentle relief. Coal Measures within the North overlain by sand and peat; Sherwood Sandstone in the South, overlain by Boulder Clay. Mixed farmland predominates but contains urban areas, including St Helens in the centre. Possible that there was a small increase in catchment area in late 1980s or very early 1990s with diversion of a ditch crossing Sankey Valley Park to join Sankey Brook upstream of the gauging station.
+Qmed Suitability,Some scatter in gaugings evident.
+Pooling Suitability,Significant scatter in gaugings and considerable bypassing possible.
+[END]

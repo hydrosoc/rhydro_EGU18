@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 50011
+[END]
+[CDS DETAILS]
+NAME,Okement
+LOCATION,Jacobstowe
+NOMINAL AREA,   80.17
+NOMINAL NGR,2591,1019
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,259150,101900
+CENTROID NGR,GB,258915, 93281
+DTM AREA,   80.17
+ALTBAR, 316
+ASPBAR,357
+ASPVAR,0.26
+BFIHOST,0.478
+DPLBAR, 12.64
+DPSBAR,130.0
+FARL,0.981
+FPEXT,0.0298
+LDP, 26.29
+PROPWET,0.48
+RMED-1H, 13.0
+RMED-1D, 49.8
+RMED-2D, 68.4
+SAAR,1510
+SAAR4170,1562
+SPRHOST,37.61
+URBCONC1990,-9999.000
+URBEXT1990,0.0047
+URBLOC1990,-9999.000
+URBCONC2000, 0.764
+URBEXT2000,0.0091
+URBLOC2000, 0.748
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Round-nosed broad-crested flat V weir with cableway constructed in 1991 to replace previous station built in 1973. GENERAL: Round-nosed broad-crested flat V weir with cableway constructed in 1991 (station reopened on 11/09/91). Velocity area at higher flows. Previously a natural bed control 2/11/73-6/10/81 (before station closure). STATION HYDROMETRY: Channel at the station approximately 17m wide. No bypassing. Re-rating carried out for the new weir in 1991, and again in 2011 to account for significant erosion of the middle part of the weir following high flows in 2000. Multiple peak flow ratings applied across period of record, the most recent is valid from 10/2000. Rating fits well to gaugings at QMED. FLOW RECORD: 1980-81 flows suspect due to erosion following high flows of December 1979, and could be overestimated by up to 40%. FLOW REGIME: Meldon Reservoir constructed upstream in the early 1970s which partially controls the flows since. Flows also affected by regular releases for hydropower generation increasingly noticeable from 2007.
+CATCHMENT,Mixed geology, mostly Carboniferous (shale, sandstone) with some areas of Permian (Knowle Sandstones) and alluvium. Land-use is mostly rural, moorland in headwaters. Some urbanisation in the catchment (Okehampton).
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Although gauged to within 19% of AMAX3, rating is very uncertain beyond QMED.
+[END]

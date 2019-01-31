@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 40008
+[END]
+[CDS DETAILS]
+NAME,Great Stour
+LOCATION,Wye
+NOMINAL AREA,  226.40
+NOMINAL NGR,6048,1470
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,604900,147000
+CENTROID NGR,GB,602240,143278
+DTM AREA,  226.40
+ALTBAR,  77
+ASPBAR,205
+ASPVAR,0.16
+BFIHOST,0.659
+DPLBAR, 18.66
+DPSBAR, 39.1
+FARL,0.983
+FPEXT,0.1605
+LDP, 35.07
+PROPWET,0.34
+RMED-1H, 11.9
+RMED-1D, 33.7
+RMED-2D, 44.0
+SAAR, 741
+SAAR4170, 751
+SPRHOST,28.00
+URBCONC1990, 0.666
+URBEXT1990,0.0306
+URBLOC1990, 0.715
+URBCONC2000, 0.804
+URBEXT2000,0.0452
+URBLOC2000, 0.800
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Triangular crump weir (width 7.61m) - drowns at <3 cumecs (no flow adjustment) and velocity-area station for high flows. Weedgrowth can cause overestimation of flows. GENERAL: Triangular crump weir (width 7.61m) - drowns at <3 cumecs (no flow adjustment). Velocity area station (just downstream) for high flows. The River Stour is wide & shallow at the gauging station, the floodplain is limited by the railway line. Previously a broad crested weir (1960-62) which was subject to premature drowning frequently due to weed growth and the low design of the weir sill. STATION HYDROMETRY: The weir conforms to British Standards up to 0.3m stage. Wye Bridge contains 5 arches with secondary arches between the river & railway line to accommodate very high flows. Bank is overtopped at 1.65m stage, flow contained in floodplain to 1.85m stage. Inspection of the gauge in 2002 for a rating review suggests a secondary flow path upstream of Wye Bridge possibly results in flow through the secondary culverts, bypassing the gauge. Weedgrowth can cause overestimation of flows. Siltation also an issue. In 1962, sill was raised and the downstream section was dredged approx. 23cm. It was proposed to clear the weed annually to prevent further drowning, however conservation concerns have halted this in recent years. Peak flow rating beyond 0.8m derived from hydraulic modelling, confirmed with gaugings to 1.6m. FLOW RECORD: Low confidence in this site. Data reprocessed in 2010; summer 2007 high flows significantly modified, 2000 flows added. 1976 drought minimum (lowest flow on record) estimated. FLOW REGIME: M20 motorway & Channel Tunnel rail link are increasing the development pressures on the catchment. Effluent from Ashford is a significant component of low flows; small net import of water. Flood retention reservoirs above Ashford (constructed 1990-2). Hydrographs show evidence of upstream mill sluice operation (declining); regulation in early records from Wye Mill 160m upstream. The catchment exhibits little storage.
+CATCHMENT,The east and west branches of the River Stour flow over impermeable (mainly) Weald Clay; below Ashford (the only major settlement). Catchment is half-and-half impervious and pervious. A rural catchment with mixed land use.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged to within 1% of AMAX3.
+[END]

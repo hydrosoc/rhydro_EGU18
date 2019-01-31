@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 33005
+[END]
+[CDS DETAILS]
+NAME,Bedford Ouse
+LOCATION,Thornborough Mill
+NOMINAL AREA,  387.67
+NOMINAL NGR,4734,2353
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,473450,235350
+CENTROID NGR,GB,467159,231972
+DTM AREA,  387.67
+ALTBAR, 114
+ASPBAR,148
+ASPVAR,0.06
+BFIHOST,0.480
+DPLBAR, 22.31
+DPSBAR, 27.4
+FARL,0.983
+FPEXT,0.1108
+LDP, 39.99
+PROPWET,0.31
+RMED-1H, 10.3
+RMED-1D, 30.4
+RMED-2D, 38.4
+SAAR, 655
+SAAR4170, 667
+SPRHOST,37.29
+URBCONC1990, 0.585
+URBEXT1990,0.0092
+URBLOC1990, 0.882
+URBCONC2000, 0.726
+URBEXT2000,0.0137
+URBLOC2000, 0.994
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Flow records generally affected by sluice movement and implementation of digital recording in 1979. GENERAL: Flat V Crump profile weir 10.2m wide and two sluice gates 3.6m broad. Before 1976 weir was broad-crested with centre V notch. STATION HYDROMETRY: A bypass channel exists, but operation of gates has ensured the highest flows have been recorded. One rating applied across period of record. Rating assumes gates shut below 0.572m and open above it. Significant scatter in gaugings as a result of differing gate positions. FLOW RECORD: Since 1979, peak flow recordings have been digital but recorded only upstream stage, not gate opening and downstream level. Peak flows since 1979 are therefore unreliable and have been excluded from WINFAP-FEH files. Daily flows not calculated since Aug 1991. Inaccurate DMF measurement complicated by automatic sluice movement which was not integrated into flow calculation methods. FLOW REGIME: Flows affected by reservoirs in catchment. Abstraction for public water supply, and industrial and agricultural uses reduces runoff. Runoff increased by effluent returns.
+CATCHMENT,The catchment is flat and lies mainly on the Great Oolite. One large tributary drains an area of Oxford Clay. There is a water supply reservoir and a number of ornamental lakes in the catchment.
+Qmed Suitability,Suitable for data prior to 1979 when gate positions considered.
+Pooling Suitability,Suitable for data prior to 1979 when gate positions considered.
+[END]

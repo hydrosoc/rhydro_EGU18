@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 96003
+[END]
+[CDS DETAILS]
+NAME,Strathy
+LOCATION,Strathy Bridge
+NOMINAL AREA,  120.87
+NOMINAL NGR,2835,9651
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,283600,965150
+CENTROID NGR,GB,280908,953653
+DTM AREA,  120.87
+ALTBAR, 161
+ASPBAR, 17
+ASPVAR,0.17
+BFIHOST,0.289
+DPLBAR, 16.64
+DPSBAR, 58.1
+FARL,0.895
+FPEXT,0.0736
+LDP, 30.28
+PROPWET,0.60
+RMED-1H,  8.2
+RMED-1D, 32.8
+RMED-2D, 45.7
+SAAR,1090
+SAAR4170,1110
+SPRHOST,55.12
+URBCONC1990,-9999.000
+URBEXT1990,0.0000
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0000
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station in north west Scotland. GENERAL: Velocity area station, about 15m wide. STATION HYDROMETRY: Stable pitched river bed control with gabion mattress constriction to increase sensitivity (installed on old bridge invert upstream of new road bridge). Bypassing on the right bank during extreme flood events above 1.65m. Adequately gauged to bankfull. Ratings derived from current meter gaugings up to 40 cumecs (about 0.5QMED), simple extrapolation beyond. Peak flow rating was revised in 2003. FLOW REGIME: Natural regime. No significant surface storage but several small hill lochs on a low altitude.
+CATCHMENT,Upland headwaters. Predominantly Moinian metamorphic with small areas of sandstone and granite. Largely overlain by superficial deposits. Gently sloping peat-covered catchment with moorland and rough pasture. Extensively afforested from the late 1970s.
+Qmed Suitability,No comment
+Pooling Suitability,No comment
+[END]

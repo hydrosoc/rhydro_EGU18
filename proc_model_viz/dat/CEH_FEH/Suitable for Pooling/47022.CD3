@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 47022
+[END]
+[CDS DETAILS]
+NAME,Tory Brook
+LOCATION,Newnham Park
+NOMINAL AREA,   13.43
+NOMINAL NGR,2551, 576
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,255150,57700
+CENTROID NGR,GB,256487, 61045
+DTM AREA,   13.43
+ALTBAR, 180
+ASPBAR,208
+ASPVAR,0.46
+BFIHOST,0.431
+DPLBAR,  4.86
+DPSBAR,106.0
+FARL,0.942
+FPEXT,0.0232
+LDP,  9.33
+PROPWET,0.48
+RMED-1H, 12.5
+RMED-1D, 46.2
+RMED-2D, 59.5
+SAAR,1403
+SAAR4170,1454
+SPRHOST,44.18
+URBCONC1990, 0.310
+URBEXT1990,0.0122
+URBLOC1990, 1.124
+URBCONC2000, 0.586
+URBEXT2000,0.0141
+URBLOC2000, 1.255
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Open channel rated section influenced by China clay works in catchment. GENERAL: Open channel rated section. STATION HYDROMETRY: Level measurement located upstream of road bridge at Newnham Park. Replaced an earlier rated section located slightly upstream which was operational between 1979-88. Current set up also includes a ADVP gauge to assist in calibration of the stage-discharge relationship alongside current meter gaugings. Low flow rating shifts as a result of a mobile bed at site. Gaugings show that high flow rating remains constant. Multiple peak flow ratings across period of record. ADVP used to assist in rating reviews. Ratings for old site reviewed and considered sound pre-88. FLOW REGIME: China clay works have affected the catchment hydrology for over 200 years. The river flow regime may be affected by these works in a number of ways including; cross-catchment transfers, the potential for attenuation of catchment runoff in lagoons; changes in topography caused by the development of waste tips, which could increase catchment steepness leading to faster runoff; and the permeability of the soils may be reduced due to compaction and clay being brought to the surface. With the exception of these areas of china clay works, the upper catchment is predominantly rural containing only the small settlements of Lee Moor and Wotter.
+CATCHMENT,The upper Tory Brook catchment, to Lee Moor and Wotter, is primarily underlain by Granite with alluvium and river gravel along the watercourses. The majority of the rest of the catchment is underlain by Slate of the Upper Devonian period, with alluvium along the watercourses. This impermeable geology with steep topography leads to a reasonably rapid catchment response to storm events. However as a result of the artificial influences response may be considered muted compared to the catchment pre- china clay mining. No major changes to catchment.
+Qmed Suitability,gauged to around 75% QMED and ADVP data to QMED
+Pooling Suitability,rating extrapolated but all in bank
+[END]

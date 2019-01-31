@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 36007
+[END]
+[CDS DETAILS]
+NAME,Belchamp Brook
+LOCATION,Bardfield Bridge
+NOMINAL AREA,   58.16
+NOMINAL NGR,5847,2421
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,584750,242150
+CENTROID NGR,GB,581019,240358
+DTM AREA,   58.16
+ALTBAR,  65
+ASPBAR, 70
+ASPVAR,0.10
+BFIHOST,0.523
+DPLBAR,  7.14
+DPSBAR, 26.1
+FARL,0.996
+FPEXT,0.0789
+LDP, 13.64
+PROPWET,0.25
+RMED-1H, 10.5
+RMED-1D, 27.3
+RMED-2D, 34.1
+SAAR, 560
+SAAR4170, 563
+SPRHOST,36.21
+URBCONC1990, 0.462
+URBEXT1990,0.0057
+URBLOC1990, 1.136
+URBCONC2000,-9999.000
+URBEXT2000,0.0036
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Station provides good quality, close to natural, record from a rural catchment with mixed geology. GENERAL: Trapezoidal flume with throat tapping. STATION HYDROMETRY: Full range station in winter, occasionally drowns in summer due to weed growth. One rating applied across period of record. Confirmed by gaugings to 1.6m FLOW RECORD: No POT data are presented for this station as they have no non-modular flow correction applied. AMAX data have been corrected, but in some cases can be below the daily flow as these are not corrected. Naturalised flows from 1965 to 1976, only minimal adjustments needed to flows since then. Daily flow POR reprocessed in 2014. FLOW REGIME: Gw-influenced regime. Runoff reduced by industrial/agricultural abstraction. Natural flow to within 10% at Q95.
+CATCHMENT,Chalk in N, clays in S, all overlain mainly by Boulder Clay and some sands and gravels. Rural, predominantly arable land.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged beyond AMAX3.
+[END]

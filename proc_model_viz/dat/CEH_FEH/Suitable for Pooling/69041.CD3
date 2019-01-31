@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 69041
+[END]
+[CDS DETAILS]
+NAME,Tame
+LOCATION,Broomstairs
+NOMINAL AREA,  115.85
+NOMINAL NGR,3937,3953
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,393700,395350
+CENTROID NGR,GB,399515,403927
+DTM AREA,  115.85
+ALTBAR, 295
+ASPBAR,252
+ASPVAR,0.25
+BFIHOST,0.368
+DPLBAR, 20.28
+DPSBAR,135.6
+FARL,0.887
+FPEXT,0.0515
+LDP, 34.94
+PROPWET,0.55
+RMED-1H, 11.6
+RMED-1D, 44.5
+RMED-2D, 58.9
+SAAR,1290
+SAAR4170,1255
+SPRHOST,43.70
+URBCONC1990, 0.752
+URBEXT1990,0.0793
+URBLOC1990, 0.433
+URBCONC2000, 0.850
+URBEXT2000,0.1196
+URBLOC2000, 0.476
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Ultrasonic station from 1995, with mill weir. Flow regime dominated by effluents at low flows and by impoundments in the upper reaches across the regime. GENERAL: Broomstairs Bridge station opened June 1968 but was a poor site due to under-mining of the timber capping on the weir, which prevented an accurate stage-discharge relationship. The weir deteriorated over time and completely failed in August 2004. An ultrasonic multi-path gauge (Broomstairs ultrasonic) was installed in February 1995 until it was switched off for good in March 2017. Weed growth was a problem in the ultrasonic section during the summer which required regular maintenance and lead to regular path and flow drop outs. There is very little growth in the section immediately u/s of the weir. Works began in April 2010 and finished in July 2010 to install a stainless steel non standard thinplate with a low flow rectangular notch which also included extensive repair work to the downstream face of the structure. STATION HYDROMETRY: No bypassing, as all flows are through the bridge immediately upstream from which gaugings are made. Peak flow rating based on low flow gaugings taken immediately under the M60 motorway, medium flows from bridge using a handline with a light weight (so may over-estimate), model and ultrasonic flows at higher flows. Ultrasonic from Feb 1995. Flows from rating at Broomstairs Bridge to February 1995, from ultrasonic station thereafter. Some early problems with the ultrasonic station mean POT data have been checked and amended using the rating. Performance of the ultrasonics remains under review in relation to the highest flows. Rated and ultrasonic flows have been compared over the common period of record, and with Portwood downstream (69027). Both stations currently open, Broomstairs Bridge as levels-only. FLOW RECORD: Daily mean flows pre-ultrasonic record are poor. Erroneous daily flow data July & August 2006 removed. FLOW REGIME: Low flows dominated by effluents. Many impoundments in the upper reaches control 33% of the catchment in total. The largest of these are Dovestone and Chew Reservoirs on the Chew Brook (draining Saddleworth Moor), which alone control 20% of the catchment.
+CATCHMENT,Geology of Millstone Grit and Coal Measures with peat cover on high moors. Steeper valley sides drift free, otherwise mixed glacial drift cover. Catchment drains the the northern Peak District moors, including Saddleworth Moor but is heavily urbanised in the lower reaches, which include parts of Greater Manchester. No significant catchment changes.
+Qmed Suitability,Gauged to QMED, good agreement with gaugings.
+Pooling Suitability,Although only gauged to 59% of AMAX3, ultrasonic and hydraulic modelling lends confidence to high flow estimates.
+[END]

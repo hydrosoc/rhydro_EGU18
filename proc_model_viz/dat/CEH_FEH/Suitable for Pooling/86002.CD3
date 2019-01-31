@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 86002
+[END]
+[CDS DETAILS]
+NAME,Eachaig
+LOCATION,Eckford
+NOMINAL AREA,  138.67
+NOMINAL NGR,2139,6843
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,213900,684300
+CENTROID NGR,GB,212330,694235
+DTM AREA,  138.67
+ALTBAR, 298
+ASPBAR,238
+ASPVAR,0.09
+BFIHOST,0.380
+DPLBAR, 15.14
+DPSBAR,302.9
+FARL,0.836
+FPEXT,0.0328
+LDP, 29.96
+PROPWET,0.75
+RMED-1H, 11.6
+RMED-1D, 54.1
+RMED-2D, 77.5
+SAAR,2470
+SAAR4170,2578
+SPRHOST,48.89
+URBCONC1990,-9999.000
+URBEXT1990,0.0000
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0000
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station. Loch Eck dominates catchment. GENERAL: Velocity area station, about 28m wide. Station closed 31/05/98. STATION HYDROMETRY: Riffle control for low to medium flows. Natural channel control at high flows. All but major floods were contained within the channel, but some bypassing on lb. The river channel at the station had been significantly changing during the 1980s. Apparently material had been dumped into the channel u/s to reinforce the river adjacent to a caravan site. This was thought to have caused erosion of the far bank at the station. Peak flow ratings derived using current meter gaugings up to 1.7m (0.8 QMED), simple extrapolation beyond. Ratings applied only until July 1991 due to unreliable data thereafter. FLOW RECORD: 1990s flows under review. Some monthly naturalised flows available (1970-74). FLOW REGIME: The catchment contains Loch Eck, a major PWS reservoir.
+CATCHMENT,A very wet (mean rainfall may be underestimated), steep-sided, mountainous catchment developed on ancient metamorphic formations - some overlying superficial deposits. Mainly moorland with significant commercial forestry. Loch Eck dominates catchment. No significant catchment changes known.
+Qmed Suitability,only until 01/07/1991
+Pooling Suitability,only until 01/07/1991, channel considered very mobile raising questions about suitability (spot gaugings show shift in 1991)
+[END]

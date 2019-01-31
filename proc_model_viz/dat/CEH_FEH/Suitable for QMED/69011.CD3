@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 69011
+[END]
+[CDS DETAILS]
+NAME,Micker Brook
+LOCATION,Cheadle
+NOMINAL AREA,   58.81
+NOMINAL NGR,3855,3889
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,385500,388900
+CENTROID NGR,GB,391773,384320
+DTM AREA,   58.81
+ALTBAR, 132
+ASPBAR,310
+ASPVAR,0.45
+BFIHOST,0.405
+DPLBAR, 11.69
+DPSBAR, 50.9
+FARL,0.979
+FPEXT,0.1186
+LDP, 21.58
+PROPWET,0.52
+RMED-1H, 10.3
+RMED-1D, 32.1
+RMED-2D, 43.4
+SAAR, 899
+SAAR4170, 859
+SPRHOST,37.95
+URBCONC1990, 0.723
+URBEXT1990,0.1162
+URBLOC1990, 0.653
+URBCONC2000, 0.878
+URBEXT2000,0.1776
+URBLOC2000, 0.658
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Compound Crump weir on the Micker Brook just upstream of the Mersey confluence. GENERAL: Compound Crump profile weir, overall width 11.6m. Low central crest 1.52m wide, two flanking crests of 4.57m wide at 0.46m higher than the central weir. Low divide piers, wing walls 2.2m. Opened March 1968, peak flows available until 1984. STATION HYDROMETRY: Sited upstream of the Mersey confluence but does not drown out owing to downstream mill weir. All flows within bank. Weir is frequently blocked by debris. Maximum design flow 42.5 m3/s. One theoretical peak flow rating applied across period of record. Flood Studies Report grade A1. FLOW REGIME: Minor reservoirs in upper (south-east) part of catchment control 6% of the catchment area. Some modification to flows by reservoir operations, public water supply and water treatment works (Disley).
+CATCHMENT,Moderate relief catchment draining western flanks of Pennines; headwaters Millstone Grit, lower catchment has Boulder Clay, terrace gravels over Triassic Bunter sandstone. Upper two thirds predeominantly rural, the rest suburban. Parts of Stockport and Bramhall encroaching on the catchment. No catchment changes known.
+Qmed Suitability,Not gauged to within 30% of QMED. However, theoretical rating expected to perform well at QMED.
+Pooling Suitability,Few high flow gaugings. Rating can not be validated beyond QMED.
+[END]

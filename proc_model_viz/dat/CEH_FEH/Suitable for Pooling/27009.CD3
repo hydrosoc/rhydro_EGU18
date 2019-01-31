@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 27009
+[END]
+[CDS DETAILS]
+NAME,Ouse
+LOCATION,Skelton
+NOMINAL AREA, 3300.80
+NOMINAL NGR,4568,4553
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,456850,455350
+CENTROID NGR,GB,422906,481304
+DTM AREA, 3300.80
+ALTBAR, 185
+ASPBAR,100
+ASPVAR,0.13
+BFIHOST,0.439
+DPLBAR, 76.40
+DPSBAR, 69.1
+FARL,0.983
+FPEXT,0.1357
+LDP,152.06
+PROPWET,0.37
+RMED-1H, 11.0
+RMED-1D, 36.5
+RMED-2D, 46.5
+SAAR, 899
+SAAR4170, 918
+SPRHOST,39.94
+URBCONC1990, 0.621
+URBEXT1990,0.0103
+URBLOC1990, 0.752
+URBCONC2000, 0.765
+URBEXT2000,0.0148
+URBLOC2000, 0.776
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Multi-path ultrasonic station since 1992. Previously velocity-area station. Catchment drains northern parts of the Vale of York and the Yorkshire Dales. GENERAL: Multi-path (cross-configuration) ultrasonic station u/s from 1992. It was previously a velocity-area station since 1956 (37m wide at low flows), with control exercised mainly by Naburn weir, 13km d/s. A difficult site for flood estimation due to lack of similar catchments yet is not entirely suitable for single-site analysis. STATION HYDROMETRY: High flows overtop the left bank u/s, but return through the section. For flood events above 9m AOD (4.46m stage) there is some unmeasured flow behind the highest transducer path. This was estimated as 23 cumecs (4%) in the AMAX1 event (November 2000), it will be less for lower order floods. Daily flow rating change followed construction of the Clifton Ings embankments (c1980). For 1982-1992 a rating independent of Naburn sluice-gate settings has been employed. Multiple peak flow ratings applied over period of record. Ultrasonic since 1992 with ratings used to infill missing data, good measurement of high flows. Flood Studies Report grade A2. FLOW RECORD: Pre-1982 records are less reliable, especially at low flows, but above 2m the effect is probably not severe. Due to rating review AMAX series re-calculated (to 2001 water year). Bed level was programmed incorrectly for a period, leading to approx 26 cumecs being missed in November 2000 event. The peak has been corrected for these errors. FLOW REGIME: Public water supply abstraction u/s at Niddmouth, with increasing impact on very low flows. Some artificial groundwater augmentation is now a counterbalancing influence.
+CATCHMENT,Mixed geology, mostly of moderate permeability but highly permeable in lower reaches; extensive superficial deposits mask solid geology in much of catchment, particularly Vale of York. Large areas of Carboniferous Limestone and Millstone Grit in the west, Permian Magnesian Limestone in the central area and Keuper Marl and Triassic Sandsone to the east. Along the eastern border are rocks of the Lias and Great and Inferior Oolite Series. Predominantly rural catchment draining north parts of Vale of York and Yorkshire Dales, with some moorland headwaters. No known catchment changes.
+Qmed Suitability,Rating and ultrasonic flows well supported by gaugings beyond QMED.
+Pooling Suitability,Rating and ultrasonic well supported by gaugings.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 29009
+[END]
+[CDS DETAILS]
+NAME,Ancholme
+LOCATION,Toft Newton
+NOMINAL AREA,   29.31
+NOMINAL NGR,5032,3874
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,503200,387450
+CENTROID NGR,GB,499593,385696
+DTM AREA,   29.31
+ALTBAR,  32
+ASPBAR, 72
+ASPVAR,0.50
+BFIHOST,0.626
+DPLBAR,  5.38
+DPSBAR, 12.3
+FARL,0.998
+FPEXT,0.2040
+LDP, 11.03
+PROPWET,0.26
+RMED-1H, 11.5
+RMED-1D, 28.4
+RMED-2D, 36.4
+SAAR, 616
+SAAR4170, 640
+SPRHOST,25.61
+URBCONC1990,-9999.000
+URBEXT1990,0.0050
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0045
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Flat V weir immediately u/s of entry point of flows from a reservoir. GENERAL: Flat V weir (3.03m wide). The station is immediately u/s of entry point of flows from Toft Newton reservoir. STATION HYDROMETRY: There is no drowning or bypassing. Theoretical calibration, confirmed by check gaugings. Rating expected to be modular up to bank full but gauging at 0.4m introduces some uncertainty. Theoretical rating applied across period of record. FLOW RECORD: POT has been corrected to zero stage - was previously offset by 1m. Site inoperative due to vandalism 10/04/2002-05/01/2003. Low flows in May 2003 are suspect. FLOW REGIME: No major abstractions or returns.
+CATCHMENT,Flat, low-lying catchment, with elevated upper part, developed on Lincolnshire L'st and clays, with some Boulder Clay cover in E half. Predominantly rural, mainly arable land.
+Qmed Suitability,Despite deviation from highest gauging, theoretical rating should be reasonable to QMED,
+Pooling Suitability,Few high flow gaugings. Rating can not be validated beyond QMED.
+[END]

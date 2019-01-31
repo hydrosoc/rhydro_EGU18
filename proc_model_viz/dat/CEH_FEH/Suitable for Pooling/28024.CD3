@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 28024
+[END]
+[CDS DETAILS]
+NAME,Wreake
+LOCATION,Syston Mill
+NOMINAL AREA,  417.01
+NOMINAL NGR,4615,3124
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,461500,312450
+CENTROID NGR,GB,476502,316705
+DTM AREA,  417.01
+ALTBAR, 117
+ASPBAR,240
+ASPVAR,0.03
+BFIHOST,0.403
+DPLBAR, 28.10
+DPSBAR, 40.6
+FARL,0.953
+FPEXT,0.0885
+LDP, 55.23
+PROPWET,0.28
+RMED-1H, 11.1
+RMED-1D, 30.7
+RMED-2D, 40.5
+SAAR, 634
+SAAR4170, 648
+SPRHOST,41.93
+URBCONC1990, 0.687
+URBEXT1990,0.0151
+URBLOC1990, 0.667
+URBCONC2000, 0.805
+URBEXT2000,0.0225
+URBLOC2000, 0.742
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Side looking acoustic Doppler replaced EM gauge in 2012 which itself replaced an earlier crump profile weir installed in 1967. GENERAL: Originally installed in 1967 the station was called Syston Mill and was a Crump profile weir 4.6m wide, with low modular limit. Crump weir was removed and replaced in 1982 with electromagnetic gauge. Electromagnetic gauge failed in 2012 and was replaced with side-looking acoustic Doppler flow measurement. Doppler good at Medium and High Flows, however poor at Low flows due to very low channel velocities in deep section. STATION HYDROMETRY: All flows contained. Site difficult to gauge; very low velocities at low flows and station bypassed at high flows. May overestimate flows. Four peak flow ratings are applied across period of record. FLOW RECORD: The April 1998 period-of-record maximum flow is estimated at 98.1 cumecs by the EA. Levels indicate the the flow on 09/03/1975 may have been higher, but the magnitude cannot be verified due to complications with the rating history. NRFA record starts 11/7/1967 but early record poor & peaks truncated. POT data starts 1/10/1969 (first event 21/12/1969). FLOW REGIME: Fast response to rainfall and significant augmentation from WRW.
+CATCHMENT,Moderate relief catchment, draining west from the Oolitic Limestone scarp. Predominantly Boulder Clay overlying Liassic clays. Rural catchment, mixed farming, containing Melton Mowbray.
+Qmed Suitability,QMED in bank and confident in rating.
+Pooling Suitability,Post weir flows contained and there is confidence in rating performing well.
+[END]

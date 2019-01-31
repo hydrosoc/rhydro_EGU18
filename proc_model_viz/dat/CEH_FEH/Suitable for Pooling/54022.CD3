@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 54022
+[END]
+[CDS DETAILS]
+NAME,Severn
+LOCATION,Plynlimon flume
+NOMINAL AREA,    8.75
+NOMINAL NGR,2853,2872
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,285300,287200
+CENTROID NGR,GB,283261,288067
+DTM AREA,    8.75
+ALTBAR, 501
+ASPBAR,116
+ASPVAR,0.43
+BFIHOST,0.323
+DPLBAR,  2.94
+DPSBAR,180.3
+FARL,1.000
+FPEXT,0.0098
+LDP,  5.78
+PROPWET,0.66
+RMED-1H, 13.2
+RMED-1D, 72.9
+RMED-2D, 97.8
+SAAR,2481
+SAAR4170,2254
+SPRHOST,52.68
+URBCONC1990,-9999.000
+URBEXT1990,0.0000
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0000
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Trapezoidal flume with side contractions. CEH experimental catchment. Responsive natural flow regime. GENERAL: Trapezoidal flume with side contractions since 1968, capacity 43 cumecs. CEH experimental catchment; 15 min. runoff totals available, also rainfall, evaporation and soil data from a dense monitoring network. STATION HYDROMETRY: Flat recessions and flow jumps related to silting/flushing of the flume/inlert pipe. U/s silt trap (installed 1971) improved station performance but sensitivity a limiting factor at lowest flows. Multiple peak flow ratings applied across period of record, the most recent is valid from February 1971. FLOW RECORD: A compound sharp-edged weir, capacity 10 cumecs, with flanking broad crests provided poor quality data from 1953-58 (some notable minima, e.g. summer 1955). Record gaps not recoverable. Aug 1976 flows considered the lowest on record. Aug 1977 peak due to very intense local storm (90mm in 2 hrs); little impact in neighbouring catchment (55/8). FLOW REGIME: Responsive natural flow regime.
+CATCHMENT,High relief, very wet catchment developed on Palaeozoic shales, grits and mudstones. Forest slopes very steep, peat moorland hilltops. Around 2/3 of catchment afforested up to 1985 when some clear felling took place.
+Qmed Suitability,Although no gauging information, weir equations expected to perform well. Suitable post 1971.
+Pooling Suitability,Although no gauging information, weir equations expected to perform well. Suitable post 1971.
+[END]

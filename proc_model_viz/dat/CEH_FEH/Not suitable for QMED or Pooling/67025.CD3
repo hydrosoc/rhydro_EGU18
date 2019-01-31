@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 67025
+[END]
+[CDS DETAILS]
+NAME,Clywedog
+LOCATION,Bowling Bank
+NOMINAL AREA,  103.61
+NOMINAL NGR,3395,3482
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,339600,348250
+CENTROID NGR,GB,331066,349219
+DTM AREA,  103.61
+ALTBAR, 164
+ASPBAR, 95
+ASPVAR,0.45
+BFIHOST,0.530
+DPLBAR, 14.33
+DPSBAR, 62.0
+FARL,0.989
+FPEXT,0.0659
+LDP, 27.47
+PROPWET,0.51
+RMED-1H,  9.9
+RMED-1D, 33.8
+RMED-2D, 42.3
+SAAR, 851
+SAAR4170, 860
+SPRHOST,35.32
+URBCONC1990, 0.742
+URBEXT1990,0.0681
+URBLOC1990, 0.877
+URBCONC2000, 0.851
+URBEXT2000,0.0983
+URBLOC2000, 0.872
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Simple Crump profile weir. Runoff influenced by groundwater abstraction/recharge. GENERAL: Simple Crump profile weir, 6m wide. STATION HYDROMETRY: The channel frequently blocks with debris from fallen trees/branches (the river banks are covered with thick vegetation and tree growth). Weir drowns at 8 cumecs. A road bridge 150 m d/s of gauging station can act as a constriction, particularly during high flows. Mine drainage and abstraction in upper catchment. Multiple peak flow ratings applied across period of record, the most recent is valid from January 1997. Ratings diverge from one another above 0.6m. Until 7/10/92, 50% of low flow was treated effluent from Wrexham; after this date the discharge was piped directly to the R. Dee. Some works carried out in 2002/3 to attempt to contain the peak flows. The June 2007 event was almost fully contained. Before 2002/3 works, thought to bypass from approx the ten-year event. FLOW RECORD: Jun-Aug 2013 levels/flows affected by commissioning of new water treatment works in catchment. FLOW REGIME: Runoff influenced by groundwater abstraction/recharge.
+CATCHMENT,Mainly Carboniferous strata, mostly of moderate permeability, with superficial deposits, Boulder Clay, sands and gravels. Mixed farming (pasture predominates), substantially urbanised. Much mining in the catchment.
+Qmed Suitability,Gauged above QMED. However, confidence in rating is low above 8 m3s-1
+Pooling Suitability,Gauged to within 25% of AMAX3. However, low confidence in ratings.
+[END]

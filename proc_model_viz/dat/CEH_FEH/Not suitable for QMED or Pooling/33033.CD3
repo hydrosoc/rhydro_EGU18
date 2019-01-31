@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 33033
+[END]
+[CDS DETAILS]
+NAME,Hiz
+LOCATION,Arlesey
+NOMINAL AREA,  112.96
+NOMINAL NGR,5190,2378
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,519000,237900
+CENTROID NGR,GB,518748,229574
+DTM AREA,  112.96
+ALTBAR,  87
+ASPBAR, 20
+ASPVAR,0.17
+BFIHOST,0.771
+DPLBAR, 13.34
+DPSBAR, 35.6
+FARL,0.990
+FPEXT,0.0948
+LDP, 25.64
+PROPWET,0.30
+RMED-1H, 10.5
+RMED-1D, 29.6
+RMED-2D, 36.1
+SAAR, 602
+SAAR4170, 618
+SPRHOST,20.35
+URBCONC1990, 0.689
+URBEXT1990,0.0578
+URBLOC1990, 0.889
+URBCONC2000, 0.847
+URBEXT2000,0.0697
+URBLOC2000, 0.903
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Crump profile gauging a predominantly Chalk catchment with arable farming and urban development, flows affected by weir drowning and artificial influences in the catchment. GENERAL: Crump profile weir, 7m broad. STATION HYDROMETRY: Highest recorded flow was contained by weir banks. Subject to drowning at peak flows. Out of bank rare and floodplain limb not verified. Few gaugings to confirm rating which is uncertain. One rating applied across period of record. FLOW RECORD: Flows on August 2010 affected by drowning. FLOW REGIME: Significant gw abstractions for PWS. Industrial/agricultural abstractions also occur. Augmentation by effluent affects diurnal flow pattern.
+CATCHMENT,Predominantly Chalk catchment, with significant superficial deposits (Boulder Clay, sands and gravels). Predominantly arable farming but with significant urban development (Hitchin).
+Qmed Suitability,Station subject to drowning. Highest gauging suggests rating overestimates flow.
+Pooling Suitability,Few high flow gaugings. Rating can not be validated beyond QMED.
+[END]

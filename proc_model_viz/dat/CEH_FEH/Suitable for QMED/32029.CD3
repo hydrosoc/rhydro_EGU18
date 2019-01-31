@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 32029
+[END]
+[CDS DETAILS]
+NAME,Flore
+LOCATION,Experimental Catchment
+NOMINAL AREA,    8.31
+NOMINAL NGR,4656,2604
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,465600,260450
+CENTROID NGR,GB,465815,261861
+DTM AREA,    8.31
+ALTBAR, 105
+ASPBAR,183
+ASPVAR,0.29
+BFIHOST,0.430
+DPLBAR,  2.46
+DPSBAR, 38.9
+FARL,1.000
+FPEXT,0.0858
+LDP,  4.18
+PROPWET,0.30
+RMED-1H, 12.1
+RMED-1D, 32.0
+RMED-2D, 41.7
+SAAR, 624
+SAAR4170, 646
+SPRHOST,42.69
+URBCONC1990,-9999.000
+URBEXT1990,0.0009
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0017
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Trapezoidal critical depth flume gauging only low flows of a responsive catchment but producing a patchy record. GENERAL: Trapezoidal critical depth flume. Low flows only. Built upstream of the culvert beneath the M1 motorway. STATION HYDROMETRY: Rated to 1.92m (8.49 cumecs). Rating based on theoretical equations for flume. No check gauging carried out at this site. FLOW RECORD: Patchy record. FLOW REGIME: Responsive regime.
+CATCHMENT,Entirely rural and consists mainly of Jurassic and drift clay. There are small pockets of limestone and gravel sand.
+Qmed Suitability,Flume believe to provide reliable data across most of range.
+Pooling Suitability,No gaugings available to confirm rating although site is reportedly well calibrated. Short record means station record holds little value for pooling.
+[END]

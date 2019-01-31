@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 34004
+[END]
+[CDS DETAILS]
+NAME,Wensum
+LOCATION,Costessey Mill
+NOMINAL AREA,  559.70
+NOMINAL NGR,6176,3127
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,617650,312750
+CENTROID NGR,GB,597805,322667
+DTM AREA,  559.70
+ALTBAR,  50
+ASPBAR, 80
+ASPVAR,0.11
+BFIHOST,0.690
+DPLBAR, 44.15
+DPSBAR, 20.5
+FARL,0.930
+FPEXT,0.1299
+LDP, 79.06
+PROPWET,0.30
+RMED-1H, 11.2
+RMED-1D, 29.8
+RMED-2D, 37.9
+SAAR, 672
+SAAR4170, 670
+SPRHOST,26.16
+URBCONC1990, 0.589
+URBEXT1990,0.0177
+URBLOC1990, 0.964
+URBCONC2000, 0.750
+URBEXT2000,0.0134
+URBLOC2000, 0.907
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Complex structure with crump weirs and gates gauging a rural, predominantly Chalk catchment overlain by deposits, with moderate artificial influences. GENERAL: Complex structure comprising 30m Crump weir in main channel (crescent shape in plan view, but standard Crump profile slopes); the parallel mill channel has tilting gate and 1.5m wide Crump weir. Also artificial regulation by sluice action at Taversham. STATION HYDROMETRY: The tilting gate is moved between three positions to maintain stable water level upstream and to maintain level through the mill race, and was fully automated in 1998. At 20-25 cumecs, which does not occur frequently, bypassed further upstream on the left bank. Multiple ratings apply across period of record depending on gate settings. FLOW RECORD: Very low flows in July 2006 believed to be due to over-abstraction. FLOW REGIME: Moderate surface and gw abstractions, influential in low flow years. Runoff influenced by groundwater abstraction/recharge and surface water abstraction for Norwich. Mill sluices artificially regulate water levels, but have little influence on flood flows.
+CATCHMENT,Predominantly Chalk catchment almost entirely overlain with superficial deposits, mainly Boulder Clay but with sands and gravels in valley bottoms. Rural, predominantly arable farming. No major changes during the period of record.
+Qmed Suitability,No gauging available and little confidence in flow estimates until review can be completed.
+Pooling Suitability,No gauging available and little confidence in flow estimates until review can be completed.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 23015
+[END]
+[CDS DETAILS]
+NAME,North Tyne
+LOCATION,Barrasford
+NOMINAL AREA, 1049.63
+NOMINAL NGR,3924,5721
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,392450,572100
+CENTROID NGR,GB,377645,588998
+DTM AREA, 1049.63
+ALTBAR, 275
+ASPBAR,129
+ASPVAR,0.14
+BFIHOST,0.311
+DPLBAR, 39.76
+DPSBAR, 90.9
+FARL,0.989
+FPEXT,0.0489
+LDP, 69.16
+PROPWET,0.50
+RMED-1H,  9.8
+RMED-1D, 34.6
+RMED-2D, 46.1
+SAAR,1013
+SAAR4170,1080
+SPRHOST,50.44
+URBCONC1990,-9999.000
+URBEXT1990,0.0005
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0006
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station. Catcleugh, Colt Crag and Little Swinburne reservoirs influence flow regime. Station closed 1959. GENERAL: Velocity area station for flows above 6.8 cumecs. The station was originally intended for assessment of flows at the Barrasford abstraction and not for flood flows. Station closed in 1959, POT data extracted until 1971 (before Kielder reservoir impounded in 1982). STATION HYDROMETRY: No bypassing. Flows between 3.2 and 6.8 cumecs were measured by a flume 820m u/s at Barrasford Pumping Station. Flows below 3.2 cumecs were read daily from the gauge board. Flood Studies Report grade B after rating improved by correlation with Reaverhill. FLOW RECORD: Peak flow ratings derived from current meter gauging. Originally extrapolated at high stages; later re-worked by correlation with Reaverhill (23003) to give rating for high stages. FLOW REGIME: In many winters flow was affected by freezing in the catchment, resulting in very low flows and considerable lag between precipitation and run-off. Catchment includes, Catcleugh (in headwaters), Colt Crag and Little Swinburne (both in south-east of catchment) reservoirs. Abstractions for Newcastle-upon-Tyne water supply do not pass the gauging station.
+CATCHMENT,A very responsive upland catchment developed mainly on formations of Carboniferous series (Fell Sandstone, Scremerston Group and Lower Limestone) and is of moderate permeability. Land use is rugged moorland and upland pasture, with a very high proportion of forestry (over a third) for a catchment of this size. Pre-reservoir FARL is 0.989, post-reservoir FARL is 0.934. No known catchment changes.
+Qmed Suitability,Rated by overlap with Reaverhill
+Pooling Suitability,Rated by overlap with Reaverhill
+[END]

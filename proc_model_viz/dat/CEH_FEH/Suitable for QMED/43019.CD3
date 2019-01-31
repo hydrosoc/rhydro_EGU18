@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 43019
+[END]
+[CDS DETAILS]
+NAME,Shreen Water
+LOCATION,Colesbrook
+NOMINAL AREA,   30.40
+NOMINAL NGR,3808,1277
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,380800,127800
+CENTROID NGR,GB,380593,131878
+DTM AREA,   30.40
+ALTBAR, 125
+ASPBAR,157
+ASPVAR,0.42
+BFIHOST,0.565
+DPLBAR,  5.81
+DPSBAR, 51.7
+FARL,0.993
+FPEXT,0.0630
+LDP, 11.58
+PROPWET,0.35
+RMED-1H, 10.7
+RMED-1D, 33.9
+RMED-2D, 44.2
+SAAR, 883
+SAAR4170, 915
+SPRHOST,32.26
+URBCONC1990, 0.506
+URBEXT1990,0.0110
+URBLOC1990, 0.998
+URBCONC2000, 0.744
+URBEXT2000,0.0155
+URBLOC2000, 0.969
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Crump profile weir. GENERAL: Crump profile weir, crest 3m wide. STATION HYDROMETRY: Theoretically rated. Structure drowns before bankfull stage (10cumecs), flow goes out-of-bank, and there is significant bypassing. Gauging is difficult and gaugings > 5m3s-1 show substantial scatter; high flows unreliable - may be significantly over-estimated. One peak flow rating applied across period of record. Rating extrapolated beyond 0.63m / 3.59m3/s FLOW REGIME: Significant ground water pumping in catchment. Some augmentation from effluent returns.
+CATCHMENT,Predominantly Kimmeridge Clay (70%), some Chalk (15%) and Upper Greensand and Gault (15%) in the north of the catchment. Flat pasture land on both sides of river. Runoff calculations suggest hydrological & topographical catchments do not coincide. Runoff figures (may be over-estimated) suggest topographical and hydrological catchment areas do not coincide. Substantial baseflow component but flashy response to storm events. Land use is predominantly agricultural.
+Qmed Suitability,Not gauged to within 30% of QMED. Use as a donor for QMED only with caution.
+Pooling Suitability,Few high flow gaugings. Rating can not be validated beyond QMED.
+[END]

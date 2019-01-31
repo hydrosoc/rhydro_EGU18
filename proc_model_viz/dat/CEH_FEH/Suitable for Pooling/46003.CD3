@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 46003
+[END]
+[CDS DETAILS]
+NAME,Dart
+LOCATION,Austins Bridge
+NOMINAL AREA,  249.99
+NOMINAL NGR,2751, 658
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,275150,65850
+CENTROID NGR,GB,267333, 74033
+DTM AREA,  249.99
+ALTBAR, 327
+ASPBAR,131
+ASPVAR,0.15
+BFIHOST,0.523
+DPLBAR, 20.23
+DPSBAR,121.1
+FARL,0.995
+FPEXT,0.0360
+LDP, 38.83
+PROPWET,0.47
+RMED-1H, 13.8
+RMED-1D, 63.1
+RMED-2D, 83.1
+SAAR,1771
+SAAR4170,1703
+SPRHOST,32.88
+URBCONC1990,-9999.000
+URBEXT1990,0.0036
+URBLOC1990,-9999.000
+URBCONC2000, 0.683
+URBEXT2000,0.0067
+URBLOC2000, 0.367
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station with cableway. GENERAL: Velocity area station with cableway, main channel approx. 30m wide. STATION HYDROMETRY: Rock step forms downstream control. The river has a very permanent rocky bed. Channel contains the mean annual flood. Minor bypassing occurs on right bank above 4.2m. Well rated. One rating applied across period of record. Rating reviewed after 1979 record flood overtopped 4.2m walls on right bank causing bypassing. FLOW RECORD: Records available from 10/1958 but unreliable prior to 01/05/1960. Short period of naturalised flows available. FLOW REGIME: Regulation of surface water and groundwater. Venford Reservoir operation affects low flows, exporting via the Devonport leat. Abstractions.
+CATCHMENT,Responsive catchment with upper two thirds draining moorland associated with Dartmoor Granite; lower third is of Carboniferous shales and sandstones. Steep relief in headwaters and at Granite boundary. Land use is low-grade agriculture and woodland. No major catchment changes.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged to within 23% of AMAX3. Good fit to available gaugings, small amount of bypassing.
+[END]

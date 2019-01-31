@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 27003
+[END]
+[CDS DETAILS]
+NAME,Aire
+LOCATION,Beal Weir
+NOMINAL AREA, 1935.97
+NOMINAL NGR,4530,4254
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,453000,425500
+CENTROID NGR,GB,412909,430990
+DTM AREA, 1935.97
+ALTBAR, 190
+ASPBAR, 99
+ASPVAR,0.14
+BFIHOST,0.476
+DPLBAR, 71.44
+DPSBAR, 92.1
+FARL,0.939
+FPEXT,0.0717
+LDP,120.39
+PROPWET,0.38
+RMED-1H, 10.7
+RMED-1D, 37.9
+RMED-2D, 50.6
+SAAR, 981
+SAAR4170, 976
+SPRHOST,33.23
+URBCONC1990, 0.771
+URBEXT1990,0.1032
+URBLOC1990, 0.745
+URBCONC2000, 0.853
+URBEXT2000,0.1313
+URBLOC2000, 0.768
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Broad-crested masonry weir. The heavily reservoired catchment drains a large part of the East Pennines. GENERAL: Broad-crested masonry weir (33.5m wide) with an additional 9.1m of sluices on the right bank, acts as the control at this site. A long established station, 7 km upstream of the tidal limit of the Aire (Haddlesey Weir). Original cableway 4.5km u/s (led to limited low flow accuracy); improved performance using new site (1km u/s of weir) from June 1993 (combined record). STATION HYDROMETRY: Bypassing over the left bank began at 3.2m and was reported on a roughly annual basis. At around QMED, flows inundate extensive N bank washlands. By-passing via the Aire and Calder navigation at Ferrybridge (measured at Whitley Lock); thus sum of upstream tributary flow volume at Lemonroyd (27080) and Methley (27079) is 5-12% greater than flow at Beal. Gauged calibration of daily flows. Three peak flow ratings applied across period of record developed by current meter gauging and revised in 2016. Numerous problems resulting in Flood Studies Report grade Z in 1975, now graded A1, although the site still suffers regular overtopping into washlands on its left bank. FLOW RECORD: Neither the recorder nor cableway was able to measure the full range of flows until after the 1940s. Early peaks flattened by limited pen-range and original theoretical formula was not held to be accurate due to use of timber 'deals' and drowning of the weir at around 1m head. Q95 has decreased significantly in the recent past, which is thought to be due to increasing abstractions for canal. FLOW REGIME: Heavily reservoired including the following groups - Aire (controlling 4.6% of total area), Calder (4.6%), Colne (2.1%). A complex water utilisation plan exists with net imports from the rivers Nidd, Wharfe, Ure and Derwent returned to the Aire upstream of the gauge. Large abstraction made to the Goole and Knottingley Canal upstream of the station. Heavily industrialised with abstractions made to Ferrybridge power station. Complex water utilisation; net import from other rivers.
+CATCHMENT,Catchment drains a large tract of the East side of the Pennines, including the catchments of the rivers Colne, Calder and Aire. The geology is mixed with Carboniferous Limestone in the upper Aire, Millstone Grit and Coal Measures in the Calder and mid-Aire, Magnesian Limestone, Marl and Triassic Sandstone in the lower catchment. Some superficial deposits. Mixed land use, with extensive around a fifth of the catchment is urbanised areas. The headwaters are predominantly rural moorland and are used for rough grazing. Areas of heavy urbanisation and significant industry in the mid catchment which includes the Leeds-Bradford conurbation. Agriculture, including significant arable, continues in the lower reaches. 11.6% of the total catchment drains through around 50 reservoirs, the larger of which include Butterley (Colne), Ryburn, Boothwood (Calder), Winterburn, Ponden and Hewenden (Aire). Considerable increases in urban development and industry during the period of record. Ongoing decline of the coal mining industry around Knottingley and Pontefract.
+Qmed Suitability,Although gauged above QMED, flows appear to have upper measureable limit of 294m3/s with overtopping of extensive floodbanks. Site is influenced heavily by artificial abstractions and reservoir storage and not a true reflection of the catchment.
+Pooling Suitability,Although gauged above QMED, flows appear to have upper measureable limit of 294m3/s with overtopping of extensive floodbanks. Site is influenced heavily by artificial abstractions and reservoir storage and not a true reflection of the catchment.
+[END]

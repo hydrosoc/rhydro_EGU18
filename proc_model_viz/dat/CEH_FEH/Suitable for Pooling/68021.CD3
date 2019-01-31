@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 68021
+[END]
+[CDS DETAILS]
+NAME,Arrowe Brook
+LOCATION,Acton Lane
+NOMINAL AREA,   17.88
+NOMINAL NGR,3253,3893
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,325500,389400
+CENTROID NGR,GB,325359,386218
+DTM AREA,   17.88
+ALTBAR,  43
+ASPBAR,355
+ASPVAR,0.50
+BFIHOST,0.513
+DPLBAR,  4.56
+DPSBAR, 24.7
+FARL,0.996
+FPEXT,0.1388
+LDP,  9.24
+PROPWET,0.38
+RMED-1H, 10.3
+RMED-1D, 30.0
+RMED-2D, 38.7
+SAAR, 750
+SAAR4170, 759
+SPRHOST,33.37
+URBCONC1990, 0.835
+URBEXT1990,0.1687
+URBLOC1990, 0.865
+URBCONC2000, 0.891
+URBEXT2000,0.1744
+URBLOC2000, 0.882
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Non-standard compound flume draining an urban catchment west of Birkhenad. GENERAL: Station opened in 2005 on pre-existing non-standard compound flume in rectangular concrete channel, with long backslope giving a drop downstream. STATION HYDROMETRY: The very highest flows have been observed to spill out of bank upstream and to have approached the soffit of the bridge immediately upstream. The effect on the peak flow will have been slight. Peak-flow rating based on low flow current meter gaugings within flume and high flow gaugings using ADCP from the bridge at the station. Rating extended beyond highest gauging (at 1.32m) using hydraulic model. FLOW RECORD: Some discontinuities in the stage record.
+CATCHMENT,Very flat and urbanised catchment. Geology mostly of blown sand deposits with Boulder Clay over Sherwood Sandstone. No catchment changes known.
+Qmed Suitability,Gauged above QMED
+Pooling Suitability,Gauged to high level. Modelled rating fits gaugings
+[END]

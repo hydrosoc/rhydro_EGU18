@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 55029
+[END]
+[CDS DETAILS]
+NAME,Monnow
+LOCATION,Grosmont
+NOMINAL AREA,  355.01
+NOMINAL NGR,3416,2248
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,341600,224850
+CENTROID NGR,GB,334941,231599
+DTM AREA,  355.01
+ALTBAR, 228
+ASPBAR,103
+ASPVAR,0.14
+BFIHOST,0.583
+DPLBAR, 20.04
+DPSBAR,129.9
+FARL,0.997
+FPEXT,0.0723
+LDP, 40.49
+PROPWET,0.41
+RMED-1H, 10.1
+RMED-1D, 39.8
+RMED-2D, 51.3
+SAAR, 956
+SAAR4170, 999
+SPRHOST,35.28
+URBCONC1990,-9999.000
+URBEXT1990,0.0034
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0030
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station with an informal Flat V weir. Natural flow regime. GENERAL: Velocity area station with an informal Flat V weir enhancing the natural rock step control 200m d/s. Approx. 30m wide at bankfull. STATION HYDROMETRY: Cableway spans 42m. Wide floodplain (>150m) inundated at high flows. Banks re-inforced with block stone on both sides. Four peak flow ratings applied across period of record. Out of bank flows not confirmed with check gaugings. FLOW RECORD: Flows prior to Apr 1972 derived from 55009 Kentchurch (450m downstream). Missing flows in early 1963 likely to have been amongst the lowest winter flows on record. In August 2012, flows reprocessed from 01/01/1987 reflecting rating changes particularly affecting low flows. Lowest flows on record in 2003 corroborated by gaugings on 26th Aug and 13th Oct. Flows from 25 Mar 2009 from 55047 Grosmont Rhosllwyn, a replacement station 200m d/s of old station. Full period of record peak flow data reviewed and released in April 2017 (WINFAP Files v5). FLOW REGIME: Natural to within 10% at Q95.
+CATCHMENT,Impermeable catchment. Five parallel tributaries drain SE down the deeply dissected Old Red Sandstone plateau of the Black Mountains, the northern-most exposing the Old Red Sandstone marls. Moorland headwaters, mixed farming (with extensive arable) in lower reaches to east.
+Qmed Suitability,Gauged above QMED. Ratings providing reasonable fit to gaugings.
+Pooling Suitability,Gauged beyond AMAX3
+[END]

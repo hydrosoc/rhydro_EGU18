@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 42017
+[END]
+[CDS DETAILS]
+NAME,Hermitage Stream
+LOCATION,Havant
+NOMINAL AREA,   17.33
+NOMINAL NGR,4710,1067
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,471050,106800
+CENTROID NGR,GB,470407,109547
+DTM AREA,   17.33
+ALTBAR,  38
+ASPBAR,166
+ASPVAR,0.36
+BFIHOST,0.245
+DPLBAR,  4.04
+DPSBAR, 32.7
+FARL,0.991
+FPEXT,0.0749
+LDP,  8.03
+PROPWET,0.34
+RMED-1H,  9.1
+RMED-1D, 35.8
+RMED-2D, 45.1
+SAAR, 785
+SAAR4170, 832
+SPRHOST,46.00
+URBCONC1990, 0.731
+URBEXT1990,0.1675
+URBLOC1990, 0.882
+URBCONC2000, 0.897
+URBEXT2000,0.2376
+URBLOC2000, 0.952
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station in a concrete trapezoidal section within a formalised reach. Station gauges a mainly impervious catchment, typical hydrograph very flashy. Post-2003 complex water utilisation affects flows. GENERAL: Velocity area station, 5.36m wide in a concrete trapezoidal section. Formalised reach with grass berms beneath a bridge; concrete block wall higher on outside of bend on right bank. STATION HYDROMETRY: Structure designed to measure up to 14 cumecs; all but exceptional flows contained and structure only exceeded a few times since installation. Bridge downstream may cause some backing up. Trolleys often thrown into stream here. Very sensitive at low flows, to extent where anomalous flow patterns occur (e.g. 2008); despite low flow anomalies, weed growth is not an issue at this station (very poor site ecologically). In 1951 a step was inserted into the flume throat to ensure modularity over the whole flow range, as the channel downstream was unlined. This was removed in 1956 and the structure became non-modular for low flows. One rating applied across period of record. Rating theoretically based but numerous current meter gaugings for this site. FLOW RECORD: Chart stage record extends back to 1953 providing peak flows pre-1979. June-August 2000 flows considered suspect. Station was possibly abandoned for a short duration around 1974. In winter of 1961, there existed a long period of high baseflow where the contribution from the Lavant catchment may have been greater. FLOW REGIME: Typical hydrograph very flashy; responsive regime. Natural to within 10% at Q95. Post-2003, some augmentation of high flows by runoff from the adjacent catchment of the Lavant Stream. Flow is diverted via a pipe into the Hermitage Stream, whenever the flow in the Lavant exceeds 0.28 cumecs. These inter-basin transfers also affect medium/low flows (e.g. 2006). Storage effect introduced to allow separation runoff from nearby Warren housing estate. Developers arranged 6 hour storage of natural stream runoff before its release into the Hermitage Stream (by which time the hydrograph is on the recession limb). Estate surface water drains allow unfettered discharge.
+CATCHMENT,A mainly impervious catchment, principally Reading Beds and London Clay. Intensive suburban development since the early 1960s, lower catchment now heavily urbanised.
+Qmed Suitability,Gauged above QMED. Some scatter in gaugings evident.
+Pooling Suitability,Few high flow gaugings. Rating can not be validated beyond QMED.
+[END]

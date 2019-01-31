@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 23004
+[END]
+[CDS DETAILS]
+NAME,South Tyne
+LOCATION,Haydon Bridge
+NOMINAL AREA,  749.90
+NOMINAL NGR,3856,5646
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,385650,564700
+CENTROID NGR,GB,373642,554530
+DTM AREA,  749.90
+ALTBAR, 350
+ASPBAR, 23
+ASPVAR,0.14
+BFIHOST,0.298
+DPLBAR, 32.20
+DPSBAR,107.1
+FARL,0.989
+FPEXT,0.0440
+LDP, 60.11
+PROPWET,0.60
+RMED-1H, 10.3
+RMED-1D, 38.3
+RMED-2D, 52.4
+SAAR,1147
+SAAR4170,1235
+SPRHOST,49.22
+URBCONC1990,-9999.000
+URBEXT1990,0.0013
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0023
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station with informal flat V weir draining the Northern Pennines. GENERAL: Velocity area station, with informal flat V weir as low flow control installed in 1972 - earlier low flows of limited accuracy. Section has coarse gravel, shingle and small boulder bed. Has cableway. Instrument hut washed away 2001 due to blockage of adjacent beck; rebuilt on same site in 2002. STATION HYDROMETRY: Some overtopping onto left bank at high flows, but no bypassing. Current meter gaugings to QMED. Two peak flow ratings applied to period of record, the most recent is valid from January 2002 when the weir was rebuilt - affected low flows only. Flood Studies Report graded A1. FLOW RECORD: Low flows prior to low flow control installation in 1972 of limited accuracy. FLOW REGIME: Responsive natural regime. No known artificial influences.
+CATCHMENT,Upland catchment draining Northern Pennines. Geology: predominantly Carboniferous (limestones and Millstone Grit) with around two thirds of the catchment overlain by superficial deposits (upland peat and Boulder Clay). Predominantly grassland and some upland heath. No known catchment changes.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged to within 29% of AMAX3. No significant floodplain flow or bypassing.
+[END]

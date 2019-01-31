@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 76001
+[END]
+[CDS DETAILS]
+NAME,Haweswater Beck
+LOCATION,Burnbanks
+NOMINAL AREA,   32.34
+NOMINAL NGR,3507,5159
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,350750,515950
+CENTROID NGR,GB,347035,513023
+DTM AREA,   32.34
+ALTBAR, 463
+ASPBAR, 68
+ASPVAR,0.22
+BFIHOST,0.345
+DPLBAR,  6.10
+DPSBAR,293.6
+FARL,0.645
+FPEXT,0.0153
+LDP, 10.49
+PROPWET,0.71
+RMED-1H, 13.2
+RMED-1D, 70.2
+RMED-2D, 97.1
+SAAR,2438
+SAAR4170,2400
+SPRHOST,54.31
+URBCONC1990,-9999.000
+URBEXT1990,0.0001
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0000
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Compound Crump weir gauging high relief, very wet catchment just downstream of Haweswater reservoir. GENERAL: Compound Crump weir from April 1978, side weirs 6.7m wide, with central weir 6m wide, 0.26m lower Replaced compound thin plate, 4 stage weir, 1961-1978 (21.3m wide overall with lowest crest 3m wide; paired flanking crests 0.6m higher each 4.56 m wide, 1m higher (each 2.28m wide) and 1.25m higher (each 2.28 m wide) than the lowest. Previously velocity-area station 1951-1961. STATION HYDROMETRY: Downstream recorder added August 2005, which suggests drowning reduces flows slightly above around 1m. Flow was measured just downstream at Thornthwaite weir in the past. Peak flow rating valid from April 1978 when compound Crump weir was installed. Flood Studies Report grade A1. FLOW RECORD: Peak flow data presented solely for the compound Crump weir from April 1978. Some monthly naturalised data available. FLOW REGIME: 500m downstream of Haweswater Reservoir which imports water from Lowther tributaries and Ullswater. In dry years reservoir absorbs all flood flows. Flow pattern reflects heavy abstraction and drawdown of Haweswater immediately upstream, often compensation releases only. Measures compensation and overspill only. Major exports to Shap aqueduct for public water supply.
+CATCHMENT,High relief, very wet catchment draining Ordovician Borrowdale Volcanics with igneous intrusions. Extensively peat covered in the west with Boulder Clay and sands and gravels in the main valley. Entirely moorland, heathland and rough pasture. No catchment changes known.
+Qmed Suitability,Gauged above QMED. Theoretical structure contains all but extreme flows
+Pooling Suitability,Gauged to within 16% of AMAX3. Theoretical structure contains all but extreme flows
+[END]

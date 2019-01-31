@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 28046
+[END]
+[CDS DETAILS]
+NAME,Dove
+LOCATION,Izaak Walton
+NOMINAL AREA,   85.69
+NOMINAL NGR,4147,3510
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,414700,351000
+CENTROID NGR,GB,411773,361407
+DTM AREA,   85.69
+ALTBAR, 317
+ASPBAR,185
+ASPVAR,0.09
+BFIHOST,0.651
+DPLBAR, 16.41
+DPSBAR,141.2
+FARL,1.000
+FPEXT,0.0265
+LDP, 31.88
+PROPWET,0.46
+RMED-1H, 10.2
+RMED-1D, 36.3
+RMED-2D, 47.4
+SAAR,1098
+SAAR4170,1151
+SPRHOST,15.67
+URBCONC1990,-9999.000
+URBEXT1990,0.0012
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0037
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Crump profile Flat V weir modular to bankfull draining catchment with natural flow regime. GENERAL: Crump profile flat vee weir, 7.59m wide, deep vertical sidewalls, modular to bankfull. At high flows may bypass on the left bank. Excellent station, narrower than the main channel and thus self cleaning. Fish baffles installed on weir in August 2016. STATION HYDROMETRY: Two similar ratings applied across period of record, the most recent is valid from January-1988. Gauged to greater than Qmed. At high flows may bypass on the left bank. Excellent station, narrower than the main channel and thus self cleaning. FLOW REGIME: Flashy response but natural catchment.
+CATCHMENT,Long narrow catchment. Upper reaches on Millstone Grit mudstone and sandstone. Western watershed is formed by a steep Carboniferous Limestone ridge. The Dove's passage across the Carb. l'st is characterised by deep gorges (Wolfscote Dale, Dove Dale). Largely moorland.
+Qmed Suitability,QMED estimates thought to be reasonable.
+Pooling Suitability,All recorded flows are in bank and modular to bankfull level. However, gaugings suggest rating underestimates flows.
+[END]

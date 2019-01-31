@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 58008
+[END]
+[CDS DETAILS]
+NAME,Dulais
+LOCATION,Cilfrew
+NOMINAL AREA,   43.45
+NOMINAL NGR,2778,2007
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,277850,200750
+CENTROID NGR,GB,280475,206431
+DTM AREA,   43.45
+ALTBAR, 228
+ASPBAR,257
+ASPVAR,0.20
+BFIHOST,0.377
+DPLBAR,  8.52
+DPSBAR,142.4
+FARL,0.999
+FPEXT,0.0328
+LDP, 16.02
+PROPWET,0.62
+RMED-1H, 11.5
+RMED-1D, 51.8
+RMED-2D, 73.6
+SAAR,1806
+SAAR4170,1756
+SPRHOST,45.33
+URBCONC1990, 0.605
+URBEXT1990,0.0095
+URBLOC1990, 1.283
+URBCONC2000, 0.707
+URBEXT2000,0.0181
+URBLOC2000, 1.145
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Compound Crump weir and Flat V weir from Aug 1991. Sewage discharges affect runoff. GENERAL: Compound Crump weir and Flat V weir from Aug 1991. STATION HYDROMETRY: Located d/s of single arch railway bridge of limited discharge capacity. Modular throughout range as sited on top of natural rock fall. Steep valley, flows fairly well contained. HEP off-take constructed d/s of weir creating an informal stilling basin. Flashy response means it is difficult to obtain high flow gaugings. One peak flow rating applied across period of record. Validated by check gaugings up to 1.3m Formerly Flat V weir (1:10 cross slope; 1:2 u/s; 1:5 d/s; 14m wide) flanked by horizontal side section - no divide piers; velocity-area calibration for high flows. FLOW RECORD: Full period of record peak flow data reviewed and released in April 2017 (WINFAP Files v5). FLOW REGIME: Sewage discharges affect runoff.
+CATCHMENT,Coal Measures with some Boulder Clay Cover. Mainly peaty soils, seasonally wet. Lower part of catchment joins steep sided Neath Valley. Upland area with livestock farming, some heathland and extensive forest cover. Some urban development in valley, and open cast coal mining.
+Qmed Suitability,Gauged to within 17% of QMED. Good fit to gaugings.
+Pooling Suitability,Rating cannot be confirmed above wing walls without check gaugings.
+[END]

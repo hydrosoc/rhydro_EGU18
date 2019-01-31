@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 21027
+[END]
+[CDS DETAILS]
+NAME,Blackadder Water
+LOCATION,Mouth Bridge
+NOMINAL AREA,  155.34
+NOMINAL NGR,3825,6530
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,382550,653000
+CENTROID NGR,GB,371056,650491
+DTM AREA,  155.34
+ALTBAR, 195
+ASPBAR,139
+ASPVAR,0.29
+BFIHOST,0.518
+DPLBAR, 20.16
+DPSBAR, 56.7
+FARL,0.997
+FPEXT,0.0699
+LDP, 37.22
+PROPWET,0.41
+RMED-1H,  8.6
+RMED-1D, 33.1
+RMED-2D, 45.7
+SAAR, 774
+SAAR4170, 805
+SPRHOST,36.77
+URBCONC1990,-9999.000
+URBEXT1990,0.0027
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0039
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station on the Blackadder Water. GENERAL: Velocity area station. Natural river section, about 13m wide, with rock control. STATION HYDROMETRY: Moderate seasonal weed growth effects rating. Peak flow ratings derived from current meter gaugings up to 2.4m (about 2 QMED), simple extrapolation beyond. FLOW REGIME: Natural flow regime
+CATCHMENT,Natural catchment. Mostly Old Red Sandstone and calciferous sandstone overlain by Boulder Clay. Grazing on hills, arable on lower land; some forest. No significant catchment changes known.
+Qmed Suitability,No comment
+Pooling Suitability,No comment
+[END]

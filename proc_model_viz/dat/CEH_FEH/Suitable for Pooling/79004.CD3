@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 79004
+[END]
+[CDS DETAILS]
+NAME,Scar Water
+LOCATION,Capenoch
+NOMINAL AREA,  142.68
+NOMINAL NGR,2845,5940
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,284500,594100
+CENTROID NGR,GB,276653,598777
+DTM AREA,  142.68
+ALTBAR, 319
+ASPBAR,106
+ASPVAR,0.16
+BFIHOST,0.446
+DPLBAR, 13.63
+DPSBAR,196.0
+FARL,0.999
+FPEXT,0.0319
+LDP, 27.23
+PROPWET,0.66
+RMED-1H, 11.6
+RMED-1D, 47.2
+RMED-2D, 64.8
+SAAR,1627
+SAAR4170,1730
+SPRHOST,41.97
+URBCONC1990,-9999.000
+URBEXT1990,0.0001
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0006
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station with a natural flow regime. GENERAL: Velocity area station with cableway, channel approximately 15m wide. Prior to 1981 an open channel station. Fairly straight gravel bedded reach. STATION HYDROMETRY: Well confined reach for all but extreme flows. Control of pre-cast concrete sections installed during winter of 1986/7 replacing earlier 1981 gabion control. Rating applied since 17/01/03 is based on gaugings between 0.1 and 35 cumecs; historical gaugings provide confidence in rating up to 130 cumecs. From current meter gaugings - highest gauging at 2.6m (0.9 QMED). Changes in the control are unlikely to have significantly affected the high flow performance. FLOW RECORD: 1984 Jul-Aug flows are under review. FLOW REGIME: Natural regime.
+CATCHMENT,Natural upland catchment. Silurian shales and mudstones with some overlain by superficial deposits, mainly Boulder Clay. Land use: predominantly pasture with some wood cover in the headwaters (conifer plantation with contour ploughing). Minimal floodplains.
+Qmed Suitability,No comment
+Pooling Suitability,No comment
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 57009
+[END]
+[CDS DETAILS]
+NAME,Ely
+LOCATION,St Fagans
+NOMINAL AREA,  146.45
+NOMINAL NGR,3121,1770
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,312100,177050
+CENTROID NGR,GB,305560,182027
+DTM AREA,  146.45
+ALTBAR, 104
+ASPBAR,145
+ASPVAR,0.10
+BFIHOST,0.577
+DPLBAR, 18.33
+DPSBAR, 81.9
+FARL,0.984
+FPEXT,0.0753
+LDP, 32.14
+PROPWET,0.47
+RMED-1H, 12.1
+RMED-1D, 47.1
+RMED-2D, 61.0
+SAAR,1350
+SAAR4170,1401
+SPRHOST,34.24
+URBCONC1990, 0.673
+URBEXT1990,0.0288
+URBLOC1990, 1.165
+URBCONC2000, 0.811
+URBEXT2000,0.0461
+URBLOC2000, 1.152
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Flat V weir, velocity area station for high flows. Flows affected by sewage works discharges and some industrial/agricultural abstractions. GENERAL: Flat V weir with concrete side walls, velocity area station for high flows. STATION HYDROMETRY: Weir width: 10.6m; cross-slope 1:20, 1:2 u/s, 1:5, d/s. Full range with flow gauged up to 96 cumecs. A proportion of flow (thought to be around 10%) bypasses the gauging station at higher levels, hence, above 55 cumecs, the rating is based on a hydraulic model in addition to gaugings, to account for the bypass flow. One peak flow rating applied across period of record. FLOW RECORD: Some early (poorer quality) data available (station 57805; 1957-60). Flows from 7/3/2010 to 10/5/2010 suspect due to temporary damming of river at site. FLOW REGIME: Flows affected by sewage works discharges u/s. Some industrial and agricultural abstractions.
+CATCHMENT,Mainly Coal Measures with some Millstone Grit in northern area; mixture of Trias, Lias, limestone and Old Red Sandstone to the S. Extensive superficial deposits, Boulder Clay in N and sands and gravels in S. Soils have permeable substrate. Mainly pasture, with patches of forest. Dairy farming in lowland area with some built-up areas.
+Qmed Suitability,Gauged above QMED. Rating fits well to available gaugings.
+Pooling Suitability,Gauged to within 2% of AMAX3. High confidence model derived rating and validated by check gaugings at 3.64m
+[END]

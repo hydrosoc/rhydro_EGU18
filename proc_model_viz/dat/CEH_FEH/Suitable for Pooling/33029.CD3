@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 33029
+[END]
+[CDS DETAILS]
+NAME,Stringside
+LOCATION,Whitebridge
+NOMINAL AREA,   95.41
+NOMINAL NGR,5716,3006
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,571600,300650
+CENTROID NGR,GB,573508,305842
+DTM AREA,   95.41
+ALTBAR,  25
+ASPBAR,205
+ASPVAR,0.18
+BFIHOST,0.864
+DPLBAR,  9.45
+DPSBAR, 13.5
+FARL,0.991
+FPEXT,0.2259
+LDP, 19.14
+PROPWET,0.23
+RMED-1H, 11.1
+RMED-1D, 28.4
+RMED-2D, 36.3
+SAAR, 628
+SAAR4170, 633
+SPRHOST,12.39
+URBCONC1990, 0.642
+URBEXT1990,0.0072
+URBLOC1990, 1.291
+URBCONC2000, 0.806
+URBEXT2000,0.0066
+URBLOC2000, 1.344
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Trapezoidal critical depth flume designed to operate in the non-modular range, gauging a small rural catchment on Chalk with some artificial influences. GENERAL: Trapezoidal critical depth flume, calibrated by model and designed to operate in the non-modular range. STATION HYDROMETRY: Rating includes correction for drowning and out of bank flows and should be reliable in periods when the channel has been maintained. One rating applied across period of record. FLOW REGIME: Baseflow-dominated regime but can be responsive. Two groundwater abstractions for PWS. Also abstractions for industry/agriculture.
+CATCHMENT,A Small rural catchment, mostly low-lying, developed mainly on Chalk with some Boulder Clay cover (mainly in W). Mixed land use, predominantly arable land, with significant woodland in E and no urban areas.
+Qmed Suitability,Gauged to within 1% of QMED. Gaugings fit well to rating.
+Pooling Suitability,Rating considers out of bank flow and drowned conditions and is thought to be reliable
+[END]

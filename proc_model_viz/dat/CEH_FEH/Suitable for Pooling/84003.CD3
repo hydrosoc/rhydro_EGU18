@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 84003
+[END]
+[CDS DETAILS]
+NAME,Clyde
+LOCATION,Hazelbank
+NOMINAL AREA, 1093.10
+NOMINAL NGR,2835,6453
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,283550,645300
+CENTROID NGR,GB,293280,631851
+DTM AREA, 1093.10
+ALTBAR, 318
+ASPBAR, 22
+ASPVAR,0.05
+BFIHOST,0.450
+DPLBAR, 48.31
+DPSBAR,116.3
+FARL,0.970
+FPEXT,0.0645
+LDP, 95.12
+PROPWET,0.60
+RMED-1H,  9.5
+RMED-1D, 37.5
+RMED-2D, 51.8
+SAAR,1165
+SAAR4170,1181
+SPRHOST,41.73
+URBCONC1990,-9999.000
+URBEXT1990,0.0019
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0039
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station in Southern Uplands. HEP upstream. GENERAL: Velocity area station; approx. 60m wide in a straight section. The cableway was destroyed during a storm in 1998. STATION HYDROMETRY: Natural bedrock control. Well calibrated. All flows contained. Weed growth apparent in May to September affecting low flows. Peak flow ratings derived from current meter gaugings up to 3.6m (about 1.66 QMED), simple extrapolation beyond. FLOW RECORD: Some monthly naturalised flows available. FLOW REGIME: Very minor net impact of artificial influences (some naturalised data) but flow pattern is affected by operation of u/s HEP station (Stonebyres Falls). Some small reservoirs in headwaters. Mining can affect low to medium flows.
+CATCHMENT,Predominantly upland catchment. Catchment drains from the Southern Uplands. Complex bedrock geology with Metamorphics and igneous rocks extensively overlain, in the lower half of the catchment, by superficial deposits, mainly Boulder Clay. Hill grazing is principal land use with some forestry and arable lands. Sparsely populated except for Lanark 5km u/s. Minimal floodplains. No significant catchment changes known.
+Qmed Suitability,No comment
+Pooling Suitability,No comment
+[END]

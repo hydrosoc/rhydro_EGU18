@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 19011
+[END]
+[CDS DETAILS]
+NAME,North Esk
+LOCATION,Dalkeith Palace
+NOMINAL AREA,  133.41
+NOMINAL NGR,3332,6675
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,333200,667600
+CENTROID NGR,GB,321719,659958
+DTM AREA,  133.41
+ALTBAR, 272
+ASPBAR, 83
+ASPVAR,0.25
+BFIHOST,0.551
+DPLBAR, 22.51
+DPSBAR,121.0
+FARL,0.965
+FPEXT,0.0328
+LDP, 36.77
+PROPWET,0.49
+RMED-1H,  8.7
+RMED-1D, 38.0
+RMED-2D, 52.1
+SAAR, 907
+SAAR4170, 920
+SPRHOST,37.15
+URBCONC1990, 0.672
+URBEXT1990,0.0209
+URBLOC1990, 0.634
+URBCONC2000, 0.789
+URBEXT2000,0.0258
+URBLOC2000, 0.575
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station on North Esk, new site 300m upstream of old from Aug 1993. GENERAL: Velocity area station. The rb is a vertical stone wall, whilst the lb slopes gently to the hut at 2.5m. The water is stained red from effluent pumped from mine workings. STATION HYDROMETRY: The recorder is sited on a bend in a natural river reach immediately u/s of a footbridge. Flow velocities are faster near the rb, especially in floods. The new site (from Aug 1993) is situated 300m u/s on a straight section with a rock bar control. Both station locations have contained all flows to date. Peak flow ratings derived from current meter gaugings up to 1.6m (about 1.1 QMED), simple extrapolation beyond FLOW REGIME: North Esk Reservoir is a small reservoir that probably has no effect on flood response.
+CATCHMENT,Mostly upland catchment with the headwaters draining the steep slopes of the Pentland Hills. Bedrock Carboniferous and Devonian sedimentaries with igneous intrusions. Predominantly overlain by superficial deposits. Land use mostly rough grazing with some forest and arable. Significant urban development. No significant changes although mining in the area declined in 1980's.
+Qmed Suitability,No comment
+Pooling Suitability,No comment
+[END]

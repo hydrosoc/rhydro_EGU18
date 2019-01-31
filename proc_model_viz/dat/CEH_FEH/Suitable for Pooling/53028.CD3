@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 53028
+[END]
+[CDS DETAILS]
+NAME,By Brook
+LOCATION,Middlehill
+NOMINAL AREA,   99.49
+NOMINAL NGR,3814,1688
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,381400,168800
+CENTROID NGR,GB,380979,174611
+DTM AREA,   99.49
+ALTBAR, 137
+ASPBAR, 79
+ASPVAR,0.22
+BFIHOST,0.729
+DPLBAR, 15.93
+DPSBAR, 75.2
+FARL,0.999
+FPEXT,0.0317
+LDP, 30.03
+PROPWET,0.34
+RMED-1H, 10.7
+RMED-1D, 34.6
+RMED-2D, 43.9
+SAAR, 835
+SAAR4170, 873
+SPRHOST,21.99
+URBCONC1990, 0.529
+URBEXT1990,0.0107
+URBLOC1990, 0.714
+URBCONC2000, 0.683
+URBEXT2000,0.0141
+URBLOC2000, 0.700
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Flat V weir primarily installed as a low flow station in 1981. GENERAL: Primarily installed as a low flow station, opened in 1981 approximately 4km west of Corsham. Flat V weir 8m wide for low flow, then rated section for higher flows. Wing walls at 2m contain most floods. STATION HYDROMETRY: The channel bed consists of large stones. Highest observed flow at bankfull (2.11m), as which level flows become obstructed by a footbridge at the station. Meanders downstream. Present rating developed in 1996, based on theoretical weir rating and gaugings, applied retrospectively to the beginning of the record, should not be extrapolated beyond bankfull. FLOW REGIME: Minor surface water abstractions in catchment. Gate movement upstream.
+CATCHMENT,The catchment area upstream of the station is mainly rural, with limited urban areas at Battiford, Box and Colerne. The area is underlain by strata of the middle Jurassic period, with Great Oolite limestone as the upper strata over most of the catchment. Erosion has exposed Midford Sands of the Upper Lias in some areas. Slowly permeable calcareous soils dominate along the river valleys. No major catchment changes.
+Qmed Suitability,Good fit to gaugings.
+Pooling Suitability,Gauged beyond AMAX3. Small scatter in high flow gaugings.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 27028
+[END]
+[CDS DETAILS]
+NAME,Aire
+LOCATION,Armley
+NOMINAL AREA,  687.01
+NOMINAL NGR,4280,4340
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,428050,434050
+CENTROID NGR,GB,403037,445838
+DTM AREA,  687.01
+ALTBAR, 220
+ASPBAR,120
+ASPVAR,0.11
+BFIHOST,0.408
+DPLBAR, 45.05
+DPSBAR, 95.2
+FARL,0.968
+FPEXT,0.0586
+LDP, 81.00
+PROPWET,0.49
+RMED-1H, 10.5
+RMED-1D, 37.8
+RMED-2D, 50.5
+SAAR,1048
+SAAR4170,1034
+SPRHOST,38.51
+URBCONC1990, 0.774
+URBEXT1990,0.0724
+URBLOC1990, 0.556
+URBCONC2000, 0.861
+URBEXT2000,0.1051
+URBLOC2000, 0.578
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station. Lower catchment is heavily urbanised. The headwaters are rural and influenced by numerous reservoirs. GENERAL: Velocity area station on a straight, industrial reach. Station is located 100m downstream of twin arch viaduct, and confined by canal embankment (right bank, 11.19m) and a high wall (left bank, 5.96m). Channel control provided by two broad-crested weirs set in arches (20m wide) 1.8km d/s under Leeds train station. Station prone to heavy weedgrowth in summer. Changes in weir condition, 1971 and crest deterioration, 1975 not thought important for high flows. Weir crest reconstructed 1978. STATION HYDROMETRY: Rated for all flows by cableway at the section. No bypassing is known but wall was close to overtopping in 2000. Weir crest reconstructed and re-rated in April 1978, but flood calibration was unaltered. Five peak flow ratings applied across period of record with adjustments compensate for weed in summer. FLOW RECORD: Pre-1971 data are less reliable. Data 19/05/2008 to 08/09/2010 estimated using correlation with Leeds City Station gauge a short distance downstream due to temporary station closure. Estimates are within +/-15% of expected Armley flows. FLOW REGIME: Reservoir groups include Skipton, controlling 4.1% of total area, Keighley 4.7%, Denholme 1.8% and Bingley 1.8%. Zero flow when river level drawn down below weir crest by Kirkstall Power Station (license revoked 1978), now closed. Abstractions returned to river on site. Discharge received from sewage treatment at Bradford (Esholt) and some industrial abstractions. Washlands created at Skipton and Silsden to manage flooding at Keighley and Leeds.
+CATCHMENT,Catchment draining the east side of the Pennines above Leeds. Geology comprises predominantly Carboniferous Limestone in the headwaters down to Skipton, and Millstone Grit and Lower Coal Measures. Extensive superficial deposits. Rural headwaters, with considerable urban and industrial development in the lower catchment. Influenced by reservoirs. Estimated 12.7% of catchment drains through 18 impoundments. Large reservoirs include Winterburn, Ponden, the Denholme Group.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged to within 24% of AMAX3. Flow is well contained giving confidence to rating extrapolation.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 23006
+[END]
+[CDS DETAILS]
+NAME,South Tyne
+LOCATION,Featherstone
+NOMINAL AREA,  323.05
+NOMINAL NGR,3672,5610
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,367200,561100
+CENTROID NGR,GB,369210,547798
+DTM AREA,  323.05
+ALTBAR, 429
+ASPBAR, 12
+ASPVAR,0.19
+BFIHOST,0.270
+DPLBAR, 20.00
+DPSBAR,123.5
+FARL,0.995
+FPEXT,0.0303
+LDP, 35.88
+PROPWET,0.64
+RMED-1H, 10.7
+RMED-1D, 41.4
+RMED-2D, 56.8
+SAAR,1331
+SAAR4170,1465
+SPRHOST,52.86
+URBCONC1990,-9999.000
+URBEXT1990,0.0008
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0015
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Compound Crump profile weir. D/s pool adjusted to improve fish passage in 1971. GENERAL: Compound Crump profile weir (1:5 and 1:2 slopes). Lower crest 15.2m, upper crest 29.5m. Structure contains all flows and is modular throughout range. Immediately u/s of natural rock outcrop. D/s pool level raised to improve fish passage in May 1971. Temporary cableway in early 1970s. Prone to periodic gravel accumulation which is removed intermittently. STATION HYDROMETRY: Theoretical rating applied to daily and peak flow period of record. Some peak truncation is suspected and may be due to stilling well problems, but never confirmed. FLOW REGIME: Generally natural flow regime but operation of hydropower scheme at Nenthead can affect hydrograph at low levels.
+CATCHMENT,Linear, north trending catchment in northern Pennines. Geology: mainly Carboniferous Limestone, around two thirds of the catchment is overlain by superficial deposits of peat and Boulder Clay. Land use is predominantly grassland and upland heath. No known catchment changes.
+Qmed Suitability,Gauged to within 7% of QMED. All flows are contained in the structure and there is no drowning. Rating extrapolation is expected to be reasonable.
+Pooling Suitability,Gauged to within 36% of AMAX3. No significant bypassing reported and rating extrapolation beyond QMED should be reasonable, with no expected change in control.
+[END]

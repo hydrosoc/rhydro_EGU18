@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 69023
+[END]
+[CDS DETAILS]
+NAME,Roch
+LOCATION,Blackford Bridge
+NOMINAL AREA,  190.45
+NOMINAL NGR,3806,4077
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,380700,407750
+CENTROID NGR,GB,389144,413623
+DTM AREA,  190.45
+ALTBAR, 218
+ASPBAR,218
+ASPVAR,0.18
+BFIHOST,0.499
+DPLBAR, 20.15
+DPSBAR, 93.2
+FARL,0.911
+FPEXT,0.0768
+LDP, 34.35
+PROPWET,0.57
+RMED-1H, 11.3
+RMED-1D, 41.9
+RMED-2D, 57.5
+SAAR,1240
+SAAR4170,1223
+SPRHOST,33.11
+URBCONC1990, 0.766
+URBEXT1990,0.1150
+URBLOC1990, 0.849
+URBCONC2000, 0.847
+URBEXT2000,0.1603
+URBLOC2000, 0.839
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Broad-crested curved mill weir with some control in the catchment by water supply reservoirs. GENERAL: Station opened 1949 on broad-crested curved mill weir, 24m wide, with damaged crest. STATION HYDROMETRY: No bypassing. Weir can be affected by debris. Minor siltation problems affected the inlet pipe pre-1984. Cableway installed in late 1990s but high flows previously gauged, with less accuracy, from road bridge 0.5 km upstream. Some backing-up from Irwell confluence about 730m downstream. Downstream level recorder added September 2006. Weir was completely drowned during the gaugings taken over the peak event in January 2008 - see station photos. One rating applied for peak flows across period of record from 1949, based on gaugings and hydraulic modelling of top end, notwithstanding doubts about state of weir in earlier years. Rating, including upper limb from model, is good fit to gaugings. Flood Studies Report grade C. FLOW REGIME: A dozen small water-supply reservoirs in headwaters control a total of 16% of the catchment area.
+CATCHMENT,Geology mostly Coal Measures within Millstone Grit to the Northeast and Northwest. Peat overlays geology in moorland hilltops; mixed glacial drift in the lower catchment. Catchment is highly urbanised and contains Rochdale and Heywood. No catchment changes known.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged beyond AMAX3. Good fit to available gaugings.
+[END]

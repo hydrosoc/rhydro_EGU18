@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 71004
+[END]
+[CDS DETAILS]
+NAME,Calder
+LOCATION,Whalley Weir
+NOMINAL AREA,  317.44
+NOMINAL NGR,3729,4360
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,372900,436050
+CENTROID NGR,GB,383071,434454
+DTM AREA,  317.44
+ALTBAR, 221
+ASPBAR,290
+ASPVAR,0.15
+BFIHOST,0.395
+DPLBAR, 22.96
+DPSBAR, 94.3
+FARL,0.945
+FPEXT,0.0513
+LDP, 40.73
+PROPWET,0.55
+RMED-1H, 10.8
+RMED-1D, 40.6
+RMED-2D, 55.1
+SAAR,1232
+SAAR4170,1213
+SPRHOST,38.32
+URBCONC1990, 0.771
+URBEXT1990,0.0729
+URBLOC1990, 0.843
+URBCONC2000, 0.853
+URBEXT2000,0.1025
+URBLOC2000, 0.843
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Flat V weir in channel prone to severe weed growth. GENERAL: Originally a velocity area station based on timber weir, built in 1961. Replaced by Flat V weir 30m downstream in October 1970. Weir 24.4 m wide with 1:20 cross slopes. STATION HYDROMETRY: Weir drowns at high flows. Station prone to severe weed growth problems and vandalism. Flows above about 4m extend out of bank, behind cableway. Current meter gaugings for high flows are undertaken from upstream cableway. Two peak flow ratings applied across period of record; pre- and post-weir ratings have good fit to gaugings. Rating derived from current meter gauging with modelled top-end. Flood Studies Report grade B. FLOW RECORD: Gauged daily flows: no data 10/1971 to 12/1973 and 9-12/1975. 5/1970 values estimated by CEH using 71001. Peak flows: data presented for the Flat V station only, from 1970. FLOW REGIME: Minor direct abstractions. Many industrial discharges, effluent pollution.
+CATCHMENT,Geology mainly Coal Measures and Millstone Grit overlain by Boulder Clay. Catchment includes Accrington, Burnley and Nelson (approx 20% urban overall); extensive moorland above the towns. No significant catchment changes.
+Qmed Suitability,Gauged above QMED with modelled top-end.
+Pooling Suitability,For Flat V weir (from October 1970). This assumes the model estimates floodplain flow to within HiFlows-UK criteria.
+[END]

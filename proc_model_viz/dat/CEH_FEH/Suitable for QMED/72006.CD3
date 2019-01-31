@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 72006
+[END]
+[CDS DETAILS]
+NAME,Lune
+LOCATION,Kirkby Lonsdale
+NOMINAL AREA,  510.09
+NOMINAL NGR,3614,4777
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,361550,477750
+CENTROID NGR,GB,366219,495008
+DTM AREA,  510.09
+ALTBAR, 315
+ASPBAR,273
+ASPVAR,0.07
+BFIHOST,0.425
+DPLBAR, 32.83
+DPSBAR,169.5
+FARL,0.997
+FPEXT,0.0515
+LDP, 54.54
+PROPWET,0.71
+RMED-1H, 11.9
+RMED-1D, 54.5
+RMED-2D, 75.0
+SAAR,1652
+SAAR4170,1623
+SPRHOST,43.02
+URBCONC1990,-9999.000
+URBEXT1990,0.0010
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0029
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station draining predominantly rural catchment with headwaters in the Yorkshire Dales. Station closed in 1984. GENERAL: Velocity area station opened in October 1968 and closed in 1984. STATION HYDROMETRY: No bypassing. One rating applied across period of record derived from current meter gaugings. Flood Studies Report grade A.
+CATCHMENT,A predominantly rural catchment with headwaters that rise from Shap Fell and the western part of the Yorkshire Dales National Park. Mixed geology with Carboniferous Limestones, Silurian shales and substantial Drift cover. No significant catchment changes.
+Qmed Suitability,Gauged to within 20% of QMED. Excellent fit to gaugings.
+Pooling Suitability,Few high flow gaugings. Rating can not be validated beyond QMED and bankfull.
+[END]

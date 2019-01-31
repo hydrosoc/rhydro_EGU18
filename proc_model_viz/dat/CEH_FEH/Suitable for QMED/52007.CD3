@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 52007
+[END]
+[CDS DETAILS]
+NAME,Parrett
+LOCATION,Chiselborough
+NOMINAL AREA,   74.26
+NOMINAL NGR,3460,1144
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,346100,114450
+CENTROID NGR,GB,347217,110232
+DTM AREA,   74.26
+ALTBAR,  73
+ASPBAR, 12
+ASPVAR,0.21
+BFIHOST,0.537
+DPLBAR,  7.48
+DPSBAR, 68.5
+FARL,1.000
+FPEXT,0.0665
+LDP, 14.29
+PROPWET,0.38
+RMED-1H, 11.6
+RMED-1D, 41.8
+RMED-2D, 51.3
+SAAR, 886
+SAAR4170, 887
+SPRHOST,36.84
+URBCONC1990, 0.789
+URBEXT1990,0.0120
+URBLOC1990, 0.870
+URBCONC2000, 0.709
+URBEXT2000,0.0237
+URBLOC2000, 0.877
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Crump weir with crest tapping, situated in bridge culvert. Rating has shifted over time due to tree and shrub growth downstream. GENERAL: Station opened in 1966. Crump weir (breadth: 7.87m) with crest tapping, situated in bridge culvert. STATION HYDROMETRY: Full range station. Rated section at high flows. Backwater effects outside of modular range. Tree and shrub growth downstream. Silty and weedy river. Throttling of high flows by bridge, and downstream bends act as control therefore flow hydrograph exhibits hysteresis. Weir drowning more frequent prior to downstream channel improvements in 1966. Rating has shifted over time due to tree and shrub growth downstream. The POR maximum flood occurred in 05/1979 - the exceptional peak flow of 173 cumecs is a result of a new rating, which is supported by modelling work (including floodplain flows) undertaken by Mott McDonald. Multiple ratings applied across period of record, the most recent is valid from 01/1990. Significant scatter exists in gaugings, possibly to due drowning. FLOW RECORD: Flows calculated from crest tapping prior to 1/4/67 are erroneous due to leak in float well. FLOW REGIME: Minor flow augmentation from effluent returns.
+CATCHMENT,Fairly responsive catchment predominantly comprising Oxford Clay with small band of Upper Greensand and Gault in headwaters. Land use is predominantly rural. No major changes to catchment.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Few high flow gaugings. Rating can not be validated beyond QMED and flow frequently out of bank.
+[END]

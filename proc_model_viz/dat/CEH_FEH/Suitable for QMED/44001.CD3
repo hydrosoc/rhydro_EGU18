@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 44001
+[END]
+[CDS DETAILS]
+NAME,Frome
+LOCATION,East Stoke Total
+NOMINAL AREA,  414.59
+NOMINAL NGR,3867, 868
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,386750,86850
+CENTROID NGR,GB,367880, 93020
+DTM AREA,  414.59
+ALTBAR, 115
+ASPBAR, 95
+ASPVAR,0.13
+BFIHOST,0.778
+DPLBAR, 29.73
+DPSBAR, 80.1
+FARL,0.968
+FPEXT,0.0712
+LDP, 55.25
+PROPWET,0.37
+RMED-1H, 11.2
+RMED-1D, 38.6
+RMED-2D, 51.0
+SAAR, 968
+SAAR4170,1022
+SPRHOST,19.58
+URBCONC1990, 0.513
+URBEXT1990,0.0100
+URBLOC1990, 0.740
+URBCONC2000, 0.749
+URBEXT2000,0.0140
+URBLOC2000, 0.744
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Combined station consisting of East Stoke Flume and East Stoke Weir. GENERAL: Combined station consisting of East Stoke Flume and East Stoke Weir. STATION HYDROMETRY: East Stoke Flume (local no. 445910), commissioned in 1961, is a three-part compound structure of total width 10.9m, with wingwalls to 1.8m comprising of a rectangular critical depth flume, 3.05m wide, bounded by two broad-crested weirs. Gaugings taken when the station is bypassed are made downstream where all the flow is confined. Flume drowns during high flows and low flows, at a stage which depends on the downstream weed growth. For example non modularity was observed at a stage of 0.776m in May 2009 but modularity was observed at 1.32m on 20/07/2012. Borderline modularity was observed at 1.50m on 24/11/2012. A low flood bank constructed on left bank confines flows up to a stage of ~1.3m (11cumecs), but the station is bypassed above this level. This was confirmed by an observation on 20/07/2012. East Stoke Weir (local no.445920), commissioned 1966, is a Crump profile weir 3.6m wide on a bypass channel. Drowns at high flows. Bypassing occurred in the summer of 2012 at a stage of 0.333m and in the winter of 2012 at a stage of 0.497m. Currently unsure at what stage by-passing commences. Bypassing towards flume channel just after flume channel confluence. Structure limit of weir 4.36cumecs. Protected flow site combining East Stoke Flume (Rated from gaugings) and East Stoke Weir (theoretical rating). FLOW REGIME: Runoff natural to within 10% at the 95 percentile flow. No abstractions of water from the river above the station, but considerable quantities of water are abstracted from the chalk catchment area by bore holes and wells. Flows sometimes affected by u/s research activity. The proportion of flow passing through each station can be significantly altered by the research activities of CEH Dorset. Data presented is from the digital record, from 1991.
+CATCHMENT,Geology is mainly Chalk; Upper Greensand and Gault, Lias and Oolites in headwaters; sands, gravels and clays in lower catchment. Rural land use. No major catchment changes.
+Qmed Suitability,Flow estimates reasonable.
+Pooling Suitability,No high flow gaugings on either structure exist and both exhibit bypassing.
+[END]

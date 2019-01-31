@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 56007
+[END]
+[CDS DETAILS]
+NAME,Senni
+LOCATION,Pont-Hen-Hafod
+NOMINAL AREA,   19.29
+NOMINAL NGR,2928,2254
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,292800,225450
+CENTROID NGR,GB,292743,221881
+DTM AREA,   19.29
+ALTBAR, 388
+ASPBAR,342
+ASPVAR,0.13
+BFIHOST,0.495
+DPLBAR,  5.85
+DPSBAR,198.4
+FARL,1.000
+FPEXT,0.0433
+LDP,  9.97
+PROPWET,0.62
+RMED-1H, 13.0
+RMED-1D, 68.0
+RMED-2D, 94.1
+SAAR,1974
+SAAR4170,1942
+SPRHOST,38.96
+URBCONC1990,-9999.000
+URBEXT1990,0.0000
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0005
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Flat V Crump weir from Dec 1997; previously standard Crump weir. Natural flow regime. GENERAL: Flat V Crump weir (width 7.01m) from Dec 1997; previously standard Crump weir. Concrete side walls form a contained approach to the weir, starting from road bridge approx 10 m u/s. STATION HYDROMETRY: Bridge abutments funnel flow to station and prevent bypassing. Flows contained up to wingwalls of about 2.27 m. Beyond end of the walls, approx 10 m d/s, river banks significantly lower allowing flow area to expand rapidly again. Fish baffles on weir face may cause slight backing up at low flows. Crump weir was full range, modular, theoretically calibrated and confirmed by gaugings. Modification to flat V in 1997 necessitated change in peak flow rating. Three peak flow ratings apply over the period of record. Check gaugings confirm rating only to medium flows. Original fish pass removed in 1973 FLOW RECORD: Gap in record in 2001 due to Foot and Mouth restrictions. FLOW REGIME: Natural to within 10% at Q95.
+CATCHMENT,Natural catchment draining from high rainfall, upland area within Brecon Beacons national park. Impermeable bedrock geology (Old Red Sandstone). Dominant land use is grassland, supporting livestock farming, with mainly peaty soils. Small patches of heathland and forest.
+Qmed Suitability,Weir expected to drown before QMED which is not accounted for in current rating.
+Pooling Suitability,Weir expected to drown before QMED which is not accounted for in current rating.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 47020
+[END]
+[CDS DETAILS]
+NAME,Inny
+LOCATION,Bealsmill
+NOMINAL AREA,  101.98
+NOMINAL NGR,2359, 770
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,235900,77050
+CENTROID NGR,GB,224007, 81817
+DTM AREA,  101.98
+ALTBAR, 201
+ASPBAR, 90
+ASPVAR,0.16
+BFIHOST,0.576
+DPLBAR, 18.06
+DPSBAR, 89.7
+FARL,1.000
+FPEXT,0.0358
+LDP, 32.05
+PROPWET,0.47
+RMED-1H, 12.6
+RMED-1D, 44.9
+RMED-2D, 61.5
+SAAR,1429
+SAAR4170,1391
+SPRHOST,34.00
+URBCONC1990,-9999.000
+URBEXT1990,0.0034
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0040
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Broad crested weir built in 1988 to replace previous velocity area station. GENERAL: Velocity area station with a low flow bed control built in 1976. Station re-opened with broad-crested weir in 1988. Channel approximately 9.5m wide. STATION HYDROMETRY: Bankfull at 1.8m. Station subject to mobile bed/shoaling downstream of weir so rating prone to shifting. Gaugings taken to allow preparation of ratings to account for this. Multiple peak flow ratings applied across period of record. Rating derived from current meter gaugings from cableway. FLOW RECORD: Station closed 01/01/1981 - 11/10/1988; no data available. Downstream siltation led to the drowning of the control structure during high flows in 12/1999. FLOW REGIME: No major artificial influences.
+CATCHMENT,Mixed geology, mostly Upper Devonian, Culm Measures, Carboniferous with some areas of slate and thin limestone. Land-use: rural, low intensity agriculture, beef/sheep and dairy farms in lower reaches. No major urbanisation in the catchment. No major catchment changes.
+Qmed Suitability,Gauged above QMED. Good fit to rating.
+Pooling Suitability,Gauged beyond AMAX3. well gauged to above bankfull allowing development of reasonable rating. Occasional drowning but captured in out of bank gaugings.
+[END]

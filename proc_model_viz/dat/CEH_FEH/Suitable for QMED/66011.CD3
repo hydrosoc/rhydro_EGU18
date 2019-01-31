@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 66011
+[END]
+[CDS DETAILS]
+NAME,Conwy
+LOCATION,Cwmlanerch
+NOMINAL AREA,  340.11
+NOMINAL NGR,2801,3580
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,280150,358050
+CENTROID NGR,GB,278213,352120
+DTM AREA,  340.11
+ALTBAR, 342
+ASPBAR, 45
+ASPVAR,0.01
+BFIHOST,0.363
+DPLBAR, 16.39
+DPSBAR,169.7
+FARL,0.977
+FPEXT,0.0460
+LDP, 32.24
+PROPWET,0.70
+RMED-1H, 11.7
+RMED-1D, 64.0
+RMED-2D, 85.8
+SAAR,2042
+SAAR4170,2156
+SPRHOST,48.94
+URBCONC1990,-9999.000
+URBEXT1990,0.0005
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0006
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Natural river section. A largely natural flow regime. GENERAL: Natural river section, 50m wide. STATION HYDROMETRY: Bankfull around 4m and some bypassing and u/s overbank storage (significant on right bank) at very high flows - channel contains 400 - 450 cumecs before bypassing occurs. Low flows are gauged at cableway using ADCP. Section requires frequent recalibration due to shifting bed control. Record is very important in Conwy valley flood forecasting so much effort is spent to ensure rating is kept accurate. Multiple peak flow ratings applied across period of record to account for shift in bed through time. Most recent is valid from February 2004. FLOW RECORD: Full period of record peak flow data reviewed and released in April 2017 (WINFAP Files v5). FLOW REGIME: A largely natural flow regime; Runoff reduced by public water supply abstraction.
+CATCHMENT,Very wet upland catchment - mainly mountainous, developed mostly impermeable Palaeozoic formations and volcanics. Mostly grassland, upland hill farming, with exposures of bare rock and heath. Some forest, mainly in lower catchment.
+Qmed Suitability,Well gauged to QMED with no bypassing.
+Pooling Suitability,AMAX3 > bankfull. Station by passed at high flows. No gauging above bankfull. Recommended upper limit is 4.4m.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 37031
+[END]
+[CDS DETAILS]
+NAME,Crouch
+LOCATION,Wickford
+NOMINAL AREA,   70.15
+NOMINAL NGR,5748,1933
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,574800,193400
+CENTROID NGR,GB,570322,191348
+DTM AREA,   70.15
+ALTBAR,  37
+ASPBAR, 86
+ASPVAR,0.24
+BFIHOST,0.218
+DPLBAR,  8.07
+DPSBAR, 29.6
+FARL,0.969
+FPEXT,0.1431
+LDP, 16.01
+PROPWET,0.27
+RMED-1H, 11.9
+RMED-1D, 31.5
+RMED-2D, 38.0
+SAAR, 571
+SAAR4170, 594
+SPRHOST,49.21
+URBCONC1990, 0.772
+URBEXT1990,0.1416
+URBLOC1990, 1.021
+URBCONC2000, 0.885
+URBEXT2000,0.2438
+URBLOC2000, 0.987
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Crump weir gauging a low-lying catchment. GENERAL: Crump weir and a rated channel for high flows. Station is approaching tidal limit. STATION HYDROMETRY: Crump weir has very small fall because approaching tidal limit. Rated channel for high flows calibrated by current meter and float measurements (2.85m high). Low modular limit. Rating confirmed by gaugings to 1.2m. One rating applied across period of record. FLOW REGIME: Responsive regime. Significant urban runoff from Billericay and Basildon. Low flows heavily influenced by STW discharge.
+CATCHMENT,Low lying, undulating terrain. London Clay, negligible superficial deposits. Urban areas (Basildon, Billericay) make up about third of catchment, particularly developed in S. Remaining area in N of catchment is mixed farming.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Few high flow gaugings. Rating can not be validated beyond QMED.
+[END]

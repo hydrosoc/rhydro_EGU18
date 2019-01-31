@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 43008
+[END]
+[CDS DETAILS]
+NAME,Wylye
+LOCATION,South Newton
+NOMINAL AREA,  448.17
+NOMINAL NGR,4086,1342
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,408650,134250
+CENTROID NGR,GB,396264,142665
+DTM AREA,  448.17
+ALTBAR, 144
+ASPBAR,119
+ASPVAR,0.15
+BFIHOST,0.937
+DPLBAR, 26.59
+DPSBAR, 70.1
+FARL,0.976
+FPEXT,0.0518
+LDP, 52.41
+PROPWET,0.35
+RMED-1H, 10.9
+RMED-1D, 33.7
+RMED-2D, 45.8
+SAAR, 830
+SAAR4170, 845
+SPRHOST, 6.92
+URBCONC1990, 0.575
+URBEXT1990,0.0103
+URBLOC1990, 0.916
+URBCONC2000, 0.750
+URBEXT2000,0.0102
+URBLOC2000, 1.026
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Crump profile weir, can be affected by summer weed growth. GENERAL: Crump profile weir, crest 10.7m broad. Full range station; opened in 1966. Subject to drowning and bypassing at high discharges. STATION HYDROMETRY: Sluice control upstream for river regulation. Minor bypassing. Heavy weed growth during summer months. Good data set with check gaugings confirming original rating. One peak flow rating applied across period of record. Rating extended based on flood gaugings. Upper limit of rating is 1.30m/42.3 cumecs. FLOW REGIME: Natural to within 10% at Q95. Direct abstraction from the river for spray irrigation. Sluice control upstream for river regulation and groundwater abstractions.
+CATCHMENT,Predominantly Chalk; Upper Greensand and Gault in upper catchment. Rural land use. No major catchment changes.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged beyond AMAX3. Minor bypassing experienced.
+[END]

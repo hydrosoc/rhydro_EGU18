@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 28059
+[END]
+[CDS DETAILS]
+NAME,Maun
+LOCATION,Mansfield STW
+NOMINAL AREA,   27.52
+NOMINAL NGR,4548,3623
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,454850,362350
+CENTROID NGR,GB,451905,359824
+DTM AREA,   27.52
+ALTBAR, 142
+ASPBAR, 51
+ASPVAR,0.32
+BFIHOST,0.835
+DPLBAR,  5.80
+DPSBAR, 41.9
+FARL,0.906
+FPEXT,0.0577
+LDP, 10.20
+PROPWET,0.36
+RMED-1H, 11.2
+RMED-1D, 32.9
+RMED-2D, 40.9
+SAAR, 717
+SAAR4170, 722
+SPRHOST,15.02
+URBCONC1990, 0.833
+URBEXT1990,0.3019
+URBLOC1990, 0.911
+URBCONC2000, 0.926
+URBEXT2000,0.3899
+URBLOC2000, 0.906
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station installed in 1964 and Closed in 1984 and replaced by 28115 (Mansfield The Dykes) in 1996. GENERAL: Velocity area station opened in 1958. Trapezoidal critical depth flume installed in 1964. Flume has drowned in past due to summer weed growth and rubbish accumulation. Station situated immediately downstream of STW. Closed in 1984, replaced by 28115 (Mansfield The Dykes) in May 1992. All flows contained. STATION HYDROMETRY: One rating applied across period of record.Structure designed to measure flows only up to modular limit (3m3/s) with poor fit to gaugings. Flume has drowned in past due to summer weed growth and rubbish accumulation. Station situated immediately downstream of STW. Flows augmented by runoff from urban area of Mansfield which effectively increases catchment area. FLOW REGIME: Flows augmented by runoff from urban area of Mansfield which effectively increases catchment area. Runoff influenced by groundwater abstraction/recharge. Runoff increased by effluent returns.
+CATCHMENT,Underlying geology Magensian Limestone and Permian sandstone. Catchment almost entirely urbanised: Mansfield and Sutton in Ashfield.
+Qmed Suitability,Not gauged to within 30% of QMED. Not designed for high flows.
+Pooling Suitability,Not designed for high flows.
+[END]

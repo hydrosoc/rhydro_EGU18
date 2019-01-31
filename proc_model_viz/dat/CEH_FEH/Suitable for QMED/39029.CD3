@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 39029
+[END]
+[CDS DETAILS]
+NAME,Tilling Bourne
+LOCATION,Shalford
+NOMINAL AREA,   58.78
+NOMINAL NGR,4999,1478
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,500000,147850
+CENTROID NGR,GB,508055,146327
+DTM AREA,   58.78
+ALTBAR, 133
+ASPBAR,311
+ASPVAR,0.19
+BFIHOST,0.885
+DPLBAR, 11.66
+DPSBAR, 93.4
+FARL,0.879
+FPEXT,0.0289
+LDP, 21.12
+PROPWET,0.36
+RMED-1H, 11.7
+RMED-1D, 35.1
+RMED-2D, 46.7
+SAAR, 810
+SAAR4170, 824
+SPRHOST,14.87
+URBCONC1990, 0.313
+URBEXT1990,0.0081
+URBLOC1990, 0.706
+URBCONC2000, 0.635
+URBEXT2000,0.0220
+URBLOC2000, 0.777
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Station influenced by drainage from the North Downs, a d/s artificial pond and high flows from the River Wye. GENERAL: Crump weir, 5.5m broad immediately d/s of ornamental pond. A tail recorder was added in August 2013. STATION HYDROMETRY: High flows often overestimated (backing-up from Wey causes drowning, crest-tapping operational but often blocked - requires regular cleaning and pumping out). If the tapping is blocked, an approximate rating for drowned flow is used. This is inaccurate because the weir will drown at different head values depending on the water levels in the River Wey. Rated by a standard Crump weir calculation. Rating for modular flow is reasonably accurate, but there are some discrepancies in both the gaugings and the rating extension for non-modular flow. One peak flow rating across the period of record. FLOW REGIME: Sensibly natural runoff pattern (natural to within 10% at Q95), but substantial baseflow component to flow regime but also responsive to heavy rainfall. Runoff influenced by groundwater abstraction/recharge. Some artificial flow regulation and very minor effect of industrial/agricultural abstractions and discharges.
+CATCHMENT,The main valley is broad, but the headwaters drain the North Downs scarp and hilly terrain to the south also. The geology is dominated by the Lower Greensand that is nominally pervious. The catchment is responsive to heavy rainfall due to a large clay component within the geology. A rural catchment predominantly agricultural but with substantial woodland and many scattered settlements.
+Qmed Suitability,Higher flows are not adequately measured. However, the weir is standard and flows are within bank full so QMED estimates are thought to be reliable.
+Pooling Suitability,To few gaugings beyond QMED to confirm rating, particularly for non-modular flow extension.
+[END]

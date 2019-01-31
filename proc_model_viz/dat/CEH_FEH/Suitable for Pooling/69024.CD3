@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 69024
+[END]
+[CDS DETAILS]
+NAME,Croal
+LOCATION,Farnworth Weir
+NOMINAL AREA,  141.78
+NOMINAL NGR,3743,4068
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,374350,406850
+CENTROID NGR,GB,370665,413066
+DTM AREA,  141.78
+ALTBAR, 201
+ASPBAR,156
+ASPVAR,0.21
+BFIHOST,0.330
+DPLBAR, 12.96
+DPSBAR, 80.4
+FARL,0.862
+FPEXT,0.0545
+LDP, 24.21
+PROPWET,0.51
+RMED-1H, 12.0
+RMED-1D, 41.5
+RMED-2D, 56.5
+SAAR,1288
+SAAR4170,1283
+SPRHOST,44.46
+URBCONC1990, 0.796
+URBEXT1990,0.1212
+URBLOC1990, 0.571
+URBCONC2000, 0.882
+URBEXT2000,0.1700
+URBLOC2000, 0.615
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Non-standard broad-crested weir gauging a highly urbanised and industrial catchment. GENERAL: Station opened December 1948 on a non-standard broad-crested mill weir 45m wide and 2.9 m long, with long downstream slope. Bend and island immediately upstream of weir. Island is maintained to prevent encroachment onto weir. STATION HYDROMETRY: Weir, which is in good condition considering its age, is insensitive especially at low flows. Very high flows may bypass station on the inside of the loop, but no bypassing observed in 15/16 floods. Cableway was installed in June 2000. Backwater unlikely - confluence with River Irwell is approx 1.5km downstream, and weir is approx 2.6m above downstream bed. One peak flow rating applied across period of record. Scatter at low flows is thought to be at least partly due to differences in the location and method of spot gauging at different periods. Pressure sensor installed in river following 15/16 floods. FLOW RECORD: Peak flow record begins in 1948, but no digitised daily mean flows before 1976. Wrack mark after winter 15/16 floods at 1.8m. FLOW REGIME: Several reservoirs in headwaters, particularly on the Bradshaw Brook tributary, controlling 27% of the catchment. Many effluent discharges lower down.
+CATCHMENT,Geology of Millstone Grit overlain with peat moorland in headwaters, with Boulder Clay and coal measures in the urban lower parts. A highly urbanised and industrialised catchment which includes Bolton.
+Qmed Suitability,Yes - Gauged to just below QMED.
+Pooling Suitability,Yes - Suitable for pooling although rating extrapolation is rather uncertain due to lack of high flow gaugings (57% of AMAX3)
+[END]

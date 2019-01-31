@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 21032
+[END]
+[CDS DETAILS]
+NAME,Glen
+LOCATION,Kirknewton
+NOMINAL AREA,  196.05
+NOMINAL NGR,3918,6310
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,391850,631000
+CENTROID NGR,GB,385593,625682
+DTM AREA,  196.05
+ALTBAR, 272
+ASPBAR,356
+ASPVAR,0.13
+BFIHOST,0.456
+DPLBAR, 17.75
+DPSBAR,193.9
+FARL,0.986
+FPEXT,0.0394
+LDP, 36.77
+PROPWET,0.46
+RMED-1H,  9.5
+RMED-1D, 38.4
+RMED-2D, 51.7
+SAAR, 877
+SAAR4170, 929
+SPRHOST,50.64
+URBCONC1990,-9999.000
+URBEXT1990,0.0008
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0013
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Informal flat-V weir and velocity-area station draining The Cheviot. Station closed September 2010. GENERAL: Informal flat-V weir and velocity-area station beyond (1:2 and 1:5 slopes and about 1:100 cross-slope, insensitive). V is lop-sided as left wing wall was moved inwards after flood damage. The weir crest has been eroded in the past. Station closed in September 2010 following repeated breaches of bank. Equipment removed. STATION HYDROMETRY: Banks are double terraced, with first step at 1.6m, second at 2.6m. A flood bank on the right bank protects the floodplain, but at high flows there is significant bypassing of the cableway (starting at 1.6m), leading to considerable uncertainty, true peaks not recorded. Flood bank breached in September 2008. The bank was repaired in November 2008 but breached again in July 2009. Partially repaired by plugging the gap with gravel but again breached in September 2009. Station rated by current meter gauging up to bankfull (1.6m). Multiple peak flow ratings applied across period of record, the most recent is valid from June 1989. Flood Studies Report grade A for structure, but C due to chart record. FLOW RECORD: Flows from 1989 reprocessed in 2002: low flows increased, some peak flows decreased. Flat-top hydrographs before September 1966 due to silting of inlet pipe. September 2008 flood caused breach in flood banks, resulting in missing flows until late October 2008. Logger installed in 1991 (very limited data 1983-1990 but charts available). Caution needed in interpreting suspect 1994 minima. FLOW REGIME: Natural flow regime, no abstractions.
+CATCHMENT,Upland catchment, draining from The Cheviot with a natural flow regime. Developed mostly on impermeable igneous formations, around a third of the catchment is overlain by superficial deposits. Around half the catchment is grassland, with mountain/heath in upper reaches and arable in lower lying areas.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged beyond AMAX3. Known to bypass in large floods and peak hydrograph shape is sometimes questionable, but magnitude of gauged peaks warrants inclusion.
+[END]

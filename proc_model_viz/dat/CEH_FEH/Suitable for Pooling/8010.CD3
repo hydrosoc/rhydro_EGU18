@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+  8010
+[END]
+[CDS DETAILS]
+NAME,Spey
+LOCATION,Grantown
+NOMINAL AREA, 1745.84
+NOMINAL NGR,3032,8267
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,303300,826800
+CENTROID NGR,GB,279940,802927
+DTM AREA, 1745.84
+ALTBAR, 495
+ASPBAR, 13
+ASPVAR,0.05
+BFIHOST,0.484
+DPLBAR, 51.13
+DPSBAR,158.7
+FARL,0.938
+FPEXT,0.0612
+LDP,102.29
+PROPWET,0.69
+RMED-1H,  9.3
+RMED-1D, 35.6
+RMED-2D, 51.1
+SAAR,1194
+SAAR4170,1235
+SPRHOST,46.42
+URBCONC1990,-9999.000
+URBEXT1990,0.0005
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0012
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station. Part of the catchment is controlled for HEP. GENERAL: Velocity area station about 60m wide. STATION HYDROMETRY: Cableway rated with natural control. Improved data quality following move of recorder and cableway to a united site in 1987. All flows contained to date. Three ratings used which were revised by SEPA in 2016. Current meter gaugings between 1952-1955 were ignored. FLOW RECORD: Full period of record peak flow data reviewed and released in April 2017 (WINFAP Files v5). FLOW REGIME: Loch Insh and Insh Marshes: at high flows floodplain becomes part of loch, significant storage controlling about 50% of catchment. 22% of catchment developed for hydro-power with diversions and storage, significant net export, water use also for aluminium industry. Reservoirs for hydropower: Spey Dam (1944), Loch an T-Seilich (1941) and Cuaich (1961). Low flow network set up in the 1990s. At Q95 compensation flows increased from Spey Dam. Interactions between Scottish Water, Spey Salmon Fisheries and Aluminium Industry.
+CATCHMENT,Upland catchment, often snowy in winter. Granites and Moinian metamorphic bedrock with significant superficial deposits. Landuse is moorland, forestry, pastoral with arable in valley bottoms. Notable floodplains.
+Qmed Suitability,Gauged above QMED
+Pooling Suitability,Gauged to AMAX3, all flows contained
+[END]

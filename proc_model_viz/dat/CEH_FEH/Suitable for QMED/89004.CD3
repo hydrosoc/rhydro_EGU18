@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 89004
+[END]
+[CDS DETAILS]
+NAME,Strae
+LOCATION,Glen Strae
+NOMINAL AREA,   36.62
+NOMINAL NGR,2150,7299
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,215050,729950
+CENTROID NGR,GB,218109,733329
+DTM AREA,   36.62
+ALTBAR, 348
+ASPBAR,230
+ASPVAR,0.07
+BFIHOST,0.361
+DPLBAR,  6.57
+DPSBAR,327.7
+FARL,0.995
+FPEXT,0.0437
+LDP, 13.07
+PROPWET,0.79
+RMED-1H, 12.8
+RMED-1D, 65.0
+RMED-2D, 94.8
+SAAR,2777
+SAAR4170,2941
+SPRHOST,52.15
+URBCONC1990,-9999.000
+URBEXT1990,0.0000
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0000
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Compound broad crested spillway weir, initially installed as part of Loch Awe HEP programme. GENERAL: Compound broad crested spillway weir, about 8m wide. Initially installed as part of Loch Awe HEP programme. STATION HYDROMETRY: To date all flows contained. Rocks which stand above bed level immediately d/s of the weir are likely to result in rapid drowning of the weir in floods. Low flow ratings derived using meter gaugings up to 0.7m (about 0.2 QMED). High flow rating unconfirmed. Medium to high flow rating taken from theoretical rating inherited from HEP (which was the first edition rating for the site). FLOW RECORD: The nominal 'normal maximum' flood is 144.7cumecs. FLOW REGIME: Flashy response. No significant artificial effects on the flow regime during the early record. Generally natural regime. Possibly some water abstraction.
+CATCHMENT,A very wet, mountainous, often snowy in winter, linear catchment draining to Loch Awe. Bedrock geology: predominantly Dalradian metamorphics with local occurrences of Dalradian L'st. Almost half the catchment overlain by Boulder Clay. Landuse predominantly rough grazing; some woodland cover. No significant catchment changes known.
+Qmed Suitability,Gauged above QMED
+Pooling Suitability,Confidence in rating diminishes rapidly above ~6 cumecs
+[END]

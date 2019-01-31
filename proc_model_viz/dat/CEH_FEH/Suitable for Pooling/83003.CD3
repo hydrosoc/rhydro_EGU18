@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 83003
+[END]
+[CDS DETAILS]
+NAME,Ayr
+LOCATION,Catrine
+NOMINAL AREA,  167.25
+NOMINAL NGR,2525,6259
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,252500,625900
+CENTROID NGR,GB,265663,627979
+DTM AREA,  167.25
+ALTBAR, 281
+ASPBAR,247
+ASPVAR,0.17
+BFIHOST,0.328
+DPLBAR, 22.02
+DPSBAR, 89.5
+FARL,0.991
+FPEXT,0.0455
+LDP, 38.77
+PROPWET,0.67
+RMED-1H,  9.6
+RMED-1D, 39.1
+RMED-2D, 56.1
+SAAR,1292
+SAAR4170,1280
+SPRHOST,48.40
+URBCONC1990,-9999.000
+URBEXT1990,0.0012
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0038
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station. Flows modestly affected by HEP scheme. GENERAL: Velocity area station (approx. 20m wide) in a long straight reach. There is a flood bank on the lb and retaining wall on the rb. STATION HYDROMETRY: A large pipe forms an informal broad-crested low flow control (somewhat insensitive). Natural high flow control. All flows are contained. Peak flow ratings derived from current meter gaugings up to 1.5m (about 0.6 QMED), simple extrapolation beyond. FLOW RECORD: Flows from Jan 2003 reprocessed in 2012. FLOW REGIME: A responsive, natural catchment but the flow pattern is modestly affected (esp. at low flows) by the operation of a small HEP scheme 1km u/s. Some open cast mining in upper areas.
+CATCHMENT,A catchment of rugged topography draining W from Southern Uplands. Complex bedrock - Carboniferous sediments and igneous outcrops dominate; extensive superficial deposits (mostly Boulder Clay and peat). Hill grazing is the main land use; some forestry. No significant catchment changes known.
+Qmed Suitability,No comment
+Pooling Suitability,No comment
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 45012
+[END]
+[CDS DETAILS]
+NAME,Creedy
+LOCATION,Cowley
+NOMINAL AREA,  263.63
+NOMINAL NGR,2900, 967
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,290100,96750
+CENTROID NGR,GB,281643,100833
+DTM AREA,  263.63
+ALTBAR, 124
+ASPBAR,114
+ASPVAR,0.10
+BFIHOST,0.577
+DPLBAR, 16.44
+DPSBAR,111.3
+FARL,0.993
+FPEXT,0.0401
+LDP, 30.57
+PROPWET,0.46
+RMED-1H, 11.3
+RMED-1D, 33.9
+RMED-2D, 46.0
+SAAR, 909
+SAAR4170, 969
+SPRHOST,31.96
+URBCONC1990,-9999.000
+URBEXT1990,0.0023
+URBLOC1990,-9999.000
+URBCONC2000, 0.737
+URBEXT2000,0.0088
+URBLOC2000, 0.816
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station in deep cutting. GENERAL: Velocity area station in deep cutting. Rock bars form low flow control. STATION HYDROMETRY: Flood flows contained by railway tracks on the left bank and, on the right bank, by rock walls, gabions and a newly constructed Crib wall (03/2006) which extends along a large section upstream of the control. Bypassing minimal but occurs on left bank at very high flows. River bed re-profiled (shoal removed) following construction works in 2006, with multiple low flow ratings required since then due to shoaling. Flows above ~12 cumecs derived from modelled rating, though peak flows in 1999 and 2000 still considered overestimated. Current metering by wading for low flows. One peak flow rating applied across period of record. Upper limbs derived from hydraulic model with good fit to available gaugings. FLOW RECORD: 02/1995 flows missing due to station hut replacement. FLOW REGIME: Runoff influenced by groundwater abstraction/recharge. Runoff increased by effluent returns.
+CATCHMENT,A v-shaped catchment draining moderate to high relief valleys to the N and W. Predominantly Culm Measures, sandstones and shales with some Permo-Triassic breccias and sandstones near Crediton. Low grade agriculture, grazing and forestry. No major catchment changes.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Confident in model derived rating for high flows.
+[END]

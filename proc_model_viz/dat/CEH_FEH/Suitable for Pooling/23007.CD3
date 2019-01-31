@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 23007
+[END]
+[CDS DETAILS]
+NAME,Derwent
+LOCATION,Rowlands Gill
+NOMINAL AREA,  243.99
+NOMINAL NGR,4168,5580
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,416850,558100
+CENTROID NGR,GB,402789,551186
+DTM AREA,  243.99
+ALTBAR, 281
+ASPBAR, 50
+ASPVAR,0.23
+BFIHOST,0.335
+DPLBAR, 26.32
+DPSBAR, 92.0
+FARL,0.908
+FPEXT,0.0265
+LDP, 49.66
+PROPWET,0.59
+RMED-1H, 10.1
+RMED-1D, 39.1
+RMED-2D, 49.9
+SAAR, 849
+SAAR4170, 869
+SPRHOST,43.82
+URBCONC1990, 0.613
+URBEXT1990,0.0177
+URBLOC1990, 0.479
+URBCONC2000, 0.803
+URBEXT2000,0.0224
+URBLOC2000, 0.497
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Two Crump weirs beneath a bridge. Regime heavily influenced by Derwent reservoir. GENERAL: Two Crump profile weirs with slightly different crest levels beneath the two arches of a bridge and separated by the central pier of the bridge. Bypassing is prevented by the bridge and its embankments. Bridge inverts repaired in summer 2002. Persistent gravel accretion problem. STATION HYDROMETRY: Persistent blockage of the long inlet pipe in the 1980s, also lag problem. One peak flow rating applied to period of record. Calibrated by physical model but lack of cableway means rating not checked above moderate flows. Flood Studies Report grade C. FLOW REGIME: Flow regime is substantially influenced by Derwent Reservoir, which began impounding in 1965. Flashy response to rainfall prior to reservoir construction. Significant net export of water.
+CATCHMENT,Predominantly upland catchment on moderately permeable carboniferous formations (Carboniferous Limestone in the upper catchment and Millstone Grit and Coal Measures elsewhere), with around half of the catchment overlain by superficial deposits of peat and Boulder Clay. Derwent Reservoir began impounding in 1965, two years into record. Mixed land use - under a half is grassland, with heath uplands; arable and urban development in lower reaches.
+Qmed Suitability,Gaugings only extend to 25% of QMED, however modelled in 1962 by Durham University Civil Engineering Department.
+Pooling Suitability,Rating obtained from physical model tests and assumed to be applicable to highest flows.
+[END]

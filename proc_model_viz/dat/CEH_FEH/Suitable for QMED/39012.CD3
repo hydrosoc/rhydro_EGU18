@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 39012
+[END]
+[CDS DETAILS]
+NAME,Hogsmill
+LOCATION,Kingston upon Thames
+NOMINAL AREA,   72.91
+NOMINAL NGR,5181,1687
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,518200,168800
+CENTROID NGR,GB,520892,161699
+DTM AREA,   72.91
+ALTBAR,  72
+ASPBAR,342
+ASPVAR,0.37
+BFIHOST,0.599
+DPLBAR, 11.18
+DPSBAR, 32.1
+FARL,0.991
+FPEXT,0.1051
+LDP, 21.20
+PROPWET,0.30
+RMED-1H, 10.7
+RMED-1D, 33.0
+RMED-2D, 42.4
+SAAR, 671
+SAAR4170, 682
+SPRHOST,27.20
+URBCONC1990, 0.783
+URBEXT1990,0.2066
+URBLOC1990, 0.764
+URBCONC2000, 0.904
+URBEXT2000,0.3074
+URBLOC2000, 0.840
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Non-standard flume with broad-crested weir. Responsive regime but flows are influenced by water imports and sewage effluent. GENERAL: Non-standard flume with bed invert/broad crested weir, 9.1m broad situated in a short reach between u/s and d/s bends. STATION HYDROMETRY: Modular to beyond MAF. One peak flow rating applied across period of record. Rating reasonably accurate, though less so above 0.6m. Non-modular flow above this level is not well described by the current rating. FLOW RECORD: Some pre-war data available; station relocated following post-war river works. FLOW REGIME: Responsive regime but sewage effluent, which has increased over time, dominates the dry weather flow. Significant imports of water, hence unrepresentative runoff.
+CATCHMENT,A largely urban/suburban catchment in SW London developed mainly on London Clay but headwaters are on the Chalk of the North Downs. Below the headwaters, a largely urban/suburban catchment in SW London developed mainly on London Clay and Chalk (the Hogsmill rises in the North Downs)
+Qmed Suitability,Good fit to gaugings up to 0.6m, QMED estimates thought to be reasonable.
+Pooling Suitability,At higher flows the weir drowns and water backs up from the River Thames. No high flow gaugings are available to validate rating beyond QMED.
+[END]

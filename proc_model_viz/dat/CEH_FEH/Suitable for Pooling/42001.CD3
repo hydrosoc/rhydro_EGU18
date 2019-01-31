@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 42001
+[END]
+[CDS DETAILS]
+NAME,Wallington
+LOCATION,North Fareham
+NOMINAL AREA,  111.67
+NOMINAL NGR,4587,1074
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,458700,107450
+CENTROID NGR,GB,464837,112499
+DTM AREA,  111.67
+ALTBAR,  69
+ASPBAR,200
+ASPVAR,0.26
+BFIHOST,0.639
+DPLBAR, 13.29
+DPSBAR, 46.9
+FARL,0.979
+FPEXT,0.0682
+LDP, 24.32
+PROPWET,0.34
+RMED-1H,  9.2
+RMED-1D, 35.2
+RMED-2D, 45.8
+SAAR, 819
+SAAR4170, 863
+SPRHOST,24.23
+URBCONC1990, 0.639
+URBEXT1990,0.0392
+URBLOC1990, 1.036
+URBCONC2000, 0.853
+URBEXT2000,0.0526
+URBLOC2000, 1.038
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Flat-V weir installed 1991, 250m upstream of the M27 river crossing. Flashy response but with appreciable baseflow. GENERAL: Flat-V weir (1:10 cross slope, 6 m wide) installed 1991, 250m upstream of the M27 river crossing. Replaced a compound critical depth flume with total crest width 4.8m, comprising central low flow channel and two side channels (0.39 m above central channel) which operated from 0.567 m3/s and was occasionally blocked by debris. STATION HYDROMETRY: Modular limit 1.0m, stage peaks truncated at ~20 cumecs; weir drowns. Numerous potential bypassing locations u/s of the gauge; bypassing occurs before water level reaches the top of wing walls. Upstream of the station floodplain is typically less than 150m wide and river meanders from one side to the other. Flooding exacerbated by Wallington Bridge 1km d/s of the weir, and spring tides can extend u/s of the bridge. Between the gauge and M27 crossing the river consists of a series of interconnected pools with mobile channel bed, considerable bank erosion and debris in the channel. A 3m section of bank u/s of the station has been stabilised with rock and concrete, the d/s bank has been stabilised with loose rock covered by fencing. Bridge across weir can make current meter measurement difficult in flood flows. Two peak flow ratings applied across period of record, the most recent is valid from November-1991. Current rating developed from hydraulic model and confirmed by gaugings. FLOW RECORD: Peak flow data only available from October 1976 onwards. Pre-1991, flows were truncated at ~10 cumecs (due to bypassing via the upstream eastern bank) and estimated using 42003. No data 20/07/91-03/12/91 due to station reconstruction. FLOW REGIME: Flashy response but with appreciable baseflow - zero flow in 1976 only. Groundwater catchment smaller than topographic catchment. In the upper catchment, runoff is negligible, except during wet winters when the bournes or lavants (seasonal streams) are running. Ground water abstraction causes a net diminution in runoff. Spray irrigation can significantly reduce summer flows. No direct surface water abstractions. Runoff from M27 motorway, 200m downstream of weir. Springs at Havant derive water from the Wallington area, therefore the Wallington is not typical of the area as a whole.
+CATCHMENT,Permeable headwaters (Chalk) with impervious Eocene clays dominating below the headwaters. Upper Chalk with isolated patches of clay-with-flints covers northern half of catchment & a narrow belt on Southern boundary. Reading Beds (predominantly clays), London Clay, Bagshot Sand & Bracklesham Beds (sands & clays) occur between the two chalk outcrops, with alluvium dominating the valleys. On leaving the central basin the river cuts through the edge of the Portsdown Chalk ridge and flows over Tertiary clays into the sea. A largely rural catchment, but with an expanding developed area encompassing Waterlooville, Denmead & Purbrook in the headwaters.
+Qmed Suitability,Valid from 1991 when weir installed.
+Pooling Suitability,Valid from 1991 when weir installed.
+[END]

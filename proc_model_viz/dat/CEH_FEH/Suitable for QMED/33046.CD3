@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 33046
+[END]
+[CDS DETAILS]
+NAME,Thet
+LOCATION,Redbridge
+NOMINAL AREA,  143.43
+NOMINAL NGR,5996,2923
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,599600,292300
+CENTROID NGR,GB,602298,295015
+DTM AREA,  143.43
+ALTBAR,  44
+ASPBAR,215
+ASPVAR,0.17
+BFIHOST,0.581
+DPLBAR, 10.63
+DPSBAR, 12.5
+FARL,0.946
+FPEXT,0.2034
+LDP, 21.77
+PROPWET,0.31
+RMED-1H, 11.1
+RMED-1D, 28.2
+RMED-2D, 35.5
+SAAR, 624
+SAAR4170, 658
+SPRHOST,32.23
+URBCONC1990, 0.613
+URBEXT1990,0.0168
+URBLOC1990, 0.900
+URBCONC2000, 0.783
+URBEXT2000,0.0163
+URBLOC2000, 0.864
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Crump profile gauging a Chalk catchment largely overlain with Boulder Clay and with predominantly agricultural land use, some artificial influences. GENERAL: Crump profile weir 4m broad. STATION HYDROMETRY: Theoretical rating confirmed by current metering to structurefull, thereafter rating allows for drowning and spilling, but there is significant scatter in gaugings beyond 0.3m. One rating applied across period of record. FLOW RECORD: Sept 1968 flooded entire area under water, maximum POR level recorded as 17.5cumecs, flow extrapolated as the river was out of bank. GDF and HIF POR updated in 2014. FLOW REGIME: Gw abstractions for PWS and industry; surface water abstractions for spray irrigation.
+CATCHMENT,Chalk largely overlain with Boulder Clay. Agricultural land use, predominantly arable.
+Qmed Suitability,Gauged to within 16% of QMED, significant scatter in highest gaugings reduces confidence in QMED estimates. Use with caution
+Pooling Suitability,Few high flow gaugings. Rating can not be validated beyond QMED.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 36005
+[END]
+[CDS DETAILS]
+NAME,Brett
+LOCATION,Hadleigh
+NOMINAL AREA,  155.85
+NOMINAL NGR,6024,2429
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,602450,242950
+CENTROID NGR,GB,596378,249597
+DTM AREA,  155.85
+ALTBAR,  69
+ASPBAR,158
+ASPVAR,0.12
+BFIHOST,0.428
+DPLBAR, 15.87
+DPSBAR, 29.8
+FARL,0.994
+FPEXT,0.0764
+LDP, 35.13
+PROPWET,0.28
+RMED-1H, 10.3
+RMED-1D, 26.2
+RMED-2D, 33.7
+SAAR, 580
+SAAR4170, 603
+SPRHOST,43.59
+URBCONC1990, 0.442
+URBEXT1990,0.0076
+URBLOC1990, 0.786
+URBCONC2000, 0.655
+URBEXT2000,0.0092
+URBLOC2000, 0.829
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,'Essex' profile gauging a rural, Upper Chalk semi-pervious catchment with some artificial influences. GENERAL: 'Essex' profile (modified Flat V Crump) weir with low flow side weir and high flow rated spillway. D/s water level recorder to allow for drowning. STATION HYDROMETRY: Drowning compensated for using d/s water level recorder. Rating potentially overestimates flows below 0.6m but this is slight. One rating applied across period of record. FLOW RECORD: No POT data are presented for this station as they have no non-modular flow correction applied. AMAX data have been corrected, but in some cases can be below the daily flow as these are not corrected. Naturalised flows from 1962 to 1976. Since 1976, adjustments for gw abstractions no longer made to the DMFs. FLOW REGIME: Gw-influenced regime. Since 1976, adjustments for gw abstractions for PWS and industrial abstraction from surface water are no longer made to the gauged daily mean flows. Minor effluent returns may affect flow.
+CATCHMENT,Upper Chalk largely covered mainly with semi-pervious Boulder Clay and some sands and gravels. Predominantly rural catchment, mainly arable land.
+Qmed Suitability,Reasonable fit to gaugings.
+Pooling Suitability,Gauged to within 13% of AMAX3. Majority of flows contained and rating confirmed by gaugings.
+[END]

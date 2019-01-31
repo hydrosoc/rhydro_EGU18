@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 50008
+[END]
+[CDS DETAILS]
+NAME,Lew
+LOCATION,Gribbleford Bridge
+NOMINAL AREA,   71.23
+NOMINAL NGR,2527,1013
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,252750,101400
+CENTROID NGR,GB,250127, 98335
+DTM AREA,   71.23
+ALTBAR, 175
+ASPBAR,  9
+ASPVAR,0.28
+BFIHOST,0.406
+DPLBAR,  7.10
+DPSBAR, 81.5
+FARL,0.999
+FPEXT,0.0439
+LDP, 12.17
+PROPWET,0.50
+RMED-1H, 12.3
+RMED-1D, 39.9
+RMED-2D, 51.2
+SAAR,1192
+SAAR4170,1251
+SPRHOST,39.76
+URBCONC1990,-9999.000
+URBEXT1990,0.0000
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0009
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Flat V control built in 2002 to replace previous informal Flat V control built in 1988. GENERAL: Informal Flat V control built in 1988; 10.4m wide between high angle, trapezoidal gabion wing walls. Some erosion of weir crest. Station replaced by more formal Flat-V construction in 10/2002 at or about same location, with new weir, wing walls and datum. Station is on a gentle bend with reasonably straight approach. Cableway. Natural catchment but station was installed to monitor potential transfer from Roadford Reservoir. STATION HYDROMETRY: Large floods inundate left bank, and very high flows will bypass station. No backwater effects. Multiple peak flow ratings applied across period of record, the most recent is valid from 10/2002 when weir was rebuilt. FLOW REGIME: Runoff natural to within 10% at Q95, but station was
+CATCHMENT,Natural catchment of moderate relief draining Carboniferous Culm Measures (shales, limestones, sandstones). Wholly rural, moorland and rough grazing, minor forestry. No major changes to catchment.
+Qmed Suitability,Gauged to within 13% of QMED.
+Pooling Suitability,Few high flow gaugings. Rating can not be validated beyond QMED.
+[END]

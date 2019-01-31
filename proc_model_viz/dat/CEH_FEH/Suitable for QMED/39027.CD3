@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 39027
+[END]
+[CDS DETAILS]
+NAME,Pang
+LOCATION,Pangbourne
+NOMINAL AREA,  175.68
+NOMINAL NGR,4634,1765
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,463450,176600
+CENTROID NGR,GB,453633,176722
+DTM AREA,  175.68
+ALTBAR, 121
+ASPBAR,117
+ASPVAR,0.20
+BFIHOST,0.720
+DPLBAR, 20.73
+DPSBAR, 52.7
+FARL,0.996
+FPEXT,0.0629
+LDP, 41.14
+PROPWET,0.31
+RMED-1H, 10.9
+RMED-1D, 31.9
+RMED-2D, 40.6
+SAAR, 694
+SAAR4170, 702
+SPRHOST,22.04
+URBCONC1990,-9999.000
+URBEXT1990,0.0046
+URBLOC1990,-9999.000
+URBCONC2000, 0.684
+URBEXT2000,0.0118
+URBLOC2000, 0.679
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Station within a rural, mainly chalk, catchment with some influence from abstraction and the main Thames in times of flooding. GENERAL: Crump weir, 4.0m broad. A tail-water tapping was installed in 2000 (data from 01/07/2001) to replace previous crest-tappings. STATION HYDROMETRY: The modular limit is approximatley 0.4m. Backwater effects, created by the River Thames confluence 137m d/s, causes drowning or even submergence. Correction for drowning is difficult due to the unreliability of the pressure tapping (performance has declined through time). There is greater uncertainty in flows at stages above 0.4m and below 0.1m. No local bypassing but extensive overspilling occurs into Sulham Brook near Tidmarsh during extreme floods (e.g. July 2007 when weir was also drowned). Peak flow rating based on a Standard Crump weir calculation using tail levels. Peak flow rating estimates flow to a good level of accuracy, if not drowned or bypassed. FLOW RECORD: High flows should be treated with caution where overspill occurs into Sulham Brook (e.g. July 2007), or drowning is caused by the Thames. FLOW REGIME: Abstraction mainly for industrial/agricultural use. Flow/runoff substantially diminished by groundwater abstractions, although there has been a large reduction in the Compton abstraction from the early 1990s. Occasional impact of WBGS but otherwise relatively few artificial influences on flows.
+CATCHMENT,Catchment is principally pervious (Chalk) but a low percentage is impermeable (Reading Beds, London Clay and Alluvium); appreciable Drift/Clay-with-Flint cover also. A largely rural catchment with appreciable woodland and scattered settlements.
+Qmed Suitability,Gauged above QMED. which is below bank full and below the modular limit.
+Pooling Suitability,At stages of greater than around 0.4m, the rating overestimates flows by 50-80%.
+[END]

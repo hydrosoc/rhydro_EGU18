@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 34001
+[END]
+[CDS DETAILS]
+NAME,Yare
+LOCATION,Colney
+NOMINAL AREA,  228.81
+NOMINAL NGR,6182,3082
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,618250,308250
+CENTROID NGR,GB,606922,304372
+DTM AREA,  228.81
+ALTBAR,  46
+ASPBAR, 67
+ASPVAR,0.10
+BFIHOST,0.528
+DPLBAR, 23.13
+DPSBAR, 18.5
+FARL,0.971
+FPEXT,0.1386
+LDP, 40.16
+PROPWET,0.31
+RMED-1H, 11.2
+RMED-1D, 28.8
+RMED-2D, 36.1
+SAAR, 635
+SAAR4170, 666
+SPRHOST,35.34
+URBCONC1990, 0.624
+URBEXT1990,0.0215
+URBLOC1990, 0.878
+URBCONC2000, 0.802
+URBEXT2000,0.0188
+URBLOC2000, 0.856
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Frequently bypassed structure gauging a rural, Chalk catchment with superficial deposits and with significant artificial influences. GENERAL: A compound weir 11.9m wide reconstructed in Jan 1964 from single level broad-crested weir. The present structure has a Crump section 8.9m wide separated by a pier from a broad-crested weir at a lower level. STATION HYDROMETRY: Mill sluices artificially regulate flow, but have little influence on flood flows. Frequent bypassing on the left bank. Road bridge built downstream in the late 1990s, after which all gaugings above 1m were taken which fit poorly to rating. One peak flow rating applied across period of record. FLOW REGIME: Gw is abstracted for agricultural uses. Significant seasonal variations in abstractions due to the use of water for spray irrigation in the summer.
+CATCHMENT,Topographical catchment exceeds contributing area (gw catchment), discrepancies along the south eastern boundary in the headwaters of the Blackwater and Tiffey. However the total estimated groundwater and surface water catchment areas are almost identical. No major changes during the period of record. Chalk catchment with superficial deposits, mainly Boulder Clay and alluvium - glacial till and some sand and gravel. Rural catchment, land use is predominantly arable.
+Qmed Suitability,Good fit to gauging.
+Pooling Suitability,Gaugings since construction of road bridge in 1990's indicate that current rating overestimates flows.
+[END]

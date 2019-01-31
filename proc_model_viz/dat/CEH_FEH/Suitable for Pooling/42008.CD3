@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 42008
+[END]
+[CDS DETAILS]
+NAME,Cheriton Stream
+LOCATION,Sewards Bridge
+NOMINAL AREA,   74.34
+NOMINAL NGR,4573,1322
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,457350,132250
+CENTROID NGR,GB,461729,127315
+DTM AREA,   74.34
+ALTBAR, 121
+ASPBAR,292
+ASPVAR,0.14
+BFIHOST,0.941
+DPLBAR, 10.34
+DPSBAR, 54.2
+FARL,0.995
+FPEXT,0.0403
+LDP, 21.67
+PROPWET,0.34
+RMED-1H,  9.9
+RMED-1D, 37.0
+RMED-2D, 48.9
+SAAR, 885
+SAAR4170, 921
+SPRHOST, 6.89
+URBCONC1990,-9999.000
+URBEXT1990,0.0042
+URBLOC1990,-9999.000
+URBCONC2000, 0.695
+URBEXT2000,0.0086
+URBLOC2000, 0.430
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Crump profile weir measuring a permaeable catchment with very stable flow regime. Surface runoff can generate minor hydrograph spikes. GENERAL: Granite crested Crump profile weir (crest width 3.0m), with an approach channel approx. 2.6 times the crest width. STATION HYDROMETRY: Good hydrometric performance, all flows contained but drowns at high flows (e.g. 2000) due to backing up from confluence with larger channel downstream. Downstream level recorder installed. Corrections made for algal growth noted on sill. Some sand deposits in approach channel. Possible downstream weed problems, unless cut regularly (regular cutting in past). Theoretical rating for a Crump weir. Confirmed by spot flows to 0.45m and probably valid to bankfull (0.77m). FLOW RECORD: A monthly series of gaugings available from the measuring authority from 1956. FLOW REGIME: The Cheriton Stream is ephemeral in its upper reaches. Very stable regime (surface runoff can generate minor hydrograph spikes). Low flows influenced by neighbouring River Itchen augmentation scheme (from 1989), which causes a slight reduction in discharge. Industrial abstraction & cress farming may have a small influence on flows.
+CATCHMENT,A very permeable (Upper Chalk) catchment - isolated patches of Clay-with-Flints occur on high ground. Rural land use; arable, with considerable downland and woodland areas (but Alresford is adjacent to the station). Contributing area differs considerably from topographical catchment.
+Qmed Suitability,Gauged above QMED. Reasonable fit to gaugings.
+Pooling Suitability,Gauged beyond AMAX3. Reasonable fit to gaugings.
+[END]

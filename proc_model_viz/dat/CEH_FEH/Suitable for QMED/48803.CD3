@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 48803
+[END]
+[CDS DETAILS]
+NAME,Carnon
+LOCATION,Bissoe
+NOMINAL AREA,   33.62
+NOMINAL NGR,1774, 412
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,177450,41250
+CENTROID NGR,GB,173849, 42260
+DTM AREA,   33.62
+ALTBAR, 103
+ASPBAR, 90
+ASPVAR,0.23
+BFIHOST,0.623
+DPLBAR,  5.22
+DPSBAR, 84.6
+FARL,0.984
+FPEXT,0.0214
+LDP,  9.42
+PROPWET,0.42
+RMED-1H, 11.2
+RMED-1D, 39.3
+RMED-2D, 52.1
+SAAR,1161
+SAAR4170,1166
+SPRHOST,27.03
+URBCONC1990, 0.550
+URBEXT1990,0.0341
+URBLOC1990, 1.007
+URBCONC2000, 0.682
+URBEXT2000,0.0258
+URBLOC2000, 1.023
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Flat V weir opened in 1994. High sediment loads. GENERAL: Station opened in 1994. Flat V weir, crest length approximately 4.0m wide. STATION HYDROMETRY: Relatively straight approach. High sediment loads. Bankfull at 2.5m. Three peak flow ratings across period of record. Change in downstream maintenance regime has resulted in gradual infilling of channel and drowning of the weir from an increasingly lower level (0.33m). Early drowning and In addition impacts from backing up from Bissoe bridge has resulted in a rating change from October 2011 based on extensive gauging. Acoustic Time of Flight was installed in 2013 due to the unstable stage discharge relationship. Therefore good confidence in data from 2011 onwards. FLOW REGIME: No major influences to flow regime.
+CATCHMENT,The catchment consists mostly of Devonian slates and sandstones and Granite. Also with some areas of alluvium, Greenstones and Quartz Porphyry. Land use mostly rural with some urbanisation. No major changes in catchment.
+Qmed Suitability,Although gauged to within 11% of QMED, station drowned for significant period of time and known to be suspect, retained as time of flight Ultrasonic gauge proposed
+Pooling Suitability,Few high flow gaugings. Station drowned for significant period of time and known to be suspect, retained as time of flight Ultrasonic gauge proposed
+[END]

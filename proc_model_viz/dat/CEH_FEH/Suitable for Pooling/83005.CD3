@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 83005
+[END]
+[CDS DETAILS]
+NAME,Irvine
+LOCATION,Shewalton
+NOMINAL AREA,  367.57
+NOMINAL NGR,2345,6368
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,234500,636900
+CENTROID NGR,GB,249487,638574
+DTM AREA,  367.57
+ALTBAR, 151
+ASPBAR,241
+ASPVAR,0.24
+BFIHOST,0.339
+DPLBAR, 27.56
+DPSBAR, 55.5
+FARL,0.980
+FPEXT,0.0813
+LDP, 52.58
+PROPWET,0.60
+RMED-1H,  9.4
+RMED-1D, 37.3
+RMED-2D, 52.8
+SAAR,1228
+SAAR4170,1211
+SPRHOST,42.41
+URBCONC1990, 0.826
+URBEXT1990,0.0240
+URBLOC1990, 0.571
+URBCONC2000, 0.841
+URBEXT2000,0.0271
+URBLOC2000, 0.571
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station with bank stability issues since March 2011. GENERAL: Velocity area station approx. 30m wide. STATION HYDROMETRY: Rock bar/bridge debris control - channel control at high flows. All flows contained. Peak flow ratings derived from current meter gaugings up to 3.8m (about 1.5 QMED), simple extrapolation beyond. FLOW RECORD: Flows since March 2011 not currently held on the NRFA due to bank stability issues. FLOW REGIME: A responsive, sensibly natural flow regime (but affected by effluent from STW). In the near future there is a comprehensive flood prevention scheme planned.
+CATCHMENT,Generally upland catchment but topography more subdued below Greenholm. Bedrock predominantly Carboniferous sediments with basalt tracts towards headwaters. Extensively overlain by superficial deposits, mainly Boulder Clay with peat in the headwaters. Land use: mixed farming and hill grazing; some forestry in the upper catchment. Kilmarnock (12km u/s) is the only large urban area.
+Qmed Suitability,No comment
+Pooling Suitability,No comment
+[END]

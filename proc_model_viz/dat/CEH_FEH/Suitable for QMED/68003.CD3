@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 68003
+[END]
+[CDS DETAILS]
+NAME,Dane
+LOCATION,Rudheath
+NOMINAL AREA,  412.46
+NOMINAL NGR,3667,3718
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,366750,371800
+CENTROID NGR,GB,383419,363584
+DTM AREA,  412.46
+ALTBAR, 144
+ASPBAR,281
+ASPVAR,0.25
+BFIHOST,0.459
+DPLBAR, 36.96
+DPSBAR, 59.9
+FARL,0.968
+FPEXT,0.1256
+LDP, 74.33
+PROPWET,0.40
+RMED-1H,  9.9
+RMED-1D, 32.1
+RMED-2D, 41.5
+SAAR, 853
+SAAR4170, 877
+SPRHOST,35.55
+URBCONC1990, 0.720
+URBEXT1990,0.0362
+URBLOC1990, 0.845
+URBCONC2000, 0.830
+URBEXT2000,0.0479
+URBLOC2000, 0.815
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Flat-V weir on the Dane, station affected by water backing up from downstream. Includes data from earlier velocity-area station 10m upstream. GENERAL: Opened as a velocity-area station in 1949, and rebuilt in 1957. Replaced in Febraury 1979 by a Flat-V weir, 14m wide with truncated downstream slope. Both stations downstream of high road bridge, and ran simultaneously for a while. STATION HYDROMETRY: The original Velocity-area station suffered from changes in bed level due to mobile control which required several changes to rating with uncertainty as to applicability to high flows and to periods over which ratings applied. The current weir drowns at approx 1m. Cableway installed 01/1982; since removed. Gauged by wading or from u/s bridge. High flows regularly inundate fields over left bank (3.6m). Suffers from variable backwater which may affect the peak flow rating, due to backing-up from the Weaver but possibly also affected by changes in the maintenance regime; a downstream level recorder was installed in September 2002. Multiple peak flow ratings applied across period of record developed from in-bank current meter gaugings. From 1979 uses ratings derived from gaugings for the Flat-V weir, with hydraulic modelling applied to derive the top limb. Flood Studies Report grade B. FLOW RECORD: Gauged daily flow data should be treated with caution prior to 02/1979. Low flows poor before 06/1957 (changing bed levels and cross section due to large amounts of silt). Summer 1976 flows might be overestimated. No data available during weir construction (11/1978 to 02/1979). Re-rated data for 09/2000 to 12/2009 loaded onto NRFA 10/2010; highest gauged daily flows reduced by around 10%. Although peak flows are presented for the period of record, flows before 1979 are marked as rejected and should not be used in flood analyses. FLOW REGIME: Responsive regime. Headwater transfers to Rudyard and Bosley reservoirs, which feed the Trent and Mersey canal. Many artificial influences within the catchment.
+CATCHMENT,Headwaters in the southern Pennines but, for most part, river meanders over Cheshire plain with varying depths of post glacial drift overlying Triassic s'st and Upper Triassic Keuper marl (mostly low permeability). In the east are Carboniferous Limestones, sandstones and grits. Alluvium in the valley bottoms. Mixed land use with appreciable urban development in the lower catchment. No catchment changes known.
+Qmed Suitability,Gauged above QMED. Fits well to recent gaugings.
+Pooling Suitability,Gauged to within 24% of AMAX3. Reasonable confident in hydraulic model derived rating at high flows, but not deemed suitable for pooling.
+[END]

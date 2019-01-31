@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 67015
+[END]
+[CDS DETAILS]
+NAME,Dee
+LOCATION,Manley Hall
+NOMINAL AREA, 1008.74
+NOMINAL NGR,3348,3414
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,334850,341450
+CENTROID NGR,GB,303097,340024
+DTM AREA, 1008.74
+ALTBAR, 339
+ASPBAR, 85
+ASPVAR,0.09
+BFIHOST,0.431
+DPLBAR, 56.75
+DPSBAR,154.8
+FARL,0.934
+FPEXT,0.0457
+LDP, 93.29
+PROPWET,0.55
+RMED-1H, 10.2
+RMED-1D, 44.2
+RMED-2D, 59.4
+SAAR,1367
+SAAR4170,1396
+SPRHOST,42.69
+URBCONC1990,-9999.000
+URBEXT1990,0.0025
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0043
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Asymmetrical compound Crump profile weir. Abstraction for PWS and industrial/agricultural uses. GENERAL: Asymmetrical compound Crump profile weir. Replaced 67002 Erbistock Rectory in order to provide more accurate measurement of low-medium flows on the river Dee. Site used for flood warning. STATION HYDROMETRY: Structure comprises two crump weirs (low/high flow weirs 15/20m wide respectively). Drowns at flows above 200 cumecs but not bypassed (due to rock outcrop on left bank and revetments on right bank). Flows affected by major river regulating reservoirs (control gates at Lake Bala, Llyn Celyn). Refurbished in 1997, with further work in 2014 to replace weir crests, install fish counter and reinforce banks. Multiple peak flow ratings applied across period of record. A number of high flow gaugings (current meter) confirm rating across most of the range. Cableway used for high flow gaugings, ADCP boat during low flows. FLOW RECORD: Data during construction (01/04/1998 - 01/04/1999) was infilled based on nearby station 67010 R. Gelyn at Cynefail. Full period of record peak flow data reviewed and released in April 2017 (WINFAP Files v5). Unrepresentative period at beginning of record due to unsatisfactory rating. FLOW REGIME: Abstraction for public water supply and industrial/agricultural uses. Low flows maintained by releases from major river regulating reservoirs, Celyn and Brenig. Flood attenuation on the lower Dee flood plain is notable.
+CATCHMENT,Predominantly impermeable Palaeozoic rocks and volcanics. Shales, slates, mudstones and Palaeozoic grits, and to a lesser extent extrusive igneous and Carboniferous rocks. Mostly grassland (upland pasture to lowland livestock farming). Some forest, significant upland heath.
+Qmed Suitability,Gauged above QMED. Good fit to available gaugings.
+Pooling Suitability,Gauged beyond AMAX3. Good fit to available gaugings
+[END]

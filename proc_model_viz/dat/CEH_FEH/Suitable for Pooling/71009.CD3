@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 71009
+[END]
+[CDS DETAILS]
+NAME,Ribble
+LOCATION,New Jumbles Rock
+NOMINAL AREA, 1047.01
+NOMINAL NGR,3702,4375
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,370250,437550
+CENTROID NGR,GB,377633,448324
+DTM AREA, 1047.01
+ALTBAR, 231
+ASPBAR,224
+ASPVAR,0.08
+BFIHOST,0.367
+DPLBAR, 32.66
+DPSBAR, 97.4
+FARL,0.974
+FPEXT,0.0715
+LDP, 78.75
+PROPWET,0.57
+RMED-1H, 11.0
+RMED-1D, 44.2
+RMED-2D, 60.2
+SAAR,1369
+SAAR4170,1344
+SPRHOST,42.38
+URBCONC1990, 0.751
+URBEXT1990,0.0260
+URBLOC1990, 0.740
+URBCONC2000, 0.829
+URBEXT2000,0.0389
+URBLOC2000, 0.744
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station with bedrock control located just downstream of confluence with River Calder. GENERAL: Old Jumbles Rock believed to have been opened 1964, but no data until 01/01/1970. A velocity area station with a bedrock control. Station re-sited to New Jumbles Rock 50m downstream in 1979 using same control, and cableway installed. Station located just downstream of confluence with the River Calder. STATION HYDROMETRY: Weed growth in the summer. Extreme flows are out of bank. One rating, derived from current meter gaugings, applied across period of record. FLOW RECORD: Affected by ice and snow 19-27/12/2010; flows estimated from 71001 by NRFA.
+CATCHMENT,Geology consists of Carboniferous Limestone and Millstone Grit with Some Coal Measures in the Southeast overlain with Boulder Clay. A predominantly rural catchment with mixed farming in lower reaches and peat moorland in headwaters. No significant catchment changes.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged to within 5% of AMAX3. Extreme flows are out of bank.
+[END]

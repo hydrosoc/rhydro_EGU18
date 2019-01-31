@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 64001
+[END]
+[CDS DETAILS]
+NAME,Dyfi
+LOCATION,Dyfi Bridge
+NOMINAL AREA,  464.61
+NOMINAL NGR,2744,3019
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,274500,301900
+CENTROID NGR,GB,284142,306845
+DTM AREA,  464.61
+ALTBAR, 281
+ASPBAR,222
+ASPVAR,0.07
+BFIHOST,0.478
+DPLBAR, 20.37
+DPSBAR,269.8
+FARL,0.995
+FPEXT,0.0292
+LDP, 40.49
+PROPWET,0.66
+RMED-1H, 11.1
+RMED-1D, 58.4
+RMED-2D, 75.6
+SAAR,1835
+SAAR4170,1837
+SPRHOST,39.85
+URBCONC1990,-9999.000
+URBEXT1990,0.0004
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0007
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Natural river section controlled by d/s gravel bar. Natural flow regime. GENERAL: A 40m wide river section. STATION HYDROMETRY: Stable section. Downstream gravel bar acts as control, original control was the invert and arches of the historical Dyfi road bridge d/s. Multiple peak flow ratings applied across period of record, the most recent is valid from December 2009. Provides good fit to gaugings. FLOW RECORD: Daily flow data collection at site suspended since September 2013 due to ongoing maintenance works. Records in early years are marred by substantial engineering works carried out on the bridge. Full period of record peak flow data reviewed and released in April 2017 (WINFAP Files v5). FLOW REGIME: Natural to within 10% at Q95.
+CATCHMENT,Impermeable Silurian formations, minor Boulder Clay and alluvium deposits. Catchment is mostly grassland/moorland, with extensive areas of forest. Patches of upland heath.
+Qmed Suitability,Gauged to within 1% of QMED. However, apply caution when using pre 1977 data as few gaugings to confirm ratings in early part of record.
+Pooling Suitability,Channel gauged to within 16% of AMAX3, but flows upstream go out of bank, with potentially significant bypassing of the station.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 52004
+[END]
+[CDS DETAILS]
+NAME,Isle
+LOCATION,Ashford Mill
+NOMINAL AREA,   87.41
+NOMINAL NGR,3360,1187
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,336050,118800
+CENTROID NGR,GB,334329,113225
+DTM AREA,   87.41
+ALTBAR,  93
+ASPBAR, 31
+ASPVAR,0.26
+BFIHOST,0.499
+DPLBAR, 10.39
+DPSBAR, 64.5
+FARL,0.979
+FPEXT,0.0837
+LDP, 17.88
+PROPWET,0.40
+RMED-1H, 11.4
+RMED-1D, 39.1
+RMED-2D, 51.2
+SAAR, 891
+SAAR4170, 941
+SPRHOST,39.76
+URBCONC1990, 0.789
+URBEXT1990,0.0101
+URBLOC1990, 1.144
+URBCONC2000, 0.796
+URBEXT2000,0.0264
+URBLOC2000, 1.090
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Crump profile weir for low flows with velocity area section for higher flows further downstream. Site subject to vandalism. GENERAL: Crump profile weir for low flows, crest 6.71m broad, located approximately 300m upstream of Ashford Mill House. Velocity area station for higher flows downstream. Site subject to vandalism. STATION HYDROMETRY: Modular limit of 0.6m. Downstream weed growth affects the stability of the stage-discharge relationship. Bypassing of station at high flows; extensive floodplain storage occurs next to the station before bankfull reached. Rating reviewed by EA in 2016. Peak flow rating curve is a combination of theoretical for weir and best-fit curve for medium and high flows. Scatter in gaugings at high flows although general shape of rating confirmed. Modelled top segment for out of bank flows. FLOW REGIME: Flows influenced by minor groundwater abstraction, but augmented by effluent returns; evidence of mill/factory discharges on charts.
+CATCHMENT,Very responsive, impermeable catchment, predominantly comprising of Lower Lias clays. Land use is rural. No major catchment changes.
+Qmed Suitability,No comment
+Pooling Suitability,Some bypassing at highest flows but gaugings confirm rating to 2m and probably applicable to bankfull.
+[END]

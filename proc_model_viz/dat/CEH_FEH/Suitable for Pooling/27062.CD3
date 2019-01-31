@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 27062
+[END]
+[CDS DETAILS]
+NAME,Nidd
+LOCATION,Skip Bridge
+NOMINAL AREA,  523.47
+NOMINAL NGR,4482,4560
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,448250,456100
+CENTROID NGR,GB,424594,460849
+DTM AREA,  523.47
+ALTBAR, 185
+ASPBAR, 91
+ASPVAR,0.22
+BFIHOST,0.416
+DPLBAR, 51.02
+DPSBAR, 71.8
+FARL,0.950
+FPEXT,0.1024
+LDP, 91.82
+PROPWET,0.36
+RMED-1H, 11.4
+RMED-1D, 38.3
+RMED-2D, 48.3
+SAAR, 945
+SAAR4170, 951
+SPRHOST,39.36
+URBCONC1990, 0.777
+URBEXT1990,0.0244
+URBLOC1990, 0.749
+URBCONC2000, 0.847
+URBEXT2000,0.0308
+URBLOC2000, 0.767
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Full range ultrasonic station since 1999. Previously a flat-V weir. Intended to measure low flows to complement 27001. GENERAL: Full-range multi-path ultrasonic operating since 1999. The site was previously a flat-V weir (since 1979; 17m wide) but it had a limited range and drowned at flows greater than 12 cumecs (flows backed up from the River Ouse). The weir was originally intended for low flow measurement in conjunction with Hunsingore (27001), which is insensitive at low flows. The weir was removed in 1999. Station converted to ultrasonic (multi-path, crossed configuration) in 1999 to improve fish passage and due to limited range and drowning of previous station. Ultrasonic gauge originally only set to measure up to 100 cumecs, but range extended after June 2000 event (and before October 2000 event). STATION HYDROMETRY: Low flows in recent years are thought to be too high, as a result of ongoing siltation problems, currently under investigation. Further comparison with Hunsingore (which tends to have higher peak flows) required. Flow measured directly by ultrasonic gauge. Several gaugings >75 cumecs give close agreement with ultrasonic gauge flow. FLOW RECORD: Flows from 1982 reprocessed - high flows have been substantially reduced, with minimal effect on low flows. For peak flows, only ultrasonic data is presented (from 1999). FLOW REGIME: Heavily reservoired headwaters of the Nidd valley significantly affect flows; Gouthwaite Reservoir outflows especially significant in drought conditions.
+CATCHMENT,Geology: Carboniferous Millstone Grits, Permian Marls and Triassic Sandstones. Predominantly rural, rugged in headwaters. No known catchment changes.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Comparison between gaugings and ultrasonic gauge is reasonable; flows are lower than those at Hunsingore but this is attributed to attenuation and storage between the two sites.
+[END]

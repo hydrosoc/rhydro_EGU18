@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 33034
+[END]
+[CDS DETAILS]
+NAME,Little Ouse
+LOCATION,Abbey Heath
+NOMINAL AREA,  707.75
+NOMINAL NGR,5850,2843
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,585100,284400
+CENTROID NGR,GB,596477,281368
+DTM AREA,  707.75
+ALTBAR,  42
+ASPBAR,351
+ASPVAR,0.05
+BFIHOST,0.694
+DPLBAR, 29.12
+DPSBAR, 16.3
+FARL,0.959
+FPEXT,0.1632
+LDP, 50.63
+PROPWET,0.29
+RMED-1H, 10.9
+RMED-1D, 28.2
+RMED-2D, 35.3
+SAAR, 607
+SAAR4170, 618
+SPRHOST,23.98
+URBCONC1990, 0.570
+URBEXT1990,0.0131
+URBLOC1990, 0.884
+URBCONC2000, 0.753
+URBEXT2000,0.0169
+URBLOC2000, 0.851
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Rectangular section Crump profile weir gauging predominantly rural, Chalk catchment with some artificial influences. GENERAL: Rectangular section Crump profile weir with downstream recorder. Replaced 33008 (Thetford Staunch) in 1968. STATION HYDROMETRY: Weir subject to drowning and spills on rare occasions. Subject to weed growth, on crest and in channel. One peak flow rating applied across period of record. Current rating includes out of bank flow. FLOW RECORD: Instrument hut vandalised in August 2000 and rebuilt in 2001/2002, data missing until August 2002. FLOW REGIME: Affected by gw abstraction/recharge and, since the late 1980s, low flows augmented with groundwater in drought conditions. Abstraction mainly for industry and agriculture. Some effluent returns.
+CATCHMENT,Chalk with largely overlain with superficial deposits, mainly Boulder Clay. Predominantly arable with significant areas of forest and heathland, particularly in centre and E. Urban development (Thetford) just u/s of station.
+Qmed Suitability,Gauged above QMED. Flows contained.
+Pooling Suitability,Gauged to within 9% of AMAX3. High stage records mostly contained and within reliable portion of rating.
+[END]

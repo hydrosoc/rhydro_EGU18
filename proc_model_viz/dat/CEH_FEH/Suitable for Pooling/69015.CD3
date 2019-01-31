@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 69015
+[END]
+[CDS DETAILS]
+NAME,Etherow
+LOCATION,Compstall
+NOMINAL AREA,  149.40
+NOMINAL NGR,3962,3907
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,396250,390750
+CENTROID NGR,GB,405356,396928
+DTM AREA,  149.40
+ALTBAR, 342
+ASPBAR,260
+ASPVAR,0.15
+BFIHOST,0.367
+DPLBAR, 17.54
+DPSBAR,154.0
+FARL,0.831
+FPEXT,0.0251
+LDP, 29.20
+PROPWET,0.53
+RMED-1H, 11.0
+RMED-1D, 43.9
+RMED-2D, 58.8
+SAAR,1322
+SAAR4170,1318
+SPRHOST,44.30
+URBCONC1990, 0.655
+URBEXT1990,0.0206
+URBLOC1990, 0.668
+URBCONC2000, 0.782
+URBEXT2000,0.0331
+URBLOC2000, 0.666
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Crump weir located on the Etherow, just upstream of the confluence with the Goyt. Half of the catchment drains through Longendale reservoirs, with a significant effect on the flow regime. GENERAL: A single crest Crump weir opened March 1969; 18m wide, wing walls 2.8m high, located 0.5km upstream of Goyt confluence. STATION HYDROMETRY: Station further contained by flood banks, but there is a low point on the right bank just upstream of the structure at approx 2.2m. Crest tapping readings were used to establish a non-modular rating; tapping no longer used due to stones lodged in pressure tapping points. A downstream recorder was installed in October 2006 to investigate drowning. Event in February 2011 removed shoal downstream and appears that onset of drowning is now at a higher stage. More gaugings needed to confirm. No cableway. High flow gaugings have been taken by current meter from the road bridge upstream and from late 2004 have been taken by ADCP immediately upstream of the weir, within the retaining walls. One peak flow rating applied across period of record based on gaugings, with top-end based on modelling. FLOW REGIME: Half the catchment drains through Longdendale reservoirs, used for public water supply, with significant effect upon flows.
+CATCHMENT,The River Etherow rises on the Pennine watershed above Longdendale. Geology comprises mostly Millstone Grit, and Boulder Clay in the lower catchment with peat covered moorland in the headwaters. Steeper slopes are drift free. A predominantly rural catchment in the headwaters with mixed urban and farmland in the lower reaches. Market towns of Glossop and Chapel-en-le-Frith provide some urban runoff. No catchment changes known.
+Qmed Suitability,Gauged above QMED. Good fit to gaugings.
+Pooling Suitability,Although not gauged within 30% AMAX3, there is confidence in modelled rating beyond QMED.
+[END]

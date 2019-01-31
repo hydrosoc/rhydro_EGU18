@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 33021
+[END]
+[CDS DETAILS]
+NAME,Rhee
+LOCATION,Burnt Mill
+NOMINAL AREA,  308.05
+NOMINAL NGR,5415,2523
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,541550,252400
+CENTROID NGR,GB,534790,244480
+DTM AREA,  308.05
+ALTBAR,  49
+ASPBAR, 10
+ASPVAR,0.24
+BFIHOST,0.713
+DPLBAR, 18.49
+DPSBAR, 24.8
+FARL,0.994
+FPEXT,0.1779
+LDP, 35.24
+PROPWET,0.24
+RMED-1H, 10.6
+RMED-1D, 28.3
+RMED-2D, 35.0
+SAAR, 559
+SAAR4170, 573
+SPRHOST,24.05
+URBCONC1990, 0.523
+URBEXT1990,0.0142
+URBLOC1990, 0.864
+URBCONC2000, 0.757
+URBEXT2000,0.0213
+URBLOC2000, 0.839
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Trapezoidal weir gauging a predominantly Chalk catchment with primarily arable land and with significant artificial influences. GENERAL: Trapezoidal cross-section weir with triangular profile crest, 6.1m broad. Also called Haslingfield (Burnt Mill). Consistent records available of groundwater pump operation. STATION HYDROMETRY: Weir drowns at high flows, starting from 0.48m stage and drowns completely at higher flows, worsened during summer due to weed growth d/s. Non-modular conditions are accounted for in the current rating. Rating modified by c/m measurements to correct for drowning and applied across POR. FLOW RECORD: GDF and HIF from 2013/10/24 to 2015/03/04 was updated after September 2014 to compensate for site maintenance. FLOW REGIME: Substantial groundwater abstractions for PWS, plus industrial and agricultural abstractions. Some effluent returns. Augmentation from gw sources to regulate river flow - scheme aims to maintain minimum 0.3 cumecs flow at g/s.
+CATCHMENT,Predominantly Chalk catchment partly overlain with Boulder Clay in NW. Primarily arable land.
+Qmed Suitability,Gauged to within 8% of QMED. Good fit to gaugings.
+Pooling Suitability,Although not gauged beyond QMED, drowned flow is accounted for and all flows contained by wing walls (1.52m).
+[END]

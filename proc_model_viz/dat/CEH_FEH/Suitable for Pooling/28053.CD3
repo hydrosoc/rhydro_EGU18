@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 28053
+[END]
+[CDS DETAILS]
+NAME,Penk
+LOCATION,Penkridge
+NOMINAL AREA,  268.60
+NOMINAL NGR,3921,3144
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,392200,314400
+CENTROID NGR,GB,389929,310002
+DTM AREA,  268.60
+ALTBAR, 119
+ASPBAR, 15
+ASPVAR,0.04
+BFIHOST,0.464
+DPLBAR, 15.49
+DPSBAR, 24.5
+FARL,0.952
+FPEXT,0.1281
+LDP, 29.32
+PROPWET,0.32
+RMED-1H, 10.6
+RMED-1D, 30.4
+RMED-2D, 37.8
+SAAR, 698
+SAAR4170, 708
+SPRHOST,36.89
+URBCONC1990, 0.775
+URBEXT1990,0.0688
+URBLOC1990, 1.269
+URBCONC2000, 0.877
+URBEXT2000,0.1054
+URBLOC2000, 1.241
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Originally a velocity area station the station was closed in 1983 and operated at level only until 1990 when a crump profile Flat V weir in trapezoidal channel was installed. GENERAL: Originally a velocity area station, 10m wide with a cableway span of 56m, upstream of A449 road bridge. Problem site subject to weed growth and bed movement, but improved after 1976 re-grading. Closed in 1983, level only site until 1990, when Crump profile Flat V weir in trapezoidal channel was installed (V-full width 8.8m). STATION HYDROMETRY: Five peak flow ratings applied across period of record. Current rating fits corresponding gaugings very well to maximum gaugings (2.3m). Local bankfull conditions - channel width is 15m. Early drowning caused by weed growth. FLOW RECORD: Station closed in 1983 with level only data until 1990 when data recommences after installation of crump profile weir FLOW REGIME: Substantial augmentation of flows from WRW.
+CATCHMENT,Low to moderate relief catchment, glacial gravels over Mercia Mudstone to the west with Boulder Clay over Sherwood S'st to the east. Western part of the catchment rural; part of Wolverhampton in the south and Cannock in the East. Elsewhere, mixed farming with some forestry.
+Qmed Suitability,Both pre and post FV weir are well rated up to the QMED level.
+Pooling Suitability,Gauged beyond AMAX3. Good fit to gaugings.
+[END]

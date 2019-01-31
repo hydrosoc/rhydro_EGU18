@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 56003
+[END]
+[CDS DETAILS]
+NAME,Honddu
+LOCATION,The Forge Brecon
+NOMINAL AREA,   62.66
+NOMINAL NGR,3051,2297
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,305000,229700
+CENTROID NGR,GB,302460,237118
+DTM AREA,   62.66
+ALTBAR, 311
+ASPBAR,175
+ASPVAR,0.21
+BFIHOST,0.529
+DPLBAR, 10.94
+DPSBAR,121.0
+FARL,0.999
+FPEXT,0.0268
+LDP, 21.79
+PROPWET,0.53
+RMED-1H, 10.4
+RMED-1D, 43.1
+RMED-2D, 56.6
+SAAR,1171
+SAAR4170,1257
+SPRHOST,35.20
+URBCONC1990,-9999.000
+URBEXT1990,0.0009
+URBLOC1990,-9999.000
+URBCONC2000, 0.188
+URBEXT2000,0.0026
+URBLOC2000, 0.055
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Three-bay compound crump weir. Station discontinued 1984. GENERAL: Three-bay compound crump weir replaced problematic river section. Station discontinued 1984. STATION HYDROMETRY: Weir centre crest width is 2.438m, flanking crests are 4.877m. Steep high banks on each flank. Good fall in river bed d/s ensures modularity at all stages. Current meter gaugings were taken to confirm theoretical rating.
+CATCHMENT,Upland catchment, predominantly impermeable geology of Old Red Sandstone with an inlier of the Ludlow Series. Mainly rough grassland and moorland.
+Qmed Suitability,Not gauged to within 30% of QMED. However, theoretical rating is expected to perform well up to QMED.
+Pooling Suitability,Few high flow gaugings. Rating beyond QMED cannot be validated.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 27035
+[END]
+[CDS DETAILS]
+NAME,Aire
+LOCATION,Kildwick Bridge
+NOMINAL AREA,  283.39
+NOMINAL NGR,4011,4456
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,401100,445700
+CENTROID NGR,GB,393464,455408
+DTM AREA,  283.39
+ALTBAR, 230
+ASPBAR,168
+ASPVAR,0.12
+BFIHOST,0.385
+DPLBAR, 21.29
+DPSBAR, 99.6
+FARL,0.977
+FPEXT,0.0732
+LDP, 38.45
+PROPWET,0.62
+RMED-1H, 10.5
+RMED-1D, 39.3
+RMED-2D, 52.8
+SAAR,1151
+SAAR4170,1131
+SPRHOST,42.48
+URBCONC1990, 0.610
+URBEXT1990,0.0089
+URBLOC1990, 0.577
+URBCONC2000, 0.729
+URBEXT2000,0.0193
+URBLOC2000, 0.620
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station. Kildwick Bridge provides low and high flow control. Rural catchment with light urbanisation in Skipton. GENERAL: Velocity area station situated d/s of a bend in the river and u/s of the old, arched Kildwick Bridge. Bridge arches form the primary hydraulic control at all levels. Flow is through between one (10m wide) and four (40m wide) of the arches depending on level. Flow begins to surcharge the arches at different levels. The bridge sills provide the low flow control; soffits control high flows. STATION HYDROMETRY: The road bridge and steep grassy banks prevent bypassing, all but the highest discharges are contained. Float range used to limit the maximum recordable stage to 3.85m. Daily flows rated by current meter cableway 150m d/s. Flood Studies Report was graded Z in 1975. Two peak flow ratings applied across period of record, the most recent is valid from July 1971. Ratings revised in 2016. Rated by multipoint current meter gauging. Increasing scatter in gaugings beyond 1m but is stable up to 1.8m. FLOW REGIME: Between Skipton and Kildwick, there are considerable areas of washlands, which fill during floods. Abstraction for supply is made from reservoirs at Winterburn, Embsay and Elslack. The Leeds-Liverpool Canal can influence the flow pattern but has a small overall impact. There is a small net export from the catchment.
+CATCHMENT,Geology: mainly Carboniferous Limestone with some Millstone Grit series, with extensive Boulder Clay cover. Rural catchment, over three-quarters grassland, draining the eastern Pennines. The catchment headwaters are undeveloped with moorland. Land use consists of upland rough grazing, and pasture and light urbanisation in the valley bottoms (Skipton is the largest town). No known significant catchment changes.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged to within 20% of AMAX3. Flow is contained in steep banks but surcharging may affect the accuracy of the rating extrapolation.
+[END]

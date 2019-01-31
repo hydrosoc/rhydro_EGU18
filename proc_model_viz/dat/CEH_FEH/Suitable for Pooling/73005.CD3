@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 73005
+[END]
+[CDS DETAILS]
+NAME,Kent
+LOCATION,Sedgwick
+NOMINAL AREA,  212.24
+NOMINAL NGR,3508,4874
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,350850,487400
+CENTROID NGR,GB,350610,499237
+DTM AREA,  212.24
+ALTBAR, 234
+ASPBAR,178
+ASPVAR,0.16
+BFIHOST,0.514
+DPLBAR, 19.24
+DPSBAR,153.4
+FARL,0.976
+FPEXT,0.0739
+LDP, 33.63
+PROPWET,0.71
+RMED-1H, 11.5
+RMED-1D, 54.1
+RMED-2D, 74.7
+SAAR,1726
+SAAR4170,1758
+SPRHOST,38.11
+URBCONC1990, 0.652
+URBEXT1990,0.0116
+URBLOC1990, 0.431
+URBCONC2000, 0.770
+URBEXT2000,0.0179
+URBLOC2000, 0.417
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Compound broad-crested weir gauging a catchment with flashy regime in the southern Lake District. GENERAL: Station opened October 1968. Compound broad-crested weir, 27m wide with 9.16m low flow notch 0.3m lower (widened from 3m in October 1994). Eel pass installed October 2014. STATION HYDROMETRY: Weir very prone to algal growth which can significantly affect lower levels and needs regular cleaning in summer. Very fast river with a steep gradient; weir may drown around 1.3m. No bypassing. Permanent cableway, which was moved from a poorer section in 1989 - so gaugings before then may be less accurate. Flows were not contained in notch prior to widening; rating was good before and after. Flood Studies Report grade A1. Two peak flow ratings applied across period of record, the most recent is valid from October 1994; rating below 2.2m derived from check gaugings and hydraulic modelling used beyond. FLOW REGIME: Flashy, with widely fluctuating flows. Discharges from paper mill and Kendal sewage treatment works.
+CATCHMENT,High relief catchment drains impervious Pre-Cambrian to Silurian rocks where heather moorland and peat predominate. Carboniferous Limestone provides good grazing, especially south of Kendal on Drift cover. Heather moorland and peat predominate, and most land is grazed.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged to within 15% of AMAX3. Gauged beyond drowned level and no bypassing reported.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 44004
+[END]
+[CDS DETAILS]
+NAME,Frome
+LOCATION,Dorchester Total
+NOMINAL AREA,  205.67
+NOMINAL NGR,3708, 903
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,370850,90350
+CENTROID NGR,GB,361402, 98018
+DTM AREA,  205.67
+ALTBAR, 152
+ASPBAR,131
+ASPVAR,0.13
+BFIHOST,0.775
+DPLBAR, 16.85
+DPSBAR,100.4
+FARL,0.971
+FPEXT,0.0348
+LDP, 31.37
+PROPWET,0.38
+RMED-1H, 11.3
+RMED-1D, 39.8
+RMED-2D, 51.4
+SAAR,1010
+SAAR4170,1074
+SPRHOST,20.56
+URBCONC1990, 0.513
+URBEXT1990,0.0085
+URBLOC1990, 0.398
+URBCONC2000, 0.766
+URBEXT2000,0.0123
+URBLOC2000, 0.385
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Combined station comprising of Loudsmill, Loudsmill Fish Pass and Stinsford. GENERAL: Combined station (Loudsmill, Loudsmill Fish Pass, Stinsford) consisting of 3 crump weirs and a Larinier fish pass. STATION HYDROMETRY: Louds Mill has two Crump profile weirs of which the largest has broad crested abutments, crests 10.66m (side-spilling). Also a side Crump profile weir on Mill Stream 1.52m broad. A Larinier fish pass, situated adjacent to the main weir on the left bank, was completed in autumn 2008. Stage is measured and flow computed independently at Loudsmill Fish Pass. Gauging has shown that the stage discharge relationship for the Fish Pass is good. Bypassing very small. Rating includes side channel and is modular to 10cumecs. The third Crump profile weir at Stinsford (on the opposite side of the floodplain to Louds Mill), crest 3.04m wide, modular to 4.6 cumecs but potential for non-modularity due to weed growth downstream. At Stinsford the river inundates the floodplain as it is not in the valley bottom, and there is potential for significant flow on the floodplain to bypass both gauges. The three sites are combined to produce a total flow record called Dorchester Combined. Protected flows combining Louds Mill and Stinsford gauges. Bypassing through the floodplain between the 2 sites is significant. FLOW RECORD: Flows exist prior to October 1971 for Louds Mill only. Poor site, not rated at high flows. FLOW REGIME: Minor gw abstractions in catchment.
+CATCHMENT,Predominantly Chalk, with Upper Greensand and Gault, Lias and Oolites in headwaters. Land use is rural. No major catchment changes.
+Qmed Suitability,Confident in QMED flow estimates.
+Pooling Suitability,Significant bypassing between sites.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 44008
+[END]
+[CDS DETAILS]
+NAME,South Winterbourne
+LOCATION,Winterbourne Steepleton
+NOMINAL AREA,   20.18
+NOMINAL NGR,3629, 897
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,362950,89750
+CENTROID NGR,GB,359407, 90872
+DTM AREA,   20.18
+ALTBAR, 160
+ASPBAR,115
+ASPVAR,0.22
+BFIHOST,0.811
+DPLBAR,  5.05
+DPSBAR, 93.8
+FARL,1.000
+FPEXT,0.0150
+LDP, 10.12
+PROPWET,0.38
+RMED-1H, 11.3
+RMED-1D, 39.3
+RMED-2D, 50.1
+SAAR,1012
+SAAR4170,1045
+SPRHOST,19.53
+URBCONC1990,-9999.000
+URBEXT1990,0.0022
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0042
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Flat V weir installed for low flow monitoring gauging a relatively small chalk catchment. GENERAL: Flat V weir, 2.5m wide, installed in 1974 for low flow monitoring and year-round enforcement of minimum prescribed flow conditions on public water supply abstraction license. STATION HYDROMETRY: Compensation flow input 1km upstream of weir, gauge virtually measures the extent of stream support. Some flow by-passing in smaller channel likely. Level at which by-passing commences is unknown. At a level of 0.275m (17/07/2012) the bypass channel was gauged at 2% of the total flow. Theoretical rating confirmed by gaugings. The upper limit at Winterbourne Steepleton is at 0.370m/0.928cumecs. One peak flow rating across the period of record. FLOW RECORD: In the past, low flows were measured by a thin-plate weir fitted downstream of weir crest at the same level and using the same water level recorders. HiFlows-UK included this period of record; the max gauged flow for the thin-plate weir is 0.85cumecs and QMED 0.445cumecs. FLOW REGIME: Runoff influenced by groundwater abstraction and/or recharge. A pond is present upstream. Compensation flow input 1 km upstream of weir.
+CATCHMENT,Relatively small chalk catchment. Land use is cattle grazing, rural. No major catchment changes.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Rating thought to be reasonable to bank full, all recorded flows contained.
+[END]

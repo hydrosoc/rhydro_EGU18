@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 17001
+[END]
+[CDS DETAILS]
+NAME,Carron
+LOCATION,Headswood
+NOMINAL AREA,  121.14
+NOMINAL NGR,2831,6818
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,283200,681800
+CENTROID NGR,GB,273380,684327
+DTM AREA,  121.14
+ALTBAR, 244
+ASPBAR, 78
+ASPVAR,0.24
+BFIHOST,0.378
+DPLBAR, 14.47
+DPSBAR, 98.8
+FARL,0.843
+FPEXT,0.0404
+LDP, 27.98
+PROPWET,0.59
+RMED-1H, 10.2
+RMED-1D, 43.9
+RMED-2D, 62.1
+SAAR,1519
+SAAR4170,1472
+SPRHOST,44.19
+URBCONC1990, 0.727
+URBEXT1990,0.0097
+URBLOC1990, 0.255
+URBCONC2000, 0.806
+URBEXT2000,0.0133
+URBLOC2000, 0.275
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Flat V weir with flows affected by the Carron Valley Reservoir. GENERAL: Flat V weir installed in Oct 1988 in an artificial meander cutoff. Straight, uniform channel (concrete walls) lined with gabions; banks are steep to 2.0m. Previously velocity-area station: instability in rating caused by d/s deposition. STATION HYDROMETRY: Prior to weir high flow control was probably d/s bridge but deposition caused problems. Up to 1.4m stage the flow is modular. Non-modular flow sets in somewhere above this level though not precisely known, partly due to occasional dredging of d/s deposition. Peak flow ratings derived from spot gaugings up to 1.6m (about 0.7 QMED), but not taking bridge into account. Ratings to 1986 appear based on flows much less than QMED. FLOW RECORD: Records until 30/09/68 are unreliable. FLOW REGIME: Flashy response. Catchment contains Carron Valley Reservoir, which pre-dates gauge. Export of water and operation of reservoir can significantly influence flow patterns. Influence of effluent return to Endrick Water on floods is negligible.
+CATCHMENT,The upper part of the catchment drains part of the Campsie Fells. Bedrock composed of igneous rocks in headwaters and Carboniferous rocks in the valley; predominantly overlain by superficial deposits. Land use predominantly moorland and plantation forestry in headwaters, pasture in lower reaches. Minimal floodplains. No significant catchment changes known.
+Qmed Suitability,At the time of compiling the HIFLOWS data (2003) considerable uncertainty should be attached to the high flows up to 1988.It is perhaps better only to use the data from 1988 onwards. A rating review of the earlier data was recommended
+Pooling Suitability,No - No gaugings above QMED
+[END]

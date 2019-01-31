@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 55016
+[END]
+[CDS DETAILS]
+NAME,Ithon
+LOCATION,Disserth
+NOMINAL AREA,  358.95
+NOMINAL NGR,3024,2577
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,302450,257800
+CENTROID NGR,GB,309100,270212
+DTM AREA,  358.95
+ALTBAR, 324
+ASPBAR,157
+ASPVAR,0.07
+BFIHOST,0.427
+DPLBAR, 32.92
+DPSBAR,132.2
+FARL,0.998
+FPEXT,0.0428
+LDP, 62.29
+PROPWET,0.49
+RMED-1H,  9.6
+RMED-1D, 36.2
+RMED-2D, 48.5
+SAAR,1066
+SAAR4170,1129
+SPRHOST,40.33
+URBCONC1990,-9999.000
+URBEXT1990,0.0018
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0031
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Flat V Crump profile weir. Natural flow regime. GENERAL: Flat V Crump profile weir, replaced velocity-area station with channel control in October 1972. Station is used for flood warning. STATION HYDROMETRY: Weir is 1:20 cross-slope, 18m wide. Weir known to drown at high flows. Cableway span 27.5m. Very high floods may inundate the rb. Lb d/s of station floods at high flows. Weir rebuilt in 1995 necessitating changes in rating. Three peak flow ratings applied to period of record. FLOW RECORD: Data estimated for Oct 1972 and for April 1980. Weir rebuilt Aug 1995; no data available, but late Aug low flow deemed reliable. Missing data in 2001 due to access restrictions during Foot and Mouth outbreak. Suspect data arising from drift correction removed (13/07/01-5/08/01). In Nov 2010, flows since 25 Aug 1995 reprocessed, reducing some high flows overestimated by previous rating. FLOW REGIME: Natural to within 10% at Q95.
+CATCHMENT,Catchment drains rocks of very low permeability: Upper and western catchment drains Ordovician and Silurian shales; igneous complex in the SE. Noticeably reduced rainfall compared to the u/s Wye and Irfon catchments. High moorland and extensive forestry plantations on the higher ground, mixed farming in valleys.
+Qmed Suitability,Gauged above QMED. Good fit for rating
+Pooling Suitability,Rating does not account for out of bank flow which bypasses the cableway on the right bank
+[END]

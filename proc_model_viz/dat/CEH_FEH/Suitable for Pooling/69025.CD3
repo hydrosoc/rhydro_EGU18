@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 69025
+[END]
+[CDS DETAILS]
+NAME,Irwell
+LOCATION,Manchester Racecourse
+NOMINAL AREA,  550.51
+NOMINAL NGR,3820,4003
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,382100,400350
+CENTROID NGR,GB,380924,414646
+DTM AREA,  550.51
+ALTBAR, 213
+ASPBAR,185
+ASPVAR,0.15
+BFIHOST,0.429
+DPLBAR, 37.17
+DPSBAR, 90.8
+FARL,0.909
+FPEXT,0.0726
+LDP, 59.73
+PROPWET,0.54
+RMED-1H, 11.6
+RMED-1D, 41.2
+RMED-2D, 56.7
+SAAR,1260
+SAAR4170,1253
+SPRHOST,37.36
+URBCONC1990, 0.765
+URBEXT1990,0.1122
+URBLOC1990, 0.818
+URBCONC2000, 0.850
+URBEXT2000,0.1569
+URBLOC2000, 0.831
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity-area station located in Salford, used in conjunction with Adelphi Weir downstream. GENERAL: An open channel section in urban Salford, primarily for flood forecasting. Used in conjunction with Adelphi Weir (69002) approx 2km downstream which has a very similar catchment area. Opened 1941. STATION HYDROMETRY: All records in stage. Suffers severe weed growth in the summer months - poor at low flows - mean daily flows are not presented - see 69002. Subsequent flood alleviation works included (in order of construction) wall-raising, increase in channel conveyance between Manchester Racecourse and Adelphi Weir, and increasing channel conveyance downstream of Adelphi Weir (channel widening and cutting a new channel, water first flowed in September 1970). Scheme works thus changed the stage / discharge relationship at Manchester Racecourse. A second flood alleviation scheme was constructed in 2000, consisting of a flood storage basin in Salford upstream from Manchester Racecourse, and minor improvements to the defence heights. In the January 2008 event water just began to spill into the basin, but did not significantly reduce flows at Manchester Racecourse. One peak flow rating applied across period of record. Ratings at both Manchester Racecourse and Adelphi Weir were developed from flow gaugings taken in the 1970's (ie post flood alleviation scheme). Rating fits well to available gaugings up to ~3.5m. Further modelling and high-flow gauging required to confirm the rating. Gaugings considered to be more reliable after the Manchester Racecourse cableway was renovated in June 1978. Later gaugings taken from footbridge between the two stations. Although there were no high flow gaugings to derive the rating, a check gauging on the rising limb of the October 1980 event at 265 m3/s and approx 2.05m at Adelphi Weir supports the ratings. The January 2008 event (416 m3/s at Manchester Racecourse from the rating) was recorded at approx 375m3/s at the new ultrasonic station at Kearsley upstream (difference in catchment area approx 8%). FLOW RECORD: Station opened in 1941, some gaps and poor records until 1990 when POT record starts. The Environment Agency hold data from 1976. A single combined AMAX series for 69025 and 69002 is held under 69025 (derived by detailed comparison and analysis of the records from both stations, using the more reliable station for each AMAX event, but checked against the other station). Both stations have had problems at various times, but at least one station appears reasonably reliable for each AMAX for the period presented. AMAX from 1935 to 1940 are not presented as the Adelphi Weir record had some anomalies and Manchester Racecourse was not yet open. AMAX from 1950 to 1963 are entirely from Adelphi Weir - the annual maxima appear reliable, though the record from Manchester Racecourse is missing. Major flooding in Salford in September 1946, with some limited spill around the station. FLOW REGIME: Many abstractions and storage reservoirs. Flood basins upstream of Manchester Racecourse attenuate peak flows - Littleton Road (completed prior to Jan 2008 flood) and Castle Irwell (completed 2017).
+CATCHMENT,The catchment has steep valleys cut into the moors in the upper reaches. The high ground is made up of peat and the valleys consist of sands and gravels. Permo-Triassic sandstones in the south-west with coal measures, grits and sandstones of the Carboniferous series to the north and west overlain by postglacial drift deposits. Considerable urban and industrial land use in the lower sections, including the towns of Bolton, Bury, Rochdale and parts of Manchester. No catchment changes known.
+Qmed Suitability,Yes - Rating derived from physical modelling and flows gauged close to QMED.
+Pooling Suitability,Yes - Recent large event matches reasonably with Kearsley upstream.
+[END]

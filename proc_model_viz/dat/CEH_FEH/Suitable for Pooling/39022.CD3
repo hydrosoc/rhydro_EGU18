@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 39022
+[END]
+[CDS DETAILS]
+NAME,Loddon
+LOCATION,Sheepbridge
+NOMINAL AREA,  176.77
+NOMINAL NGR,4720,1652
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,472000,165250
+CENTROID NGR,GB,464845,154923
+DTM AREA,  176.77
+ALTBAR,  94
+ASPBAR, 32
+ASPVAR,0.28
+BFIHOST,0.594
+DPLBAR, 19.72
+DPSBAR, 32.8
+FARL,0.947
+FPEXT,0.1015
+LDP, 31.60
+PROPWET,0.33
+RMED-1H, 11.1
+RMED-1D, 32.4
+RMED-2D, 41.1
+SAAR, 735
+SAAR4170, 757
+SPRHOST,26.40
+URBCONC1990, 0.612
+URBEXT1990,0.0453
+URBLOC1990, 1.186
+URBCONC2000, 0.833
+URBEXT2000,0.0872
+URBLOC2000, 1.203
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,This station contains a combination of structures that include two crump weirs and a by-pass flume. These structures superseded a flume and side-spilling weir which were historically subject to bypassing. GENERAL: Two Crump weirs (2.1m crest, plus 6.9m crest oblique to channel flow) were installed in 1970. A flume was also installed in a new by-pass channel in mid 2002. The flume is not functional and takes less than 1% of the flow under normal flow conditions. This decreases at higher flows. It is not currently used for flow calculations. It is being re-evaluated for possible fish passage viability. STATION HYDROMETRY: Both Crump weirs remain modular. Protected flows are derived from standard Crump weir equations using both crests. All but extreme flows are contained. FLOW RECORD: Bypassing within the flume is estimated to be up to 10% at peak flows. Outstation problems reported between 1999 and 2000. There was a sudden short-term drop in levels. FLOW REGIME: Responsive flow regime with significant baseflow and effluent components. Flows increased by net a import of water into the catchment (e.g. via Basingstoke STW). Runoff influenced by groundwater abstraction/recharge. Abstraction is for industrial/agricultural purposes. Weed growth some distance u/s may affect accurate flow estimates.
+CATCHMENT,Headwaters are in the Chalk of the North Downs but the catchment is largely impervious. A predominantly rural catchment, containing some important (and growing) urban centres.
+Qmed Suitability,Effect of new bypass channel is still to be determined, MAIN - Slight overestimation of flows. SIDE - Good rating.
+Pooling Suitability,See above. By-passing is up to 10% of flows at extreme floods, so the flow error is not too significant.
+[END]

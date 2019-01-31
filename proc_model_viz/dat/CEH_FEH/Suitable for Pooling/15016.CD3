@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 15016
+[END]
+[CDS DETAILS]
+NAME,Tay
+LOCATION,Kenmore
+NOMINAL AREA,  598.28
+NOMINAL NGR,2782,7467
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,278200,746700
+CENTROID NGR,GB,253567,733600
+DTM AREA,  598.28
+ALTBAR, 446
+ASPBAR, 78
+ASPVAR,0.07
+BFIHOST,0.423
+DPLBAR, 35.36
+DPSBAR,226.5
+FARL,0.760
+FPEXT,0.0344
+LDP, 68.92
+PROPWET,0.71
+RMED-1H, 10.7
+RMED-1D, 52.9
+RMED-2D, 75.1
+SAAR,2130
+SAAR4170,2068
+SPRHOST,44.79
+URBCONC1990,-9999.000
+URBEXT1990,0.0002
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0006
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station in the upper Tay, 2km d/s from Loch Tay. GENERAL: Velocity area station, about 60m wide. STATION HYDROMETRY: Cableway present. Natural control. All flows contained to date. Strong winds over Loch Tay (2km u/s) can affect flows. Ratings derived from current meter gaugings up to 2.5 m (about 1.7QMED), simple extrapolation beyond. One rating applied to the whole period of record. FLOW RECORD: Daily gaugeboard readings 1959-1974. Naturalised monthly flows available 1974-1985. FLOW REGIME: Slow reacting regime. 120 sq km of the catchment is controlled for hydroelectric power. Water imported from Lyon catchment since 1958 - evident in water balance. Water exported to Loch Earn catchment since 1958.
+CATCHMENT,The catchment is in the Grampians (rising up to >1200m) and is steeply sloping except for the valley bottom. Mountainous, often snowy in winter. Bedrock almost all metamorphic; half overlain by superficial deposits. Land use rough grazing with forest. Catchment contains Loch Tay (16 miles long, 1.5miles wide) and some smaller lochs u/s. HEP schemes have developed in the catchment.
+Qmed Suitability,No comment
+Pooling Suitability,No comment
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 27053
+[END]
+[CDS DETAILS]
+NAME,Nidd
+LOCATION,Birstwith
+NOMINAL AREA,  219.31
+NOMINAL NGR,4230,4603
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,423000,460350
+CENTROID NGR,GB,411969,468699
+DTM AREA,  219.31
+ALTBAR, 320
+ASPBAR, 99
+ASPVAR,0.23
+BFIHOST,0.357
+DPLBAR, 20.44
+DPSBAR,114.0
+FARL,0.913
+FPEXT,0.0291
+LDP, 39.48
+PROPWET,0.53
+RMED-1H, 11.3
+RMED-1D, 42.3
+RMED-2D, 54.8
+SAAR,1218
+SAAR4170,1206
+SPRHOST,45.34
+URBCONC1990,-9999.000
+URBEXT1990,0.0015
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0039
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station with a riffle control downstream. Catchment heavily reservoired. GENERAL: Velocity area station approximately 17m wide. Riffle control 50m d/s, may be subject to erosion as the bed is rocky and unstable. STATION HYDROMETRY: There is some suspicion that a downstream gravel shoal has moved, possibly on more than one occasion, altering the stage-discharge relationship. Rated by current meter to 144 cumecs from the bridge at the section (September 2012). Daily flow rating revised in 1999 to account for a change in channel dimensions caused by the 1991 flood. Rating reviewed again in 2014 producing two new ratings pre and post 2009 flood event. Four peak flow ratings across the period of record. Station will need regular re-rating due to shifting control. Good fit to available gaugings below QMED, single gauging above indicates rating possibly underestimates flow. FLOW RECORD: Daily flows reworked after a flood in 1991 changed channel dimensions. FLOW REGIME: Heavily reservoired catchment (Gouthwaite reservoir), which has substantial effect on flows and also helps to maintain dry weather flows.
+CATCHMENT,Geology: mostly Millstone Grit, Sandstones and Shales, with some small inliers of Carboniferous Limestone in Upper Nidderdale. An east-west fault runs along the line of the river. Rural catchment, predominantly grassland, moorland headwaters. No known catchment changes.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged to within 13% of AMAX3. Flow reasonably contained and rating thought to be valid to bank full (3. 0m),.
+[END]

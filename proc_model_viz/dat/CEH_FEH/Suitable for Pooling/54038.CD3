@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 54038
+[END]
+[CDS DETAILS]
+NAME,Tanat
+LOCATION,Llanyblodwel
+NOMINAL AREA,  241.13
+NOMINAL NGR,3252,3224
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,325200,322450
+CENTROID NGR,GB,312720,327196
+DTM AREA,  241.13
+ALTBAR, 322
+ASPBAR,141
+ASPVAR,0.18
+BFIHOST,0.477
+DPLBAR, 19.42
+DPSBAR,202.4
+FARL,0.996
+FPEXT,0.0382
+LDP, 35.25
+PROPWET,0.51
+RMED-1H,  9.7
+RMED-1D, 40.6
+RMED-2D, 55.7
+SAAR,1274
+SAAR4170,1272
+SPRHOST,38.60
+URBCONC1990,-9999.000
+URBEXT1990,0.0008
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0009
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Crump profile Flat V weir from 1992 that replaced velocity-area station with natural rock step control approximately 150m downstream of cableway. GENERAL: From Feb 1992 Crump profile Flat V (1:20) weir, 12.4m wide, 0.72m high wing walls, replaced VA station with natural rock step control approx. 150m d/s of cableway. Gravel bed. Right bank floodplain approx. 50m wide, partially crossed by cableway. STATION HYDROMETRY: Cableway rated. Right bank floodplain approximately 50m wide, partially crossed by cableway. Two ratings applied across period of record, the most recent is valid from April-1992 when weir installed.. Ratings fit well to corresponding gaugings. FLOW REGIME: Sewage effluent has insignificant effect upon flow regime.
+CATCHMENT,High relief headwaters and broad bottomed valleys of moderate slope with Boulder Clay and fluvial gravel. Solid geology predominantly Ordovician slates and shales. Land use: moorland, forestry and pasture.
+Qmed Suitability,Gauged above QMED. Both ratings fit well to corresponding gaugings.
+Pooling Suitability,Gauged to within 22% of AMAX3. However, fewer gaugings beyond QMED post 1992 reduce confidence slightly in theoretical rating.
+[END]

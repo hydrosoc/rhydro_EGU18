@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 54001
+[END]
+[CDS DETAILS]
+NAME,Severn
+LOCATION,Bewdley
+NOMINAL AREA, 4329.90
+NOMINAL NGR,3782,2761
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,378200,276100
+CENTROID NGR,GB,336745,309876
+DTM AREA, 4329.90
+ALTBAR, 175
+ASPBAR, 95
+ASPVAR,0.07
+BFIHOST,0.541
+DPLBAR,119.55
+DPSBAR, 88.6
+FARL,0.973
+FPEXT,0.1055
+LDP,222.55
+PROPWET,0.38
+RMED-1H,  9.9
+RMED-1D, 34.4
+RMED-2D, 44.2
+SAAR, 912
+SAAR4170, 934
+SPRHOST,33.68
+URBCONC1990, 0.633
+URBEXT1990,0.0117
+URBLOC1990, 0.667
+URBCONC2000, 0.795
+URBEXT2000,0.0199
+URBLOC2000, 0.655
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Currently an 18-path ultrasonic gauge this site was originally a VA station prior to 1989 and has been relocated in both 1950 and 1968. GENERAL: Currently an 18-path ultrasonic gauge (refurbished in 2003). VA station with rock control prior to 1989. Early (unreliable) records collected at Bewdley Bridge from March 1921. Station opened at Elan Aqueduct, 4 km upstream of Bewdley, in 1923 and stage monitoring site relocated in 1950 and 1968. Records from this station (pre-1968) of modest precision, and some confusion over datum changes, but by and large, the quality of data has been considered to be very high. Bewdley Recorder opened 1968 as a velocity-area station with rock control, 1 km upstream of Bewdley. High flows are measured using a velocity-area relationship. STATION HYDROMETRY: Two peak flow ratings applied across period of record. Uncertainty about the relationship at high flows for early record. The current rating has been based on high-flow gaugings, including some above bankfull, and has been applied to the period of record for simplicity. This is considered OK for use in pooling groups, but for single-site analysis a better approach would be to apply a more detailed rating history. FLOW RECORD: Peak flows available from 1972. The period-of-record maximum flow is listed as 637 cumecs in March 1947, although this is based on a daily mean flow (no instantaneous peak available) and the true peak is likely to have been higher. Lowest flows reprocessed in 1976 for 1921-68. Pre-1968 records have been correlated with the present station to produce a derived stage series for the present station. Further work is required to provide more confidence to the data series. Flows presented in HiFlows-UK apply a rating to the ultrasonic data so as to incorporate out of bank flow. The record given here combines the Elan Aqueduct, Bewdley Recorder, and Bewdley ultrasonic records. FLOW REGIME: Naturalised flow series, from 1968 only, accommodates major usages other than g/w support. Some earlier records adjusted for Vyrnwy (1966-7). Significant exports for public water supply and power generation; minimum flow maintained by releases from Clywedog (built between 1965-67) and Vyrnwy Reservoirs (built between 1881 and 1888) and Shropshire groundwater.
+CATCHMENT,Diverse catchment; wet western 50% from impermeable Palaeozoic rocks and river gravels; drier northern 50% from Drift covered Carboniferous to Liassic sandstones and marls. Moorland, forestry, mixed farming.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged beyond AMAX3.
+[END]

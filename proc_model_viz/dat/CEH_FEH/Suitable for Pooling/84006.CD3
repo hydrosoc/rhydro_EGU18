@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 84006
+[END]
+[CDS DETAILS]
+NAME,Kelvin
+LOCATION,Bridgend
+NOMINAL AREA,   64.62
+NOMINAL NGR,2671,6749
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,267150,674950
+CENTROID NGR,GB,271350,677732
+DTM AREA,   64.62
+ALTBAR, 150
+ASPBAR,168
+ASPVAR,0.28
+BFIHOST,0.432
+DPLBAR,  7.95
+DPSBAR, 94.2
+FARL,0.949
+FPEXT,0.1208
+LDP, 16.71
+PROPWET,0.57
+RMED-1H,  9.0
+RMED-1D, 38.7
+RMED-2D, 55.0
+SAAR,1332
+SAAR4170,1377
+SPRHOST,41.22
+URBCONC1990, 0.620
+URBEXT1990,0.0270
+URBLOC1990, 0.856
+URBCONC2000, 0.789
+URBEXT2000,0.0402
+URBLOC2000, 0.918
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station. Station was closed in 1983 then re-opened in 1998 as a level only station. GENERAL: Velocity area station, about 12m wide. River section 340m u/s of Inchbelly Bridge, Kirkintilloch. Station was closed in 1983 then re-opened in 1998 as a level only station. STATION HYDROMETRY: Natural control. Station is affected by seasonal weed growth. Floods are contained within the banks which are heightened to protect fairly extensive low lying areas upstream. Peak flow rating derived from current meter gaugings up to 2.32m (0.5 QMED), simple extrapolation beyond. After dredging of river in 1976 rating was good fit, after 01/10/1979 however spot gaugings scatter substantially - no rating used from then. FLOW REGIME: Responsive regime. Some small reservoirs and lochs in headwaters. Forth and Clyde Canal fed from some reservoirs.
+CATCHMENT,Predominantly coal measures with some Dolerite and Basalt intrusions. Lowland river with some upland tributaries rising from Campsie Fells. Rough and improved pasture, some urban, small amount of forestry. No significant catchment changes known.
+Qmed Suitability,only until 01/10/1979 due to scatter in spot gaugings
+Pooling Suitability,only until 01/10/1979 due to scatter in spot gaugings
+[END]

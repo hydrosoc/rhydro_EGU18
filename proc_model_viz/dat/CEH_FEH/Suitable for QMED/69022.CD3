@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 69022
+[END]
+[CDS DETAILS]
+NAME,Irwell
+LOCATION,Irwell Vale
+NOMINAL AREA,  100.60
+NOMINAL NGR,3791,4201
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,379150,420150
+CENTROID NGR,GB,382128,423584
+DTM AREA,  100.60
+ALTBAR, 300
+ASPBAR,238
+ASPVAR,0.09
+BFIHOST,0.455
+DPLBAR,  8.98
+DPSBAR,118.8
+FARL,0.934
+FPEXT,0.0336
+LDP, 17.60
+PROPWET,0.55
+RMED-1H, 11.5
+RMED-1D, 42.2
+RMED-2D, 60.1
+SAAR,1392
+SAAR4170,1383
+SPRHOST,36.17
+URBCONC1990, 0.596
+URBEXT1990,0.0474
+URBLOC1990, 0.760
+URBCONC2000, 0.722
+URBEXT2000,0.0765
+URBLOC2000, 0.774
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station with non-standard shallow V weir in urbanised catchment. GENERAL: Opened January 1996 as velocity area station with non-standard shallow V weir. Station replaced Stubbins (69040), 2km downstream. STATION HYDROMETRY: Weir drowns at approximately 0.55m. Reliable gaugings by wading at low flows only; bridge gaugings upstream are unreliable due to the nature of the bridge and inflows from River Ogden. A cableway was added in 2002. Rating derived from low flow current meter gaugings and high flow ADCP gaugings off the cableway. Upper segments of the rating are based on hydraulic modelling. FLOW RECORD: Full GDF record re-rated in 2009, reducing the higher flows, typically by 10% at 20 m3s-1; max GDF, on 30/10/2000, reduced from 58.5 m3s-1 to 48.2 m3s-1. FLOW REGIME: Reservoirs in headwaters have significant effect on low flows.
+CATCHMENT,Moderate relief catchment draining the Forest of Rossendale. Solid geology Millstone Grit and Coal Measures; peat on highest moors, intermittent glacial drift otherwise. Urbanised main valley. No catchment changes known.
+Qmed Suitability,Gauged to moderately high level, with modelled top-end. Reasonable agreement with Bury Grounds downstream.
+Pooling Suitability,No gaugings above QMED, and some uncertainty in extrapolation with hydraulic model.
+[END]

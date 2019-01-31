@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 27001
+[END]
+[CDS DETAILS]
+NAME,Nidd
+LOCATION,Hunsingore Weir
+NOMINAL AREA,  493.91
+NOMINAL NGR,4428,4529
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,442800,453000
+CENTROID NGR,GB,423312,461280
+DTM AREA,  493.91
+ALTBAR, 195
+ASPBAR, 93
+ASPVAR,0.22
+BFIHOST,0.407
+DPLBAR, 37.30
+DPSBAR, 75.2
+FARL,0.947
+FPEXT,0.0854
+LDP, 75.66
+PROPWET,0.37
+RMED-1H, 11.4
+RMED-1D, 38.6
+RMED-2D, 48.8
+SAAR, 962
+SAAR4170, 967
+SPRHOST,39.59
+URBCONC1990, 0.784
+URBEXT1990,0.0253
+URBLOC1990, 0.608
+URBCONC2000, 0.852
+URBEXT2000,0.0319
+URBLOC2000, 0.634
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Broad-crested masonry mill weir influenced by headwater reservoirs at low flows. GENERAL: Broad-crested masonry mill weir (49.8m wide) placed diagonally across the river, with a cableway d/s at Cowthorpe. Station intended to be replaced by full-range ultrasonic gauge at Skip Bridge (27062) but remains open. Low flows monitored d/s at Skip Bridge since 1979 - 12 cumecs is a sensible split between the two records. STATION HYDROMETRY: Insensitive. Weir by-passed at highest levels, beginning at 2.41m, and drowns. Cableway 1km downstream at Cowthorpe, also by-passed and drowned in extreme flows. Daily flows rated by formulae, subsequently by current meter gaugings. Three peak flow ratings apply across period of record in multiple timeframes - upper limb is same for all valid ratings, different lower limbs have been used for periods when opening of by-pass sluice gate affected flows. Originally derived by weir formula checked by current meter. Increasing scatter in gaugings beyond QMED and rating appears to overestimate flows. Rating reviewed following Autumn 2000 flood, when previous rating found to be significantly over-estimating peak flows. Flood Studies Report grade A2. FLOW RECORD: Flows in pre-digital period still need review (pre-1966). Operation of by-pass sluice in the 1980s caused difficulties; flows subsequently revised. No data for June 1984 - March 1985 due to site works. 2000 peak is believed to be the rank 1 event by the Measuring Authority, exceeding the 1967 peak. Flows from 1985 to 2005 reprocessed in 2006, 1965-1981 were reprocessed in 2014 substantially reducing high flows, which were previously overestimated. FLOW REGIME: Opening and closing of mill race sluices has occurred but was unlikely to have affected high flows. Regulatory effect of headwater reservoirs (Angram, Scar House and Gouthwaite) is evident at low flows. Gouthwaite controls 24% of the catchment and has a significant impact in drought periods. Mill operation evident in the early record. Overall net export of water.
+CATCHMENT,Mostly moderately permeable. Upper Carboniferous Millstone Grit series down to Knaresborough, where Carboniferous Goredale rocks form an inlier. Magnesian Limestone lies on top of the Grits, dipping east, followed by general drift cover below Knaresborough. Just under half of the catchment is overlain by superficial deposits. Predominantly rural; half grassland with moorland headwaters and arable in lower valley which is flat and the river meandering. No known catchment changes.
+Qmed Suitability,Gauged above QMED. Weir not expected to drown at QMED.
+Pooling Suitability,Uncertainty in the validity of the rating at the highest flows; cableway is by-passed, significant scatter in gaugings and extrapolation shape uncertain. However, hydraulic modelling gives some confidence in the rating but caution is advised.
+[END]

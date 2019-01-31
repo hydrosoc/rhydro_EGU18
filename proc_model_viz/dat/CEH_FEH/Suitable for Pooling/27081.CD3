@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 27081
+[END]
+[CDS DETAILS]
+NAME,Oulton Beck
+LOCATION,Oulton Farrer Lane
+NOMINAL AREA,   25.10
+NOMINAL NGR,4364,4281
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,436450,428100
+CENTROID NGR,GB,432702,426837
+DTM AREA,   25.10
+ALTBAR,  80
+ASPBAR, 87
+ASPVAR,0.39
+BFIHOST,0.535
+DPLBAR,  6.86
+DPSBAR, 40.4
+FARL,0.997
+FPEXT,0.0486
+LDP, 13.90
+PROPWET,0.32
+RMED-1H, 10.5
+RMED-1D, 31.1
+RMED-2D, 40.5
+SAAR, 677
+SAAR4170, 656
+SPRHOST,24.40
+URBCONC1990, 0.755
+URBEXT1990,0.2122
+URBLOC1990, 0.994
+URBCONC2000, 0.849
+URBEXT2000,0.2235
+URBLOC2000, 1.011
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Flat-V weir. Catchment highly urbanised and industrialised. GENERAL: Flat-V weir (1:10 cross-slope) in steep-sided, straight channel. No cableway. May be subject to accretion and bank encroachment but well maintained and should not affect high flow ratings. STATION HYDROMETRY: High concrete wing-walls prevent bypassing. Substantial modular range. Downstream level recorder suggests station has only been non-modular once, during the June 2007 event. The November 2000 remained modular and was contained within the wingwalls. One peak flow rating applied across period of record. Theoretical rating with current meter check gaugings from bridge. FLOW RECORD: June 2007 event highest event on record. The second highest event was in November 2000. FLOW REGIME: Stormwater drainage in part of the catchment but very few abstractions or discharges. An outfall draining a large urban area joins the beck just downstream of the station.
+CATCHMENT,A small, relatively low-lying impervious (Coal Measures) catchment with significant urban/suburban development on the periphery of Leeds. Catchment is traversed by both the M1 and M62. Increasing urbanisation during period of record.
+Qmed Suitability,Not gauged to within 30% of QMED. However, structure is to British standard and theoretical rating is thought to be reliable.
+Pooling Suitability,British standard weir with downstream recorder; not bypassed
+[END]

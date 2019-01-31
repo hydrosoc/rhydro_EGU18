@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 67002
+[END]
+[CDS DETAILS]
+NAME,Dee
+LOCATION,Erbistock Rectory
+NOMINAL AREA, 1028.62
+NOMINAL NGR,3356,3413
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,335650,341300
+CENTROID NGR,GB,303729,339986
+DTM AREA, 1028.62
+ALTBAR, 335
+ASPBAR, 82
+ASPVAR,0.09
+BFIHOST,0.430
+DPLBAR, 56.73
+DPSBAR,152.7
+FARL,0.935
+FPEXT,0.0462
+LDP, 94.30
+PROPWET,0.55
+RMED-1H, 10.2
+RMED-1D, 43.9
+RMED-2D, 59.0
+SAAR,1355
+SAAR4170,1384
+SPRHOST,42.64
+URBCONC1990,-9999.000
+URBEXT1990,0.0024
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0043
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station. Prior to the level recorder installation in 1937, the levels at 67812 Erbistock Weir 67812 were used. Abstraction in catchment for PWS and industrial/agricultural use. Station replaced by 67015 Manley Hall in 1970. GENERAL: Velocity area station. The station is at the point where the Dee leaves the Welsh hills and starts to flow along the edge of the Cheshire plain. Prior to the level recorder installation in 1937, the levels at 67812 Erbistock Weir 67812 were used. Station replaced by 67015 Manley Hall in 1970. STATION HYDROMETRY: Station on left bank. Slight overspilling at very high flows >2.6m. Major regulating reservoirs affect flow (control gates at Llyn Celyn and Lake Bala). The area behind Bala Sluices is 26% of the total catchment, but contributes 40% of the mean runoff. Unstable stage/discharge relationship, due to both weed growth and natural river channel changes following floods, which led to replacement by Manley Hall - see 'General'. Two similar peak flow ratings applied over period of record (one pre and one post 1966). Some scatter in high flow gaugings. FLOW REGIME: Abstraction in catchment for public water supply, and industrial/agricultural use.
+CATCHMENT,Majority of underlying bedrock is low permeability - Ordovician sandstone with felstite, tuff, agglomerate and dolerite and Silurian shales and grits. Small outcrops of Carboniferous limestone, grit, Coal Measures and Trias sandstone. Boulder clay in the extreme east and some valleys. Rural catchment of predominantly grassland.
+Qmed Suitability,QMED seems to be underestimated by more than 30% prior to 1966 with available gaugings. After 66, the only available gauging does not line up well (>20% of error). High flows records therefore not satisfactory from the limited information available.
+Pooling Suitability,Rating uncertain at high flows.
+[END]

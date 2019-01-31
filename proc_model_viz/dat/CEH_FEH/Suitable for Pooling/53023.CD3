@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 53023
+[END]
+[CDS DETAILS]
+NAME,Sherston Avon
+LOCATION,Fosseway
+NOMINAL AREA,   77.73
+NOMINAL NGR,3891,1870
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,389150,187000
+CENTROID NGR,GB,381553,184795
+DTM AREA,   77.73
+ALTBAR, 138
+ASPBAR,109
+ASPVAR,0.40
+BFIHOST,0.720
+DPLBAR, 12.30
+DPSBAR, 28.8
+FARL,0.999
+FPEXT,0.0700
+LDP, 20.13
+PROPWET,0.34
+RMED-1H, 10.5
+RMED-1D, 33.1
+RMED-2D, 42.6
+SAAR, 835
+SAAR4170, 888
+SPRHOST,22.36
+URBCONC1990, 0.547
+URBEXT1990,0.0072
+URBLOC1990, 0.913
+URBCONC2000, 0.688
+URBEXT2000,0.0086
+URBLOC2000, 0.840
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Flat V Crump profile weir installed in 1976. Artificial influences produced lowest flows on record. GENERAL: Station is located 3km upstream of Malmsbury and was opened in 1976. Flat V Crump profile weir, crest 7m broad. STATION HYDROMETRY: Full range station. Fossebridge upstream used for gauging flows. Theoretical rating applied across period of record. FLOW REGIME: Runoff heavily influenced by groundwater abstraction/recharge. Artificial influences produced lowest flows on record in 11/1978. Flows augmented by ground water scheme with minor augmentation from effluent returns. Gate activity upstream may affect flows.
+CATCHMENT,Geology: The catchment upstream is predominantly Oolitic limestone with Coal Measures. Land use is rural.
+Qmed Suitability,Gauged above QMED. Reasonable fit to gauging.
+Pooling Suitability,Gauged to within 14% of AMAX3. Rating is thought to perform reasonably beyond QMED.
+[END]

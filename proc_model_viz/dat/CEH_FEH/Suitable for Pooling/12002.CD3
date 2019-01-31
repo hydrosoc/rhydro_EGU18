@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 12002
+[END]
+[CDS DETAILS]
+NAME,Dee
+LOCATION,Park
+NOMINAL AREA, 1833.21
+NOMINAL NGR,3797,7983
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,379750,798300
+CENTROID NGR,GB,335380,793266
+DTM AREA, 1833.21
+ALTBAR, 447
+ASPBAR, 82
+ASPVAR,0.07
+BFIHOST,0.507
+DPLBAR, 66.91
+DPSBAR,169.4
+FARL,0.980
+FPEXT,0.0483
+LDP,127.69
+PROPWET,0.58
+RMED-1H,  8.5
+RMED-1D, 38.5
+RMED-2D, 53.6
+SAAR,1080
+SAAR4170,1162
+SPRHOST,39.69
+URBCONC1990,-9999.000
+URBEXT1990,0.0008
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0016
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station, the most downstream on the Dee. GENERAL: Velocity area station; section about 50m wide. STATION HYDROMETRY: Cableway rated, unstable natural control causing frequent changes in low and medium flow ratings. Rating derived from current meter gaugings up to 4m (1.15QMED), simple extrapolation beyond. New peak flow rating produced in 1999 and applied to the entire record. FLOW REGIME: Responsiveness slightly dampened by superficial deposits. Abstraction for PWS of approximately 0.7 cumec between Woodend (12001) and Park (accounts for almost 10% of Q95 flow).
+CATCHMENT,Mountainous headwaters, often snowy in winter. Dalradian and Moinian metamorphics along most of valley, flanked by igneous intrusives. Mountain, moorland, forestry landuse with, pastoral and some arable in valley bottom. No significant catchment changes known.
+Qmed Suitability,No comment
+Pooling Suitability,No comment
+[END]

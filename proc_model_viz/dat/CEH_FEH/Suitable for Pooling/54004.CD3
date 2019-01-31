@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 54004
+[END]
+[CDS DETAILS]
+NAME,Sowe
+LOCATION,Stoneleigh
+NOMINAL AREA,  263.52
+NOMINAL NGR,4331,2730
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,433200,273100
+CENTROID NGR,GB,434144,279817
+DTM AREA,  263.52
+ALTBAR, 104
+ASPBAR,144
+ASPVAR,0.19
+BFIHOST,0.510
+DPLBAR, 17.26
+DPSBAR, 27.9
+FARL,0.977
+FPEXT,0.1038
+LDP, 33.48
+PROPWET,0.30
+RMED-1H, 10.8
+RMED-1D, 33.0
+RMED-2D, 42.0
+SAAR, 667
+SAAR4170, 690
+SPRHOST,35.78
+URBCONC1990, 0.835
+URBEXT1990,0.1344
+URBLOC1990, 0.835
+URBCONC2000, 0.909
+URBEXT2000,0.1687
+URBLOC2000, 0.825
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Crump profile weir (3 channels) with crest tapping since 1979 replacing two humped invert flumes installed in 1951. GENERAL: Since 1979 compound Crump profile weir (3 channels) with crest tapping. In-channel Larinier fish pass installed in lower crest of compound structure in Feb 2013. From 1951 to 1979 two humped invert flumes, total width 7.16m, and an overflow weir at 1.45m. STATION HYDROMETRY: Prone to weed growth. Siltation immediately upstream of weir crest - may influence calibration. Rated by flume formula and checked with current meter. Rating dubious when overflow weir in operation. Three peak flow ratings applied across period of record. Good fit to gaugings although high flow gaugings impractical due to weed growth. FLOW REGIME: Groundwater pumping and bulk imports lead to low flows being dominated by Coventry sewage effluent.
+CATCHMENT,Substantially urbanised catchment. Western half on outcrop Coal Measures; Eastern half Mercia Mudstone Group overlain by Boulder Clay and glacial sand and gravel.
+Qmed Suitability,Gauged to within 16% of QMED.
+Pooling Suitability,All flows contained by the structure and standard weir equations thought to perform well.
+[END]

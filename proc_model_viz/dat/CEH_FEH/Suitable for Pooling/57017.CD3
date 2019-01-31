@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 57017
+[END]
+[CDS DETAILS]
+NAME,Rhondda Fawr
+LOCATION,Tynewydd
+NOMINAL AREA,   16.64
+NOMINAL NGR,2932,1986
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,293250,198650
+CENTROID NGR,GB,291966,200083
+DTM AREA,   16.64
+ALTBAR, 427
+ASPBAR,144
+ASPVAR,0.19
+BFIHOST,0.317
+DPLBAR,  3.26
+DPSBAR,217.4
+FARL,0.999
+FPEXT,0.0117
+LDP,  6.66
+PROPWET,0.57
+RMED-1H, 13.8
+RMED-1D, 75.0
+RMED-2D,101.4
+SAAR,2458
+SAAR4170,2470
+SPRHOST,52.88
+URBCONC1990, 0.523
+URBEXT1990,0.0135
+URBLOC1990, 0.315
+URBCONC2000, 0.639
+URBEXT2000,0.0156
+URBLOC2000, 0.293
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Flat V weir with fish baffles on d/s slope. Flood warning station. Natural flow regime. GENERAL: Flat V weir in good condition with fish baffles on d/s slope. Channel is 7.35m wide. Flood warning station. STATION HYDROMETRY: 1.667m high concrete wing walls either side of weir. Full range; no bypassing. Fish baffles installed on downstream side of weir in 2001. Gauging section is concrete channel with good bed stability, though prone to shoaling which has an adverse effect on the modular limit of the weir. The shoaling cannot be moved because there is a main gas line directly underneath and the operations delivery team cannot get into the channel to remove it. Low to medium flows are wade-gauged and high flows are gauged by cableway. Flows for levels above 1.1m are based on a hydraulic model. Peak flow Rating A combines the original rating with the modelled out of bank Hyder rating. Site has been gauged since 2001 but has only recently been rated (2011). Rating A fits the gaugings very well. FLOW REGIME: Natural flow regime.
+CATCHMENT,Coal Measures with alluvial deposits and Boulder Clay in valleys, peat in upper catchment. Livestock farming and heathland on hills; forest cover on high ground to NW. Extensive urban and industrial development in valleys.
+Qmed Suitability,Almost gauged to QMED, QMED within Bank full.
+Pooling Suitability,All AMAX in bank
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 39021
+[END]
+[CDS DETAILS]
+NAME,Cherwell
+LOCATION,Enslow Mill
+NOMINAL AREA,  555.45
+NOMINAL NGR,4482,2183
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,448200,218350
+CENTROID NGR,GB,446659,240487
+DTM AREA,  555.45
+ALTBAR, 133
+ASPBAR,137
+ASPVAR,0.12
+BFIHOST,0.590
+DPLBAR, 39.37
+DPSBAR, 46.7
+FARL,0.976
+FPEXT,0.0942
+LDP, 67.22
+PROPWET,0.30
+RMED-1H, 10.9
+RMED-1D, 33.0
+RMED-2D, 41.0
+SAAR, 664
+SAAR4170, 701
+SPRHOST,31.41
+URBCONC1990, 0.674
+URBEXT1990,0.0235
+URBLOC1990, 0.915
+URBCONC2000, 0.795
+URBEXT2000,0.0244
+URBLOC2000, 0.938
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,The station is based in a largely rural catchment that contains the North Oxfordshire town of Banbury. GENERAL: Asymmetrical compound Crump weir (crests: 3.05m and 6.10m) with side-spilling overfall weir for flows > 10 cumecs. STATION HYDROMETRY: Structure remains modular but flows > 16 cumecs (head of around 0.9m) spill onto floodplain. Bypassing the weir occurs a few hundred metres upstream. Crump weir does not normally drown. Some weed growth u/s. The main weir operates in accordance with Crump weir theory. The main Crump weir uses BS standard equation while the side-spilling weir uses a power law up to a flow of 8 cumecs. A modelled peak flow power law rating is used when the combined weir flow exceeds 8 cumecs. A tail recorder has been installed which should provide a better peak flow rating. FLOW RECORD: Limited utility for flood analysis; level measurement imprecise prior to 1967 and bypassing has varied in magnitude through time. Recorded peaks are underestimates; the peak in April 1998 probably exceeded 100 cumecs whilst the July 2007 peak was estimated at 85 cumecs. This is used when the weir is drowned. Flows, post-2005, have been recalculated. FLOW REGIME: Flows reduced by public water supply abstraction and increased by effluent returns. Limited overall impact of artificial influences on the runoff (net reduction).
+CATCHMENT,A largely rural catchment but with Banbury at its centre in the upper reaches of the Cherwell. The geology is mixed but is predominantly impermeable Liassic formations (clay).
+Qmed Suitability,Gauged to within 8% of QMED. Rating confirmed by hydraulic modelling and check gaugings.
+Pooling Suitability,Rating confirmed by hydraulic modelling.
+[END]

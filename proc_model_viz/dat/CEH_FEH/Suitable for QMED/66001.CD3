@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 66001
+[END]
+[CDS DETAILS]
+NAME,Clwyd
+LOCATION,Pont-y-Cambwll
+NOMINAL AREA,  404.56
+NOMINAL NGR,3069,3709
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,307000,370950
+CENTROID NGR,GB,309230,360666
+DTM AREA,  404.56
+ALTBAR, 207
+ASPBAR, 15
+ASPVAR,0.09
+BFIHOST,0.588
+DPLBAR, 20.13
+DPSBAR,117.6
+FARL,0.993
+FPEXT,0.0570
+LDP, 44.50
+PROPWET,0.41
+RMED-1H,  9.6
+RMED-1D, 34.8
+RMED-2D, 45.9
+SAAR, 910
+SAAR4170, 911
+SPRHOST,32.15
+URBCONC1990,-9999.000
+URBEXT1990,0.0036
+URBLOC1990,-9999.000
+URBCONC2000, 0.783
+URBEXT2000,0.0058
+URBLOC2000, 0.708
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station, opened 1959. Low flows augmented by groundwater. GENERAL: Velocity area station, opened 1959. STATION HYDROMETRY: Station refitted June-Aug 1997, with gabions added to stabilise the section and bed check weir. Out of bank flows occur on both banks around 50 cumecs; some out-of-bank storage u/s at high flows in Vale of Clwyd. Rating is relatively stable although known to be affected by weed growth and sediment/sand movement - inlet pipe prone to silting up although cleared regularly. Weed growth is cleared as required and current meter gauging undertaken. A bend 100m downstream causes variation in velocities across the section, which results in greater uncertainty in the rating, particularly at low flows. New rating created following Feb 2004 flood. Multiple peak flow ratings also exist due to instability of the station. Good fit to gaugings up to QMED, beyond which greater scatter occurs. River often flows over a low section of bank upstream (at least once a year). FLOW RECORD: No GDFs during refit June-Aug 1997. Early peak flow record (1959-69) is not presented because it is available only as flow values, and because of the uncertainties in the ratings. Full period of record peak flow data reviewed and released in April 2017 (WINFAP v5). FLOW REGIME: Low flows augmented using groundwater (approx. 12% of Q95 flow). Flood discharges affected by floodplain storage in Vale of Clwyd u/s.
+CATCHMENT,Headwaters rise in Silurian shales and grits of Denbigh Moors and Clwydian Hills, then flow across generally confined Triassic Sandstone aquifer (with artesian heads over large areas). Mostly superficial deposits, including Boulder Clay. Rural catchment with mixed land use: grouse moors to lowland dairy farming, some forested (mainly in SW).
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged to within 7% of AMAX3, but not classified as suitable given the susceptibility to floodplain storage.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 19005
+[END]
+[CDS DETAILS]
+NAME,Almond
+LOCATION,Almondell
+NOMINAL AREA,  232.55
+NOMINAL NGR,3086,6686
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,308600,668600
+CENTROID NGR,GB,299150,662123
+DTM AREA,  232.55
+ALTBAR, 221
+ASPBAR,  7
+ASPVAR,0.28
+BFIHOST,0.361
+DPLBAR, 17.11
+DPSBAR, 46.5
+FARL,0.953
+FPEXT,0.0647
+LDP, 32.00
+PROPWET,0.51
+RMED-1H,  8.7
+RMED-1D, 35.3
+RMED-2D, 47.8
+SAAR, 964
+SAAR4170, 979
+SPRHOST,46.03
+URBCONC1990, 0.715
+URBEXT1990,0.0276
+URBLOC1990, 0.591
+URBCONC2000, 0.833
+URBEXT2000,0.0465
+URBLOC2000, 0.654
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Informal Flat V weir. Water abstracted to supply Union Canal. GENERAL: An informal Flat V triangular weir was installed at the site in June 1970. Structure widened and a sluice (bypass) incorporated - June 1971. STATION HYDROMETRY: Previous control - natural bar with large boulders. All flows are contained. Immediately above the station a measured quantity of water is abstracted to supply a canal. Low flows - significantly increased by discharge from East Calder sewage works. Two peak flow ratings cover record both derived from current meter gaugings up to 2m (about 0.9 QMED). The change of the control in 1970 necessitated a new rating relationship. FLOW REGIME: Low flows affected by effluent discharge from East Calder sewage works and by abstraction (<1cumecs) to supply Union Canal via a thin plate weir 200m u/s of the station. Flashy response.
+CATCHMENT,Catchment with mix of lowlands-uplands. Bedrock mainly Carboniferous rocks; predominantly overlain by superficial deposits. Predominantly grassland, some forest (in headwaters), and arable landuse. Predominantly rural. Floodplain active even at QMED between Harthill and Blackburn in headwaters. Livingston was developed during the period of record and development is still on-going. There are several small coal mining towns in catchment.
+Qmed Suitability,No comment
+Pooling Suitability,No comment
+[END]

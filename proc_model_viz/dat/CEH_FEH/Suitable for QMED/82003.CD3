@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 82003
+[END]
+[CDS DETAILS]
+NAME,Stinchar
+LOCATION,Balnowlart
+NOMINAL AREA,  324.54
+NOMINAL NGR,2107,5832
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,210750,583200
+CENTROID NGR,GB,224449,587731
+DTM AREA,  324.54
+ALTBAR, 201
+ASPBAR,289
+ASPVAR,0.07
+BFIHOST,0.392
+DPLBAR, 24.61
+DPSBAR,110.4
+FARL,0.987
+FPEXT,0.0613
+LDP, 50.74
+PROPWET,0.63
+RMED-1H, 10.9
+RMED-1D, 42.3
+RMED-2D, 57.1
+SAAR,1507
+SAAR4170,1500
+SPRHOST,45.10
+URBCONC1990,-9999.000
+URBEXT1990,0.0000
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0016
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station in a Rural catchment with extensive forested upland areas in the west. GENERAL: Velocity area station in long straight reach. Approx. 20m wide section. STATION HYDROMETRY: Riffle control. All but exceptional floods contained (<3.1m). Peak flow ratings derived from current meter gaugings up to 3 m (about 0.9 QMED), simple extrapolation beyond. Hydrometric performance has been modestly affected by a leaking stilling well, known to still be leaking as of Jan 2010, although extent of effect on hydrometric performance is unknown. FLOW REGIME: PWS abstractions cause small reduction in runoff. Very limited storage within the catchment.
+CATCHMENT,Catchment topography approx. 2/3 lowland and 1/3 upland. Predominantly impermeable bedrock dominated by metamorphosed sandstone and shales (Ordovician) with igneous outcrops in the headwaters, overlain with Peat and Boulder Clay. Rural catchment with extensive forested upland areas in W (Carrick Forest); hill pasture elsewhere. Afforestation.
+Qmed Suitability,Suitable for QMED, but note that above 3.1m (about QMED) flows are not contained.
+Pooling Suitability,Flows not contained above 3.1 m (about QMED). Until SEPA can confirm the significance of this, the station should not be used for pooling.
+[END]

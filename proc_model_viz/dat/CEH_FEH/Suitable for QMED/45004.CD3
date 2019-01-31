@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 45004
+[END]
+[CDS DETAILS]
+NAME,Axe
+LOCATION,Whitford
+NOMINAL AREA,  288.56
+NOMINAL NGR,3262, 953
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,326200,95300
+CENTROID NGR,GB,332345,104570
+DTM AREA,  288.56
+ALTBAR, 138
+ASPBAR,123
+ASPVAR,0.03
+BFIHOST,0.498
+DPLBAR, 21.02
+DPSBAR, 90.2
+FARL,0.996
+FPEXT,0.0384
+LDP, 39.80
+PROPWET,0.39
+RMED-1H, 11.4
+RMED-1D, 40.1
+RMED-2D, 51.9
+SAAR, 994
+SAAR4170,1052
+SPRHOST,38.81
+URBCONC1990,-9999.000
+URBEXT1990,0.0045
+URBLOC1990,-9999.000
+URBCONC2000, 0.723
+URBEXT2000,0.0109
+URBLOC2000, 0.903
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Compound Crump profile weir below Whitford Bridge installed to measure low flows. GENERAL: Compound Crump profile weir, total width 21.3m, low flow section 7.6m broad. Cableway on site. Installed primarily to measure low flows. Station below Whitford Bridge. Velocity area station for higher flows. STATION HYDROMETRY: Structure limit 2.1 m stage. Some drowning. Overspill at 1.65m on left bank; in large floods considerable bypassing. In-channel deposition becoming an increasing problem: A significant amount of gravel has built up between the upstream (lb) side of the weir and the road bridge (upstream). Rated to above modular limit. Bypassing included in the rating. Stage-discharge relationship at high flows unstable since late 1990s. Multiple peak flow ratings applied across period of record, the most recent is valid from 12/2000. Ratings reviewed in 2016. Bed-mounted ADCP added in 09/2009, when weir becomes non-modular flows are calculated using this. FLOW REGIME: Runoff influenced by groundwater abstraction/recharge. Abstraction for public water supply and industrial/agricultural purposes. Flows increased by effluent returns.
+CATCHMENT,Extremely complex catchment of moderate relief draining Chalk and Greensand headwaters. Middle and lower reaches Mercia Mudstone; Lias clays and more Greensand. Land use is meadowland, low intensity agriculture, woodland and minor industrial development. No major changes in catchment.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Rating confirmed to bankfull, beyond which there are no check gaugings available to validate rating.
+[END]

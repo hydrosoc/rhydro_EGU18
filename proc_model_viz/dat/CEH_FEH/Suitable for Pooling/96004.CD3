@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 96004
+[END]
+[CDS DETAILS]
+NAME,Strathmore
+LOCATION,Allnabad
+NOMINAL AREA,  105.36
+NOMINAL NGR,2453,9428
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,245300,942900
+CENTROID NGR,GB,242594,941765
+DTM AREA,  105.36
+ALTBAR, 325
+ASPBAR, 51
+ASPVAR,0.07
+BFIHOST,0.352
+DPLBAR,  7.42
+DPSBAR,192.3
+FARL,0.938
+FPEXT,0.0414
+LDP, 14.36
+PROPWET,0.85
+RMED-1H, 10.7
+RMED-1D, 58.3
+RMED-2D, 85.2
+SAAR,2455
+SAAR4170,2665
+SPRHOST,55.28
+URBCONC1990,-9999.000
+URBEXT1990,0.0000
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0000
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station in natural and very responsive catchment. Some headwater storage. GENERAL: Velocity area station, about 30m wide. STATION HYDROMETRY: Boulder and gravel control, can be subject to change in big events. Gauged down to 0.15 cumecs. Extreme low flows measured 2 km d/s at a more suitable site for wading (catchment area increase: 7 sq.km). All flows contained to date. scatter in gaugings through the flow range due to the instability of the control and the turbulence in the gauging pool at medium to high flows. Two peak flow ratings, both derived from current meter gaugings. Maximum gauging for pre-Oct 1994 rating of about 0.7 QMED; for post-Oct 1994 about 0.8QMED; simple extrapolation beyond. Peak flow rating was revised in 2003. FLOW REGIME: Natural and very responsive flow regime; moderate storage in headwater lochans.
+CATCHMENT,Very wet, rugged, upland catchment with mountainous headwaters, often snowy in winter. Predominantly Moinian metamorphic with schist intrusions. Less than half overlain by superficial deposits. Moorland and rough grazing dominate land use. No significant catchment changes known.
+Qmed Suitability,No comment
+Pooling Suitability,No comment
+[END]

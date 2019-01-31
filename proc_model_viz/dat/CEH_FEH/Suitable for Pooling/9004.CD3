@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+  9004
+[END]
+[CDS DETAILS]
+NAME,Bogie
+LOCATION,Redcraig
+NOMINAL AREA,  182.43
+NOMINAL NGR,3519,8374
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,351950,837450
+CENTROID NGR,GB,348531,829935
+DTM AREA,  182.43
+ALTBAR, 297
+ASPBAR, 71
+ASPVAR,0.12
+BFIHOST,0.567
+DPLBAR, 14.51
+DPSBAR,132.0
+FARL,0.998
+FPEXT,0.0313
+LDP, 30.03
+PROPWET,0.53
+RMED-1H,  8.4
+RMED-1D, 35.4
+RMED-2D, 51.6
+SAAR, 955
+SAAR4170,1045
+SPRHOST,32.61
+URBCONC1990,-9999.000
+URBEXT1990,0.0012
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0014
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station in an upland catchment. GENERAL: Velocity area station about 17m wide. STATION HYDROMETRY: Cableway rated. Stable broken rubble weir control. Good low flow calibration. Bypassing occurs at flows above 1.8m, water shortcuts the bend of the river on rb. Gaugeboard record for d/s site, 1973-1981. Gaugeboard lowered May 1996 and again November 2003. Peak flow rating derived from current meter gaugings up to 39 cumecs (about 1.2QMED); simple extrapolation beyond. Two peak flow ratings pre and post change of gauge board have been derived by SEPA. FLOW REGIME: Natural regime, no abstractions.
+CATCHMENT,Upland catchment. Geology is Dalradian metamorphics and large areas of ORS. Significant superficial deposits. Some high moorland, forestry, pastoral and arable in valleys. No significant catchment changes known.
+Qmed Suitability,No comment
+Pooling Suitability,No comment
+[END]

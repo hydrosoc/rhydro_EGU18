@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+203010
+[END]
+[CDS DETAILS]
+NAME,Blackwater
+LOCATION,Maydown Bridge
+NOMINAL AREA,  964.71
+NOMINAL NGR,2819,3519
+[END]
+[DESCRIPTORS]
+IHDTM NGR,Ireland,282000,351950
+CENTROID NGR,Ireland,266719,345577
+DTM AREA,  964.71
+ALTBAR, 110
+ASPBAR, 85
+ASPVAR,0.08
+BFIHOST,0.395
+DPLBAR, 42.20
+DPSBAR, 75.9
+FARL,0.976
+FPEXT,0.1004
+LDP, 76.02
+PROPWET,0.57
+RMED-1H,  9.1
+RMED-1D, 31.1
+RMED-2D, 41.6
+SAAR,1008
+SAAR4170,1032
+SPRHOST,37.37
+URBCONC1990,-2.000
+URBEXT1990,0.0105
+URBLOC1990, 0.951
+URBCONC2000,-9999.000
+URBEXT2000,0.0019
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station with cableway and natural control. GENERAL: Velocity-area station with masonry hut on lb. Just downstream of twin-arched bridge. Flood bank built during mid-1990's opposite station. STATION HYDROMETRY: Cableway present. Contained at high flows. Rating derived from current meter gaugings, recalibrated after construction of raised flood bank in mid 1990s. Simple extrapolation above approx 150m3/s. FLOW RECORD: Daily flows for full POR reprocessed in 2002. Peak flow data presented for period after major arterial drainage scheme and channel improvements, and raised right bank in 1990. Gauging close to peak lends credence to November 2009 peak flow. Some suspect data in early July 2011 due to vandalism at the site. FLOW REGIME: Substantial portion of catchment is in the Republic of Ireland where some groundwater may be abstracted but its hydrological significance is unknown. Flows influenced by major arterial drainage scheme - started in 1983 and finished in 1995.
+CATCHMENT,Solid geology - indurated Carboniferous limestone, sandstone and mudstone are exposed upstream while permeable Sherwood Sandstone Group occurs downstream. Drift geology -downstream, drumlinised glacial till is overlain by river alluvium. Extensive rock near surface and post-glacial peat cover on high ground with restricted development of river alluvium in valleys. A predominantly rural catchment - largely improved grassland with limited afforestation. Monaghan Town - in the Irish Republic - is the only significant urban centre.
+Qmed Suitability,Good range of gaugings at the high end with Max gauged/QMED ratio of 1.4. Contained at QMED flow with the high flow rating giving an acceptable fit to the check gaugings for the most part.
+Pooling Suitability,Fully contained since the construction of a flood bank in 1990
+[END]

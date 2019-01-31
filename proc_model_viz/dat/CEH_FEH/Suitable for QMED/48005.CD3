@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 48005
+[END]
+[CDS DETAILS]
+NAME,Kenwyn
+LOCATION,Truro
+NOMINAL AREA,   19.02
+NOMINAL NGR,1819, 450
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,181950,45000
+CENTROID NGR,GB,178563, 46742
+DTM AREA,   19.02
+ALTBAR,  83
+ASPBAR,114
+ASPVAR,0.19
+BFIHOST,0.601
+DPLBAR,  4.82
+DPSBAR, 90.4
+FARL,0.988
+FPEXT,0.0091
+LDP,  8.47
+PROPWET,0.42
+RMED-1H, 11.0
+RMED-1D, 36.0
+RMED-2D, 49.2
+SAAR,1100
+SAAR4170,1107
+SPRHOST,32.62
+URBCONC1990, 0.842
+URBEXT1990,0.0282
+URBLOC1990, 0.474
+URBCONC2000, 0.938
+URBEXT2000,0.0321
+URBLOC2000, 0.498
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Three-bay compound Crump profile weir with flood retention ponds upstream that alter high flow response. GENERAL: Three-bay compound Crump profile weir with central crest length 1.22 m and two side crests of 1.524 m and 1.535 m (4.27 m total). Crest levels are: left 24.506 mAOD, central 23.521 mAOD, right 24.523 mAOD. Pier and wing wall height 1.98 m. STATION HYDROMETRY: Contains all flows; potential for non-modularity at highest flows. Variable shoaling affects low flow precision. There is a timber weir d/s of the Crump, installed in 06/2001 to allow water to be abstracted to feed the town leat. At same time a tail logger was installed on the Crump weir. Crump weir does not drown, but u/s flood storage ponds prevent large discharge over weir. D/s bridge not known to cause backwater. Two peak flow ratings applied across period of record. Ratings appear to overestimate flows above a stage of about 0.8m. No bypassing expected. Acoustic Time of Flight installed in the upstream channel in 04/2009 to improve the rating. FLOW RECORD: Suspect data 28/07/2001 - 23/08/2001, resulting from backing up from an informal weir which was installed immediately downstream of the Crump in 06/2001. Flood retention ponds upstream, in operation from 01/1991.
+CATCHMENT,Catchment of moderate relief on Old Red Sandstone and Devonian grits and shales, with wooded, incised valleys. Substantially natural catchment but flood retention ponds (from 01/1991) alter high flow response. High baseflow for the relief of the catchment.
+Qmed Suitability,Rating provides a reasonable estimate of QMED.
+Pooling Suitability,Rating uncertain beyond QMED, appears to overestimate flows.
+[END]

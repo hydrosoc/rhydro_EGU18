@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 47023
+[END]
+[CDS DETAILS]
+NAME,Tamar
+LOCATION,Tamarstone Bridge
+NOMINAL AREA,   49.06
+NOMINAL NGR,2283,1055
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,228350,105500
+CENTROID NGR,GB,228299,110991
+DTM AREA,   49.06
+ALTBAR, 158
+ASPBAR,187
+ASPVAR,0.20
+BFIHOST,0.396
+DPLBAR,  8.56
+DPSBAR, 54.2
+FARL,0.917
+FPEXT,0.0519
+LDP, 16.55
+PROPWET,0.50
+RMED-1H, 12.5
+RMED-1D, 38.7
+RMED-2D, 50.6
+SAAR,1217
+SAAR4170,1254
+SPRHOST,42.01
+URBCONC1990,-9999.000
+URBEXT1990,0.0030
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0015
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Open channel flood warning gauge. GENERAL: Open channel flood warning gauged installed just upstream of road bridge. STATION HYDROMETRY: ADVP flow gauge installed to assist in flow calculation at site. As site is subject to backwatering from downstream this is used to calculate high flows above a stage of around 1 m, approx 3 m3/s. Flow calculations are made via a combination of a low flow rating and data from the ADVP at higher levels. One peak flow rating across the period of record. FLOW REGIME: The catchment is predominately rural. Tamar Lakes are found in the catchment. The Upper Lake is a water supply reservoir whilst the Lower Lake is no longer used as a reservoir and so acts as an online pond.
+CATCHMENT,Most of the rocks in the Tamar catchment are hard mudstones, shales, siltstones, sandstones and minor limestones. A major mountain building event during the Carboniferous Period intensely folded the strata which resulted in extensive fissuring and faulting. The flow duration curve for the catchment is relatively steep through its length because the underlying granite, slate and shale restrict groundwater storage whilst slowly permeable soils in the upper catchment promote rapid surface water runoff. No major catchment changes.
+Qmed Suitability,ADVP calibrated to around QMED
+Pooling Suitability,calibration would be extrapolated but is contained by road crossing
+[END]

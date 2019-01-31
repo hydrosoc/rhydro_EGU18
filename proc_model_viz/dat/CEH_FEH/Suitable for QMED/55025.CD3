@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 55025
+[END]
+[CDS DETAILS]
+NAME,Llynfi
+LOCATION,Three Cocks
+NOMINAL AREA,  131.62
+NOMINAL NGR,3166,2375
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,316600,237600
+CENTROID NGR,GB,312746,232033
+DTM AREA,  131.62
+ALTBAR, 239
+ASPBAR,353
+ASPVAR,0.04
+BFIHOST,0.576
+DPLBAR, 12.02
+DPSBAR,104.6
+FARL,0.950
+FPEXT,0.0367
+LDP, 20.76
+PROPWET,0.54
+RMED-1H,  9.9
+RMED-1D, 39.2
+RMED-2D, 49.7
+SAAR, 999
+SAAR4170,1001
+SPRHOST,30.55
+URBCONC1990,-9999.000
+URBEXT1990,0.0017
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0043
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station; informal broad-crested. Asymmetrical Flat V weir enhancing the natural rock bar control. Natural flow regime. GENERAL: Velocity area station; informal broad-crested. Asymmetrical Flat V weir enhancing the natural rock bar control. Approx width at bankfull stage is 16m. STATION HYDROMETRY: Cableway was present, removed in 2010. Two peak flow ratings applied across period of record. FLOW RECORD: Maximum peak flow occurred in Dec 1979 - this was undoubtedly exceptional although uncertainty surrounds the magnitude (198.4 cumecs on Peak flow database) as flow was extrapolated. Gap in record in 2001 the result of telemetry fault which could not be resolved due to Foot and Mouth restrictions. Data estimated for Aug - Nov 2003. FLOW REGIME: Natural to within 10% at Q95.
+CATCHMENT,Impermeable geology: headwaters drain the Old Red Sandstone of the Black Mountains; lower reaches expose Old Red Sandstone marls which have lower relief. Contains Llangorse Lake. Predominantly grassland with patches of woodland and some arable in lower reaches.
+Qmed Suitability,Gauged above QMED. Rating providing a good fit to gaugings
+Pooling Suitability,Although all high flow records are in bank, rating is unreliable above 1.5m where insufficient gaugings exist to verify stage-discharge relationship
+[END]

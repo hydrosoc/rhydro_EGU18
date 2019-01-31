@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 69007
+[END]
+[CDS DETAILS]
+NAME,Mersey
+LOCATION,Ashton Weir
+NOMINAL AREA,  667.27
+NOMINAL NGR,3772,3935
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,377250,393600
+CENTROID NGR,GB,398472,391822
+DTM AREA,  667.27
+ALTBAR, 242
+ASPBAR,278
+ASPVAR,0.24
+BFIHOST,0.413
+DPLBAR, 44.49
+DPSBAR,112.4
+FARL,0.905
+FPEXT,0.0907
+LDP, 72.12
+PROPWET,0.53
+RMED-1H, 10.8
+RMED-1D, 38.5
+RMED-2D, 51.5
+SAAR,1127
+SAAR4170,1108
+SPRHOST,38.41
+URBCONC1990, 0.750
+URBEXT1990,0.0949
+URBLOC1990, 0.596
+URBCONC2000, 0.875
+URBEXT2000,0.1353
+URBLOC2000, 0.614
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Compound broad-crested weir with ultrasonics. Peak flows truncated by flood storage basins. GENERAL: Station opened in 1958 as a replacement for Irlam Weir (69001) downstream. A compound broad-crested weir, 24m wide overall, with central lower section 12.2m wide and 0.49m lower than flanking crests (no divide piers). A 5-level cross-path Ultrasonic station was commissioned March 2009 just upstream of the weir. A fish pass was added in March 2012 - ultrasonic flows are not affected. Two-stage channel profile, with a step at 4.5m and bankfull at 5.5m. STATION HYDROMETRY: The weir is insensitive at low flows and drowns at high flows. Flows contained - no bypassing. Low and medium flows generally reliable. Peak flows reliable since cross path ultrasonic gauge installed for high flow measurement in March 2009. Cableway demolished during construction of motorway in 1978, then re-instated for most recent high flow gaugings in late 1990's and removed late 2000's. Until March 2009 flows derived from rating, based on gaugings. High flow gaugings in 1998 from cableway revealed a complex stage-discharge pattern (hysteresis) above 100m3/s, which is thought to be due to variable backwater (differential drowning of the weir crest and seasonal variations in vegetation growth affecting the conveyance). Ultrasonic gauge confirms the hysteresis. A fish pass was added in March 2012 - ultrasonic flows are not affected. Flood Studies Report grade B. FLOW RECORD: Peak flows (over 100 m3s-1) before installation of the ultrasonic measurement in March 2009 are likely to be significantly overestimated. FLOW REGIME: Responsive regime despite substantial reservoir development in the headwaters (Longdendale reservoirs control 10% of the catchment). Several smaller reservoirs in the Tame and Goyt catchments control a further 13% of the catchment. Flood flows are truncated by operation of offline storage basins at Didsbury and Sale Ees upstream.
+CATCHMENT,A steep westward draining Pennine catchment with headwaters in the Peak District. Geology is a mixture of gritstones on high ground and Triassic marls and sandstones overlain with postglacial deposits in the west. Land use transition from open moorland to the heavily urbanised lower catchment (includes much of south Manchester).
+Qmed Suitability,Gauged above QMED. Uncertainty due to scatter/hysteresis is manageable.
+Pooling Suitability,Pre-ultrasonic data affected by significant hysteresis, and hence large uncertainty of high flows in the rated record. Flood flows are truncated by offline storage basins upstream.
+[END]

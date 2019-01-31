@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 66006
+[END]
+[CDS DETAILS]
+NAME,Elwy
+LOCATION,Pont-y-Gwyddel
+NOMINAL AREA,  191.36
+NOMINAL NGR,2952,3717
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,295250,371750
+CENTROID NGR,GB,290505,364667
+DTM AREA,  191.36
+ALTBAR, 284
+ASPBAR, 28
+ASPVAR,0.16
+BFIHOST,0.476
+DPLBAR, 14.33
+DPSBAR,129.0
+FARL,0.980
+FPEXT,0.0317
+LDP, 29.94
+PROPWET,0.60
+RMED-1H, 10.1
+RMED-1D, 43.9
+RMED-2D, 60.8
+SAAR,1185
+SAAR4170,1125
+SPRHOST,39.46
+URBCONC1990,-9999.000
+URBEXT1990,0.0004
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0009
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Twin arch bridge with castellated low profile crump weirs under each arch. Flows affected by abstraction for public water supply. GENERAL: Twin arch bridge with castellated low profile crump weirs under each arch to enable low flow monitoring. STATION HYDROMETRY: Twin arch bridge provides control at medium flows; 1m wide Crump weir blocks set in castellated manner within 10m wide archway to achieve low flow sensitivity. Low flows affected (>10%) by residual flow of 0.2 cumecs in Afon Aled (from reservoirs which drain 6% of catchment). Some bypassing at levels > 2.0m. Rebuild in 2006 when instrument hut moved from lb to rb, with works designed to contain more extreme events. New cableway installed summer 2007 to allow high flow gauging. Multiple peak flow ratings applied across period of record, the most recent is valid from October 2006. Gauged during out of bank flow conditions with good fit to rating. FLOW RECORD: New rating from 01/08/97, data reprocessed. Missing data July-September 2006 during rebuild. New rating developed June 2009 and applied back to June 2006. Full period of record peak flow data reviewed and released in April 2017 (WINFAP v5). FLOW REGIME: Abstraction for public water supply.
+CATCHMENT,Impermeable Silurian strata with patchy Boulder Clay cover. Mainly grassland, sheep pastures; patchy woodland and some upland heath.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged beyond AMAX3, which is out of bank.
+[END]

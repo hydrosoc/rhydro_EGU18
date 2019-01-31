@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 25004
+[END]
+[CDS DETAILS]
+NAME,Skerne
+LOCATION,Darlington South Park
+NOMINAL AREA,  224.19
+NOMINAL NGR,4283,5129
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,428400,512950
+CENTROID NGR,GB,430605,526061
+DTM AREA,  224.19
+ALTBAR, 100
+ASPBAR,148
+ASPVAR,0.22
+BFIHOST,0.398
+DPLBAR, 26.62
+DPSBAR, 34.2
+FARL,0.977
+FPEXT,0.1205
+LDP, 48.85
+PROPWET,0.32
+RMED-1H,  9.9
+RMED-1D, 28.9
+RMED-2D, 37.3
+SAAR, 644
+SAAR4170, 683
+SPRHOST,37.10
+URBCONC1990, 0.733
+URBEXT1990,0.0694
+URBLOC1990, 0.667
+URBCONC2000, 0.858
+URBEXT2000,0.0910
+URBLOC2000, 0.668
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Compound broad-crested weir with a fish pass. Flow regime influenced by reservoir, minewaters and sewage effluent. GENERAL: Compound broad-crested non-standard weir, not purpose built but unlikely to drown. On low-lying ground, formerly the floor of a boating lake, under concrete foot bridge. Fish pass with a small Crump weir constructed winter 1995/1996 - acts as an orifice at high flows. Channel rehabilitation u/s to improve aquatic habitat and maintain low flows. STATION HYDROMETRY: Often out of bank, but the overbank flow passes over the two side weirs. At the highest levels bridge soffit influences upstream level. Flow in fish pass not currently (2015) added to flow in main channel so total flow is underestimated. One peak flow rating applied across period of record. Reasonable fit to available gaugings. Flood Studies Report grade B due to catchment changes (A2 for structure). FLOW RECORD: Site temporarily closed from June 2007 after being vandalised. Not reinstated until 29/09/2009. FLOW REGIME: Hurworth Burn reservoir (13.4 km2, 6% of catchment) in headwaters. Pumped minewaters can augment flow, but this contribution declines over time. Excess flow from the Cocker Beck is diverted (u/s of Darlington) directly to the Tees. Significant sewage effluent component in low flows.
+CATCHMENT,Catchment underlain by highly permeable Magnesian Limestone, but nearly all the catchment overlain by superficial deposits, mainly Boulder Clay. Dominated by mixed agriculture, considerable urban development d/s in Darlington and Aycliffe. Mixed agricultural land use and significant floodplain drained fen peat (carrs) where overbank flood storage may attenuate extreme flood peaks.
+Qmed Suitability,Gauged to within 14% of QMED.
+Pooling Suitability,Although no gaugings beyond QMED, flows are contained and rating thought to be reliable.
+[END]

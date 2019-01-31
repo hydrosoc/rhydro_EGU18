@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 48010
+[END]
+[CDS DETAILS]
+NAME,Seaton
+LOCATION,Trebrownbridge
+NOMINAL AREA,   38.57
+NOMINAL NGR,2299, 594
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,229950,59450
+CENTROID NGR,GB,227803, 64418
+DTM AREA,   38.57
+ALTBAR, 136
+ASPBAR,172
+ASPVAR,0.21
+BFIHOST,0.590
+DPLBAR,  7.21
+DPSBAR,107.6
+FARL,0.993
+FPEXT,0.0202
+LDP, 15.42
+PROPWET,0.48
+RMED-1H, 11.9
+RMED-1D, 42.2
+RMED-2D, 56.5
+SAAR,1325
+SAAR4170,1398
+SPRHOST,30.67
+URBCONC1990, 0.595
+URBEXT1990,0.0155
+URBLOC1990, 1.387
+URBCONC2000, 0.747
+URBEXT2000,0.0167
+URBLOC2000, 1.332
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Three-bay compound Crump profile weir with minimal artificial interference with natural flow regime. GENERAL: Three-bay compound Crump profile weir, middle crest length 3m and side crests 4m each (total 11m). Wing walls and floodbanks at 2.05m. STATION HYDROMETRY: Thought to be fully modular but evidence suggests that in 2012 when twice, the peak level reached more than 1m stage, the weir may have drowned. This is still to be confirmed. Upstream subject to significant siltation/sedimentation. Weed growth problems. Two peak flow ratings applied across period of record. FLOW REGIME: Natural to within 10% at Q95, minimal interference with natural flow regime.
+CATCHMENT,Rises on the Caradon Hill granites. Elongated, linear catchment springing from southernmost outcrop of Bodmin Granite. Great bulk of the catchment on Devonian slates and shales interspersed with tuffs and lavas. Moderate relief. Land use is low-grade agriculture, grazing and some afforestation. No major changes to catchment.
+Qmed Suitability,Gauged to within 12% of QMED. Reasonable fir to gaugings. However, data under review 2013 due to level measurement problems
+Pooling Suitability,Few high flow gaugings. Rating can not be validated beyond QMED and is thought to underestimate peaks. Data under review 2013 due to level measurement problems
+[END]

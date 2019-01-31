@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 27083
+[END]
+[CDS DETAILS]
+NAME,Foss
+LOCATION,Huntington
+NOMINAL AREA,  126.35
+NOMINAL NGR,4612,4543
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,461200,454350
+CENTROID NGR,GB,461895,464668
+DTM AREA,  126.35
+ALTBAR,  39
+ASPBAR,195
+ASPVAR,0.28
+BFIHOST,0.478
+DPLBAR, 17.47
+DPSBAR, 20.0
+FARL,0.990
+FPEXT,0.2951
+LDP, 33.85
+PROPWET,0.32
+RMED-1H, 11.1
+RMED-1D, 29.7
+RMED-2D, 38.9
+SAAR, 637
+SAAR4170, 644
+SPRHOST,34.29
+URBCONC1990, 0.714
+URBEXT1990,0.0239
+URBLOC1990, 0.370
+URBCONC2000, 0.830
+URBEXT2000,0.0343
+URBLOC2000, 0.397
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Electromagnetic gauging station 4km u/s of the Foss barrier. GENERAL: Electromagnetic gauging station 4km u/s of the Foss barrier. Buried coil in an insulated trapezoidal channel. No cableway. STATION HYDROMETRY: Backing-up from Foss Barrier (in York). All flows contained. Flow measured directly by electromagnetic gauge. There is also a side-looking H-ADVP gauge running in parallel with the EM, with flow calculated from a velocity index rating. A peak flow rating, checked independently with current meter gauging, is used when the electromagnetic equipment fails. FLOW REGIME: Surface water drainage can be diverted into the catchment at high flows.
+CATCHMENT,Relatively low lying catchment. Headwaters on Yearsley Moor but catchment is mostly located in Vale of York. Mixed geology overlain with Boulder Clay and lacustrine clays. Predominantly arable, with some urban development above station. No known catchment changes.
+Qmed Suitability,Full range electromagnetic gauge
+Pooling Suitability,Full range electromagnetic gauge
+[END]

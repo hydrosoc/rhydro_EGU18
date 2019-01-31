@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 28007
+[END]
+[CDS DETAILS]
+NAME,Trent
+LOCATION,Shardlow
+NOMINAL AREA, 4395.42
+NOMINAL NGR,4448,3299
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,444800,330000
+CENTROID NGR,GB,410835,319153
+DTM AREA, 4395.42
+ALTBAR, 136
+ASPBAR,140
+ASPVAR,0.07
+BFIHOST,0.518
+DPLBAR, 86.14
+DPSBAR, 46.1
+FARL,0.954
+FPEXT,0.1237
+LDP,132.23
+PROPWET,0.32
+RMED-1H, 10.5
+RMED-1D, 32.2
+RMED-2D, 40.0
+SAAR, 751
+SAAR4170, 761
+SPRHOST,33.82
+URBCONC1990, 0.810
+URBEXT1990,0.0872
+URBLOC1990, 1.163
+URBCONC2000, 0.905
+URBEXT2000,0.1176
+URBLOC2000, 1.174
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Sidelooker horizontal ADCP, using index velocity method to derive flows, replacing poorly performing multipath cross-configuration US built in 1991 to replace poor, non-operational velocity-area gauge that was subject to backwater influence and weed growth. GENERAL: Index-Velocity station in the navigable Trent. Main channel approximately 45m wide. Gauged using ADCP boat. Channel re-graded in 1974 - channel control became unstable. Informal pre-barrage added downstream to improve fish passage in 2012. Rather contentious datum history although most level changes visible on charts now thought to be due to changes in channel and sedimentation/maintenance. STATION HYDROMETRY: Originally a VA station reliable in the low to medium range but liable to high flows over topping wing walls. Multipath cross-configuration US station installed 1991. Almost all floods contained. Two sets of major flood relief culverts on right bank. Not much bypassing on left bank. One rating applied across period of record. Limb C developed independently of gaugings - unsure how but possibly modelled. Ultrasonic flows/levels (post 91) match rating well. Rather contentious datum history although most level changes visible on charts now thought to be due to changes in channel and sedimentation/maintenance. FLOW RECORD: Original station was closed 30/11/66 and records recommence in 1991. FLOW REGIME: Reservoir(s) in catchment affect runoff. Regulation from surface water and/or ground water. Runoff reduced by public water supply abstraction, also influenced by groundwater abstraction/recharge. Site also affected by turbulence.
+CATCHMENT,Large catchment which contains much of Birmingham City. The Trent headwaters have small outcrops of Coal Measures whilst the Dove catchment is dominated by Millstone Grit and Carboniferous Limestone. Approx 25% of the catchment is overlain by Boulder Clay, 10% valley gravels, terraces and alluvium. Drift free areas are largely Keuper Marl and sandstone. Diverse land use from moorland to industrial.
+Qmed Suitability,Gauged to within 3% of QMED. Gaugings fit well to rating.
+Pooling Suitability,Few high flow gaugings. Rating can not be validated beyond QMED. High flows possibly underestimated by ultrasonics. Substantial flow modifications and storage.
+[END]

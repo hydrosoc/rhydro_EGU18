@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 54020
+[END]
+[CDS DETAILS]
+NAME,Perry
+LOCATION,Yeaton
+NOMINAL AREA,  188.08
+NOMINAL NGR,3434,3192
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,343450,319200
+CENTROID NGR,GB,337383,328872
+DTM AREA,  188.08
+ALTBAR, 102
+ASPBAR,129
+ASPVAR,0.11
+BFIHOST,0.654
+DPLBAR, 19.26
+DPSBAR, 29.5
+FARL,0.954
+FPEXT,0.1899
+LDP, 34.78
+PROPWET,0.40
+RMED-1H,  9.2
+RMED-1D, 29.0
+RMED-2D, 37.4
+SAAR, 739
+SAAR4170, 773
+SPRHOST,26.50
+URBCONC1990, 0.540
+URBEXT1990,0.0081
+URBLOC1990, 1.136
+URBCONC2000, 0.743
+URBEXT2000,0.0144
+URBLOC2000, 1.146
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Crump profile weir that contains all floods while effluent returns in catchment may have substantial effect at lowest flows. GENERAL: Crump profile weir, 6m wide with (unused) crest tapping. STATION HYDROMETRY: All floods contained and the weir is not known to drown. Channel very prone to weed growth and may suffer from siltation upstream. Theoretical rating applied across period of record confirmed by gaugings to 0.85m. FLOW REGIME: Substantial groundwater abstraction has indirect effect. Effluent returns in catchment may have substantial effect at lowest flows.
+CATCHMENT,River rises on Millstone Grit and traverses Sherwood Sandstone and Mercia Mudstone, although there is extensive coverage by glacial sands and gravels with some peat deposits. Some marshland with complex artificial drainage.
+Qmed Suitability,Gauged above QMED. All flows well contained and theoretical rating expected to perform well.
+Pooling Suitability,Gauged to within 20% of AMAX3. All flows well contained and theoretical rating expected to perform well.
+[END]

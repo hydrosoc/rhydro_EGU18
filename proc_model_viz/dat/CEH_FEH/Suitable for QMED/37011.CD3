@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 37011
+[END]
+[CDS DETAILS]
+NAME,Chelmer
+LOCATION,Churchend
+NOMINAL AREA,   72.78
+NOMINAL NGR,5628,2233
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,562850,223350
+CENTROID NGR,GB,560093,228787
+DTM AREA,   72.78
+ALTBAR,  94
+ASPBAR,132
+ASPVAR,0.19
+BFIHOST,0.448
+DPLBAR,  9.49
+DPSBAR, 31.9
+FARL,0.992
+FPEXT,0.0595
+LDP, 18.30
+PROPWET,0.31
+RMED-1H, 11.2
+RMED-1D, 28.1
+RMED-2D, 34.9
+SAAR, 591
+SAAR4170, 602
+SPRHOST,41.15
+URBCONC1990, 0.438
+URBEXT1990,0.0087
+URBLOC1990, 0.999
+URBCONC2000, 0.657
+URBEXT2000,0.0121
+URBLOC2000, 0.954
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Good record of a responsive, rural catchment with mixed geology and with minor artificial influences. GENERAL: Trapezoidal flume (with central division wall which commences above the lowest contraction) with throat recorder and spillway for flows over 1.42m. Secondary instrument to record non-modular flows installed in 2003. STATION HYDROMETRY: Measures up to the 1 in 10 year flood (approx. 1.69m) above which bypassing occurs. Drowning is minimal but more gaugings required at higher flows to confirm rating. Rating confirmed by gaugings to 1.58m. One rating applied across period of record. FLOW RECORD: The sudden drop in flow on 20/07/2015 may be due to works on Elmbridge Mill gates located downstream of Churchend at Little Easton. The periods of high flows from 2015/05/12 to 2015/05/16 and from 2015/06/05 to 2015/06/10 were probably cased by vandalism (dams on the weir) which often occurs in summer months. FLOW REGIME: Responsive catchment. Some industrial/agricultural abstraction but minimal adjustments needed.
+CATCHMENT,Upland (for East Anglia) catchment at head of R. Chelmer. Upper quarter of catchment is Chalk, remainder is London Clay, both largely overlain with Boulder Clay. Rural, predominantly arable farming.
+Qmed Suitability,Gauged above QMED. Good fit to gaugings.
+Pooling Suitability,AMAX3 is beyond the upper limit of confidence of 1.7m. More gaugings are required to confirm out of bank flows.
+[END]

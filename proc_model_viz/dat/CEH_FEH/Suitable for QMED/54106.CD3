@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 54106
+[END]
+[CDS DETAILS]
+NAME,Stour (Warks)
+LOCATION,Shipston
+NOMINAL AREA,  185.16
+NOMINAL NGR,4260,2405
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,426050,240500
+CENTROID NGR,GB,424858,236672
+DTM AREA,  185.16
+ALTBAR, 143
+ASPBAR, 27
+ASPVAR,0.11
+BFIHOST,0.454
+DPLBAR, 13.17
+DPSBAR, 65.1
+FARL,0.993
+FPEXT,0.0417
+LDP, 24.01
+PROPWET,0.32
+RMED-1H, 10.9
+RMED-1D, 34.7
+RMED-2D, 42.9
+SAAR, 677
+SAAR4170, 702
+SPRHOST,41.27
+URBCONC1990, 0.560
+URBEXT1990,0.0150
+URBLOC1990, 0.999
+URBCONC2000, 0.685
+URBEXT2000,0.0112
+URBLOC2000, 0.955
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Open channel with cableway used by FFS (flood forecasting) only. GENERAL: Open channel with cableway. Site used by FFS (flood forecasting) only. During dry periods the stilling well bottoms out and levels may therefore be lower than indicated on the Hydrolog record, e.g. summers of 1993, 1995, 1996, 1997 cont. Dual inlet pipes - may be causing problems with siltation at bottom of well, under investigation. STATION HYDROMETRY: During dry periods the stilling well bottoms out and levels may therefore be lower than indicated on the Hydrolog record, e.g. summers of 1993, 1995, 1996, 1997 cont. Dual inlet pipes - may be causing problems with siltation at bottom of well, under investigation. Two ratings applied across period of record, the most recent is valid from January-1997.Good confidence of rating below bankfull. Upper limb of two ratings identical. FLOW RECORD: Station flooded during July 2007, high flows beyond upper limit of rating curve. FLOW REGIME: Some influences from PWS near the headwaters.
+CATCHMENT,Moderately high relief, mainly agricultural catchment, on Lower Lias and Cotswold Oolite.
+Qmed Suitability,QMED within bank and well gauged.
+Pooling Suitability,Few high flow gaugings. Rating can not be validated beyond QMED.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 69046
+[END]
+[CDS DETAILS]
+NAME,Bradshaw Brook
+LOCATION,Bradshaw Tennis Club
+NOMINAL AREA,   36.87
+NOMINAL NGR,3733,4122
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,373350,412250
+CENTROID NGR,GB,372843,417450
+DTM AREA,   36.87
+ALTBAR, 254
+ASPBAR,185
+ASPVAR,0.21
+BFIHOST,0.345
+DPLBAR,  7.40
+DPSBAR,101.3
+FARL,0.781
+FPEXT,0.0222
+LDP, 13.33
+PROPWET,0.51
+RMED-1H, 12.3
+RMED-1D, 44.8
+RMED-2D, 61.3
+SAAR,1384
+SAAR4170,1390
+SPRHOST,46.91
+URBCONC1990, 0.590
+URBEXT1990,0.0146
+URBLOC1990, 0.418
+URBCONC2000, 0.748
+URBEXT2000,0.0229
+URBLOC2000, 0.434
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Short-crested weir gauging a predominantly Millstone Grit catchment with urban lower reaches. GENERAL: Station opened August 2000 on an existing industrial short-crested weir under a bridge on a slight bend with long straight approach channel. STATION HYDROMETRY: Station not bypassed and thought not to drown. The higher flows have been gauged off a bridge upstream. Peak flow rating based on low flow current meter gaugings and high flow ADCP gaugings. Rating extrapolated beyond highest gauging using velocity extrapolation method. FLOW REGIME: Station is just downstream of the Bradshaw Valley Reservoir system of Entwhistle, Wayoh, and Jumbles for water supply and compensation.
+CATCHMENT,Geology of Millstone Grit overlain with peat moorland in headwaters, with Boulder Clay and coal measures in the urban lower parts. No catchment changes known.
+Qmed Suitability,Gauged to moderate level, extrapolated by stage\hydraulic radius method
+Pooling Suitability,No high flow gaugings, some scatter in the highest gaugings, giving insufficient confidence in extrapolation.
+[END]

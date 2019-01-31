@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 28026
+[END]
+[CDS DETAILS]
+NAME,Anker
+LOCATION,Polesworth
+NOMINAL AREA,  371.58
+NOMINAL NGR,4262,3033
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,426250,303350
+CENTROID NGR,GB,437208,299082
+DTM AREA,  371.58
+ALTBAR, 108
+ASPBAR,256
+ASPVAR,0.09
+BFIHOST,0.446
+DPLBAR, 23.99
+DPSBAR, 26.8
+FARL,0.982
+FPEXT,0.1401
+LDP, 40.21
+PROPWET,0.30
+RMED-1H, 10.7
+RMED-1D, 31.7
+RMED-2D, 39.5
+SAAR, 653
+SAAR4170, 680
+SPRHOST,39.46
+URBCONC1990, 0.759
+URBEXT1990,0.0682
+URBLOC1990, 1.076
+URBCONC2000, 0.870
+URBEXT2000,0.0779
+URBLOC2000, 1.084
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Crump profile weir with flanking floodbanks to contain out-of-channel flows draining a highly responsive catchment. GENERAL: Crump profile weir with flanking floodbanks to contain out of bank flows - includes a cableway and downstream recorder. STATION HYDROMETRY: Effectively the same rating applied across period of record with the exception of summer 2007. Rating does not fit high flow gaugings (wide scatter) and is probably overestimating high flows. Variable drowning makes calculating upper limb difficult. Low modular limit (drowns at approximately 2.5 m3/s) and prone to weed growth, causing variable drowning and uncertainty with high flows. FLOW REGIME: Substantial modification owing to PWS imports to the catchment.
+CATCHMENT,Lower reaches drain Permian and Triassic Sandstones and the Coal Measures. Sherwood sandstone and Mercia Mudstone over the remainder of the catchment are widely blanketed with Boulder Clay. Predominantly agricultural catchment, although contains Nuneaton and Hinkley; with urban land use accounting a signifcant proportion of the catchment area.
+Qmed Suitability,Gauged above QMED. Reasonable fit to gaugings.
+Pooling Suitability,Significant scatter in high flow gaugings and rating appears to overestimate flows.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 72817
+[END]
+[CDS DETAILS]
+NAME,New Mill Brook
+LOCATION,Hollowforth Hall
+NOMINAL AREA,   33.19
+NOMINAL NGR,3503,4364
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,350350,436400
+CENTROID NGR,GB,355055,438298
+DTM AREA,   33.19
+ALTBAR,  77
+ASPBAR,240
+ASPVAR,0.44
+BFIHOST,0.387
+DPLBAR,  8.56
+DPSBAR, 35.8
+FARL,0.992
+FPEXT,0.0932
+LDP, 16.64
+PROPWET,0.52
+RMED-1H, 10.3
+RMED-1D, 37.6
+RMED-2D, 49.8
+SAAR,1110
+SAAR4170,1091
+SPRHOST,40.51
+URBCONC1990, 0.530
+URBEXT1990,0.0086
+URBLOC1990, 0.562
+URBCONC2000, 0.683
+URBEXT2000,0.0212
+URBLOC2000, 0.626
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station with small truncated Flat V weir gauging a relatively flat, rural catchment. GENERAL: Velocity area station with small truncated Flat V weir approx 4.3m wide, low wingwalls in straight channel. Opened in 1984 and located approximately 150m downstream of a road bridge in open pasture. STATION HYDROMETRY: The weir was primarily constructed as a low flow gauge and drowns out at a relatively low level. Large flows spill onto the right bank floodplain. Rating developed from gaugings, with modelled top-end to allow for bypassing / out of bank flow. FLOW REGIME: Predominantly natural flow regime. Minor impact from groundwater abstractions.
+CATCHMENT,Relatively flat, mainly agricultural rural area, with sandstones in lower part and mudstones in upper catchment.
+Qmed Suitability,Gauged to around QMED
+Pooling Suitability,Too much uncertainty once flows are out-of-bank
+[END]

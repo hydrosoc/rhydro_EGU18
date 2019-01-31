@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 70004
+[END]
+[CDS DETAILS]
+NAME,Yarrow
+LOCATION,Croston Mill
+NOMINAL AREA,   81.42
+NOMINAL NGR,3498,4179
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,349850,417950
+CENTROID NGR,GB,357085,416864
+DTM AREA,   81.42
+ALTBAR,  93
+ASPBAR,293
+ASPVAR,0.34
+BFIHOST,0.464
+DPLBAR, 13.55
+DPSBAR, 50.5
+FARL,0.939
+FPEXT,0.1040
+LDP, 30.22
+PROPWET,0.51
+RMED-1H, 10.7
+RMED-1D, 35.0
+RMED-2D, 47.3
+SAAR,1050
+SAAR4170,1043
+SPRHOST,38.37
+URBCONC1990, 0.781
+URBEXT1990,0.0751
+URBLOC1990, 0.973
+URBCONC2000, 0.840
+URBEXT2000,0.0970
+URBLOC2000, 1.012
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station with old diagonal mill weir control and fish pass. Some influence of Rivington reservoirs on the flow regime. GENERAL: Velocity area station since 1973. Control is an old diagonal mill weir, with crest 10 m wide and 3 m long. STATION HYDROMETRY: Insensitive at low flows but gives reasonable data for medium to high flows. Weir susceptible to mud build-up and erosion and capped in July 2010. Hydraulic modelling shows that bridge downstream drowns the structure at medium to high flows, causing bypassing upstream of weir at very high flows. Photographs at 0.955m show hydraulic performance (approx 0.26m below stage at which modelling suggests weir becomes drowned). No cableway, and high flow gaugings difficult with ADCP. two peak flow ratings applied across period of record, the most recent is due to fish pass installation in 2009. FLOW RECORD: Revised daily flow data from start of record (1/1976) to 12/2007 loaded on 11/08/2009 due to new medium-high flow rating: biggest effect is on the highest flows, e.g. previous max GDF on 22/08/87 reduced from 69.1 to 36.5 m3s-1; minor effect below 8 m3s-1; annual runoffs reduced slightly, typically by 1%. FLOW REGIME: The Rivington reservoir system captures the original Yarrow headwaters and diverts flow to River Douglas. Compensation flows to the Yarrow of 7.1 Ml/d. Also some limited spill from Upper Rivington Reservoir to the Yarrow during high flows. Catchment area of 74.4 km2 excludes portion now draining to Rivington reservoirs.
+CATCHMENT,Geology is principally Coal Measures with subordinate Millstone Grit and Triassic sandstones. Wholly blanketed with Boulder Clay and glacial sands and gravels. Land use mostly rural with some urban area including Chorley. No significant catchment changes.
+Qmed Suitability,Gauged to within 19% of QMED.
+Pooling Suitability,Although no gaugings exist beyond QMED, hydraulic modelling and reasonable match with Littlewood Bridge adds confidence to rating performance at high flows.
+[END]

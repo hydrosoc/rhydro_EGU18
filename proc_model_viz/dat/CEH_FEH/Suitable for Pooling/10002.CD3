@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 10002
+[END]
+[CDS DETAILS]
+NAME,Ugie
+LOCATION,Inverugie
+NOMINAL AREA,  325.72
+NOMINAL NGR,4101,8485
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,410100,848550
+CENTROID NGR,GB,396185,850658
+DTM AREA,  325.72
+ALTBAR,  87
+ASPBAR, 87
+ASPVAR,0.17
+BFIHOST,0.522
+DPLBAR, 23.62
+DPSBAR, 42.3
+FARL,0.984
+FPEXT,0.0751
+LDP, 41.29
+PROPWET,0.40
+RMED-1H,  8.2
+RMED-1D, 34.0
+RMED-2D, 44.6
+SAAR, 812
+SAAR4170, 876
+SPRHOST,33.00
+URBCONC1990,-9999.000
+URBEXT1990,0.0029
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0036
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station with natural regime in north east Scotland. GENERAL: Velocity area station; section about 30m wide. STATION HYDROMETRY: Cableway rated. Some bypassing at highest flows, which is considered to be insignificant. Previously controlled by long and broken weir, unstable and insensitive, severe weed growth also, hence complicated history of rating changes for medium-low flows. Weir rebuilt in September 1996, less problems with weed growth since and rating has proved to be stable. Peak flow rating derived from current meter gaugings up to 2.1m (2QMED), simple extrapolation beyond. Second edition of peak flow rating was applied after weir control was rebuilt. FLOW REGIME: Natural regime. Though very minor export from headwater reservoir.
+CATCHMENT,Granites and older basic intrusives surrounded by Dalradian metamorphics. Almost full superficial deposits cover. A little moorland, but mostly lowland in character with arable agriculture and relatively high population density; some forestry. Notable floodplains. No significant catchment changes known.
+Qmed Suitability,No comment
+Pooling Suitability,No comment
+[END]

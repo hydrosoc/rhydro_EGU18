@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 63003
+[END]
+[CDS DETAILS]
+NAME,Wyre
+LOCATION,Llanrhystud
+NOMINAL AREA,   40.55
+NOMINAL NGR,2541,2698
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,254200,269750
+CENTROID NGR,GB,259934,269294
+DTM AREA,   40.55
+ALTBAR, 197
+ASPBAR,304
+ASPVAR,0.28
+BFIHOST,0.472
+DPLBAR,  7.92
+DPSBAR,110.7
+FARL,1.000
+FPEXT,0.0383
+LDP, 17.98
+PROPWET,0.53
+RMED-1H, 10.0
+RMED-1D, 37.4
+RMED-2D, 49.3
+SAAR,1182
+SAAR4170,1254
+SPRHOST,38.05
+URBCONC1990, 0.000
+URBEXT1990,0.0002
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0018
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station. Ford (10m d/s) acts as bed control. Natural flow regime. GENERAL: Velocity area station. Ford (10m d/s) acts as bed control, but the ford has partially collapsed causing an unknown effect on flow/levels. STATION HYDROMETRY: Coarse gravel bed. Inlet pipe in 3 parts, allowing silt to get in pipe and block. Snow and ice also a potential problem. Low flow performance is thought to be good. Bypassing at high flows down a mill stream and along a road. Lack of high flow gaugings to calibrate upper end of rating (flagged as estimated above rating upper limit of 0.45m). Two peak flow ratings applied across period of record, the most recent is valid from January 2003. Scatter in gaugings. FLOW RECORD: Ford may hold back flow, particularly during periods of snow and ice, inflating readings. POR max.in Aug 1973 triggered by a >100mm storm; peak is suspect - station was bypassed. Gap in NRFA record from 1979 to 1999; earlier record has some anomalous sequences. Flows 24 Dec 2011 - 23 Jan 2012 estimated from 63001 data due to anomalous behavior in the form of sharp trough caused by silt partially blocking well intake pipe; similar behaviour exhibited in Jan 2005 and 2011 unable to be improved by MA. FLOW REGIME: Natural regime - no known artificial influences.
+CATCHMENT,Small Cardigan bay catchment, mostly lowland. Impermeable Silurian geology. Does not extend as far as the high Cambrian Mountains. Rural land use, predominantly grassland supporting dairy farming, with small patches of woodland.
+Qmed Suitability,Gauged to within 14% of QMED. However, scatter in the gaugings beyond 0.45m limits confidence in rating.
+Pooling Suitability,Rating is uncertain beyond 0.45m
+[END]

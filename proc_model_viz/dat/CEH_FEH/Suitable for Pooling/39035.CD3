@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 39035
+[END]
+[CDS DETAILS]
+NAME,Churn
+LOCATION,Cerney Wick
+NOMINAL AREA,  126.74
+NOMINAL NGR,4075,1962
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,407550,196300
+CENTROID NGR,GB,400043,209009
+DTM AREA,  126.74
+ALTBAR, 189
+ASPBAR,148
+ASPVAR,0.25
+BFIHOST,0.825
+DPLBAR, 20.69
+DPSBAR, 73.6
+FARL,0.890
+FPEXT,0.0624
+LDP, 34.86
+PROPWET,0.32
+RMED-1H, 10.4
+RMED-1D, 34.6
+RMED-2D, 45.4
+SAAR, 833
+SAAR4170, 860
+SPRHOST,14.60
+URBCONC1990, 0.618
+URBEXT1990,0.0197
+URBLOC1990, 0.633
+URBCONC2000, 0.788
+URBEXT2000,0.0240
+URBLOC2000, 0.609
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Station located downstream of Cirencester on the River Churn. GENERAL: Asymmetrical compound Crump weir (crests: 1.8m and 3.7m wide). STATION HYDROMETRY: Full range (and modular) but bypassing can occur at peak flows. This maybe due to peak flow water conveyance in a low lying area that containing a drainage channel. This lies 100m from the river between the main river channel and a disused canal. Very limited head during periods of low flow, hence sensitivity problems. Characterised by a fast rise in water levels during a low flow period. A landowner has occasionally used lasher boards at one crest to impound water for animal watering. Flow is within bank and rating estimate flows fairly accurately. FLOW RECORD: The river experiences periods of zero flow in some years. Flows generally lower than Cirencester GS due to gravel working. Peak flows probably under-estimated during 2000/01 and July 2007 due to channel bypassing. FLOW REGIME: Groundwater-fed regime with notably steep seasonal recoveries during wet autumn/early winters. Runoff reduced by industrial/agricultural abstraction but increased by effluent returns. Gw abstractions result in significant loss to the catchment. Evaporation from gravel pits may also be a factor in recent years. Flow sometimes affected by discharges from South Cerney Halford quarry SU 072 967 (consent 13Ml/d from 1986).
+CATCHMENT,Linear catchment on the dip-slope of the Cotwolds. Primarily a pervious (Jurassic oolitic L'st) catchment but with Oxford Clay in lower reaches. Rural in character. Cirencester is the largest town. Extensive open water (Cotswold Water Park) just u/s of Cerney Wick.
+Qmed Suitability,Flow is within bank and estimates reliable.
+Pooling Suitability,Gauged beyond AMAX3. Small error of 5-10% at high flows.
+[END]

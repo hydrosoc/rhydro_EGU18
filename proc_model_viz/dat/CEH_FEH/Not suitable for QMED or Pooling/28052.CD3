@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 28052
+[END]
+[CDS DETAILS]
+NAME,Sow
+LOCATION,Great Bridgford
+NOMINAL AREA,  141.77
+NOMINAL NGR,3883,3269
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,388350,326950
+CENTROID NGR,GB,382209,333520
+DTM AREA,  141.77
+ALTBAR, 125
+ASPBAR,178
+ASPVAR,0.14
+BFIHOST,0.593
+DPLBAR, 13.56
+DPSBAR, 45.2
+FARL,0.953
+FPEXT,0.0817
+LDP, 25.87
+PROPWET,0.38
+RMED-1H, 10.1
+RMED-1D, 30.3
+RMED-2D, 38.1
+SAAR, 751
+SAAR4170, 790
+SPRHOST,31.14
+URBCONC1990, 0.537
+URBEXT1990,0.0085
+URBLOC1990, 0.750
+URBCONC2000, 0.676
+URBEXT2000,0.0111
+URBLOC2000, 0.802
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Crump profile Flat V weir in trapezoidal channel, with floodbanks to contain out of channel flows. GENERAL: Crump profile Flat V weir, 9.1m wide, in trapezoidal channel, with floodbanks to contain out of channel flows and cableway to gauge highest flows. STATION HYDROMETRY: There are gaugings at high flows. However, the rating shows a massive amount of scatter making flow calculations unreliable. Rating problems include weed growth that causes variable drowning, affecting high flow quality, also difficult to gauge due to low velocities. Two peak flow ratings applied in the period of record. FLOW REGIME: Minimal interference from sewage effluent and groundwater pumping for PWS
+CATCHMENT,Low relief agricultural catchment, primarily on Mercia Mudstone, with some Sherwood Sandstone in headwaters. Glacial gravel in valleys maintain baseflows.
+Qmed Suitability,Too much scatter in the spot gaugings above 0.5m - makes flow calculations unreliable.
+Pooling Suitability,No - See above
+[END]

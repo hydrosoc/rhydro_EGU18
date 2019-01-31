@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 31006
+[END]
+[CDS DETAILS]
+NAME,Gwash
+LOCATION,Belmesthorpe
+NOMINAL AREA,  149.17
+NOMINAL NGR,5037,3097
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,503750,309700
+CENTROID NGR,GB,491404,309067
+DTM AREA,  149.17
+ALTBAR, 103
+ASPBAR,100
+ASPVAR,0.33
+BFIHOST,0.666
+DPLBAR, 22.57
+DPSBAR, 36.6
+FARL,0.979
+FPEXT,0.0683
+LDP, 38.81
+PROPWET,0.28
+RMED-1H, 11.8
+RMED-1D, 30.2
+RMED-2D, 39.5
+SAAR, 630
+SAAR4170, 639
+SPRHOST,23.98
+URBCONC1990, 0.531
+URBEXT1990,0.0108
+URBLOC1990, 0.868
+URBCONC2000, 0.792
+URBEXT2000,0.0232
+URBLOC2000, 1.073
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Crump weir gauging a predominantly rural catchment with flow largely affected by the Rutland Water reservoir that began filling in 1975. GENERAL: Crump profile weir (crest length 8.5m). STATION HYDROMETRY: No drowning problems, designed to be modular throughout range. Has been suggested that flow estimates are less reliable above 0.4m stage, but no gaugings to confirm either way. Theoretical Crump formula rating used for the whole POR. FLOW RECORD: The presented POT data include only the pre-reservoir period. FLOW REGIME: Station is 13 km downstream of Rutland Water, which began filling in February 1975. Flows since 1975 are dominated by this reservoir. Flows also affected by Gwash-Glen transfer scheme, and PWS abstraction.
+CATCHMENT,Clay and l'st, Boulder Clay covers about a third of the catchment. Predominantly rural catchment with mixed farming, but dominated by reservoir. Pre-reservoir FARL is 0.979 and should be used with the pre-reservoir part of the records. Post-reservoir FARL is 0.757.
+Qmed Suitability,Weir probably remains modular above 0.4m but no gaugings available to confirm. Post 1979 flows heavily influenced by Rutland Water.
+Pooling Suitability,Weir probably remains modular above 0.4m but no gaugings available to confirm. Post 1979 flows heavily influenced by Rutland Water.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 77002
+[END]
+[CDS DETAILS]
+NAME,Esk
+LOCATION,Canonbie
+NOMINAL AREA,  495.40
+NOMINAL NGR,3396,5750
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,339700,575050
+CENTROID NGR,GB,331204,593559
+DTM AREA,  495.40
+ALTBAR, 279
+ASPBAR,183
+ASPVAR,0.14
+BFIHOST,0.405
+DPLBAR, 33.54
+DPSBAR,165.6
+FARL,0.994
+FPEXT,0.0350
+LDP, 61.11
+PROPWET,0.61
+RMED-1H, 11.6
+RMED-1D, 44.6
+RMED-2D, 58.6
+SAAR,1423
+SAAR4170,1507
+SPRHOST,44.23
+URBCONC1990,-9999.000
+URBEXT1990,0.0007
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0011
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station on the River Esk. GENERAL: Velocity area station located on straight reach with natural channel control. Cableway. STATION HYDROMETRY: Steep bed, not high banks but all bar highest floods contained. Gravel bed; erosion possibly due to gravel extraction d/s. Flood water can go behind the hut on the right bank causing minor bypassing. Possible transfer of water from the Liddel to the Esk though not well understood. Ratings from spot gaugings. 1962-71 rating (max gauging = 0.9 QMED); 1971-95 ratings (max gauging = QMED); 1995 onwards rating (max gauging = 0.5 QMED). Rating applied since 12/10/2005 has been well gauged to c.100cumecs; historic high flow gaugings provide confidence in the rating to c.350cumecs. FLOW REGIME: Storage or impounding reservoir, Black Esk Reservoir. Impounds about 1% of flows for export for public water supplies.
+CATCHMENT,Natural upland catchment area around Eskdalemuir. Mostly impermeable bedrock with approx. 2/3 superficial deposits. Upper Carboniferous Coal Measures in lower reaches, dominated by Upper Silurian shales, silts and mudstones. Landuse predominantly rough grazing with more than a third forestry. Minimal floodplains. No significant catchment changes known.
+Qmed Suitability,No comment
+Pooling Suitability,No comment
+[END]

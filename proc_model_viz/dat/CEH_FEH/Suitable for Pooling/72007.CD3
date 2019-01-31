@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 72007
+[END]
+[CDS DETAILS]
+NAME,Brock
+LOCATION,upstream of A6
+NOMINAL AREA,   31.51
+NOMINAL NGR,3512,4405
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,351250,440550
+CENTROID NGR,GB,356443,444790
+DTM AREA,   31.51
+ALTBAR, 196
+ASPBAR,219
+ASPVAR,0.38
+BFIHOST,0.319
+DPLBAR,  9.60
+DPSBAR,109.0
+FARL,1.000
+FPEXT,0.0529
+LDP, 15.48
+PROPWET,0.60
+RMED-1H, 11.0
+RMED-1D, 43.1
+RMED-2D, 57.8
+SAAR,1361
+SAAR4170,1371
+SPRHOST,49.42
+URBCONC1990,-9999.000
+URBEXT1990,0.0000
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0000
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Broad-crested weir draining rural, natural catchment. GENERAL: Rectangular section broad-crested weir with a central low flow notch, constructed in 1978. Weir reconstructed to original height in 1991 due to erosion problems. STATION HYDROMETRY: No bypassing reported. A downstream stilling pool with a further broad-crested weir with twin low flow notches next to the banks does not affect the control. Coarse gravel shoals above weir on right bank. One rating applied across period of record derived from current meter gaugings. High flows rated by current meter from upstream cableway.
+CATCHMENT,Moderate relief, entirely rural, catchment. Steep headwaters drain Millstone Grit in the north and Carboniferous Limestone in the south. Sherwood Sandstone close to the gauge. Peat on high moors, lower catchment overlain by Boulder Clay. No significant catchment changes.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged to within 20% of AMAX3.
+[END]

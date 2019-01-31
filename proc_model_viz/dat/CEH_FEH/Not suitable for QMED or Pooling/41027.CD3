@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 41027
+[END]
+[CDS DETAILS]
+NAME,Rother
+LOCATION,Princes Marsh
+NOMINAL AREA,   36.22
+NOMINAL NGR,4772,1270
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,477200,127050
+CENTROID NGR,GB,476618,129636
+DTM AREA,   36.22
+ALTBAR, 109
+ASPBAR,122
+ASPVAR,0.06
+BFIHOST,0.658
+DPLBAR,  5.26
+DPSBAR, 78.3
+FARL,0.972
+FPEXT,0.0612
+LDP, 10.53
+PROPWET,0.35
+RMED-1H, 10.4
+RMED-1D, 39.2
+RMED-2D, 50.3
+SAAR, 907
+SAAR4170, 932
+SPRHOST,26.96
+URBCONC1990, 0.410
+URBEXT1990,0.0130
+URBLOC1990, 0.550
+URBCONC2000, 0.708
+URBEXT2000,0.0311
+URBLOC2000, 0.585
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Crump profile weir drainig a predominantly Chalk catchment in the headwaters. Regime is responsive but dominated by baseflow. GENERAL: Crump profile weir, crest 5m broad. STATION HYDROMETRY: Large capacity structure, but modular limit is ~0.7m. Problem of drowning illustrated by spot flow data, 2003 rating review suggests due to road bridge 0.27 km downstream. This is thought to act as the hydraulic control at high flows. Downstream silt deposition during floods can occasionally cause temporary drowning also, however is soon removed by re-suspension under normal flows. Crest tapping present but not currently used. Bridge across centre of weir, not good for gaugings but good for maintenance. Hysteresis problems experienced at the site. Downstream head recorder installed, used to correct data for backwater effects. One peak flow rating applied across period of record. Rating derived from hydraulic modelling, mid range gaugings suggest that the rating is seriously overestimating flows, but also some gaugings underestimate flows. FLOW RECORD: Flows > 6 cumecs should be treated with caution. FLOW REGIME: Significant baseflow but responsive regime. Abstractions and discharges have a minor impact on flows - small net loss. Runoff is increased by effluent returns; station is adjacent to sewage works at Petersfield UDC.
+CATCHMENT,Geology is mixed, Chalk predominates in the headwaters. Upper Greensand, Gault Clay, Folkestone Beds, Sandgate Beds & Hythe Beds also present. Half of the catchment naturally impervious, half pervious. Land use predominantly rural with large woodland tracts and significant urban development in the lower catchment.
+Qmed Suitability,No confidence in rating beyond 0.65m as significant deviation from gaugings, possibly as a result of varying backwater effect.
+Pooling Suitability,No confidence in rating beyond 0.65m as significant deviation from gaugings, possibly as a result of varying backwater effect.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 27023
+[END]
+[CDS DETAILS]
+NAME,Dearne
+LOCATION,Barnsley Weir
+NOMINAL AREA,  119.56
+NOMINAL NGR,4349,4072
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,435000,407300
+CENTROID NGR,GB,427122,409349
+DTM AREA,  119.56
+ALTBAR, 148
+ASPBAR, 78
+ASPVAR,0.26
+BFIHOST,0.539
+DPLBAR, 12.76
+DPSBAR, 74.4
+FARL,0.938
+FPEXT,0.0398
+LDP, 25.43
+PROPWET,0.32
+RMED-1H, 10.2
+RMED-1D, 35.1
+RMED-2D, 49.1
+SAAR, 766
+SAAR4170, 764
+SPRHOST,25.15
+URBCONC1990, 0.727
+URBEXT1990,0.0649
+URBLOC1990, 0.592
+URBCONC2000, 0.844
+URBEXT2000,0.0736
+URBLOC2000, 0.604
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Compound broad-crested weir in a rural catchment with some abstractions. GENERAL: Compound broad-crested weir (12m wide) with central notch 3.9m wide and 3.658m long formed in weir crest, flanking weirs (0.23m above weir) and float well constructed August 1959. Slightly curved in plan, weir drop of 2.4m. Weir crest broken May 1967, repaired December 1967. Cableway added in 1999. STATION HYDROMETRY: Considered likely to drown only in extreme events - only known occurrence June 2007. Some bypassing on left bank at around 45.56 mAOD to storage. Rarely bypasses over the right bank. Daily and peak flows rated by model tests. Two peak flow ratings applied across period of record. Theoretical rating developed using physical model with current meter gaugings. Rating revised in 2016. Flood Studies Report grade A2 in absence of any other information, 1975 now A1 to 1.3m and grade B above. FLOW RECORD: Daily gauge readings since June 1953. Flow records from March 1960. FLOW REGIME: Some abstractions, including industrial uses. Discharge of minewater drainage - decreasing influence.
+CATCHMENT,Mixed geology of Upper Carboniferous, coal measures, very little superficial deposits. Predominantly rural catchment, mixed agriculture and woodland with urban development near gauging station.No trace of original course of River Dearne.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged beyond AMAX3. Flow above bank top enters storage area.
+[END]

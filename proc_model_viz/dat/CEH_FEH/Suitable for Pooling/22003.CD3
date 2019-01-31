@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 22003
+[END]
+[CDS DETAILS]
+NAME,Usway Burn
+LOCATION,Shillmoor
+NOMINAL AREA,   21.88
+NOMINAL NGR,3886,6077
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,388650,607700
+CENTROID NGR,GB,388728,614170
+DTM AREA,   21.88
+ALTBAR, 444
+ASPBAR,191
+ASPVAR,0.23
+BFIHOST,0.302
+DPLBAR,  9.32
+DPSBAR,205.2
+FARL,1.000
+FPEXT,0.0062
+LDP, 16.27
+PROPWET,0.45
+RMED-1H,  9.8
+RMED-1D, 40.5
+RMED-2D, 54.5
+SAAR,1056
+SAAR4170,1052
+SPRHOST,56.92
+URBCONC1990,-9999.000
+URBEXT1990,0.0002
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0000
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Thin-plate weir discontinued in 1980 but recommissioned as level-only station in 1995 for flood warning and reinstated as flow gauge in 1999. GENERAL: Thin-plate weir with 3m centre crest and two 1.5m flanking broad crests. Discontinued in 1980 and weir plates removed. Recommissioned as a level-only station in 1995 for flood warning using concrete broadcrested weir with notch. Weir plates reinstated in September 1999. Good d/s drop over the weir prevents drowning. STATION HYDROMETRY: No bypassing. No cableway, gaugings only possible at low flows. Two peak flow ratings applied across period of record. Based on theoretical rating of thin plate weir with check current meter measurements at wading level. Rating updated in 2008 and applied back to 1999 when weir plates reinstated. Flood Studies Report grade D pre-1966, A1 post-1966. FLOW RECORD: Gaps in the record occur due to inaccessibility in winter and incomplete flow measurement at very high flows. Peak flows are rejected since the site re-opened and weir plates installed in 1999 as the top end of the rating is not yet reliable. FLOW REGIME: No known artificial influences.
+CATCHMENT,Small upland moorland catchment draining from The Cheviot. Rough grass and heather, peaty sub-soil and mainly igneous bed-rock. Substantial recent afforestation.
+Qmed Suitability,Although not gauged to within 30% of QMED a good d/s drop over the weir prevents drowning and theoretical rating expected to perform well.
+Pooling Suitability,All flows are contained and the weir does not drown. Flows over the first side weirs are gauged, but not over the second, leading to some uncertainty about the highest flows.
+[END]

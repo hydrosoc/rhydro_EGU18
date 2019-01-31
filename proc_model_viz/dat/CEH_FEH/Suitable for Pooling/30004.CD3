@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 30004
+[END]
+[CDS DETAILS]
+NAME,Lymn
+LOCATION,Partney Mill
+NOMINAL AREA,   60.09
+NOMINAL NGR,5401,3675
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,540150,367600
+CENTROID NGR,GB,534388,371030
+DTM AREA,   60.09
+ALTBAR,  65
+ASPBAR, 92
+ASPVAR,0.27
+BFIHOST,0.568
+DPLBAR,  9.35
+DPSBAR, 53.3
+FARL,0.979
+FPEXT,0.0605
+LDP, 17.34
+PROPWET,0.29
+RMED-1H, 11.3
+RMED-1D, 34.0
+RMED-2D, 41.3
+SAAR, 686
+SAAR4170, 696
+SPRHOST,32.47
+URBCONC1990, 0.387
+URBEXT1990,0.0109
+URBLOC1990, 0.869
+URBCONC2000, 0.644
+URBEXT2000,0.0059
+URBLOC2000, 0.973
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Crump weir gauging a rural catchment with mixed geology located in Lincolnshire Wolds, with minor artificial influences. GENERAL: Crump weir with 5m crest. STATION HYDROMETRY: The weir is probably non-modular at very high flows due to backing up behind struts and a bridge, but is bypassed just before this point. Rated by model tests and confirmed by check gaugings to highest gauging of 0.6m. One rating applied across period of record. FLOW RECORD: Station was bypassed in Oct 1993. FLOW REGIME: Abstraction for irrigation in upper reaches and some abstraction for PWS may have effect on low flows in summer.
+CATCHMENT,Catchment with mixed permeability bedrock geology and some superficial deposits. Wholly rural, predominantly arable land use.
+Qmed Suitability,Gauged to within 26% of QMED. Good fit to available gaugings and flow remains modular.
+Pooling Suitability,All flows are contained and remain modular to 2.4m. Rating expected to perform well to this point.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+  7002
+[END]
+[CDS DETAILS]
+NAME,Findhorn
+LOCATION,Forres
+NOMINAL AREA,  781.78
+NOMINAL NGR,3018,8583
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,301850,858400
+CENTROID NGR,GB,284035,830207
+DTM AREA,  781.78
+ALTBAR, 442
+ASPBAR, 11
+ASPVAR,0.16
+BFIHOST,0.434
+DPLBAR, 54.64
+DPSBAR,117.2
+FARL,0.973
+FPEXT,0.0483
+LDP,100.09
+PROPWET,0.56
+RMED-1H, 10.0
+RMED-1D, 39.1
+RMED-2D, 54.2
+SAAR,1065
+SAAR4170,1206
+SPRHOST,51.62
+URBCONC1990,-9999.000
+URBEXT1990,0.0001
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0001
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station draining Monadhliath mountains to the North Sea coast. Construction of a flood alleviation scheme and major events (August 2014) has changed the bed and bank profiles significantly, station will require complete re-calibration. GENERAL: Velocity area station; 50m wide river section. STATION HYDROMETRY: Station located in mobile gravel reach which necessitates frequent recalibration of low flow rating. Occasional ice build-up in winter months. Flows contained under cableway up to 3.8m. Adequately gauged to bankfull. Bypassing of station only known in 1970s by floods above about 4m; since then flood banks have been raised. High flow gauging on the Findhorn is difficult and substantial extrapolation of the rating was needed to compute the exceptional August 1970 peak. The peak was revised (2002) to 1113 cumecs, this was substantially exceeded during the 'Muckle spate' of 1829. Peak flow ratings derived from current meter gaugings. Pre-August 1961 gaugings up to 3.2m (about 1.3QMED); post-1961 up to 416 cumecs (about 1.2QMED); simple extrapolation beyond. Ratings revised in 2016. FLOW RECORD: Full period of record peak flow data reviewed and released in April 2017 (WINFAP Files v5). Chart data between 1959 & 1982 was digitised in 2016. FLOW REGIME: Very responsive natural regime. Minimal surface storage.
+CATCHMENT,Mountainous headwaters, often snowy in winter. catchment drains the Monadhliath Mountains; predominantly metamorphic bedrock with granitic intrusions with extensive blanket peat cover. Little tree cover. Pasture and arable on coastal floodplains. No significant catchment changes.
+Qmed Suitability,Gauged above QMED
+Pooling Suitability,Contained in bank to AMAX2
+[END]

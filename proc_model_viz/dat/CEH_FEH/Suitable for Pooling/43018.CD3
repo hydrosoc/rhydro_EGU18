@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 43018
+[END]
+[CDS DETAILS]
+NAME,Allen
+LOCATION,Walford Mill
+NOMINAL AREA,  170.88
+NOMINAL NGR,4008,1006
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,400800,100700
+CENTROID NGR,GB,398328,111954
+DTM AREA,  170.88
+ALTBAR,  89
+ASPBAR,157
+ASPVAR,0.27
+BFIHOST,0.914
+DPLBAR, 17.82
+DPSBAR, 51.7
+FARL,0.979
+FPEXT,0.0674
+LDP, 32.00
+PROPWET,0.35
+RMED-1H, 10.5
+RMED-1D, 35.2
+RMED-2D, 46.6
+SAAR, 860
+SAAR4170, 922
+SPRHOST, 8.17
+URBCONC1990,-9999.000
+URBEXT1990,0.0039
+URBLOC1990,-9999.000
+URBCONC2000, 0.320
+URBEXT2000,0.0052
+URBLOC2000, 0.311
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Two crump profile weirs on main and secondary channel of the River Allen. GENERAL: Two Crump profile weirs: main channel weir crest 6.1m wide; secondary weir in mill stream adjacent to main channel - 0.9m wide. STATION HYDROMETRY: Weed growth occasionally causes structure to drown. Passing occurs at high levels. Gauging on 08/02/13 found that the by-passed flow measured 14% of the total flow. Generally rating looks good at high flows. One theoretical, original rating which includes mill channel applied across period of record. Upper limit of rating is 0.46m / 4.53 cumecs. It is extrapolated beyond that limit. FLOW REGIME: Hatch activity u/s of station. Minor surface and groundwater abstractions in catchment, some for public water supply. Compensation discharge maintains low flows.
+CATCHMENT,Upper catchment - chalk, lower catchment - sands, gravels and clays. Land use: predominantly rural. No major changes.
+Qmed Suitability,Gauged to within 16% of QMED.
+Pooling Suitability,Few high flow gaugings but rating is thought reliable and all flows in bank at gauge. Small amount of bypassing.
+[END]

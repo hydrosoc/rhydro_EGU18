@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 56015
+[END]
+[CDS DETAILS]
+NAME,Olway Brook
+LOCATION,Olway Inn
+NOMINAL AREA,  110.22
+NOMINAL NGR,3384,2010
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,338500,201100
+CENTROID NGR,GB,343253,204072
+DTM AREA,  110.22
+ALTBAR,  92
+ASPBAR,247
+ASPVAR,0.07
+BFIHOST,0.598
+DPLBAR, 11.01
+DPSBAR, 97.9
+FARL,1.000
+FPEXT,0.0589
+LDP, 18.63
+PROPWET,0.34
+RMED-1H, 10.6
+RMED-1D, 41.1
+RMED-2D, 51.7
+SAAR, 947
+SAAR4170,1001
+SPRHOST,30.41
+URBCONC1990,-9999.000
+URBEXT1990,0.0033
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0034
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Crump weir. Natural flow regime. GENERAL: Crump weir, 4.0m wide. STATION HYDROMETRY: Bypassing occurs above 1.8m into surrounding fields. Problems of backing up at high flows. GDFs and HIFs since 1982 reprocessed in 2014 following rating review, with effect of increasing flows >10 cumecs. Two peak flow ratings applied across period of record. Agrees with gaugings up to 1.0m when rating starts to overestimate flows. Rating does not have over bank limb so recommended rating upper limit 1.0m. FLOW REGIME: Natural to within 10% at Q95.
+CATCHMENT,Lower Old Red Sandstone, Boulder Clay cover in NW and alluvium in valley bottom. Mainly grassland, with some arable agriculture and patchy woodland.
+Qmed Suitability,Not gauged to within 30% of QMED. Rating upper limit below QMED and poor confidence in rating beyond 1.0m
+Pooling Suitability,Poor confidence in rating which does not consider bypassing or non-modular flow.
+[END]

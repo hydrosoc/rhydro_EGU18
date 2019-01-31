@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 54091
+[END]
+[CDS DETAILS]
+NAME,Severn
+LOCATION,Hafren Flume
+NOMINAL AREA,    3.46
+NOMINAL NGR,2843,2878
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,284300,287750
+CENTROID NGR,GB,283143,288978
+DTM AREA,    3.46
+ALTBAR, 529
+ASPBAR,131
+ASPVAR,0.40
+BFIHOST,0.304
+DPLBAR,  2.25
+DPSBAR,159.4
+FARL,1.000
+FPEXT,0.0118
+LDP,  4.43
+PROPWET,0.66
+RMED-1H, 13.4
+RMED-1D, 72.9
+RMED-2D, 98.0
+SAAR,2513
+SAAR4170,2227
+SPRHOST,54.11
+URBCONC1990,-9999.000
+URBEXT1990,0.0000
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0000
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Rectangular, side contracted critical depth flume. CEH research catchment nested within 54022 Severn at Plynlimon flume. Natural flow regime. GENERAL: Rectangular, side contracted critical depth flume designed to gauge streams which have supercritical flow regimes. CEH research catchment nested within 54022 Severn at Plynlimon flume. Primary 15 minute dataset available. Rainfall, evaporation and soil moisture estimates also available from dense monitoring network. STATION HYDROMETRY: Drowning may occur following big floods owing to sediment deposited d/s. Protected flow site with no gauging or rating information available. FLOW REGIME: Responsive; natural regime to within 10% at Q95.
+CATCHMENT,Very wet. Palaeozoic shales, grits and mudstones. Upper third has rounded, peat moorland headwaters; lower two thirds has steep, incised valleys with mature conifer plantations.
+Qmed Suitability,Reportedly suitable for QMED.
+Pooling Suitability,Site has not been subject to detailed review. User should apply own judgement as whether to include in pooling group.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 28002
+[END]
+[CDS DETAILS]
+NAME,Blithe
+LOCATION,Hamstall Ridware
+NOMINAL AREA,  162.11
+NOMINAL NGR,4108,3191
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,410900,319150
+CENTROID NGR,GB,402694,332292
+DTM AREA,  162.11
+ALTBAR, 150
+ASPBAR,143
+ASPVAR,0.20
+BFIHOST,0.464
+DPLBAR, 20.55
+DPSBAR, 41.2
+FARL,0.998
+FPEXT,0.0844
+LDP, 43.04
+PROPWET,0.43
+RMED-1H, 10.9
+RMED-1D, 32.2
+RMED-2D, 40.0
+SAAR, 782
+SAAR4170, 779
+SPRHOST,38.16
+URBCONC1990, 0.705
+URBEXT1990,0.0212
+URBLOC1990, 1.516
+URBCONC2000, 0.826
+URBEXT2000,0.0272
+URBLOC2000, 1.639
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Non-standard broad crested weir by-passed at high flows but providing accurate flows at lower levels - replaced a side contracted flume in 1994. Heavily influenced by Blithfield reservoir. GENERAL: Originally a side contracted flume with pilot tube tapping. Since 1994 a permanent non standard, broad crested weir. STATION HYDROMETRY: Station bypassed above 13.3 cumecs. Various methods used to rate the flume: temporary sharp-edged weir, formula, c/m and floats. Good rating post 1994 (although more scatter). Heavily influenced by Blithfield, reservoir built in 1952. Naturalised flow series available. Levels not included post reservoir. FLOW RECORD: Hi-fFlows data held in FEH is from before the reservoir impounded and therefore does not form a continuous series with present-day records; data after 1952 not included here as catchment heavily influenced by Blithfield reservoir. FLOW REGIME: Blithfield reservoir built in 1952 - heavily influences the catchment (controls 75% of catchment area). Pre-reservoir FARL is 0.998, post-reservoir FARl is 0.873.
+CATCHMENT,Catchment mainly drains Keuper Marl and subordinate sandstone, but widely blanketed with Boulder Clay and glacial sand and gravel. Land use mixed farming.
+Qmed Suitability,Excellent fit to corresponding gaugings, QMED estimates thought to be reliable.
+Pooling Suitability,Rating does not account for bypassing and is increasingly uncertain beyond QMED.
+[END]

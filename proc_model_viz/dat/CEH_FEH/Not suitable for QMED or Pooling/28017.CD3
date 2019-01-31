@@ -1,0 +1,49 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 28017
+[END]
+[CDS DETAILS]
+NAME,Devon
+LOCATION,Cotham
+NOMINAL AREA,  280.64
+NOMINAL NGR,4787,3477
+[END]
+[DESCRIPTORS]
+CENTROID NGR,GB,475255,333770
+DTM AREA,  280.64
+ALTBAR,  54
+ASPBAR, 19
+ASPVAR,0.20
+BFIHOST,0.382
+DPLBAR, 20.05
+DPSBAR, 28.1
+FARL,0.980
+FPEXT,0.2465
+LDP, 36.86
+PROPWET,0.27
+RMED-1H, 10.3
+RMED-1D, 30.1
+RMED-2D, 38.6
+SAAR, 592
+SAAR4170, 593
+SPRHOST,44.21
+URBCONC1990, 0.015
+URBEXT1990,0.0150
+URBLOC1990, 0.799
+URBCONC2000, 0.712
+URBEXT2000,0.0130
+URBLOC2000, 0.862
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station, closed in April 1978. GENERAL: Velocity area station just upstream of a double arch masonry bridge. Site suffers from weed growth at low flows. Became level-only in April 1978 due to unreliable rating, and converted to chart/logger site in 1984. Station closed December 2003, replaced by Wensor Bridge electromagnetic station. STATION HYDROMETRY: Site suffers from weed growth at low flows. Became level-only in April 1978 due to unreliable rating, and converted to chart/logger site in 1984. Station closed December 2003, replaced by Wensor Bridge electromagnetic station. One rating applied across period of record. Rating is of poor quality underestimating flows throughout the range. No gaugings above bankfull. Suspicion that flows underestimated. Flood Studies Report grade A2 for flood flows. FLOW RECORD: Data gaps exist in 1976 with summer 1976 flows under review. Flood Studies Report grade A2 for flood flows. FLOW REGIME: Runoff increased by effluent returns. Some small reservoirs. An extensive network of field drains in the lower part of the catchment could retain much runoff.
+CATCHMENT,Area consists of Keuper Marl, Liassic clays and Oolite. Quaternary deposits include glacial till and alluvium. Some inferior Oolite limestone at the watershed. Largely agricultural catchment land use. Catchment boundary manually digitised due to issue with IHDTM incorrectly connecting streams in the lower catchment.
+Qmed Suitability,Rating underestimates flows throughout the range.
+Pooling Suitability,Rating underestimates flows throughout the range.
+[END]

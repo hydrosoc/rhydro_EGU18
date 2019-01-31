@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 31025
+[END]
+[CDS DETAILS]
+NAME,Gwash South Arm
+LOCATION,Manton
+NOMINAL AREA,   23.68
+NOMINAL NGR,4874,3050
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,487400,305050
+CENTROID NGR,GB,482564,306855
+DTM AREA,   23.68
+ALTBAR, 147
+ASPBAR,127
+ASPVAR,0.18
+BFIHOST,0.306
+DPLBAR,  6.99
+DPSBAR, 61.2
+FARL,0.995
+FPEXT,0.0257
+LDP, 12.09
+PROPWET,0.30
+RMED-1H, 12.4
+RMED-1D, 30.3
+RMED-2D, 40.8
+SAAR, 663
+SAAR4170, 675
+SPRHOST,45.00
+URBCONC1990,-9999.000
+URBEXT1990,0.0030
+URBLOC1990,-9999.000
+URBCONC2000, 0.660
+URBEXT2000,0.0064
+URBLOC2000, 1.033
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Measuring inflows into Rutland Water reservoir from a rural catchment, station affected by bypassing, weedgrowth and siltation. GENERAL: Flat V weir (crest length 5m) measuring inflows to Rutland Water. STATION HYDROMETRY: Weir bypassed at high flows. Some effect of weed and silt. HR Wallingford report suggests modular to around 15.3 cumecs in summer and 17 cumecs in winter. Theoretically calibrated, one rating applied across period of record. FLOW REGIME: No abstractions, small returns.
+CATCHMENT,Rural catchment on Boulder Clay.
+Qmed Suitability,QMED contained and should be modular, theoretical rating expected to perform well.
+Pooling Suitability,Modular limit is approx 15 m3/s with the current rating not considering drowned conditions. Bypassing expected at high flows.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 84005
+[END]
+[CDS DETAILS]
+NAME,Clyde
+LOCATION,Blairston
+NOMINAL AREA, 1699.36
+NOMINAL NGR,2704,6579
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,270450,657950
+CENTROID NGR,GB,286798,637116
+DTM AREA, 1699.36
+ALTBAR, 279
+ASPBAR,  7
+ASPVAR,0.07
+BFIHOST,0.422
+DPLBAR, 57.36
+DPSBAR, 97.3
+FARL,0.959
+FPEXT,0.0643
+LDP,120.15
+PROPWET,0.59
+RMED-1H,  9.2
+RMED-1D, 36.2
+RMED-2D, 50.2
+SAAR,1139
+SAAR4170,1151
+SPRHOST,41.89
+URBCONC1990, 0.703
+URBEXT1990,0.0131
+URBLOC1990, 0.271
+URBCONC2000, 0.817
+URBEXT2000,0.0182
+URBLOC2000, 0.324
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station on River Clyde in the Southern Uplands. GENERAL: Velocity area station, about 60m wide. Velocity profile slightly uneven due to u/s bend. Steep grass and tree covered banks. Station is subject to vandalism, station burnt down Feb 1997, temporary logger installed (became permanent). STATION HYDROMETRY: Control formed by piers of redundant rail bridge 300 m d/s. Less confidence in med-high flows than at Daldowie leading to occasional higher peaks at Blairston. Recorder moved from opposite bank in 1974. Cableway rated until June 1990 when station became level-only. Peak flow rating derived from current meter gaugings up to 3.4m (1.8 QMED), just below max. recorded stage, simple extrapolation beyond. FLOW RECORD: Rating change 1/7/76 evident in flow pattern. Some monthly naturalised flows available (1958-75). FLOW REGIME: Several upland tribs. impounded for PWS. River hydropower schemes u/s of New Lanark; however this scheme does not involve damming, abstraction or diversion so exerts little or no influence on flow regime.
+CATCHMENT,Predominantly upland catchment. Bedrock mainly Ordovician s'sts and shales. Lowther Hills in S are Silurian L'st, other upland areas Carboniferous basaltic lavas. The lower reaches of the catchment are overlain by superficial deposits, mainly Boulder Clay. Land use is mainly hill grazing and moorland on high ground, some afforestation; fruit farming in valley. Rapid urbanisation in lower catchment.
+Qmed Suitability,No comment
+Pooling Suitability,No comment
+[END]

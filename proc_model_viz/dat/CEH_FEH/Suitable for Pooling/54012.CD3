@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 54012
+[END]
+[CDS DETAILS]
+NAME,Tern
+LOCATION,Walcot
+NOMINAL AREA,  851.65
+NOMINAL NGR,3591,3122
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,359200,312300
+CENTROID NGR,GB,363754,325596
+DTM AREA,  851.65
+ALTBAR,  93
+ASPBAR,244
+ASPVAR,0.04
+BFIHOST,0.616
+DPLBAR, 29.72
+DPSBAR, 28.2
+FARL,0.966
+FPEXT,0.1636
+LDP, 53.50
+PROPWET,0.34
+RMED-1H,  9.7
+RMED-1D, 29.2
+RMED-2D, 36.6
+SAAR, 694
+SAAR4170, 718
+SPRHOST,28.63
+URBCONC1990, 0.617
+URBEXT1990,0.0199
+URBLOC1990, 0.770
+URBCONC2000, 0.800
+URBEXT2000,0.0290
+URBLOC2000, 0.740
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Flat V weir that replaced earlier more primitive flow gauging sites (1959 - 1978) that suffered from unstable stage discharge relationship with regime highly affected by regional groundwater pumping and industrial inputs GENERAL: Initially rated section (1959-76), then gabion control (June 1976-Dec 1978), both very prone to weed growth leading to unstable stage-discharge relationship; now flat V weir, 15m wide with cableway. STATION HYDROMETRY: Siltation upstream and downstream of weir structure. Multiple ratings applied across period of record. Data from a acoustic doppler flow gauge located at the site was to derive the drowned flow above 0.658m. Top section was derived from high flow gaugings in 2007. Automatic system for flushing crest tapping chamber is not totally reliable. Cableway for high flows rating. FLOW RECORD: Bypass channel can be drained to enable work on weir, producing low or zero flows (e.g. 10 July 2003). 2011 flows higher than normal due to Shropshire groundwater scheme running in June. FLOW REGIME: Regional Gw pumping for PWS and Severn regulation. Industrial effluent from Wellington and Newport; abstractions for spray irrigation. Net result only moderate.
+CATCHMENT,Geology: mainly Triassic Sandstones with Triassic mudstones and Lower Lias to the northwest overlain by mixed glacial drift deposits. Predominantly agricultural, low relief catchment. Mixed land use.
+Qmed Suitability,Gauged above QMED. All AMAX events contained in bank. Gaugings made during the highest AMAX events. Some concern over scatter in spot gaugings but this not such a problem at high flows. Fit well to recent gaugings.
+Pooling Suitability,All AMAX events contained in bank. Gaugings made during the highest AMAX events. Some concern over scatter in spot gaugings but this not such a problem at high flows. Fit well to recent gaugings.
+[END]

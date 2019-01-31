@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 28039
+[END]
+[CDS DETAILS]
+NAME,Rea
+LOCATION,Calthorpe Park
+NOMINAL AREA,   73.68
+NOMINAL NGR,4070,2847
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,407100,284700
+CENTROID NGR,GB,402619,281196
+DTM AREA,   73.68
+ALTBAR, 168
+ASPBAR, 77
+ASPVAR,0.23
+BFIHOST,0.511
+DPLBAR,  8.09
+DPSBAR, 44.4
+FARL,0.948
+FPEXT,0.0660
+LDP, 16.83
+PROPWET,0.30
+RMED-1H, 11.1
+RMED-1D, 34.5
+RMED-2D, 44.0
+SAAR, 781
+SAAR4170, 792
+SPRHOST,34.91
+URBCONC1990, 0.831
+URBEXT1990,0.3308
+URBLOC1990, 0.958
+URBCONC2000, 0.927
+URBEXT2000,0.4537
+URBLOC2000, 0.955
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Crump profile weir draining an almost totally urbanised catchment with data used for flood forecasting. GENERAL: Crump profile weir, 3.66m wide, with flanking broad-crested weirs set in a formalised, roughly rectangular channel. Station data is used for flood forecasting. STATION HYDROMETRY: One rating applied across period of record.Derived from hydraulic modelling with good fit to gaugings. High flows gauged from nearby footbridge, but hazardous owing to high velocities. Prone to upstream siltation. Drowns at high flows. All flows in bank. Possibly some backing up effects but of uncertain cause. FLOW RECORD: Summer 2007 peak flows under review. FLOW REGIME: Very responsive. Significant imports modify flow regime. Runoff increased by effluent returns.
+CATCHMENT,Almost totally urbanised catchment overlying clay except in the headwaters in the Lickey Hills.
+Qmed Suitability,Gauged above QMED. Good fit to gaugings.
+Pooling Suitability,Although limited gaugings above QMED, confidence in model derived rating.
+[END]

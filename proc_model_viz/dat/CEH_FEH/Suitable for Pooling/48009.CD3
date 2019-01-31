@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 48009
+[END]
+[CDS DETAILS]
+NAME,St Neot
+LOCATION,Craigshill Wood
+NOMINAL AREA,   22.97
+NOMINAL NGR,2184, 659
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,218400,66000
+CENTROID NGR,GB,218188, 71256
+DTM AREA,   22.97
+ALTBAR, 230
+ASPBAR,187
+ASPVAR,0.32
+BFIHOST,0.463
+DPLBAR,  7.24
+DPSBAR, 78.8
+FARL,0.982
+FPEXT,0.0226
+LDP, 13.43
+PROPWET,0.45
+RMED-1H, 12.2
+RMED-1D, 45.0
+RMED-2D, 64.0
+SAAR,1511
+SAAR4170,1612
+SPRHOST,39.93
+URBCONC1990,-9999.000
+URBEXT1990,0.0034
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0023
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Three-bay compound Crump weir. Flows regulated and influenced by PWS from Colliford Reservoir since construction in 1983. GENERAL: Three-bay compound Crump profile weir, middle crest lengths 1.75m and side crests 2.75m (total 7.25m). Wing walls at 1.7m. STATION HYDROMETRY: Flood banks contain flows up to wingwalls. Fully modular. Pre-1983 catchment had a natural flow regime; post-1983, flows are attenuated by Colliford reservoir. Now no bypassing as flows are moderated/contained by the reservoir. One theoretical peak flow rating applied across period of record. Confirmed by gaugings to 0.6m. FLOW RECORD: Suggest only the pre-1983 record is used for flood frequency estimation and as such Peak Flow data are rejected post-1983. FLOW REGIME: Since filling of Colliford Reservoir river has been subject to flow regulation and public water supply exports. Runoff increased by effluent returns.
+CATCHMENT,Majority of upper catchment on granite intrusion of Bodmin Moor. Hill tops are rounded with some peat; valleys can be steep. Lower part of catchment underlain by metamorphosed Devonian slates. Entirely rural before reservoir built; some abandoned china clay pits. Baseflow high from storage in kaolinised granite. Colliford reservoir began to fill in 1983. Pre-reservoir FARL is 0.982 and should be used with the pre-reservoir part of the records. Post-reservoir FARL is 0.635.
+Qmed Suitability,Although no check gaugings taken within 30% of QMED, theoretical weir rating expected to perform well to QMED for data pre reservoir (1983).
+Pooling Suitability,Structure believed to stay modular. Pre-reservoir data can be used for pooling (with caution), post reservoir flow suffers from attenuation.
+[END]

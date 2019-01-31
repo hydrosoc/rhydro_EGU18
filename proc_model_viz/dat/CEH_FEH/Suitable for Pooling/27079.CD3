@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 27079
+[END]
+[CDS DETAILS]
+NAME,Calder
+LOCATION,Methley
+NOMINAL AREA,  950.18
+NOMINAL NGR,4408,4256
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,440850,425750
+CENTROID NGR,GB,413322,420300
+DTM AREA,  950.18
+ALTBAR, 205
+ASPBAR, 87
+ASPVAR,0.16
+BFIHOST,0.525
+DPLBAR, 54.88
+DPSBAR,104.6
+FARL,0.922
+FPEXT,0.0598
+LDP, 88.74
+PROPWET,0.39
+RMED-1H, 10.8
+RMED-1D, 39.5
+RMED-2D, 53.3
+SAAR,1024
+SAAR4170,1026
+SPRHOST,30.07
+URBCONC1990, 0.736
+URBEXT1990,0.0883
+URBLOC1990, 0.762
+URBCONC2000, 0.817
+URBEXT2000,0.1063
+URBLOC2000, 0.796
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Multi-path ultrasonic station opened in 1986. Replaced 27004. Catchment is heavily reservoired and affected by complex water transfers. GENERAL: Multi-path ultrasonic gauging station positioned on a long straight reach around 45m wide, between flood banks. Primary gauging station on the River Calder. Signal attenuation problems at high flows/high suspended solids. Continuing problems with subsidence. Upstream, the Aire and Calder Navigation intersects with the River Calder. The channel has been formalised with cobbles in recording section but there is no section control and stage discharge relationship thought to be indistinct. Confluence with the Aire just downstream can cause significant backwater. Constructed in 1986, replaced Newlands (27004). STATION HYDROMETRY: No known bypassing. Check gaugings carried out from road bridge d/s. FLOW REGIME: Heavy influence of reservoirs, estimated 9.3% of catchment area drains through 21 impoundments. Complicated water transfer plan and significant effluent returns. Sluice / weir systems on the River Aire may influence levels at Methley. Flood relief channel built at Dewsbury.
+CATCHMENT,Catchment draining the eastern flank of the Pennines. The impermeable geology is predominantly Upper Carboniferous Millstone Grit. Headwaters rise from rough-grazed, peat-covered moorland. Very steep, often-wooded headwater valleys cut down through Millstone Grit. The valley floors are strongly urbanised and industrialised. Significant urbanisation throughout period of record. Coal mining activity in the lower reaches but this has subsequently declined in recent years. Flood relief channel built at Dewsbury.
+Qmed Suitability,Ultrasonic gauge believed to give reliable flows.
+Pooling Suitability,No high flow gaugings but ultrasonic data believed to be reliable, and flood banks contain all flows.
+[END]

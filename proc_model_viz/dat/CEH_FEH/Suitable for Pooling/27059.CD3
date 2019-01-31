@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 27059
+[END]
+[CDS DETAILS]
+NAME,Laver
+LOCATION,Ripon Laver Weir
+NOMINAL AREA,   78.44
+NOMINAL NGR,4302,4709
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,430300,470950
+CENTROID NGR,GB,421758,473031
+DTM AREA,   78.44
+ALTBAR, 195
+ASPBAR, 93
+ASPVAR,0.40
+BFIHOST,0.420
+DPLBAR, 14.88
+DPSBAR, 64.4
+FARL,0.982
+FPEXT,0.0452
+LDP, 26.31
+PROPWET,0.36
+RMED-1H, 11.7
+RMED-1D, 40.0
+RMED-2D, 48.3
+SAAR, 912
+SAAR4170, 887
+SPRHOST,39.83
+URBCONC1990,-9999.000
+URBEXT1990,0.0036
+URBLOC1990,-9999.000
+URBCONC2000, 0.720
+URBEXT2000,0.0097
+URBLOC2000, 0.408
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Crump profile weir with a high modular limit in a predominately rural catchment. GENERAL: Crump profile weir, 10m wide. Insensitive at low flows, but a notch in the stilling basin toe wall could be used for very low flow measurement. Fish pass installed September 2015. STATION HYDROMETRY: High modular limit, subject to bypassing, but all but highest recorded peaks contained within wingwalls. There is no means of gauging high flows; d/s levels are not measured. Theoretical daily and peak flow rating applied across period of record. FLOW RECORD: Anomalous data 17/09/2015-30/09/2015 removed, caused by fish pass installation which affected levels and derived flows. FLOW REGIME: Surface and groundwater abstractions significantly reduce runoff.
+CATCHMENT,A predominantly rural catchment below Pennine moorland headwaters. Geology: Mostly Carboniferous Millstone Grit and Magnesian Limestone, overlain by Boulder Clay cover in lower (eastern) half of catchment. There are some swallow holes in the lower part of the catchment. Arable in valley bottoms. No known catchment changes.
+Qmed Suitability,Although no high flow gaugings, Structure contains QMED without drowning.
+Pooling Suitability,All but AMAX1 contained by wing walls. Correlation with Alma Weir downstream is very good, even at the highest flows.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 75002
+[END]
+[CDS DETAILS]
+NAME,Derwent
+LOCATION,Camerton
+NOMINAL AREA,  661.92
+NOMINAL NGR,3037,5305
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,303750,530500
+CENTROID NGR,GB,321058,523738
+DTM AREA,  661.92
+ALTBAR, 271
+ASPBAR,313
+ASPVAR,0.13
+BFIHOST,0.438
+DPLBAR, 35.04
+DPSBAR,208.7
+FARL,0.844
+FPEXT,0.0746
+LDP, 67.37
+PROPWET,0.63
+RMED-1H, 11.7
+RMED-1D, 54.5
+RMED-2D, 73.1
+SAAR,1810
+SAAR4170,1914
+SPRHOST,41.92
+URBCONC1990,-9999.000
+URBEXT1990,0.0030
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0040
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station for the Derwent catchment, closed after being destroyed by flooding in 2009. GENERAL: Velocity area station opened August 1960, destroyed by fire in 1986 but replaced, closed after being destroyed by November 2009 flood. The farthest downstream flow measurement on the River Derwent, channel 30m wide. STATION HYDROMETRY: Stony, gravely bed. Station had permanent cableway. Full range calibration, all flows contained. No by-passing owing to steep banks (left is artificial flood bank). Footbridge acted as high flow control 50-60m downstream of the site. One high flow rating applied across period of record. Rating developed from gaugings. Gauged to a high level - several over 200m3/s, with a further gauging at just over 300m3/s. Rating and flows for Nov 2009 event from hydraulic modelling. Flood Studies Report grade A1. FLOW RECORD: Opened in 1960, reliable record since 1961. Naturalised monthly flows from 1962 to 1967. The November 2009 flood was exceptional. Both banks were severely damaged and the footbridge downstream largely demolished. Flows spilled over the banks downstream of the station. The flow was estimated by hydraulic modelling at 700 m3/s (720m3/s +- around 60 m3/s), attempting to allow for the channel changes. FLOW REGIME: Compensation flows from Thirlmere Reservoir and Crummock Water will affect low flows.
+CATCHMENT,Upper third of catchment is moorland draining Ordovician rocks; Borrodale volcanics or Skiddaw group. Drift covered valley floors support grazing and some arable farming. All flows from Derwent Water, Bassenthwaite Lake, Buttermere, Crummock Water, Loweswater and Thirlmere flow through station, giving a slowly changing flow pattern with hydrographs of differing origin superimposed. Towns of Keswick and Cockermouth are in the catchment. No catchment changes known.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged beyond AMAX3 which remain in bank.
+[END]

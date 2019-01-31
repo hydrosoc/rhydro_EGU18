@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 25012
+[END]
+[CDS DETAILS]
+NAME,Harwood Beck
+LOCATION,Harwood
+NOMINAL AREA,   24.58
+NOMINAL NGR,3849,5309
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,384950,530900
+CENTROID NGR,GB,381653,533545
+DTM AREA,   24.58
+ALTBAR, 539
+ASPBAR,147
+ASPVAR,0.27
+BFIHOST,0.261
+DPLBAR,  5.57
+DPSBAR,121.0
+FARL,1.000
+FPEXT,0.0212
+LDP,  9.44
+PROPWET,0.59
+RMED-1H, 11.2
+RMED-1D, 49.3
+RMED-2D, 68.7
+SAAR,1577
+SAAR4170,1739
+SPRHOST,53.45
+URBCONC1990,-9999.000
+URBEXT1990,0.0001
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0000
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Flat-V weir for low flow control at a velocity-area station located in an small Pennine catchment. Natural regime. GENERAL: Flat-V weir (1:2 crest slopes, 1:10 cross-slope) for low flow control at velocity-area station. Shallow gravel bedded reach, leading to gravel problems with the stilling well inlet; most gravel accumulates at the left side, in the past it was removed every 2-3 years but returned with flood flows. Gravel removal no longer sustainable. Site suffers from gravel accumulation on weir but investigations have indicated this is unlikely to affect the discharge characteristics of the weir. Tapping pipe extended in 2007 to avoid blockage. Site difficult to access in bad weather. STATION HYDROMETRY: No bypassing. Doesn't become non-modular. Only gauged at low flows until 2013. Since then ADCP gaugings have been carried out up to 0.935m. Daily flow rating extended using weir equation. Goes out of bank at 1m stage. One peak flow rating applied across period of record. An ADVP was installed in 2008 16m upstream from the primary stage recorder to improve level and flow measurement, but removed in 2012 after it was damaged during high flows. At high flows the rating under estimates flow compared to the check gaugings - probably due to the 'p' value being different to that used in the theoretical rating due to the accumulation of gravel at the site. More gaugings at higher levels are required to confirm this before the rating can be changed. FLOW RECORD: Blocking of the tapping pipe caused elevated low flows from 2002 - 2007: these should be treated with caution. Data for the period of 05/02/2007 to 28/09/2007 is suspect whilst tapping pipe was repaired. FLOW REGIME: Natural, responsive regime. No known artificial influences.
+CATCHMENT,Small catchment high in the Pennines, underlain mostly by Carboniferous Limestone with extensive peat and Boulder Clay cover. Moorland and grass pasture land use. No known catchment changes.
+Qmed Suitability,Not gauged to within 30% of QMED. However, flow is fully contained with no expected change in rating beyond the highest gauged flow.
+Pooling Suitability,Flow is fully contained with no expected change in rating beyond the highest gauged flow.
+[END]

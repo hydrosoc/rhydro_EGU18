@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 48006
+[END]
+[CDS DETAILS]
+NAME,Cober
+LOCATION,Helston County Bridge
+NOMINAL AREA,   40.30
+NOMINAL NGR,1655, 273
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,165550,27350
+CENTROID NGR,GB,167316, 32421
+DTM AREA,   40.30
+ALTBAR, 138
+ASPBAR,189
+ASPVAR,0.20
+BFIHOST,0.672
+DPLBAR,  7.62
+DPSBAR, 74.7
+FARL,0.979
+FPEXT,0.0334
+LDP, 13.49
+PROPWET,0.44
+RMED-1H, 11.5
+RMED-1D, 41.7
+RMED-2D, 53.6
+SAAR,1209
+SAAR4170,1207
+SPRHOST,17.13
+URBCONC1990, 0.751
+URBEXT1990,0.0172
+URBLOC1990, 0.316
+URBCONC2000, 0.799
+URBEXT2000,0.0182
+URBLOC2000, 0.333
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station modified multiple times throughout lifespan. ADVP installed in 2003. GENERAL: Velocity area station. Originally (1968) a velocity-area station in a formalised rectangular channel, 4m wide, with natural bed control. Informal broad-crested weir and sluice to power a water wheel, installed in 1975, 3m d/s as a temporary control which was then removed in 1976. Between 1976-1977 return to natural control followed by installation of a broad crested weir in 1977. Original gauging station closed and demolished in 1989. In 2009 the station was relocated a short distance upstream to County Bridge. STATION HYDROMETRY: Station was bypassed during high flow events and subject to backwatering from Loe Pool more readily than at present due to an outflow culvert with a lower capacity. Measurement recommenced in 2003 at the old gauging station location but without the old hydraulic structures which were removed during the upgrade of the flood defence scheme. At the new site installed in 2009, ADVP flow measurement was installed and the site here has not yet bypassed (2013). Multiple peak flow ratings across the period of record. Flows from 2009 onwards are calculated using a combination of index velocity and stage-discharge, typically the stage-discharge relationship is used and then the index rating takes over at peak flows. The station is known to experience backwatering when Loe Pool is > 5.1 mAOD, but the direct flow measurement takes this into account. Early ratings based on current meter gaugings for natural section. CEH rating used for post-weir period until station closed in 1989 as this provides the best fit to gaugings for this period. FLOW REGIME: Moderate influence from public water supply and industrial abstractions, and mine pumping.
+CATCHMENT,Natural catchment. 70% drains the Carnmenellis Granite. The remainder is made up of grits, shales and slates of Devonian age. Upper catchment mainly granite, lower catchment fine granite slates of the Maylor series. Subdued response to rainfall. Mainly agricultural. Good example of a Cornish stream. No major changes to catchment.
+Qmed Suitability,Recent rating fits well to gaugings and gauged beyond QMED.
+Pooling Suitability,Bypassing occurs which is not accounted for in ratings. Significant scatter in gaugings.
+[END]

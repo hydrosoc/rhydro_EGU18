@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 69006
+[END]
+[CDS DETAILS]
+NAME,Bollin
+LOCATION,Dunham Massey
+NOMINAL AREA,  257.57
+NOMINAL NGR,3726,3875
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,372650,387550
+CENTROID NGR,GB,385615,378681
+DTM AREA,  257.57
+ALTBAR, 124
+ASPBAR,302
+ASPVAR,0.25
+BFIHOST,0.507
+DPLBAR, 26.85
+DPSBAR, 56.2
+FARL,0.946
+FPEXT,0.1167
+LDP, 50.15
+PROPWET,0.43
+RMED-1H, 10.3
+RMED-1D, 31.7
+RMED-2D, 42.4
+SAAR, 881
+SAAR4170, 865
+SPRHOST,32.55
+URBCONC1990, 0.653
+URBEXT1990,0.0454
+URBLOC1990, 1.070
+URBCONC2000, 0.819
+URBEXT2000,0.0788
+URBLOC2000, 1.007
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station upstream of the confluence with the Manchester Ship Canal. Station closed 2002 and replaced by Bollington Mill (69045). GENERAL: A velocity area station in a natural river section located a few km upstream of the confluence with the Manchester Ship Canal. Opened 1936, closed January 2002, replaced by Bollington Mill 750m upstream (69045). STATION HYDROMETRY: No formal control, cableway present. No bypassing reported. The riverbed is mobile, with sediment erosion during high flows and accumulation during dry spells; summer weed growth also a problem. The Bridgwater canal, which crosses the river just upstream of the station, burst its banks in August 1971, and modified the river bed for at least 18 months. Daily flow rating only approximate owing to very unstable bed and weed growth. Multiple peak flow ratings applied across period of record, the most recent is valid from December 1985. Ratings derived from current meter gaugings, significant scatter towards high flows. Flood Studies Report grade B. FLOW RECORD: Level records from 1937. Flows from 1954 but of poor quality due to mobile bed. FLOW REGIME: Very responsive regime. Reservoirs and many industrial abstractions and discharges affect low flows particularly.
+CATCHMENT,Geology of the upper reaches consists of Millstone Grit and the lower parts have marls overlain with postglacial deposits. Land use is very mixed - a predominantly rural catchment but includes the urban areas of Macclesfield near the headwaters, Wilmslow in the mid-catchment and the outskirts of Greater Manchester at the outlet. No catchment changes known.
+Qmed Suitability,Gauged above QMED. Reasonable fit to gaugings.
+Pooling Suitability,Gauged beyond AMAX3. However, mobile river bed and scatter in gaugings renders rating uncertain beyond QMED.
+[END]

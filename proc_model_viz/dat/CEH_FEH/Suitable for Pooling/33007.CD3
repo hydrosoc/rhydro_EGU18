@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 33007
+[END]
+[CDS DETAILS]
+NAME,Nar
+LOCATION,Marham
+NOMINAL AREA,  147.39
+NOMINAL NGR,5723,3119
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,572350,312000
+CENTROID NGR,GB,582923,315881
+DTM AREA,  147.39
+ALTBAR,  58
+ASPBAR,271
+ASPVAR,0.09
+BFIHOST,0.804
+DPLBAR, 18.30
+DPSBAR, 23.4
+FARL,0.926
+FPEXT,0.1330
+LDP, 41.53
+PROPWET,0.26
+RMED-1H, 11.1
+RMED-1D, 29.2
+RMED-2D, 37.8
+SAAR, 683
+SAAR4170, 688
+SPRHOST,16.57
+URBCONC1990, 0.522
+URBEXT1990,0.0092
+URBLOC1990, 0.937
+URBCONC2000, 0.635
+URBEXT2000,0.0059
+URBLOC2000, 0.934
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Critical depth flume measuring Chalk catchment with predominantly agricultural land use. GENERAL: Critical depth flume, 7.16m wide with central dividing wall. Prior to Apr 1982, flume (7.47m wide) contained low flow notch. STATION HYDROMETRY: Weed growth can be a problem during summer if not cut regularly. Level measurements taken just upstream of weir. Two peak flow ratings applied across period of record. Modular limit is estimated at 6 cumecs and is accounted for in the current rating. FLOW RECORD: Anomalous summer flows in June 2004 and August 2006, resulting from locals damming the weir. HIF POR updated in 2014. FLOW REGIME: Surface water abstraction for PWS immediately u/s of station. Also surface/groundwater abstraction in catchment for industry/agriculture. Three small underground abstractions were abandoned in 1986. Effluent returns may increase runoff.
+CATCHMENT,Chalk catchment overlain by Boulder Clay in upper reaches. Agricultural land use, predominantly arable.
+Qmed Suitability,Although no gaugings beyond QMED, all flows contained and rating accounts for non-modular flow.
+Pooling Suitability,Only for data AFTER 5/4/82 when using non modular rating. All flows contained.
+[END]

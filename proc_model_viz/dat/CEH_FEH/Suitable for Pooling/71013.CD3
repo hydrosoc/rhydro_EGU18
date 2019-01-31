@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 71013
+[END]
+[CDS DETAILS]
+NAME,Darwen
+LOCATION,Ewood
+NOMINAL AREA,   39.05
+NOMINAL NGR,3677,4262
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,367750,426200
+CENTROID NGR,GB,369919,422786
+DTM AREA,   39.05
+ALTBAR, 231
+ASPBAR,317
+ASPVAR,0.25
+BFIHOST,0.424
+DPLBAR,  6.47
+DPSBAR, 95.2
+FARL,0.938
+FPEXT,0.0355
+LDP, 11.54
+PROPWET,0.51
+RMED-1H, 11.9
+RMED-1D, 43.8
+RMED-2D, 60.3
+SAAR,1340
+SAAR4170,1332
+SPRHOST,36.71
+URBCONC1990, 0.683
+URBEXT1990,0.0935
+URBLOC1990, 0.745
+URBCONC2000, 0.823
+URBEXT2000,0.1388
+URBLOC2000, 0.714
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station gauging catchment with steep headwaters and urbanised in lower reaches. GENERAL: Open channel velocity area station opened in 1973. A vertical concrete wall forms the left bank with a high natural bank on the right. STATION HYDROMETRY: Fixed stone bed downstream provides some control. Bed rough, stony but stable, approach channel silty. No bypassing. No cableway. One rating applied across period of record derived from current meter gauging, with modelled top-end. FLOW REGIME: Small reservoirs in southwest. Station affected by non-continuous abstractions and releases upstream. Compensation flows are activated automatically.
+CATCHMENT,Steep headwater catchment, particularly in the west, that drains North to the outskirts of Blackburn. Solid geology of Millstone Grit and Coal Measures, with intermittent Boulder Clay, hill peat and glacial gravel in main valley. Heavily urbanised at Darwen. No significant catchment changes.
+Qmed Suitability,No bypassing reported.
+Pooling Suitability,Although gaugings do not extend beyond QMED, site is fully contained with no significant hydraulic changes beyond the maximum gauged flow.
+[END]

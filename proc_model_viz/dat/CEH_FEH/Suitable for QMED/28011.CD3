@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 28011
+[END]
+[CDS DETAILS]
+NAME,Derwent
+LOCATION,Matlock Bath
+NOMINAL AREA,  687.19
+NOMINAL NGR,4296,3586
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,429700,358600
+CENTROID NGR,GB,418164,376340
+DTM AREA,  687.19
+ALTBAR, 311
+ASPBAR,127
+ASPVAR,0.12
+BFIHOST,0.565
+DPLBAR, 34.05
+DPSBAR,133.9
+FARL,0.947
+FPEXT,0.0303
+LDP, 58.22
+PROPWET,0.41
+RMED-1H, 10.0
+RMED-1D, 37.5
+RMED-2D, 51.1
+SAAR,1114
+SAAR4170,1128
+SPRHOST,26.13
+URBCONC1990, 0.507
+URBEXT1990,0.0074
+URBLOC1990, 0.774
+URBCONC2000, 0.721
+URBEXT2000,0.0154
+URBLOC2000, 0.736
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station in a deep channel with long record of flows. Processing of flows ceased in 2004 as low flow rating poor due to shifting section control. Station replaced with downstream gauge at Whatstandwell. GENERAL: Velocity area station about 20 m wide in a deep channel. STATION HYDROMETRY: Open channel site with cableway. Rated with two ratings applied across period of record, the most recent is valid from January-2001. No gaugings above bankfull but rating fits gaugings well up to the level of the highest gauged flow (3.1mASD). Highest floods will bypass along the adjacent A6 road. FLOW REGIME: Substantially affected by Derwent reservoirs and mill operation, particularly in the early record.
+CATCHMENT,Responsive upland catchment. Geology predominantly Millstone Grit with some Coal Measures to the east and Carboniferous Limestone in the west draining The Wye. Peat covered moorlands occur in the headwaters with forestry and pasture elsewhere.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Few high flow gaugings. Rating can not be validated beyond QMED.Flood water known to bypass which is not accounted for in ratings.
+[END]

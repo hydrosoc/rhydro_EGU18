@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 28080
+[END]
+[CDS DETAILS]
+NAME,Tame
+LOCATION,Lea Marston Lakes
+NOMINAL AREA,  795.10
+NOMINAL NGR,4208,2937
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,420800,293700
+CENTROID NGR,GB,410266,287272
+DTM AREA,  795.10
+ALTBAR, 132
+ASPBAR, 79
+ASPVAR,0.11
+BFIHOST,0.472
+DPLBAR, 29.29
+DPSBAR, 30.5
+FARL,0.945
+FPEXT,0.1176
+LDP, 53.49
+PROPWET,0.30
+RMED-1H, 10.8
+RMED-1D, 32.9
+RMED-2D, 40.8
+SAAR, 716
+SAAR4170, 722
+SPRHOST,36.22
+URBCONC1990, 0.862
+URBEXT1990,0.2705
+URBLOC1990, 1.082
+URBCONC2000, 0.944
+URBEXT2000,0.3826
+URBLOC2000, 1.116
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Unusual twin bay, chevron shaped Crump profile weirs discharging into an inline settlement lagoon - replaces Lea Marston (28004) in 1982. GENERAL: Unusual twin bay, chevron shaped Crump profile weirs, 21.5m total width, discharging into an inline settlement lagoon. Weed booms were installed in 2001, 30m upstream of twin weirs but produced large head difference. Weed booms damaged/bent when hit by debris during medium/high flow. Due to problems booms replaced with automatic screens. Replaced 28004 Lea Marston in 1982 (large scatter in gaugings at all levels), record combined. STATION HYDROMETRY: The weirs are affected by drowning due to high levels in downstream lake, but this is only minor. Site is known to bypass at high levels, but this was taken into account when most recent rating curve was calculated (c2). Weed booms were installed in 2002, 30m upstream of twin weirs but produced large head difference. Weed booms damaged/bent when hit by debris during medium/high flow. Due to problems booms replaced with automatic screens. May get pulsing & sudden bursts when screens cleared. Still slight head difference, but not as bad. May affect rating/velocity profile. Two ratings applied across period of record, the most recent is valid from June-2001 as weed screen has substantially altered the high flow end of the rating necessitating a change. Ratings fit gaugings well and account for bypassing. Bypassed at very high flows, new rating in 2008 incorporates flood plain flow and improves flow estimation under these conditions (data reprocessed back to 2001). FLOW RECORD: Bypassed at very high flows, new rating in 2008 incorporates flood plain flow and improves flow estimation under these conditions (data reprocessed back to 2001). FLOW REGIME: Substantial flow modification from large imports and urbanised areas.
+CATCHMENT,Substantially urbanised catchment containing Birmingham. Solid geology: Coal Measures group with sandstones in the west and Mercia Mudstone elsewhere. Catchment mostly overlain by extensive cover of Boulder Clay and glacial sand and gravel in equal proportion.
+Qmed Suitability,Gauged above QMED. Rating curve is a good fit through the spot gaugings and accounts for bypassing flows.
+Pooling Suitability,Gauged to within 12% of AMAX3. Rating curve is a good fit through the spot gaugings and accounts for bypassing flows.
+[END]

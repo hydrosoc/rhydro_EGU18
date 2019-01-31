@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+  7006
+[END]
+[CDS DETAILS]
+NAME,Lossie
+LOCATION,Torwinny
+NOMINAL AREA,   20.62
+NOMINAL NGR,3134,8489
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,313450,848900
+CENTROID NGR,GB,310984,845327
+DTM AREA,   20.62
+ALTBAR, 346
+ASPBAR, 24
+ASPVAR,0.45
+BFIHOST,0.296
+DPLBAR,  6.96
+DPSBAR, 86.6
+FARL,0.956
+FPEXT,0.0372
+LDP, 12.26
+PROPWET,0.42
+RMED-1H,  9.7
+RMED-1D, 42.4
+RMED-2D, 54.6
+SAAR, 956
+SAAR4170, 963
+SPRHOST,55.24
+URBCONC1990,-9999.000
+URBEXT1990,0.0000
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0000
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station in small upland catchment. GENERAL: Velocity area station, about 4m wide. Flood warning station. STATION HYDROMETRY: Poor low flow calibration and high flows are not contained. Occasional ice build-up in very cold weather. Ratings derived from current meter gaugings up to 6.6 cumecs (about 0.8 QMED), simple extrapolation beyond. FLOW REGIME: Natural regime, no abstractions.
+CATCHMENT,Small upland catchment. Impermeable catchment developed on Moinian metamorphics with significant superficial deposits. Heavily forested; some rough moorland remains in headwaters. No significant catchment changes known.
+Qmed Suitability,No - Not suitable for estimation of QMED; control is sensitive to floods.
+Pooling Suitability,No - Not suitable for pooling; gaugings do not extend to high enough flows.
+[END]

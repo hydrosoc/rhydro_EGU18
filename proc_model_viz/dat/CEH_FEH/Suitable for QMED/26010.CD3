@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 26010
+[END]
+[CDS DETAILS]
+NAME,Driffield Canal
+LOCATION,Snakeholme Lock
+NOMINAL AREA,   49.48
+NOMINAL NGR,5066,4555
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,506700,455600
+CENTROID NGR,GB,500434,461551
+DTM AREA,   49.48
+ALTBAR,  78
+ASPBAR,153
+ASPVAR,0.40
+BFIHOST,0.858
+DPLBAR, 11.07
+DPSBAR, 49.0
+FARL,0.986
+FPEXT,0.1001
+LDP, 19.71
+PROPWET,0.31
+RMED-1H, 10.6
+RMED-1D, 32.5
+RMED-2D, 42.0
+SAAR, 699
+SAAR4170, 729
+SPRHOST,12.59
+URBCONC1990, 0.776
+URBEXT1990,0.0263
+URBLOC1990, 0.499
+URBCONC2000, 0.833
+URBEXT2000,0.0248
+URBLOC2000, 0.487
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Electromagnetic station in a permeable Chalk catchment draining the Yorkshire Wolds. GENERAL: Electromagnetic station. No cableway. The West Beck flows alongside and is gauged by separate electromagnetic gauge (26009). STATION HYDROMETRY: No known bypassing. Excessive siltation in a deep (dredged) section can cause problems, these have generally been corrected in the flow record. Theoretical peak flow rating with current meter gauging by boat used to infill missing data. Extrapolated above 2.212m. Significant scatter in gaugings. FLOW REGIME: Dominated by groundwater with seasonal winter maxima. Small net export of water and some spray irrigation (trivial overall impact).
+CATCHMENT,A small, low lying, rural catchment draining the Yorkshire Wolds, nested within the catchment of the West Beck. This part of the West Beck. Land use is predominantly agricultural. Catchment is underlain by Chalk (Lower Cretaceous / Jurassic) but is notably harder than Chalk of Southern England. Drift to the east. No known catchment changes. NRFA catchment definition changed in 2015, previously artificially captured to feed the Driffield Canal.
+Qmed Suitability,Gauged above QMED. Bypassing via the West Beck is recorded at a separate station (26009), sites need to be used together to represent the entire catchment. .
+Pooling Suitability,Significant parallel flow from catchment via West Beck, therefore canal flow is not representative of catchment. Bypassing flow is measured, but records are not combined.
+[END]

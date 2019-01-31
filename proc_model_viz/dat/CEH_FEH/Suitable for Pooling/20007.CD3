@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 20007
+[END]
+[CDS DETAILS]
+NAME,Gifford Water
+LOCATION,Lennoxlove
+NOMINAL AREA,   67.78
+NOMINAL NGR,3511,6716
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,351100,671700
+CENTROID NGR,GB,353772,665944
+DTM AREA,   67.78
+ALTBAR, 221
+ASPBAR,345
+ASPVAR,0.39
+BFIHOST,0.527
+DPLBAR, 11.75
+DPSBAR,112.5
+FARL,0.977
+FPEXT,0.0294
+LDP, 20.82
+PROPWET,0.43
+RMED-1H,  9.0
+RMED-1D, 40.3
+RMED-2D, 53.1
+SAAR, 770
+SAAR4170, 790
+SPRHOST,32.77
+URBCONC1990,-9999.000
+URBEXT1990,0.0000
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0004
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station, on Gifford Water that drains the steep moorland slopes of the Lammermuir Hills. GENERAL: Velocity area station. The recorder is sited immediately d/s of a footbridge on a slight bend in a natural channel. STATION HYDROMETRY: The low flow control is a stable rock bar. The likely high flow control is a bend in the channel. One ratings derived from current meter gaugings, simple extrapolation beyond. Rating revised in 2016 There are some issues with velocity drawdown from the inlet pipe at the station, a stilling chamber was constructed but has been washed into the channel and needs to be replaced. The inlet pipe can also become blocked at low flows. FLOW RECORD: A large tree fell into the channel and was present between late 2013 and early 2014, causing possible gravel accumulation (resulting in lower flows from higher levels). Tree removed in early 2014, but low flows from then to present are suspect due to uncertainty in rating. Full period of record peak flow data reviewed and released in April 2017 (WINFAP Files v5). FLOW REGIME: The flow regime is natural and flashy.
+CATCHMENT,Mostly low-lying catchment with headwaters rising quite steeply. Bedrock predominantly Silurian and Ordovician; predominantly overlain by superficial deposits. The catchment drains the steep moorland slopes of the Lammermuir Hills. Arable land use dominates the lowlands with some forest. No significant catchment changes known.
+Qmed Suitability,Gauged above QMED
+Pooling Suitability,All flows contained
+[END]

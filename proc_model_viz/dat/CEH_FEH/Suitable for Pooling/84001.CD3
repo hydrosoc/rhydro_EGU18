@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 84001
+[END]
+[CDS DETAILS]
+NAME,Kelvin
+LOCATION,Killermont
+NOMINAL AREA,  335.21
+NOMINAL NGR,2558,6705
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,255850,670500
+CENTROID NGR,GB,265025,674724
+DTM AREA,  335.21
+ALTBAR, 138
+ASPBAR,166
+ASPVAR,0.12
+BFIHOST,0.405
+DPLBAR, 20.69
+DPSBAR, 77.6
+FARL,0.951
+FPEXT,0.1124
+LDP, 37.88
+PROPWET,0.58
+RMED-1H,  9.2
+RMED-1D, 37.2
+RMED-2D, 50.9
+SAAR,1258
+SAAR4170,1257
+SPRHOST,40.58
+URBCONC1990, 0.776
+URBEXT1990,0.0603
+URBLOC1990, 0.816
+URBCONC2000, 0.847
+URBEXT2000,0.0657
+URBLOC2000, 0.888
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station affected by vigorous seasonal weed growth. GENERAL: Velocity area station; approx. 20m wide. Station moved 300m u/s (from Killermont) in 1962. STATION HYDROMETRY: Channel control. All flows contained within steep banks. Vigorous seasonal weed growth. Peak flow ratings derived from current meter gaugings up to 2.2m (about QMED), simple extrapolation beyond. Ratings reviewed in 2016. FLOW RECORD: Some monthly naturalised flows available (1970-74). Pre-1962 data is rejected because the gauging station was moved 300m upstream. Very low confidence in the accuracy of AMAX1 (1994) due to the exceptionally high magnitude; complex interaction with wooded banks and possible backing up from downstream bridge. Full period of record peak flow data reviewed and released in April 2017 (WINFAP Files v5). FLOW REGIME: Extensive canalisation of river with the Forth and Clyde canal draining through catchment; feeders probably only influence low flows. Effluent return. Mugdock and Craigmaddie Reservoirs for PWS transit water from Loch Katrine via pipelines, probably no effect on Kelvin catchment.
+CATCHMENT,Predominantly lowland catchment, some upland headwaters in the Campsie Fells. The main channel runs along the northern edge of the Central Lowlands taking tributaries from the faulted igneous block to the north - remainder of catchment is chiefly Carboniferous sediments overlain by, predominantly, Boulder Clay. Mixed land use - moorland, forestry and urban concentrations. A number of small lochs. Notable floodplains. Flood prevention schemes along the river (e.g. at Kirkintilloch, completed March 2003), more projected in the future.
+Qmed Suitability,Gauged above QMED
+Pooling Suitability,Gauged to AMAX2
+[END]

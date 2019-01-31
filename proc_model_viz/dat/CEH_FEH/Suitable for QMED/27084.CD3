@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 27084
+[END]
+[CDS DETAILS]
+NAME,Eastburn Beck
+LOCATION,Crosshills
+NOMINAL AREA,   41.01
+NOMINAL NGR,4020,4452
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,402050,445250
+CENTROID NGR,GB,397155,443838
+DTM AREA,   41.01
+ALTBAR, 260
+ASPBAR, 35
+ASPVAR,0.20
+BFIHOST,0.315
+DPLBAR,  7.46
+DPSBAR,114.2
+FARL,0.998
+FPEXT,0.0250
+LDP, 12.10
+PROPWET,0.62
+RMED-1H, 10.5
+RMED-1D, 38.1
+RMED-2D, 53.1
+SAAR,1129
+SAAR4170,1123
+SPRHOST,46.64
+URBCONC1990, 0.601
+URBEXT1990,0.0101
+URBLOC1990, 0.470
+URBCONC2000, 0.661
+URBEXT2000,0.0177
+URBLOC2000, 0.549
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Flat-V weir in a steep Pennine catchment with a natural regime. GENERAL: Concrete flat-V weir (12m wide). Heavy sediment/gravel loads collected in upstream gravel trap, this is emptied but less regularly than in the past. STATION HYDROMETRY: All flows contained, no known bypassing. Backing-up from the River Aire (confluence <100m downstream) causes drowning at high flows; d/s levels monitored but processed flows assume modularity - downstream water levels indicate that there was a hydraulic gradient over the weir for all AMAX values (where data were available), but not some POTs. Theoretical peak flow rating applied across period of record. Good fit to available gaugings. FLOW RECORD: Suspect rise in flows in May 2008, thought to be due to silt build-up. FLOW REGIME: Natural regime. No known artificial influences.
+CATCHMENT,Steep Pennine catchment draining to the Aire, developed on Millstone Grit, with extensive Boulder Clay cover. Largely moorland with rough grazing the principal land use. Continuing increase in urbanisation through period of record in the lower catchment (Crosshills).
+Qmed Suitability,Few flow gaugings but theoretical rating expected to perform well to QMED.
+Pooling Suitability,Few high flow gaugings. Rating can not be validated beyond QMED.
+[END]

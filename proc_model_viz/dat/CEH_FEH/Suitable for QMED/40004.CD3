@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 40004
+[END]
+[CDS DETAILS]
+NAME,Rother
+LOCATION,Udiam
+NOMINAL AREA,  204.64
+NOMINAL NGR,5772,1244
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,577250,124400
+CENTROID NGR,GB,566048,125059
+DTM AREA,  204.64
+ALTBAR,  81
+ASPBAR,114
+ASPVAR,0.11
+BFIHOST,0.388
+DPLBAR, 17.75
+DPSBAR, 92.7
+FARL,0.975
+FPEXT,0.0573
+LDP, 33.27
+PROPWET,0.35
+RMED-1H, 11.6
+RMED-1D, 36.6
+RMED-2D, 48.8
+SAAR, 857
+SAAR4170, 861
+SPRHOST,44.42
+URBCONC1990, 0.508
+URBEXT1990,0.0078
+URBLOC1990, 0.977
+URBCONC2000, 0.684
+URBEXT2000,0.0111
+URBLOC2000, 1.059
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Flat V weir rating based on structure equations and gaugings. Responsive regime but with evident artificial influences. GENERAL: Flat V weir with multi-path ultrasonics (2000-2007, data was unreliable and never used in flow calibration ). Ultrasonics installed September 2012. Superseded original Flat V (1992-2000) in embanked river section with paved bed and weir control for low stages that was insensitive at low flows. Deformation of crest was suspected and station rebuilt as a new flat-V weir with cableway in July 1992. Previously a broad-crested weir (1961-1992) and velocity-area section (pre-1961) (274m d/s of road bridge) and a flume at Robertsbridge pumping station (for flows below 1.54 m3/s, some turbulence was experienced at lower flows). STATION HYDROMETRY: Section consisted of a narrow, well-defined channel with rock bed and good fall. Part of weir crest missing (since 2009) but investigation on gauged flows shows that flows are not adversely affected in the normal range of summer flows. Weir is non-modular above 0.6 m/4.8 m3/s, and drowns early (downstream tidal sluice causes limited modularity); ultrasonics (installed 2012) used to calculate flows above the non-modular limit. Flows below the modular limit are calculated using a revised rating which has been applied to the historical data back to 1992. Flows confined except in extreme floods when river goes out of bank upstream and downstream of weir. Cableway present (65 cumecs gauged in Nov 2000). Flood embankment constructed to encapsulate higher flows up to 1.54 m3/s. Very high number of gaugings. Stage-discharge relationship affected by downstream conditions following high flows. Previous rating for broad-crested weir calculated based on 1970-89 gaugings. Difficult to produce fixed rating due to backwater effects and land drainage works. 1968 intensive current meter gauging provided a reasonably good relationship. FLOW RECORD: Truncation of flows due to lack of extended rating; 1992-2000 flows truncated at ~5.9 cumecs (downstream tidal sluice limited modularity of the Flat V); significant underestimation of runoff - flows under review. Period of record minimum should be considered indicative only; similar minimum in 1990. Intermittent records available from 1958, permanent records from October 1962. FLOW REGIME: Responsive regime with evident artificial influences. Offtake for Darwell Reservoir (9.6 km2 catchment area) is 7 km upstream. Other reservoirs and sewage effluent (some imported) also influence flow patterns (small net export of water). Small net export of water. Water is pumped from Robertsbridge to Darwell reservoir. Runoff in catchment area affected by reservoir and increased by effluent returns. Summer weed growth problems. A large flood alleviation scheme has been implemented at Robertsbridge (completion date Aug 2003), consisting of flood banks in the town itself. Darwell Reservoir construction.
+CATCHMENT,A small catchment developed mainly on clays of Wadhurst Series and substantial tracts of Ashdown Sands. Tunbridge Wells Sand 8%, Wadhurst Clay 58%, Ashdown Sand 31%, Purbeck Beds 3%. 57.5% of catchment naturally impervious, 42.5% pervious. Rural, with significant expanses of woodland and no large settlements.
+Qmed Suitability,Gauged above QMED and reasonably confident in estimates.
+Pooling Suitability,Gauged beyond AMAX3 but significant scatter in gaugings at high flow.
+[END]

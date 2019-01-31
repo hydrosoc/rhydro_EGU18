@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 27043
+[END]
+[CDS DETAILS]
+NAME,Wharfe
+LOCATION,Addingham
+NOMINAL AREA,  430.01
+NOMINAL NGR,4091,4492
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,409200,449300
+CENTROID NGR,GB,398151,467368
+DTM AREA,  430.01
+ALTBAR, 360
+ASPBAR,165
+ASPVAR,0.14
+BFIHOST,0.366
+DPLBAR, 30.68
+DPSBAR,138.1
+FARL,0.975
+FPEXT,0.0351
+LDP, 58.70
+PROPWET,0.62
+RMED-1H, 11.2
+RMED-1D, 43.7
+RMED-2D, 58.4
+SAAR,1385
+SAAR4170,1402
+SPRHOST,46.68
+URBCONC1990,-9999.000
+URBEXT1990,0.0012
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0036
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Crump weir with flanking weirs. Cableway located d/s at 27027. Regulation releases from Grimwith Reservoir since 1984. GENERAL: Crump profile crest(12m wide) in a broad-crested, round-nosed flanking weirs (0.5m higher), 48m overall width. Current meter cableway 3.3km d/s at 27027 (Ilkley). STATION HYDROMETRY: No bypassing,although structure overtopped and may drown in large flood events. Theoretical daily flow rating. Gaugings undertaken at 27027 (Ilkley) cableway 4km d/s, although no allowance is made for the intervening distance. One peak flow rating applied across period of record. Valdiated by current meter gaugings. Peak flow rating considered reliable up to 300 cumecs. FLOW REGIME: Flashy flow regime substantially influenced by reservoir operation. Grimwith Reservoir originally impounded 1864. Enlargement works commenced 1976 and regulation releases from June 1984. Howvever, there is little impact on high flows. Significant u/s abstraction at Lobwood and Hollins (from 1970); at low flows the abstraction is compensated by releases from Grimwith Reservoir (measured at 27063) so net impact at Addingham is reduced.
+CATCHMENT,Predominantly natural upland catchment on Lower Carboniferous Limestone and Shales in the upper catchment and Lower Carboniferous Grits and Sandstones in the lower catchment near Addingham. Some Boulder Clay cover and peat in headwaters. Rural catchment, predominantly moorland and pasture. Grimwith reservoir impounded 1864.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged to within 30% of AMAX3. Confident in rating extrapolation.
+[END]

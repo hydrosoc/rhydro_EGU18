@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 33015
+[END]
+[CDS DETAILS]
+NAME,Ouzel
+LOCATION,Willen
+NOMINAL AREA,  281.80
+NOMINAL NGR,4881,2407
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,488200,240800
+CENTROID NGR,GB,492027,226332
+DTM AREA,  281.80
+ALTBAR, 109
+ASPBAR,  2
+ASPVAR,0.08
+BFIHOST,0.464
+DPLBAR, 26.93
+DPSBAR, 34.8
+FARL,0.926
+FPEXT,0.1321
+LDP, 43.40
+PROPWET,0.31
+RMED-1H, 10.2
+RMED-1D, 30.7
+RMED-2D, 38.4
+SAAR, 637
+SAAR4170, 658
+SPRHOST,41.55
+URBCONC1990, 0.652
+URBEXT1990,0.0368
+URBLOC1990, 0.744
+URBCONC2000, 0.830
+URBEXT2000,0.0658
+URBLOC2000, 0.690
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Gauging a predominantly rural catchment with mixed bedrock, influenced by Leighton Buzzard and by Milton Keys in the lower part, high flows may underestimated. GENERAL: Flat V Crump profile weir (10m broad) and sluices. The present weir replaced a compound broad-crested weir (10m broad) with bypass channel in 1977 when the river was realigned. STATION HYDROMETRY: Radial lifting gate immediately u/s of weir diverts very high flows to adjacent balancing reservoir which empties d/s of weir. This may result in high flows being appreciably less than those seen upstream at Bletchley (33058). Annual floods do not bypass. FSR Grade A1 in 1971. Two ratings applied across period of record, the most recent is valid from July-1977 when weir rebuilt. FLOW RECORD: HIF may be offset from GDF during periods of gate movement FLOW REGIME: Runoff influenced by industrial/agricultural abstraction and effluent returns.
+CATCHMENT,Mixed bedrock geology, with Greensand and Oxford Clay and some Boulder Clay cover. Primarily a rural catchment of mixed agriculture, although Leighton Buzzard is in catchment, and southern suburbs of Milton Keynes are situated in lower valley just u/s of station.
+Qmed Suitability,Gauged to within 9% of QMED. No bypassing reported at QMED flows.
+Pooling Suitability,Few high flow gaugings. Rating can not be validated beyond QMED. Bypassing occurs during high flow events.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 25018
+[END]
+[CDS DETAILS]
+NAME,Tees
+LOCATION,Middleton in Teesdale
+NOMINAL AREA,  242.01
+NOMINAL NGR,3948,5250
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,394850,525000
+CENTROID NGR,GB,383002,529939
+DTM AREA,  242.01
+ALTBAR, 531
+ASPBAR,115
+ASPVAR,0.15
+BFIHOST,0.283
+DPLBAR, 19.15
+DPSBAR,109.3
+FARL,0.939
+FPEXT,0.0336
+LDP, 37.72
+PROPWET,0.60
+RMED-1H, 11.1
+RMED-1D, 47.9
+RMED-2D, 65.1
+SAAR,1533
+SAAR4170,1704
+SPRHOST,53.89
+URBCONC1990,-9999.000
+URBEXT1990,0.0002
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0005
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station with informal flat V Crump weir. Flow regime influenced by Cow Green reservoir. GENERAL: Velocity area station, with informal flat V Crump weir (31.8m wide) for low-flow control constructed in 1972. Cableway. Replaced earlier station at Dent Bank (25002). Straight reach, gravel and rock bed on steep gradient. STATION HYDROMETRY: Limited modular range. Some bypassing at the back of the building at high flows; but a reasonable station for high flows. Measured level may be affected by draw-down and turbulence (due to rocky bed) at high flows. Two peak flow ratings applied across period of record, the most recent is valid from July 1972 when weir construction necessitated a rating change. Well gauged to QMED and uniform cross section allows extrapolation to 3m. FLOW RECORD: Maintenance on weir winter 1995-1966 resulted in some artificially low flows. Step-change in flows June-September 2014 due to increased outflows from Cow Green Reservoir to flush and clean the weir (also seen at 25008). FLOW REGIME: Flows affected by Cow Green reservoir (24.4% of catchment) - influencing entire record through regulation for abstractions and minimum flow, storage attenuation and winter drawdown.
+CATCHMENT,Upland catchment draining from the Pennines. Geology: largely Carboniferous Limestone (sandstone, shale and limestone), some Millstone Grit, with extensive peat cover in headwaters, and boulder clay in valley. Land use: moorland and rough grazing. No known catchment changes.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged to within 15% of AMAX3. Rating should be applicable well beyond this.
+[END]

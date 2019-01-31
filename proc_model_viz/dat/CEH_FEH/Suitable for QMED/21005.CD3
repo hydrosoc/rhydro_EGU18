@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 21005
+[END]
+[CDS DETAILS]
+NAME,Tweed
+LOCATION,Lyne Ford
+NOMINAL AREA,  377.18
+NOMINAL NGR,3205,6397
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,320600,639750
+CENTROID NGR,GB,310349,629330
+DTM AREA,  377.18
+ALTBAR, 379
+ASPBAR,341
+ASPVAR,0.08
+BFIHOST,0.507
+DPLBAR, 23.58
+DPSBAR,202.6
+FARL,0.965
+FPEXT,0.0481
+LDP, 42.68
+PROPWET,0.66
+RMED-1H,  9.9
+RMED-1D, 39.9
+RMED-2D, 52.7
+SAAR,1255
+SAAR4170,1311
+SPRHOST,37.73
+URBCONC1990,-9999.000
+URBEXT1990,0.0008
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0016
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station. Flows affected by abstractions and compensation releases from Fruid and Talla Reservoirs. GENERAL: Velocity area station with cableway; about 20m wide natural section on straight gravel bedded reach. STATION HYDROMETRY: Left bank overtopped during large floods (>2m). Slight seasonal weed growth effect on rating. Peak flow rating derived from current meter gauging up to 2.6m (about 0.9 QMED), simple extrapolation beyond. FLOW RECORD: Monthly naturalised flows available. FLOW REGIME: Runoff diminished by abstractions from Fruid and Talla Reservoirs for public water supply - compensation releases also influence flow regime.
+CATCHMENT,Upland catchment. Bedrock mainly Silurian shale with alluvial gravel in valley bottoms. Land use principally hill grazing; some forest. Fruid Reservoir (1968). Notable floodplain.
+Qmed Suitability,Okay
+Pooling Suitability,Bypassing on left hand bank has occurred many times during period of record. Significance not entirely known. Recommended that it not be used for pooling until SEPA can provide further guidance..
+[END]

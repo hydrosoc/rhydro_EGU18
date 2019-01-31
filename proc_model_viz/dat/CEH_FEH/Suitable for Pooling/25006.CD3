@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 25006
+[END]
+[CDS DETAILS]
+NAME,Greta
+LOCATION,Rutherford Bridge
+NOMINAL AREA,   86.81
+NOMINAL NGR,4033,5122
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,403350,512200
+CENTROID NGR,GB,393998,510669
+DTM AREA,   86.81
+ALTBAR, 402
+ASPBAR, 54
+ASPVAR,0.30
+BFIHOST,0.241
+DPLBAR, 12.76
+DPSBAR, 68.3
+FARL,0.999
+FPEXT,0.0421
+LDP, 24.01
+PROPWET,0.62
+RMED-1H, 10.7
+RMED-1D, 40.3
+RMED-2D, 54.5
+SAAR,1127
+SAAR4170,1268
+SPRHOST,55.22
+URBCONC1990,-9999.000
+URBEXT1990,0.0006
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0013
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Compound crump weir at the end of a rock fall. GENERAL: Compound Crump profile weir, total width 19.2m, central low flow crest 3m wide. Constructed at the head of a natural rock fall. No change in control since construction, no permanent cableway although gauged with a temporary winch. Flow is turbulent even when low. STATION HYDROMETRY: Remains modular throughout range. Some bypassing over wing walls, before they were extended, but in extreme cases rack marks were surveyed in. Ice has been reported in the stilling well in sever winter conditions. Theoretical daily flow rating with check gaugings. Previous rating based on structure dimensions and valid up to top of dividing piers. New rating developed in 2010 and modified in March 2013 to improve derivation of low flows, applied from the start of the record. Check gaugings show good fit to rating up to maximum gauging of 1.13m. Flood Studies Report grade B. FLOW RECORD: Extreme flood level in August 1986 exceeded stilling well floor level; level surveyed from wrack. Missing data in February 2008 due to inaccurate drift correction. Flows reprocessed from 1982 onwards in 2002. New rating applied to whole record in March 2013. FLOW REGIME: Responsive, natural regime. No known artificial influences.
+CATCHMENT,A steep, eastward draining catchment in the Pennines developed largely on Millstone Grit, with nearly the whole catchment overlain by superficial deposits of peat and boulder clay. Mainly moorland and grass pasture. No known catchment changes.
+Qmed Suitability,Although not gauged to within 30% of QMED, formal structure thought to provide reliable estimates.
+Pooling Suitability,Rating thought to provide reliable high flow ratings, although no check gaugings available to confirm. Note that there is one extreme flow at this site where the extrapolation of the rating may be doubtful
+[END]

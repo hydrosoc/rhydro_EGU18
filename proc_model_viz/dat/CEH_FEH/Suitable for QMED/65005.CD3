@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 65005
+[END]
+[CDS DETAILS]
+NAME,Erch
+LOCATION,Pencaenewydd
+NOMINAL AREA,   19.42
+NOMINAL NGR,2400,3403
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,240000,340350
+CENTROID NGR,GB,239276,343241
+DTM AREA,   19.42
+ALTBAR, 175
+ASPBAR,179
+ASPVAR,0.48
+BFIHOST,0.439
+DPLBAR,  7.20
+DPSBAR, 95.9
+FARL,0.991
+FPEXT,0.0710
+LDP, 12.62
+PROPWET,0.56
+RMED-1H,  9.9
+RMED-1D, 47.5
+RMED-2D, 61.2
+SAAR,1477
+SAAR4170,1535
+SPRHOST,39.31
+URBCONC1990,-9999.000
+URBEXT1990,0.0000
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0012
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Crump profile weir. Located in the lowland catchment on the Lleyn peninsula. Natural flow regime. GENERAL: A 6m wide Crump profile weir. STATION HYDROMETRY: Gravel accumulation issues - gravel shovelled over weir crest on an annual basis. High wing walls contain the full flow range. Bridge constructed upstream of weir on wingwalls to assist in ability to gauge higher flows. Ongoing investigation into unexplained changes in water balance over time. Two peak flow ratings applied over period of record. FLOW RECORD: The outstanding flood in August 2000 resulted from a localised but very intense thunderstorm. It was contained within the structure (and confirmed by wrack marks) but the peak flow is an estimate. FLOW REGIME: Natural to within 10% at Q95.
+CATCHMENT,Mostly lowland catchment on the Lleyn peninsula, with hills in N. Impermeable bedrock geology, covered with Boulder Clay. Mainly grassland (rough grazing), some woodland.
+Qmed Suitability,Not gauged to within 30% of QMED. However, rating remains modular and thought to be reliable as QMED contained in bank.
+Pooling Suitability,Few high flow gaugings.
+[END]

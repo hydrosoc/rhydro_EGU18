@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 33009
+[END]
+[CDS DETAILS]
+NAME,Bedford Ouse
+LOCATION,Harrold Mill
+NOMINAL AREA, 1323.55
+NOMINAL NGR,4949,2564
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,495000,256500
+CENTROID NGR,GB,478476,237009
+DTM AREA, 1323.55
+ALTBAR, 106
+ASPBAR, 82
+ASPVAR,0.05
+BFIHOST,0.448
+DPLBAR, 58.59
+DPSBAR, 30.7
+FARL,0.933
+FPEXT,0.1167
+LDP, 95.66
+PROPWET,0.30
+RMED-1H, 10.7
+RMED-1D, 30.1
+RMED-2D, 38.1
+SAAR, 641
+SAAR4170, 655
+SPRHOST,40.11
+URBCONC1990, 0.613
+URBEXT1990,0.0202
+URBLOC1990, 0.855
+URBCONC2000, 0.783
+URBEXT2000,0.0333
+URBLOC2000, 0.871
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Compound broad-crested weir gauging a catchment with significant PWS abstractions. GENERAL: Compound structure comprising a compound broad-crested weir plus two side spilling broad-crested weirs u/s. Not primarily constructed for flow measurement, essentially a level site. Harrold mill weir under the mill structure. STATION HYDROMETRY: Two peak flow ratings applied across period of record, the most recent is valid from Oct 1962. Rating is theoretical; does not include out of bank flows. FLOW RECORD: Peak flows estimated (station has theoretical rating). FLOW REGIME: Major public water supply abstractions in catchment, for Milton Keynes and Foxcots. Also abstractions for industrial/agricultural purposes. Effluent returns may increase runoff. Reservoir(s) in catchment.
+CATCHMENT,Limestone overlain by Boulder Clay. Mainly agricultural land use with substantial urban development associated with Milton Keynes.
+Qmed Suitability,Not gauged to within 30% of QMED. QMED is out of bank and high flow estimates are uncertain.
+Pooling Suitability,High flow rating unreliable.
+[END]

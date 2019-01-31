@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 28022
+[END]
+[CDS DETAILS]
+NAME,Trent
+LOCATION,North Muskham
+NOMINAL AREA, 8209.42
+NOMINAL NGR,4804,3605
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,480450,360500
+CENTROID NGR,GB,429407,327745
+DTM AREA, 8209.42
+ALTBAR, 134
+ASPBAR,122
+ASPVAR,0.06
+BFIHOST,0.502
+DPLBAR,129.73
+DPSBAR, 51.6
+FARL,0.946
+FPEXT,0.1310
+LDP,202.13
+PROPWET,0.30
+RMED-1H, 10.6
+RMED-1D, 32.3
+RMED-2D, 40.9
+SAAR, 747
+SAAR4170, 756
+SPRHOST,34.76
+URBCONC1990, 0.796
+URBEXT1990,0.0735
+URBLOC1990, 1.065
+URBCONC2000, 0.896
+URBEXT2000,0.0994
+URBLOC2000, 1.074
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station installed in 1968 and replaced by ultrasonic gauge in 1996: the station provides the lowest Trent gauge above the tidal limit and drains a highly industrial catchment with substantial flow modifications. GENERAL: Velocity area station from 1968 to 1996. An ultrasonic gauge was installed in 1996. Highest transducer 7m. Cableway spans 105m. The station provides the most downstream gauge on the Fluvial Trent and lies immediately upstream of Cromwell Weir (Trent tidal limit) - with the backwater from Cromwell Weir affecting the high flow rating. STATION HYDROMETRY: Two ratings applied across period of record, the most recent is valid from August-1986 when ultrasonic installed. Velocity-Area station (Pre-1996) was well rated up to the highest floods on record which included out of bank flows. Backwater from Cromwell Lock d/s affects high flow rating. Above 2.8mASD, the station is bypassed on the right bank. Generally the ultrasonic gauge is thought to underestimate flows and the rating overestimate flows. FLOW RECORD: US gauge augmented VA station for low flows in 1996. FLOW REGIME: Very substantial flow modifications owing to imports, WRW, cooling water and industrial usage. Reservoir(s) in catchment affect runoff. Regulation from surface water and/or ground water. Runoff reduced by public water supply abstraction and increased by effluent returns. Runoff influenced by groundwater abstraction/recharge.
+CATCHMENT,Largest gauged catchment on Trent, with range of land use. Predominantly impervious owing to glacial clay and Mercia Mudstone, but some sandstone and limestone (Dove, Derwent and downstream of Nottingham).
+Qmed Suitability,Well rated up to the level of the highest recorded floods. Since 1996 the US gauge appears to be performing well and flows bypassing the gauge are small.
+Pooling Suitability,Well rated up to the level of the highest recorded floods. Since 1996 the US gauge appears to be performing well and flows bypassing the gauge are small.
+[END]

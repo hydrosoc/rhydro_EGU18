@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 35004
+[END]
+[CDS DETAILS]
+NAME,Ore
+LOCATION,Beversham Bridge
+NOMINAL AREA,   56.35
+NOMINAL NGR,6360,2582
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,636050,258250
+CENTROID NGR,GB,630035,261500
+DTM AREA,   56.35
+ALTBAR,  36
+ASPBAR,138
+ASPVAR,0.19
+BFIHOST,0.455
+DPLBAR, 11.55
+DPSBAR, 22.9
+FARL,0.988
+FPEXT,0.1150
+LDP, 21.23
+PROPWET,0.26
+RMED-1H, 10.9
+RMED-1D, 29.5
+RMED-2D, 37.7
+SAAR, 596
+SAAR4170, 608
+SPRHOST,38.03
+URBCONC1990, 0.407
+URBEXT1990,0.0083
+URBLOC1990, 1.116
+URBCONC2000, 0.667
+URBEXT2000,0.0171
+URBLOC2000, 1.088
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Compound crump weir gauging a rural catchment with clay and Chalk bedrock. Flows affected by some artificial influences. GENERAL: A compound Crump weir with low flow notch and crest tapping. STATION HYDROMETRY: Drowning starts below QMED and has significant impact on flows, occasionally drowns as a result of d/s weed growth and siltation. One rating applied across period of record. FLOW RECORD: No POT data are presented for this station as they have no non-modular flow correction applied. AMAX data have been corrected, but in some cases can be below the daily flow as these are not corrected. FLOW REGIME: Industrial/agricultural abstraction or gw causes a moderate reduction in natural runoff.
+CATCHMENT,Gw-influenced regime, gw catchment exceeds topographic catchment. Predominantly clay and Chalk bedrock overlain with Boulder Clay and sand and gravel. Rural, predominantly arable land.
+Qmed Suitability,Significant scatter in gaugings once weir is drowned rendering flow estimates from rating uncertain.
+Pooling Suitability,Significant scatter in gaugings once weir is drowned rendering flow estimates from rating uncertain.
+[END]

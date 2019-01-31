@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 46008
+[END]
+[CDS DETAILS]
+NAME,Avon
+LOCATION,Loddiswell
+NOMINAL AREA,  102.22
+NOMINAL NGR,2718, 475
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,271900,47600
+CENTROID NGR,GB,270508, 57803
+DTM AREA,  102.22
+ALTBAR, 202
+ASPBAR,154
+ASPVAR,0.17
+BFIHOST,0.554
+DPLBAR, 15.75
+DPSBAR,124.0
+FARL,0.986
+FPEXT,0.0299
+LDP, 32.91
+PROPWET,0.47
+RMED-1H, 12.9
+RMED-1D, 53.4
+RMED-2D, 70.7
+SAAR,1550
+SAAR4170,1605
+SPRHOST,32.89
+URBCONC1990,-9999.000
+URBEXT1990,0.0035
+URBLOC1990,-9999.000
+URBCONC2000, 0.702
+URBEXT2000,0.0063
+URBLOC2000, 0.858
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station with some problems from weed growth. GENERAL: Velocity area station built in 1971 with Flat V weir. Cableway span 25.5m. STATION HYDROMETRY: No bypassing. Can be affected by weed growth. Natural bed control downstream of station, re-rated at low flows. Multiple peak flow ratings applied across period of record. Reasonable fit to available gaugings. FLOW RECORD: Station closed between 6/10/1981 - 11/05/1990. FLOW REGIME: Some regulation from surface water and groundwater abstractions. Avon Dam in the catchment (small reservoir in the headwaters) can affect runoff. Dam fills quickly and overspills during significant events, but would make no difference to the flow at Loddiswell. HEP scheme was installed at the Dam (in 2012), on the falling limb of events, flows can suddenly drop to 'natural' when the reservoir stops releasing.
+CATCHMENT,Drains southwards from Dartmoor Granite. Predominantly Lower Old Red Sandstone in lower reaches, Culm Measures between. Alluvium in valley bottom. Land-use: rural, grazing and woodland in steeply incised valley. No major catchment changes.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged to within 3% of AMAX3. Good fit to gaugings, some of which are for out of bank conditions.
+[END]

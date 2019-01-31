@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 36009
+[END]
+[CDS DETAILS]
+NAME,Brett
+LOCATION,Cockfield
+NOMINAL AREA,   25.56
+NOMINAL NGR,5913,2525
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,591400,252550
+CENTROID NGR,GB,590502,255189
+DTM AREA,   25.56
+ALTBAR,  87
+ASPBAR,150
+ASPVAR,0.10
+BFIHOST,0.395
+DPLBAR,  5.46
+DPSBAR, 18.4
+FARL,1.000
+FPEXT,0.1128
+LDP, 10.65
+PROPWET,0.28
+RMED-1H, 10.2
+RMED-1D, 25.2
+RMED-2D, 32.6
+SAAR, 598
+SAAR4170, 609
+SPRHOST,46.67
+URBCONC1990,-9999.000
+URBEXT1990,0.0046
+URBLOC1990,-9999.000
+URBCONC2000, 0.500
+URBEXT2000,0.0052
+URBLOC2000, 1.069
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,'Essex' profile gauging a small, rural, close to natural, catchment with Upper Chalk covered with Boulder Clay. GENERAL: 'Essex' profile (modified Flat V Crump weir). No spillway. STATION HYDROMETRY: Modular limit of 0.66m theoretically derived; secondary instrument to record non-modular flows installed in 2003. Lack of gaugings at high flows. One rating applied across period of record. FLOW RECORD: No POT data are presented for this station as they have no non-modular flow correction applied. AMAX data have been corrected, but in some cases can be below the daily flow as these are not corrected. Naturalised flows from 1969 to 1976, only minimal adjustments needed since. FLOW REGIME: Natural to within 10% at Q95.
+CATCHMENT,Upper Chalk completely covered with Boulder Clay. Rural, predominantly arable land.
+Qmed Suitability,Good fit to gaugings.
+Pooling Suitability,Significant scatter above 0.9m but indicate that rating currently underestimates flows.
+[END]

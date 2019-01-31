@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 15013
+[END]
+[CDS DETAILS]
+NAME,Almond
+LOCATION,Almondbank
+NOMINAL AREA,  173.28
+NOMINAL NGR,3067,7258
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,306700,725800
+CENTROID NGR,GB,288255,731394
+DTM AREA,  173.28
+ALTBAR, 408
+ASPBAR,126
+ASPVAR,0.17
+BFIHOST,0.466
+DPLBAR, 28.84
+DPSBAR,196.9
+FARL,0.996
+FPEXT,0.0308
+LDP, 51.25
+PROPWET,0.61
+RMED-1H,  9.8
+RMED-1D, 44.8
+RMED-2D, 61.0
+SAAR,1394
+SAAR4170,1460
+SPRHOST,42.65
+URBCONC1990,-9999.000
+URBEXT1990,0.0004
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0014
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station draining the south east Grampians. Station is the lowest tributary on the Tay above the tidal limit. GENERAL: Velocity area station, about 15m wide. Lowest Tay tributary above tidal limit. In 1993 a new bridge was built downstream after the collapse of the old one. In 1999, bank further u/s eroded and water bypassed station and bridge via parkland on lb. Engineering work has been done for prevention. STATION HYDROMETRY: Cableway present. Natural control. Channel affected by ice during prolonged periods of low temperature. Weir downstream could be control for high flows. Ratings derived from current meter gaugings up to 2.3m (about 1.1QMED), simple extrapolation beyond. FLOW RECORD: Daily read gauge boards from January 1955 to January 1973. Naturalised monthly flows available from 1973-1985. December 1971/Jan 1972 flows removed from the NRFA; Deecember 2009/January 2010 and December 2010 flows considered suspect due to ice formation. 1993 highest flow checked by slope area method. FLOW REGIME: Very flashy. 30 sq.km controlled for HEP. Minor abstraction from Fendoch Burn for water supply - affecting only low and medium flows..
+CATCHMENT,Mountainous, often snowy in winter. Long, narrow, steeply sloping catchment draining Glen Almond in SE of Grampians. Two thirds of bedrock is metamorphic the remainder is sandstone. Over half of the catchment is overlain by superficial deposits. Land use is heather moor, rough grazing in upper parts with some cattle in the lower, some forest cover. HEP schemes have developed within the catchment.
+Qmed Suitability,No comment
+Pooling Suitability,No comment
+[END]

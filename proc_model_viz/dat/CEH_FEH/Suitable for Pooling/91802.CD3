@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 91802
+[END]
+[CDS DETAILS]
+NAME,Allt Leachdach
+LOCATION,Intake
+NOMINAL AREA,    6.54
+NOMINAL NGR,2261,7781
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,226100,778150
+CENTROID NGR,GB,226881,776154
+DTM AREA,    6.54
+ALTBAR, 622
+ASPBAR,  1
+ASPVAR,0.33
+BFIHOST,0.397
+DPLBAR,  2.74
+DPSBAR,406.9
+FARL,0.992
+FPEXT,0.0031
+LDP,  4.75
+PROPWET,0.83
+RMED-1H, 14.4
+RMED-1D, 70.4
+RMED-2D,105.7
+SAAR,2554
+SAAR4170,2410
+SPRHOST,53.31
+URBCONC1990,-9999.000
+URBEXT1990,0.0000
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0000
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Compound weir measuring flows draining the north-eastern slopes of the Ben Nevis massif GENERAL: Compound sharp edge weir with a flat 'V' set in a sharp edge rectangular notch (6.7m long). STATION HYDROMETRY: No drowning due to the steep gradient d/s, but at low flows the nappe in the V-notch is not aerated. The stilling pool is unlikely to be entirely effective at high flows. Freezing occurs in winter. Theoretical rating. FLOW REGIME: Natural regime.
+CATCHMENT,Mountainous catchment, often snowy in winter. The catchment lies on the north flank of the eastward extension of the Ben Nevis massif. Land cover is rough grazing, pasture and bare rock. No significant catchment changes known.
+Qmed Suitability,Suitable for QMED estimation based on FSR quality grade of A2
+Pooling Suitability,Suitable for pooling with caution - based on FSR quality grade of A2.
+[END]

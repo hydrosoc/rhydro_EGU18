@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 69027
+[END]
+[CDS DETAILS]
+NAME,Tame
+LOCATION,Portwood
+NOMINAL AREA,  146.01
+NOMINAL NGR,3906,3918
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,390700,391900
+CENTROID NGR,GB,398402,401925
+DTM AREA,  146.01
+ALTBAR, 259
+ASPBAR,257
+ASPVAR,0.27
+BFIHOST,0.366
+DPLBAR, 29.28
+DPSBAR,121.1
+FARL,0.898
+FPEXT,0.0604
+LDP, 48.47
+PROPWET,0.54
+RMED-1H, 11.4
+RMED-1D, 42.5
+RMED-2D, 56.4
+SAAR,1215
+SAAR4170,1179
+SPRHOST,42.58
+URBCONC1990, 0.771
+URBEXT1990,0.1051
+URBLOC1990, 0.612
+URBCONC2000, 0.865
+URBEXT2000,0.1537
+URBLOC2000, 0.641
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Curved masonry weir topped with a thin plate draining a heavily urbanised lower catchment. GENERAL: Station opened in 1943 on an old masonry curved weir topped by a thin plate, 21m wide. Located just downstream of 90 degree bend and 2km upstream of Goyt confluence. Station is downstream of Broomstairs Bridge (69041). STATION HYDROMETRY: Drop of 5m over the crest, so no drowning at high flows. The weir is flanked by vertical side walls with a steep left bank which prevents bypassing. The right bank is lower, though bypassing is unlikely at the flows recorded. Gravel shoaling occurs at the base of the weir, extending 20m downstream. An old mill cut was closed in 1967 so that the entire flow now passes over the weir. Flow to the old mill (ie. before January 1967) was probably only a small percentage of flood flows, but some uncertainty as no data to confirm. Records from 1943; a model-based calibration was used before being superseded by one based on current metering in 1970. Gaugings carried out from footbridge downstream of weir. Coping stone removed in the flood of Nov-2000 affecting low flow rating. Recent rating reviews and use of hydraulic model increased confidence in flow estimates. Flood Studies Report grade B. FLOW RECORD: Revised daily flow data from start of record (1/1970) to 10/73 loaded in 2009 due to new rating that has greatly reduced the high flows: previous max GDF on 21/2/70 reduced from 137.9 to 34.9 m3s-1. Full re-rated daily flow record loaded in Oct 2011: main change is reduction in low flows of up to about 20% over 2001-09. Peak flows are excluded for the period March 1946 to late March 1952. There is a gap in the record from March 1946 to March 1948, and the charts from March 1948 to March 1952 appear unreliable, with truncated peaks; this truncation may have been caused by siltation, although this is not now regarded as a problem. After re-rating at both stations, peak flows are now comparable with Broomstairs upstream. FLOW REGIME: Low flows dominated by effluent returns. Many impoundments in the upper reaches control 25% of the catchment in total. The largest of these are Dovestone and Chew Reservoirs on the Chew Brook (draining Saddleworth Moor), which alone control 15% of the catchment.
+CATCHMENT,For the most part a narrow, steep sided valley network on Millstone Grit with peat moorland in upper reaches (includes Saddleworth Moor). Underlying geology of Coal Measures and Permian sandstones and mudstones overlain by Boulder Clay lower down. Sheep grazing in the headwaters; lower catchment heavily urbanised (east Manchester). No catchment changes known.
+Qmed Suitability,Although not gauged to within 30% of QMED, no bypassing or drowning is expected.
+Pooling Suitability,Although few high flow gaugings, extrapolation using hydraulic model increased confidence in rating performance.
+[END]

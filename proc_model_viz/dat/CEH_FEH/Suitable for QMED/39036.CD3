@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 39036
+[END]
+[CDS DETAILS]
+NAME,Law Brook
+LOCATION,Albury
+NOMINAL AREA,   16.06
+NOMINAL NGR,5045,1468
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,504500,146800
+CENTROID NGR,GB,507365,144918
+DTM AREA,   16.06
+ALTBAR, 139
+ASPBAR,335
+ASPVAR,0.33
+BFIHOST,0.888
+DPLBAR,  4.92
+DPSBAR, 85.7
+FARL,0.960
+FPEXT,0.0173
+LDP,  9.01
+PROPWET,0.36
+RMED-1H, 11.9
+RMED-1D, 35.3
+RMED-2D, 47.5
+SAAR, 819
+SAAR4170, 835
+SPRHOST,15.07
+URBCONC1990,-9999.000
+URBEXT1990,0.0010
+URBLOC1990,-9999.000
+URBCONC2000, 0.605
+URBEXT2000,0.0084
+URBLOC2000, 1.158
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,The station is located on Law Brook, a tributary of the Tilling Bourne within the Wey Catchment. GENERAL: Rectangular thin-plate weir, 2.7m broad. STATION HYDROMETRY: Flood discharges can exceed weir capacity and bypassing occurs on the rb; some leakage below weir plate also suspected to have occurred. Heavy accretion (silting) u/s needs dredging regularly as it causes the weir to underestimate flow. Weir damaged in 1996. One rating applied across period of record. Rating is accurate before 1983. No gaugings 1983 to 1993 but post-1993 rating may generally underestimates GDFs and peak flows. FLOW RECORD: Some peak flows are beyond the upper limit of the rating and so should be treated with caution.(e.g. during 2012). Low flow data from June & July 1996 maybe underestimated due to damaged sustained by the weir. FLOW REGIME: Baseflow dominated regime but responsive on occasions. Apparent very late response (autumn) to winter recharge. Low flow pattern affected by inputs from artesian boreholes (supporting watercress beds). Runoff is less diminished since the closure of the Thames Water gw abstraction near to the station.
+CATCHMENT,Small, relatively steep, rural catchment draining from the Winterfold Forest and Hurtwood. Mainly pervious , developed principally on Hythe Beds (Upper Greensand). There is substantial woodland and appreciable urban development in the lower catchment.
+Qmed Suitability,However, rating thought to underestimate flows by around 20%.
+Pooling Suitability,To few gaugings beyond QMED to confirm rating which continues to underestimate flows.
+[END]

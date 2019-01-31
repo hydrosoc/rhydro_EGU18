@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 39018
+[END]
+[CDS DETAILS]
+NAME,Ock
+LOCATION,Abingdon
+NOMINAL AREA,  248.22
+NOMINAL NGR,4486,1969
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,448600,196950
+CENTROID NGR,GB,437750,192941
+DTM AREA,  248.22
+ALTBAR,  87
+ASPBAR, 67
+ASPVAR,0.20
+BFIHOST,0.635
+DPLBAR, 16.91
+DPSBAR, 23.5
+FARL,0.986
+FPEXT,0.2001
+LDP, 34.68
+PROPWET,0.31
+RMED-1H,  9.7
+RMED-1D, 32.1
+RMED-2D, 39.5
+SAAR, 637
+SAAR4170, 646
+SPRHOST,29.08
+URBCONC1990, 0.625
+URBEXT1990,0.0192
+URBLOC1990, 0.919
+URBCONC2000, 0.761
+URBEXT2000,0.0196
+URBLOC2000, 0.854
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Peak flow station located just downstream of the current flow measuring structure on the River Ock in Abingdon (39081). It operated between 1962 to 1978. GENERAL: Three adjacent broad crested weirs. STATION HYDROMETRY: Bypassing occurs above 1.3m (12 cumecs), and can be up to 25% of high flows. Consequently, this station is likely to underestimate flows above a 1 in 2 year flood event. One peak rating applied across period of record. Rating by current meter observation. FLOW RECORD: Bypassing means station underestimates high flows. FLOW REGIME: Runoff influenced by groundwater abstraction/recharge. Flows augmented by sewage effluent (derived from outside catchment).
+CATCHMENT,Flat, rural valley in the Vale of The White Horse. There is a mixed geology that a high proportion of a pervious nature. Chalk downland forms southern watershed with the remainder mostly Tertiary clays. Characterised by Corallian Beds, Greensand, Chalk, Kimmeridge Clay, Gault & Alluvium. Contributing area exceeds topographical catchment.
+Qmed Suitability,Rating reasonably accurate.
+Pooling Suitability,Although the rating is accurate and has plenty of high flow gaugings around AMAX3, the weir is bypassed at 1.3m, which accounts for a significant number of flood events (c.25%)
+[END]

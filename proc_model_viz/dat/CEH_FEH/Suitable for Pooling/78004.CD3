@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 78004
+[END]
+[CDS DETAILS]
+NAME,Kinnel Water
+LOCATION,Redhall
+NOMINAL AREA,   76.17
+NOMINAL NGR,3077,5868
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,307700,586850
+CENTROID NGR,GB,304390,597393
+DTM AREA,   76.17
+ALTBAR, 243
+ASPBAR,109
+ASPVAR,0.31
+BFIHOST,0.431
+DPLBAR, 15.98
+DPSBAR, 98.7
+FARL,0.999
+FPEXT,0.0598
+LDP, 28.15
+PROPWET,0.62
+RMED-1H, 11.2
+RMED-1D, 43.4
+RMED-2D, 58.0
+SAAR,1466
+SAAR4170,1551
+SPRHOST,43.96
+URBCONC1990,-9999.000
+URBEXT1990,0.0001
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0002
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station with natural flow regime. GENERAL: Velocity area station located in straight gravel-bedded reach. STATION HYDROMETRY: Informal concrete low-flow control installed in 1966 - good hydraulic performance. D/s gravel had a short-term impact on modularity. Peak flow rating derived from current meter gaugings. Highest known gauging 1.8m, 55cumecs (about 0.75 QMED). Simple extrapolation of rating to calculate high flows. FLOW RECORD: Maximum recorded discharge 110 cumecs. Peak flow data prior to October 1966 is of questionable quality and has been excluded. FLOW REGIME: Natural catchment.
+CATCHMENT,Silurian shales in upper catchment; Triassic sandstone aquifer in lower catchment. Land use: predominantly hill pasture with a third forestry. Minimal floodplains. No significant catchment changes known.
+Qmed Suitability,Suitable for QMED estimation.
+Pooling Suitability,Suitable for use in pooling groups.
+[END]

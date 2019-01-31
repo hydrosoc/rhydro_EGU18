@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 28032
+[END]
+[CDS DETAILS]
+NAME,Meden
+LOCATION,Church Warsop
+NOMINAL AREA,   59.92
+NOMINAL NGR,4558,3680
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,455800,368000
+CENTROID NGR,GB,451180,364612
+DTM AREA,   59.92
+ALTBAR, 126
+ASPBAR, 83
+ASPVAR,0.32
+BFIHOST,0.821
+DPLBAR,  8.27
+DPSBAR, 41.6
+FARL,0.976
+FPEXT,0.0625
+LDP, 16.70
+PROPWET,0.38
+RMED-1H, 10.9
+RMED-1D, 33.0
+RMED-2D, 40.8
+SAAR, 699
+SAAR4170, 710
+SPRHOST,13.60
+URBCONC1990, 0.741
+URBEXT1990,0.0909
+URBLOC1990, 1.002
+URBCONC2000, 0.869
+URBEXT2000,0.0972
+URBLOC2000, 1.038
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Non-standard trapezoidal flume, treated as velocity-area station, built to measure flows entering Sherwood Sandstone outcrop. GENERAL: Non-standard trapezoidal flume, rated by current meter. Built to measure flows entering Sherwood Sandstone outcrop. Mining subsidence in 1976 caused permanent drowning of flume until downstream channel was re-graded in 1981. Closed between 1984 and 1990. Between 1958 and 1964 was a current meter station. Trapezoidal flume built in 1964. STATION HYDROMETRY: rated by current meter. Two ratings applied across period of record, the most recent is valid from June-1998. Confident in rating to bankfull which fits gaugings well. One gauging above bankfull taken in 1976-1984 when mining subsistence had caused the weir to permanently drown. FLOW RECORD: Flows significantly affected by u/s quarry de-watering, giving recessions a stepped appearance. Sewage effluent dominates low flows. Station closed between 1984 and 1990. June 2007 high flows beyond limit of rating curve. FLOW REGIME: Flows significantly affected by upstream quarry de-watering, giving recessions stepped appearance. Significant proportion of of low flows are comprised of effluent.
+CATCHMENT,Ribbon-like, SW-NE catchment of moderate relief, rising on Magnesian Limestone, subordinate Permian Marl and Sherwood Sandstone. Mining was dominant industry; many spoil tips. Sutton in Ashfield in headwaters, also part of Mansfield Woodhouse.
+Qmed Suitability,QMED in bank and confident in rating.
+Pooling Suitability,Too much emphasis on suspect high flow gauging.
+[END]

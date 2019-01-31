@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 33039
+[END]
+[CDS DETAILS]
+NAME,Bedford Ouse
+LOCATION,Roxton
+NOMINAL AREA, 1662.31
+NOMINAL NGR,5160,2534
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,516000,253500
+CENTROID NGR,GB,483450,239640
+DTM AREA, 1662.31
+ALTBAR,  95
+ASPBAR, 77
+ASPVAR,0.06
+BFIHOST,0.447
+DPLBAR, 97.75
+DPSBAR, 30.0
+FARL,0.939
+FPEXT,0.1348
+LDP,152.87
+PROPWET,0.28
+RMED-1H, 10.8
+RMED-1D, 29.9
+RMED-2D, 37.8
+SAAR, 628
+SAAR4170, 638
+SPRHOST,40.85
+URBCONC1990, 0.647
+URBEXT1990,0.0258
+URBLOC1990, 0.760
+URBCONC2000, 0.806
+URBEXT2000,0.0390
+URBLOC2000, 0.822
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Flat V Crump profile weir gauging a predominantly rural catchment with significant urban development, mixed geology and with some artificial influences. GENERAL: Flat V Crump profile weir (26m broad) with downstream recorder, situated immediately u/s of confluence with R. Ivel. Use in preference to Bedford (33002) if possible. STATION HYDROMETRY: Drowns at very high flows (e.g. Easter Floods 1998), is influenced by timing of flood peak on R. Ivel, and can spill on rare occasions. Adjacent lock acts as an overspill in flood conditions. There is great uncertainty when levels go above 1.8m above crest. Two peak flow ratings applied across period of record. Includes floodplain and non-modular flow. Assumes lock shut below 17.1mAOD and open otherwise. Poor fit to gaugings. FLOW RECORD: The POR maximum flow in April 1998 was extrapolated and subject to bypassing but thought to be a reasonable estimate in a contemporary report by WS Atkins. GDF POR reprocessed in 2014, changes mainly in 2010 to 2013. FLOW REGIME: Regime influenced by groundwater abstraction/recharge. Some effluent returns. Significant surface water and gw abstractions for PWS, industry and agriculture. One of 3 stations used to calculate Offord flows to determine abstraction regime at Grafham Water.
+CATCHMENT,Mixed geology, including significant Clay and Greensand fractions, with about half of the catchment covered with Boulder Clay. Predominantly agricultural with substantial urban development (Milton Keynes and Bedford).
+Qmed Suitability,Gaugings suggest that the current rating overestimates flows.
+Pooling Suitability,Few high flow gaugings to which rating fits poorly. Rating can not be validated.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 68020
+[END]
+[CDS DETAILS]
+NAME,Gowy
+LOCATION,Bridge Trafford
+NOMINAL AREA,  148.66
+NOMINAL NGR,3448,3711
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,344850,371100
+CENTROID NGR,GB,351376,364257
+DTM AREA,  148.66
+ALTBAR,  52
+ASPBAR,294
+ASPVAR,0.17
+BFIHOST,0.538
+DPLBAR, 13.85
+DPSBAR, 33.8
+FARL,0.994
+FPEXT,0.1463
+LDP, 33.37
+PROPWET,0.35
+RMED-1H,  9.9
+RMED-1D, 28.8
+RMED-2D, 39.1
+SAAR, 729
+SAAR4170, 724
+SPRHOST,32.27
+URBCONC1990, 0.515
+URBEXT1990,0.0120
+URBLOC1990, 0.928
+URBCONC2000, 0.684
+URBEXT2000,0.0166
+URBLOC2000, 0.913
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Flat V weir gauging a largely rural catchment in Cheshire. GENERAL: A standard Flat V weir, 6m wide with 1:10 cross-slopes, opened in August 1979, located 30m upstream of a tight bend. Station replaced Picton (68002, 1km d/s). STATION HYDROMETRY: Cableway present. Variable backwater due to significant seasonal weed growth (e.g. in 2008). Maintenance of downstream channel reduced after 1999. Flows affected by backwater estimated by gauging upstream within road bridge. Siltation can also cause backwater problems (channel is intermittently dredged). High flows inundate adjacent fields. Some circulation effects downstream of structure near right bank. Originally gauged with a current meter by cableway, which did not include bypassing. Complex range of issues since January 2012: reduced dredging and conveyance of sediment affecting rating curve and stage discharge techniques, whilst broken tidal flaps have introduced tidal fluctuations in stage record. As a result, flow derivation suspended in 2012, to explore alternative flow measurement methods, but since re-instated. Originally a theoretical rating. The separate ratings for summer and winter make some allowance for varying weed and siltation. Out of bank flows are only known approximately. FLOW RECORD: Revised gauged daily flows from start of record (08/1979) to 10/1981 loaded on 11/08/2009 due to new rating that reduced the flows. Gauged daily flows rejected from 11/07/2009 to 10/10/2009. A high flow gauging on 26/6/2007 was made by ADCP from the bridge, which included all flows - see photograph for out of bank flows at around 2.22m. 1981 and 2000 floods are under review. FLOW REGIME: Responsive regime. Sluice gates control outflow to Manchester Ship Canal. Some minor abstractions and discharges.
+CATCHMENT,A largely rural catchment in the Cheshire Plain; low relief, glacial drift over Triassic sandstones and marl. No catchment changes known.
+Qmed Suitability,Early gaugings extended to around QMED. QMED is less reliable from summer 1999, but is similar to earlier period. Ratings fit to corresponding gaugings reasonably.
+Pooling Suitability,Although gauged beyond AMAX3, early gaugings do not include bypassing, and variable backwater creates considerable uncertainty.
+[END]

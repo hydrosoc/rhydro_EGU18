@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 21030
+[END]
+[CDS DETAILS]
+NAME,Megget Water
+LOCATION,Henderland
+NOMINAL AREA,   56.08
+NOMINAL NGR,3231,6231
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,323100,623100
+CENTROID NGR,GB,318932,622290
+DTM AREA,   56.08
+ALTBAR, 511
+ASPBAR,109
+ASPVAR,0.20
+BFIHOST,0.393
+DPLBAR,  6.52
+DPSBAR,226.7
+FARL,1.000
+FPEXT,0.0086
+LDP, 13.58
+PROPWET,0.72
+RMED-1H, 11.1
+RMED-1D, 48.6
+RMED-2D, 65.5
+SAAR,1669
+SAAR4170,1637
+SPRHOST,47.73
+URBCONC1990,-9999.000
+URBEXT1990,0.0000
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0000
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station. Flows are highly artificial due to Megget Reservoir. GENERAL: Velocity area station, about 23m wide, with rock and gravel bar acting as control. STATION HYDROMETRY: Downstream of Megget Reservoir; station was installed to provide data for reservoir design - flows are highly artificial since impoundment began in 1982. Rating derived from current meter gaugings up to 1.9m (about 1.9 QMED) for the period pre-reservoir and up to 0.8m post-reservoir FLOW RECORD: Monthly naturalised flows available. POT and AMAX data presented are for pre-reservoir only. FLOW REGIME: Natural regime until 1982. From 1982 flows are highly artificial with Megget Reservoir used for public water supplies and operated in conjunction with St Mary's Loch.
+CATCHMENT,A steep upland catchment developed on impervious Silurian formations approx. 3/4 overlain by superficial deposits. Land use mostly hill grazing. Megget Reservoir (1982). FARL changed from 0.815 (pre reservoir) to 1 (post-reservoir).
+Qmed Suitability,Suitable for QMED estimation. Gauged up to QMED. Only data up to the filling of Megget reservoir in 1982 is included in series.
+Pooling Suitability,Suitable for use in pooling groups. Only data up to the filling of Megget reservoir in 1982 is included in series. Spot gaugings suggest a change in rating relationship afterwards.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 47014
+[END]
+[CDS DETAILS]
+NAME,Walkham
+LOCATION,Horrabridge
+NOMINAL AREA,   44.24
+NOMINAL NGR,2513, 698
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,251300,69900
+CENTROID NGR,GB,254969, 73835
+DTM AREA,   44.24
+ALTBAR, 318
+ASPBAR,245
+ASPVAR,0.34
+BFIHOST,0.585
+DPLBAR,  7.70
+DPSBAR,109.0
+FARL,1.000
+FPEXT,0.0226
+LDP, 17.61
+PROPWET,0.48
+RMED-1H, 13.2
+RMED-1D, 54.7
+RMED-2D, 70.2
+SAAR,1665
+SAAR4170,1665
+SPRHOST,26.16
+URBCONC1990, 0.600
+URBEXT1990,0.0107
+URBLOC1990, 0.329
+URBCONC2000, 0.704
+URBEXT2000,0.0078
+URBLOC2000, 0.256
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Three bay non-standard structure consisting of Flat V, triangular profile and broad-crested weirs. GENERAL: Three-bay non-standard compound structure with 2.47m flat V weir (on fish pass), 9.48m wide triangular profile weir and a 8.53m wide broad-crested weir. Flat V weir on fish pass superseded a previous sharp crested weir in 1976. STATION HYDROMETRY: Good peak flow rating, based on gaugings, theoretical ratings and peak to peak correlation with downstream station 47015. Scatter at low flow. Weir capstones missing during 1988/89 as a result of flood damage, rating prepared to account for this. During low flows, the left hand broad crested weir in the flood relief channel (gently sloping open grassed space) is dry - beyond 1.4m the flows bypass the structure and enter the channel. Allowance for bypass flow made based on contemporary observations of 1979 flood (including survey and Manning calculations), which suggested a flow range between 90 and 112m3/s. Although the rating is extrapolated above 1m it should be reasonable because different methods produce similar values and it takes account of the observations of the 1979 flood. Multiple peak flow ratings applied across period of record. Rating is theoretical but extended into high flow range using check gaugings (some collected by ADCP) and peak to peak correlation with downstream station at Ludbrook. FLOW RECORD: No data between 07/2014 and 12/2014 due to fish pass improvement works. FLOW REGIME: Moderate flow modification by PWS abstraction and minor agricultural abstraction.
+CATCHMENT,Moorland catchment draining western Dartmoor Granite. Steep, afforested valley flanks as the river leaves the granite and drains Devonian slates, limestone and volcanics. Land use is low grade agriculture, moorland and woodland. No major catchment changes.
+Qmed Suitability,Gauged to within 15% of QMED.
+Pooling Suitability,Although no gaugings beyond QMED, there is reasonable confidence in the observations and assumptions used to extend the rating.
+[END]

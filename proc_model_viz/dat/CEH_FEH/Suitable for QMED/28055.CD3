@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 28055
+[END]
+[CDS DETAILS]
+NAME,Ecclesbourne
+LOCATION,Duffield
+NOMINAL AREA,   51.06
+NOMINAL NGR,4319,3446
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,431950,344650
+CENTROID NGR,GB,428773,349407
+DTM AREA,   51.06
+ALTBAR, 167
+ASPBAR,137
+ASPVAR,0.18
+BFIHOST,0.455
+DPLBAR,  7.87
+DPSBAR,106.9
+FARL,0.997
+FPEXT,0.0264
+LDP, 16.22
+PROPWET,0.35
+RMED-1H, 11.0
+RMED-1D, 34.2
+RMED-2D, 42.6
+SAAR, 852
+SAAR4170, 842
+SPRHOST,30.41
+URBCONC1990, 0.528
+URBEXT1990,0.0129
+URBLOC1990, 1.220
+URBCONC2000, 0.716
+URBEXT2000,0.0225
+URBLOC2000, 1.292
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Crump profile Flat V (1:10) weir set in sloping sidewalls - station closed 1983-1989. GENERAL: Crump profile Flat V (1:10) weir set in sloping (1:1) 1.25m high sidewalls, 7.2m wide at V-full. Likely to be modular to structure full. Closed 1983-89. High flows gauged from d/s bridge - bridge downstream may restrict flood flows. Adjustable pre-barrage to improve fish passage installed on weir apron in Jan 2013. Remains modular to structure full. Pre-barrage to improve fish passage installed on weir apron in 2013. Remains modular to structure full. STATION HYDROMETRY: One rating applied across period of record.Rating should not applied beyond bank full. Gauged at low flows only. High flows gauged from d/s bridge. adjustable pre-barrage to improve fish passage installed on weir apron in Jan 2013. Bridge downstream may restrict flood flows. FLOW RECORD: Good high flows site - station closed 1983-89. FLOW REGIME: PWS abstraction and WRW discharge balance to yield substantially natural regime.
+CATCHMENT,Moderate relief catchment, solid geology Coal Measures. Minor Boulder Clay cover in mid-catchment. Essentially rural; Wirksworth in headwaters.
+Qmed Suitability,Gauged to within 13% of QMED. Well contained by structure.
+Pooling Suitability,Few high flow gaugings. Rating can not be validated beyond QMED.
+[END]

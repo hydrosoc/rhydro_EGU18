@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 60001
+[END]
+[CDS DETAILS]
+NAME,Tywi
+LOCATION,Ty Castell
+NOMINAL AREA, 1090.84
+NOMINAL NGR,2491,2203
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,249150,220350
+CENTROID NGR,GB,269002,235627
+DTM AREA, 1090.84
+ALTBAR, 234
+ASPBAR,212
+ASPVAR,0.09
+BFIHOST,0.478
+DPLBAR, 45.48
+DPSBAR,156.9
+FARL,0.984
+FPEXT,0.0607
+LDP, 89.91
+PROPWET,0.59
+RMED-1H, 11.3
+RMED-1D, 49.8
+RMED-2D, 66.5
+SAAR,1535
+SAAR4170,1585
+SPRHOST,38.97
+URBCONC1990,-9999.000
+URBEXT1990,0.0008
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0018
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area high flow station - Peak flows data only on NRFA. GENERAL: Velocity area high flow station - peak flows data only on NRFA. Low flows measured d/s at 60010 (Capel Dewi). Channel width: 42m. Natural open-channel section within a straight reach of river. STATION HYDROMETRY: Channel has been stable for over a century. Levels are monitored using a telemetered shaft encoder. Left bank contains high flows, right bank allows extreme high flows to spill and bypass station. Two peak flow ratings applied across the period of record. FLOW RECORD: Only one event (October 1987) was significantly out of bank (December 1979 was only just above bankfull). Flood in 1931 thought to have been of similar magnitude to 1987. FLOW REGIME: Llyn Brianne reservoir (catchment area approx 88km) in headwaters regulates flow down to major DCWW PWS abstraction d/s of station (but u/s of 60010 Capel Dewi, also in catchment), and may be detected in hydrograph. Reservoir began to fill in March 1972 and full by December 1972. Augments low flows for HEP generation in winter.
+CATCHMENT,Predominantly impermeable, Ordovician and Silurian with Old Red Sandstone on southern boundary. Peaty soils in headwaters, seasonally wet. Lower area soils with permeable substrata, rarely wet. Alluvium in valleys. Catchment is largely grassland with hill farming in upper catchment, some livestock and dairying at lower levels. Some forest cover, significant concentration along NE margin.
+Qmed Suitability,Gauged above QMED. Ratings fit respective gaugings well from 1972 when Llyn Brianne Reservoir built.
+Pooling Suitability,Gauged to within 1% of AMAX3. Ratings fit respective gaugings well from 1972 when Llyn Brianne Reservoir built.
+[END]

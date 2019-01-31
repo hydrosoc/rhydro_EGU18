@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 33022
+[END]
+[CDS DETAILS]
+NAME,Ivel
+LOCATION,Blunham
+NOMINAL AREA,  539.63
+NOMINAL NGR,5152,2509
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,515300,250900
+CENTROID NGR,GB,515451,236782
+DTM AREA,  539.63
+ALTBAR,  73
+ASPBAR, 22
+ASPVAR,0.15
+BFIHOST,0.646
+DPLBAR, 24.57
+DPSBAR, 31.2
+FARL,0.980
+FPEXT,0.1270
+LDP, 42.96
+PROPWET,0.27
+RMED-1H, 10.6
+RMED-1D, 29.9
+RMED-2D, 36.9
+SAAR, 582
+SAAR4170, 587
+SPRHOST,30.21
+URBCONC1990, 0.670
+URBEXT1990,0.0439
+URBLOC1990, 0.943
+URBCONC2000, 0.836
+URBEXT2000,0.0530
+URBLOC2000, 0.987
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Crump profile gauging a catchment with mixed bedrock and significant artificial influences. GENERAL: Crump profile weir 7.31m wide. Drowning occurs at 0.91m (rating includes drowning correction). Pre-1966 record of poorer quality. One of 3 stations used to calculate Offord flows to determine abstraction regime at Grafham Water. STATION HYDROMETRY: Significant bypassing when stage exceeds 1.1m causing 'truncation' effect in annual maxima series. Hydrograph reflects u/s mill operation. Two ratings applied across period of record based on current meter gaugings. Gaugings suggest that rating underestimates flows. There is no correction for non modularity as spot flows suggest modular to at least 1m. No correction has been made for out of bank flow and spot flows are taken downstream of bypass. FLOW REGIME: Effluent from STW has substantial effect on low flows. Many abstractions for spray irrigation, and groundwater abstractions for PWS.
+CATCHMENT,The Ivel rises near Hitchin and flows north across Greensand, Chalk and Gault Clays to meet the Great Ouse east of Bedford. Predominantly superficial deposits, mainly Boulder Clay with some glacial sands and gravels. Predominantly agricultural, with some urban development.
+Qmed Suitability,Gauged to within 11% of QMED. Although rating deviates from highest gaugings, QMED is thought to be reasonable.
+Pooling Suitability,Few high flow gaugings. Rating can not be validated beyond QMED.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 37033
+[END]
+[CDS DETAILS]
+NAME,Eastwood Brook
+LOCATION,Eastwood
+NOMINAL AREA,    9.85
+NOMINAL NGR,5858,1888
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,585850,188850
+CENTROID NGR,GB,582810,188869
+DTM AREA,    9.85
+ALTBAR,  45
+ASPBAR, 63
+ASPVAR,0.45
+BFIHOST,0.340
+DPLBAR,  3.73
+DPSBAR, 29.6
+FARL,0.995
+FPEXT,0.0797
+LDP,  7.94
+PROPWET,0.21
+RMED-1H, 12.5
+RMED-1D, 31.4
+RMED-2D, 37.9
+SAAR, 555
+SAAR4170, 570
+SPRHOST,45.14
+URBCONC1990, 0.849
+URBEXT1990,0.3059
+URBLOC1990, 0.927
+URBCONC2000, 0.928
+URBEXT2000,0.4113
+URBLOC2000, 0.942
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Gauging full range of a very responsive, totally urbanized catchment on an industrial estate on the outskirts of Southend. GENERAL: Non-standard weir, insensitive at low flows, however, a good stepped fall, so no drowning. In 1996, replaced original weir decommissioned in April 1995 (hence missing data). New weir is a replica of previous structure, non-standard flat V weir. Telemetry was installed at the beginning of 1997. STATION HYDROMETRY: Full range station, all events within bank. Rapid response means peak levels can be missed by the 15 min telemetry readings. One rating applied across period of record. Weir not expected to drown with rating form confirmed by hydraulic modelling. FLOW RECORD: High flows on 12 and 13/09/2003 (not seen at surrounding sites) are the result of a burst water main within the catchment. FLOW REGIME: Very flashy, composed almost entirely of urban runoff. Runoff increased by effluent returns.
+CATCHMENT,Small, low-lying. Underlying geology is London Clay, some superficial deposits. Totally urbanised catchment on an industrial estate on the outskirts of Southend.
+Qmed Suitability,Although not gauged to within 30% of QMED, rating form is confirmed by hydraulic modelling and expected perform well.
+Pooling Suitability,Few high flow gaugings. Rating can not be validated beyond QMED.
+[END]

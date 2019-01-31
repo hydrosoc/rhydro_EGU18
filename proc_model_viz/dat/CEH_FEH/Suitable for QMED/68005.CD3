@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 68005
+[END]
+[CDS DETAILS]
+NAME,Weaver
+LOCATION,Audlem
+NOMINAL AREA,  201.38
+NOMINAL NGR,3652,3430
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,365250,343050
+CENTROID NGR,GB,359816,344403
+DTM AREA,  201.38
+ALTBAR,  89
+ASPBAR, 63
+ASPVAR,0.08
+BFIHOST,0.502
+DPLBAR, 14.86
+DPSBAR, 27.4
+FARL,0.950
+FPEXT,0.1593
+LDP, 29.37
+PROPWET,0.34
+RMED-1H,  9.4
+RMED-1D, 29.6
+RMED-2D, 38.6
+SAAR, 719
+SAAR4170, 756
+SPRHOST,34.29
+URBCONC1990, 0.561
+URBEXT1990,0.0052
+URBLOC1990, 0.857
+URBCONC2000, 0.740
+URBEXT2000,0.0074
+URBLOC2000, 0.890
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station with thin-plate weir draining a predominantly rural catchment on the Cheshire Plain. GENERAL: Velocity area station (from 1936) with rectangular thin-plate low flow weir with broad-crested flanking crests (from 1951). Level recording installed downstream of the weir in 1951, moved upstream of the weir in March 1969. STATION HYDROMETRY: At high flows, the weir drowns, flows spill out of right bank at approx 2.5m, and the rating is insensitive. Spot gaugings used to derive rating for low to medium flows. Some scatter in gaugings. Changes in channel maintenance are thought to have reduced capacity over the years. Two peak flow ratings applied; before and after October 1969. Cableway present. Flood Studies Report grade B. FLOW RECORD: Gauged daily flows during the period when level measurement was downstream of the weir (1951-1969) are poor, with no reliable rating. Flows from 1973 onwards reprocessed in 2002, with substantial reduction in high flows. Revised data from 1/1977 to 12/2008 loaded in 03/2010; annual runoff typically 7% lower. Peak flows data available from October 1969. FLOW REGIME: Minor groundwater abstractions and returns.
+CATCHMENT,A mostly flat catchment in the Cheshire Plain developed on post glacial deposits over keuper marl, Lias clay and sand; largely impermeable. In the extreme north-west, Triassic sandstones are exposed. The catchment is widely covered with glacial deposits of clays, sands and gravels. Land use is predominantly rural, consisting of mixed farmland with only a few villages. No catchment changes known.
+Qmed Suitability,Gauged above QMED. Good fit to gaugings.
+Pooling Suitability,Although gauged to around the highest events, there is significant scatter between events. Insensitive once out of bank.
+[END]

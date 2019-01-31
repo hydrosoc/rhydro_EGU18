@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 33017
+[END]
+[CDS DETAILS]
+NAME,Bedford Ouse
+LOCATION,St Ives
+NOMINAL AREA, 2869.50
+NOMINAL NGR,5313,2705
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,531400,270550
+CENTROID NGR,GB,496629,245482
+DTM AREA, 2869.50
+ALTBAR,  79
+ASPBAR, 65
+ASPVAR,0.08
+BFIHOST,0.467
+DPLBAR, 97.83
+DPSBAR, 28.4
+FARL,0.951
+FPEXT,0.1451
+LDP,189.40
+PROPWET,0.26
+RMED-1H, 10.9
+RMED-1D, 29.6
+RMED-2D, 37.3
+SAAR, 604
+SAAR4170, 616
+SPRHOST,40.42
+URBCONC1990, 0.651
+URBEXT1990,0.0279
+URBLOC1990, 0.844
+URBCONC2000, 0.811
+URBEXT2000,0.0387
+URBLOC2000, 0.907
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Closed station with some historic peak flow data available but heavily affected by level control. GENERAL: Broad crested weir on bypass channel. Seven sluice gates 9.5ft wide, with low flow notches on 3 gates (8ft by 1 ft), and a navigation lock. Max lift of gates is 2.44m. No GDF available, only peak flows. Now a level only site so has been closed. Little information available, no gaugings, flows discrepancy with Roxton (33039) u/s. STATION HYDROMETRY: Rating assumes sluices & lock are shut below about 5.35m and open above it, and incorporates effects out of bank flow. One rating applied across period of record. FLOW REGIME: Level controlled for navigation. Changes in sluice opening logged by lock keeper.
+CATCHMENT,Upper half of the catchment - sandstone, clays and limestones. Lower half of catchment - Oxford Clay, Boulder Clay. Chalk and Lower Greensand outcrop along south-west edge. Patches of glacial and river gravel over whole area. Predominantly impervious with significant pervious areas.
+Qmed Suitability,No gaugings to confirm rating. See rating development.
+Pooling Suitability,No gaugings to confirm rating. See rating development.
+[END]

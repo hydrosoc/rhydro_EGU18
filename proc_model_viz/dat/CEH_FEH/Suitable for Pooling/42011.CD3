@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 42011
+[END]
+[CDS DETAILS]
+NAME,Hamble
+LOCATION,Frogmill
+NOMINAL AREA,   55.25
+NOMINAL NGR,4522,1149
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,452300,114900
+CENTROID NGR,GB,456323,119172
+DTM AREA,   55.25
+ALTBAR,  77
+ASPBAR,221
+ASPVAR,0.34
+BFIHOST,0.747
+DPLBAR,  8.04
+DPSBAR, 52.2
+FARL,0.991
+FPEXT,0.0442
+LDP, 14.87
+PROPWET,0.33
+RMED-1H,  9.5
+RMED-1D, 33.7
+RMED-2D, 46.1
+SAAR, 838
+SAAR4170, 874
+SPRHOST,18.03
+URBCONC1990, 0.470
+URBEXT1990,0.0146
+URBLOC1990, 0.736
+URBCONC2000, 0.781
+URBEXT2000,0.0285
+URBLOC2000, 0.740
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Crump profile weir in flume section, subject to local bypassing during flood flows. Substantial baseflow but lower catchment is very responsive. Flows significantly reduced by groundwater abstraction for public water supply and irrigation. GENERAL: Crump profile weir, crest width 3.03m, in flume section. STATION HYDROMETRY: Channel bend upstream with sharp transition curve just above the structure; crest plate to weir; but no crest tapping. Brick walls to the structure with sheet piling beside the channel downstream; some detachment of concrete surface on downstream apron of weir. Upper stage limit 1.0m. New calibration derived (2003) - low confidence in flows > 9.6 cumecs (relatively rare). One rating applied across period of record derived from hydraulic modelling. Gauged to 0.5m with bypassing expected at 1.2m. FLOW REGIME: Flows significantly reduced by groundwater abstraction for public water supply and irrigation. Substantial baseflow but lower catchment is very responsive.
+CATCHMENT,A predominantly permeable (Chalk) catchment with some areas of Reading Beds. The upper reaches of the Hamble are ephemeral. Land use is mainly rural - significant urban development in the lower catchment.
+Qmed Suitability,Although no high flow gaugings, confidence is had in the performance of the model derived rating.
+Pooling Suitability,Although no high flow gaugings, confidence is had in the performance of the model derived rating.
+[END]

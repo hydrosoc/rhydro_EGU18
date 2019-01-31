@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 20002
+[END]
+[CDS DETAILS]
+NAME,West Peffer Burn
+LOCATION,Luffness
+NOMINAL AREA,   25.51
+NOMINAL NGR,3488,6811
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,348850,681100
+CENTROID NGR,GB,352677,680122
+DTM AREA,   25.51
+ALTBAR,  32
+ASPBAR,322
+ASPVAR,0.17
+BFIHOST,0.470
+DPLBAR,  5.70
+DPSBAR, 30.9
+FARL,0.995
+FPEXT,0.1269
+LDP, 10.01
+PROPWET,0.33
+RMED-1H,  8.2
+RMED-1D, 33.1
+RMED-2D, 42.8
+SAAR, 616
+SAAR4170, 643
+SPRHOST,31.99
+URBCONC1990,-9999.000
+URBEXT1990,0.0000
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0024
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Trapezoidal flume and Crump profile weir on West Peffer Burn. GENERAL: The station originally consisted of a large-size GRP trapezoidal flume only. Since 15/09/1967 flows have been measured by a trapezoidal flume and Crump profile weir (crump crest at 0.445m above flume invert) in parallel. The section is within steep banks on a straight reach of a small ditch with low gradient (no cableway). STATION HYDROMETRY: Low flows are severely reduced by both groundwater and surface water abstraction for spray irrigation during dry summers. Pre-1968: theoretical rating or stages up to 0.914m; high flow calibration is not reliable. From 1968: theoretical rating, confirmed by gaugings. Modular probably to 0.757m - then kink point in rating curve. Bankfull around 2.2m. FLOW REGIME: Channel is known to be dammed upstream which can affect the flows.
+CATCHMENT,Lowland catchment draining flat arable land. An impervious catchment with an extensive Boulder Clay cover. Agricultural drainage has possibly changed and improved over period of record.
+Qmed Suitability,No comment
+Pooling Suitability,No comment
+[END]

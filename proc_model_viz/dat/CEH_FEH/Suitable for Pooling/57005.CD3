@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 57005
+[END]
+[CDS DETAILS]
+NAME,Taff
+LOCATION,Pontypridd
+NOMINAL AREA,  451.69
+NOMINAL NGR,3079,1897
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,307950,189700
+CENTROID NGR,GB,301955,203106
+DTM AREA,  451.69
+ALTBAR, 320
+ASPBAR,156
+ASPVAR,0.14
+BFIHOST,0.409
+DPLBAR, 22.67
+DPSBAR,163.6
+FARL,0.949
+FPEXT,0.0383
+LDP, 45.92
+PROPWET,0.50
+RMED-1H, 12.7
+RMED-1D, 63.6
+RMED-2D, 84.7
+SAAR,1833
+SAAR4170,1845
+SPRHOST,43.27
+URBCONC1990, 0.642
+URBEXT1990,0.0405
+URBLOC1990, 0.741
+URBCONC2000, 0.754
+URBEXT2000,0.0600
+URBLOC2000, 0.734
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Non-standard flat V weir. Velocity area station for high flows. Flow regime influenced by reservoirs and returns. GENERAL: Non-standard flat V weir. Velocity area station for high flows. STATION HYDROMETRY: Weir width: 32m; cross-slope 1:20 u/s and d/s. Top of rb bank is playing field, lb much higher and is former railway bank. Full range and flows contained within the section. High flow gaugings taken using ADVP to around 3m. Two peak flow ratings applied across period of record. Provides good fit to available gaugings. Runoff at low flows influenced by groundwater abstraction/recharge and abstraction for industry/agriculture. Increased by effluent returns and minewater discharges. FLOW RECORD: Weir refurbished Sept-Nov 1996; these data have been estimated. FLOW REGIME: Series of six PWS impounding reservoirs in the upper catchment (Taf Fawr and Taf Fechan) affects runoff.
+CATCHMENT,Coal Measures, some Boulder Clay cover and alluvial deposits in valleys. Mainly upland area with peaty soils on hills, seasonally wet. Catchment is largely grassland with livestock farming on hills, heathland at highest elevations and some forest cover. Extensive urban and industrial development in valleys.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged beyond AMAX3. Confident in the rating beyond QMED.
+[END]

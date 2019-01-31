@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 65004
+[END]
+[CDS DETAILS]
+NAME,Gwyrfai
+LOCATION,Bontnewydd
+NOMINAL AREA,   46.11
+NOMINAL NGR,2483,3598
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,248400,359900
+CENTROID NGR,GB,255041,356469
+DTM AREA,   46.11
+ALTBAR, 295
+ASPBAR,267
+ASPVAR,0.28
+BFIHOST,0.412
+DPLBAR, 10.66
+DPSBAR,214.1
+FARL,0.862
+FPEXT,0.0654
+LDP, 18.68
+PROPWET,0.54
+RMED-1H, 11.7
+RMED-1D, 62.9
+RMED-2D, 81.1
+SAAR,2154
+SAAR4170,2405
+SPRHOST,45.18
+URBCONC1990,-9999.000
+URBEXT1990,0.0010
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0024
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Non-standard shallow V Crump weir. Significant PWS abstraction from Llyn Cwellyn reservoir u/s. GENERAL: A 10.37m wide non-standard shallow V Crump weir, rebuilt in late 2009 after original standard Crump weir was damaged in 2004. Data currently only available up to 2005. STATION HYDROMETRY: Weir has 1:2 upstream slope and 1:20 downstream slope, which consists of a rocky ramp split by oak beams and shallow pools for improved fish passage (p value of weir crest remained unchanged after rebuild). Contains flows to high levels. Weir thought to remain modular, although no downstream level recorder so modular limit unknown. Cableway installed in 2009 for high flow gauging. Check gauging suggests some (constant) loss due to inadequate cut-offs, hence low flows affected. Two peak flow ratings applied across period of record. FLOW RECORD: No data since 2005 due to a structural failure of the weir; has now been rebuilt. 2004-05 data suspect, particularly at low flows as uncertainty surrounding date of weir failure. Awaiting new rating. FLOW REGIME: Significant PWS abstraction from Llyn Cwellyn reservoir u/s.
+CATCHMENT,A steep and typically Snowdonian upland catchment. Impermeable Lower Palaeozoic and volcanics. Mostly grassland (rough moorland), small mount of forest cover.
+Qmed Suitability,Gauged to within 18% of QMED. Weir remains modular up to QMED.
+Pooling Suitability,Wing walls contain very high flows but there are few high flow gaugings.
+[END]

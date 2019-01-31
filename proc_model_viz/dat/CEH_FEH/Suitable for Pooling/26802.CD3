@@ -1,0 +1,49 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 26802
+[END]
+[CDS DETAILS]
+NAME,Gypsey Race
+LOCATION,Kirby Grindalythe
+NOMINAL AREA,   15.85
+NOMINAL NGR,4904,4675
+[END]
+[DESCRIPTORS]
+CENTROID NGR,GB,488328,466463
+DTM AREA,   15.85
+ALTBAR, 154
+ASPBAR, 10
+ASPVAR,0.19
+BFIHOST,0.959
+DPLBAR,  3.85
+DPSBAR, 57.2
+FARL,1.000
+FPEXT,0.0305
+LDP,  7.33
+PROPWET,0.32
+RMED-1H, 11.0
+RMED-1D, 33.9
+RMED-2D, 42.4
+SAAR, 757
+SAAR4170, 793
+SPRHOST, 5.67
+URBCONC1990, 0.003
+URBEXT1990,0.0028
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0000
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Rectangular thin-plate weir. Regime dominated by groundwater. GENERAL: Small, rectangular thin-plate, sharp-edged weir around 5.1 km downstream of the spring source. Approach to station can be subject to siltation. Built in the 1970's, station fell into disrepair but was re-commissioned in 1998. STATION HYDROMETRY: There is no need for a cableway since the Gypsey Race can be gauged by hand at all flows. Theoretically based peak flow rating, checked by current meter gauging (waded), applied throughout. FLOW RECORD: Water levels occasionally subject to unexplained fluctuations or spikes (possibly due to children interfering with the weir). FLOW REGIME: Hydrological response dominated by groundwater. No known artificial influences.
+CATCHMENT,A predominantly rural catchment draining the Yorkshire Wolds. Geology is Chalk with overlying alluvium and gravel in the valley bottoms. The topographical catchment may not match with the groundwater catchment. No known catchment changes.
+Qmed Suitability,Gauged to within 6% of QMED.
+Pooling Suitability,Gauged to within 22% of AMAX3.
+[END]

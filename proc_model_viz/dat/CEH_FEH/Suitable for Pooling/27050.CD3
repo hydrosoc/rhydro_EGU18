@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 27050
+[END]
+[CDS DETAILS]
+NAME,Esk
+LOCATION,Sleights
+NOMINAL AREA,  298.49
+NOMINAL NGR,4865,5081
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,486600,508150
+CENTROID NGR,GB,474834,504358
+DTM AREA,  298.49
+ALTBAR, 225
+ASPBAR, 68
+ASPVAR,0.08
+BFIHOST,0.349
+DPLBAR, 25.39
+DPSBAR,110.3
+FARL,1.000
+FPEXT,0.0239
+LDP, 45.81
+PROPWET,0.40
+RMED-1H, 10.5
+RMED-1D, 36.1
+RMED-2D, 47.2
+SAAR, 881
+SAAR4170, 905
+SPRHOST,48.72
+URBCONC1990,-9999.000
+URBEXT1990,0.0017
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0030
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station with broad-crested masonry weir. Fish pass on left bank contains low flows. GENERAL: Velocity area station with broad-crested masonry weir control (25m wide) with a crest 1m long at 5.59mAOD. Fish-pass on left bank (11.73m wide and 0.71m lower) installed 1993. Superseded by new Ultrasonic station at Briggswath (27092) 500m d/s in 1998. Good overlap between the two records, although the ultrasonic gauge was unreliable to start with. Station closed January 1998. STATION HYDROMETRY: Low flows are contained in the fish pass. Daily flow current meter rating developed 1989. One rating applied to period of record, upper limb modified based on gaugings from 27092 during period of record, with allowance for tributary inflow between the two locations. High flows now considered much more reliable. Flood Studies Report grade B. FLOW RECORD: Flow records 1970-1976 based on formula only and may be inaccurate. Highest flood peak on NRFA is in March 1979; the Hiflows-Uk database lists a peak before the start of the NRFA record, in November 1967, at 944 cumecs. This may have been the period-of-record maximum but is likely to have been overestimated. Most recent rating caused flows to be reduced above 1m stage - period of record reprocessed in 2016. FLOW REGIME: Sensibly natural flow regime - no known artificial influences.
+CATCHMENT,Catchment draining the North York Moors to the North Sea at Whitby. Permeable headwaters thence mainly Middle Oolite and Middle Lias; the Whinstone Dyke of basalt crosses the catchment from WNW to ESE, and there is extensive glacial Drift cover.
+Qmed Suitability,Gauged up to QMED by correlation with Briggswath during period of overlap
+Pooling Suitability,Only gauged up to QMED but higher peaks correlate well with measured flows at Briggswath during period of overlap, within +/- 20%
+[END]

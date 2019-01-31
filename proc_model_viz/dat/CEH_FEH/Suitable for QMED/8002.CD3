@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+  8002
+[END]
+[CDS DETAILS]
+NAME,Spey
+LOCATION,Kinrara
+NOMINAL AREA, 1008.91
+NOMINAL NGR,2880,8082
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,288100,808200
+CENTROID NGR,GB,270711,793742
+DTM AREA, 1008.91
+ALTBAR, 534
+ASPBAR, 10
+ASPVAR,0.02
+BFIHOST,0.452
+DPLBAR, 37.07
+DPSBAR,175.2
+FARL,0.927
+FPEXT,0.0565
+LDP, 70.83
+PROPWET,0.71
+RMED-1H,  9.6
+RMED-1D, 36.5
+RMED-2D, 52.6
+SAAR,1316
+SAAR4170,1340
+SPRHOST,49.67
+URBCONC1990,-9999.000
+URBEXT1990,0.0003
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0006
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station with headwaters in the Cairngorms. Part of the catchment controlled for HEP. GENERAL: Velocity area station about 50m wide. Station is 5km d/s of confluence with the River Feshie. STATION HYDROMETRY: Natural control. Cableway rated to bankfull. Well inlet pipes fractured in early 1980s (giving some data problems), re-laid March 1987. Mobile control which moved significantly upstream after the 1990 spate, resulting in a different peak flow rating. Peak flow ratings from current meter gaugings with simple extrapolation beyond. Bypassing of station over flood plain when stage exceeds 2.1m. Rating revised in 2016. FLOW RECORD: Flow of 232 cumecs gauged in both 1962 and 2006. Full period of record peak flow data reviewed and released in April 2017 (WINFAP Files v5). FLOW REGIME: 380 sq km developed for hydro-power with diversions and storage; substantial net export. Reservoirs for hydropower: Spey Dam (1944), Loch an T-Seilich (1941) and Cuaich (1961).
+CATCHMENT,Mountainous headwaters, often snowy in winter. Bedrock predominantly Moinian metamorphic and granites; impermeable with approx. two thirds covered by superficial deposits. High mountain and moorland, some forestry and valley grazing. Notable floodplains. Cuaich hydropower reservoir was constructed in 1961 which controls <5% of catchment.
+Qmed Suitability,Gauged above QMED
+Pooling Suitability,Bypassing of station over flood plain when stage exceeds 2.1m
+[END]

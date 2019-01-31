@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 93001
+[END]
+[CDS DETAILS]
+NAME,Carron
+LOCATION,New Kelso
+NOMINAL AREA,  139.21
+NOMINAL NGR,1941,8428
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,194200,842900
+CENTROID NGR,GB,202127,848737
+DTM AREA,  139.21
+ALTBAR, 356
+ASPBAR,200
+ASPVAR,0.02
+BFIHOST,0.406
+DPLBAR, 15.08
+DPSBAR,291.6
+FARL,0.858
+FPEXT,0.0479
+LDP, 27.81
+PROPWET,0.83
+RMED-1H, 10.7
+RMED-1D, 63.6
+RMED-2D, 89.5
+SAAR,2616
+SAAR4170,2502
+SPRHOST,49.12
+URBCONC1990,-9999.000
+URBEXT1990,0.0001
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0000
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station, 70% of catchment drains through Lochs Dughaill and Scaven. GENERAL: Velocity area station, 40m wide with floodbank on right bank. STATION HYDROMETRY: Unstable gravel control requires regular calibration of low flow range. Any bypassing in extreme floods will be over 30m wide floodplain on left bank. Adequately gauged to bankfull. To date all flows contained. Ratings derived from current meter gaugings up to 120 cumecs (about 0.6QMED), simple extrapolation beyond. Peak flow rating was revised in 2003 a new single rating for peak flows only was judged to be suitable for whole period of record. FLOW REGIME: Flows are 100% natural. 70% of catchment drains through Lochs Dughaill and Sgamhain with little additional surface storage. One of the wetter Highland catchments currently gauged.
+CATCHMENT,Mountainous headwaters, often snowy in winter. Impermeable bedrock catchment with little superficial deposits. Typical mix of rough grazing and moorland; some forestry and lochs. Increased forestry over last 15 years.
+Qmed Suitability,No comment
+Pooling Suitability,No comment
+[END]

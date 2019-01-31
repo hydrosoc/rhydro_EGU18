@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 40018
+[END]
+[CDS DETAILS]
+NAME,Darent
+LOCATION,Lullingstone
+NOMINAL AREA,  122.24
+NOMINAL NGR,5530,1642
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,553050,164250
+CENTROID NGR,GB,550481,156657
+DTM AREA,  122.24
+ALTBAR, 129
+ASPBAR, 45
+ASPVAR,0.10
+BFIHOST,0.814
+DPLBAR, 13.66
+DPSBAR, 73.3
+FARL,0.906
+FPEXT,0.0436
+LDP, 23.69
+PROPWET,0.32
+RMED-1H, 11.7
+RMED-1D, 34.3
+RMED-2D, 46.4
+SAAR, 762
+SAAR4170, 770
+SPRHOST,17.12
+URBCONC1990, 0.592
+URBEXT1990,0.0352
+URBLOC1990, 0.906
+URBCONC2000, 0.819
+URBEXT2000,0.0651
+URBLOC2000, 0.915
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Three bay, non-standard broad-crested weir at the outfall of an ornamental lake in the grounds of Lullingstone Castle. GENERAL: Three bay, non-standard broad-crested weir, each bay approx. 3-4m wide, total crest width 11m. Channel bends downstream of structure. STATION HYDROMETRY: Inlet approx. 300m across lake (hence stage range is limited). Substantial fall downstream hence always modular. Relatively insensitive, stop boards fitted in past (1965-68) to confine flow to one bay and increase low flow sensitivity. Pressure transducer for flood telemetry. Reasonable flow figures but Otford is a more reliable site for gauging the River Darent. Wind fetch and storage at Lullingstone Lake possibly affect levels. Two peak flow ratings applied across period of record. FLOW RECORD: 1968 flood greatly exceeded subsequent maxima. Significant period of missing data from Feb - Nov 2009 attributed to re-design and re-build of gauging station.Recorder lost during 1968 floods and no estimate made, flow would have been of same order as at Otford (approx. 23 m3/s). Stop boards present Sept 1965 - Jul 1968; no account of stop boards taken by rating, therefore data prior to 1968 is regarded as of poorer quality. FLOW REGIME: Baseflow-dominated regime.Baseflows were previously greatly diminished by major groundwater abstractions but augmentation scheme now operates (Lullingstone augmentation borehole upstream). Some channel losses also where the Darent is influent downstream of Lullingstone. Stage range is limited by the storage capacity of Lullingstone Lake.Sewage outflows from Sevenoaks now piped direct to Dartford.sewage outflows from Sevenoaks now piped direct to Dartford.
+CATCHMENT,Catchment is predominantly pervious (Chalk). Mixed land use: agricultural with woodland plus expanding urban centres in the headwaters (including Sevenoaks). Some water meadows upstream (e.g. at Shoreham).
+Qmed Suitability,Although not gauged to within 30% of QMED, theoretical rating expected to perform well to QMED.
+Pooling Suitability,No high flow gaugings. Theoretical rating applied above bankfull.
+[END]

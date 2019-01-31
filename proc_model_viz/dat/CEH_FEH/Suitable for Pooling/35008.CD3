@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 35008
+[END]
+[CDS DETAILS]
+NAME,Gipping
+LOCATION,Stowmarket
+NOMINAL AREA,  125.85
+NOMINAL NGR,6057,2579
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,605750,257900
+CENTROID NGR,GB,601906,259647
+DTM AREA,  125.85
+ALTBAR,  63
+ASPBAR, 67
+ASPVAR,0.16
+BFIHOST,0.402
+DPLBAR,  8.90
+DPSBAR, 24.6
+FARL,0.996
+FPEXT,0.0987
+LDP, 17.83
+PROPWET,0.28
+RMED-1H, 10.5
+RMED-1D, 26.7
+RMED-2D, 34.0
+SAAR, 577
+SAAR4170, 606
+SPRHOST,43.41
+URBCONC1990, 0.624
+URBEXT1990,0.0197
+URBLOC1990, 0.473
+URBCONC2000, 0.800
+URBEXT2000,0.0283
+URBLOC2000, 0.486
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Structure able to contain all flows, gauging a flashy rural catchment with some artificial influences. GENERAL: Compound Crump weir rebuilt in 1966 from a compound broad-crested weir. STATION HYDROMETRY: All flows contained. One rating applied across period of record. FLOW REGIME: Gw-influenced regime. Industrial/agricultural abstractions broadly balance with effluent returns. High flows have been significantly affected by flood relief scheme since the late 1980s.
+CATCHMENT,Minimal natural storage within the catchment, flashy response. Predominantly clay and Chalk largely overlain with Boulder Clay with valley sand and gravel. Rural, mainly arable land, some urban development just u/s of station.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged to within 17% of AMAX3.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 66004
+[END]
+[CDS DETAILS]
+NAME,Wheeler
+LOCATION,Bodfari
+NOMINAL AREA,   62.91
+NOMINAL NGR,3105,3713
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,310500,371350
+CENTROID NGR,GB,315143,371478
+DTM AREA,   62.91
+ALTBAR, 207
+ASPBAR,243
+ASPVAR,0.09
+BFIHOST,0.696
+DPLBAR,  7.84
+DPSBAR,108.7
+FARL,0.975
+FPEXT,0.0280
+LDP, 14.22
+PROPWET,0.38
+RMED-1H, 10.1
+RMED-1D, 33.3
+RMED-2D, 44.1
+SAAR, 863
+SAAR4170, 852
+SPRHOST,25.19
+URBCONC1990,-9999.000
+URBEXT1990,0.0022
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0036
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Single-level Crump weir. Originally a temporary timber weir. Natural flow regime. Low flow station only. GENERAL: Single-level Crump weir. Weir 3.034m wide, between vertical sidewalls with eel pass. Immediately d/s of rectangular channel beneath disused railway bridge. Originally a temporary timber weir between Sept 1967 and Sept 1969. Effective as low flow station only. STATION HYDROMETRY: Limited seasonal weed growth. Gravel accretion occurs u/s of weir, cleared regularly. Station bypassed at high flows due to bend u/s of bridge (for example, during the 2000 flood event). Bridge u/s causes some surcharging and is obstructed at high flows; flow data above 3.95 m3/s are highly suspect and should not be used. Station refitted in June 1997; hut re-built and bridge installed, but weir untouched (no rating change). Two peak ratings applied across period of record, the most recent is valid from January 1974. Well gauged to QMED with good fit to rating. Out of bank flow not considered in the current rating. FLOW REGIME: Natural to within 10% at Q95.
+CATCHMENT,Moderate permeability carboniferous limestone to N of river; impermeable Silurian to S. Extensive cover of patchy sand and gravel deposits and Boulder Clay. Mainly grassland, some forest.
+Qmed Suitability,Gauged to within 6% of QMED, Good fit to gaugings.
+Pooling Suitability,Few high flow gaugings. Bypassing and non-modular flow not considered in current rating.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+203046
+[END]
+[CDS DETAILS]
+NAME,Rathmore Burn
+LOCATION,Rathmore Bridge
+NOMINAL AREA,   22.50
+NOMINAL NGR,3197,3853
+[END]
+[DESCRIPTORS]
+IHDTM NGR,Ireland,319750,385400
+CENTROID NGR,Ireland,319308,389738
+DTM AREA,   22.50
+ALTBAR, 150
+ASPBAR,197
+ASPVAR,0.45
+BFIHOST,0.429
+DPLBAR,  6.41
+DPSBAR, 57.9
+FARL,1.000
+FPEXT,0.0723
+LDP, 11.12
+PROPWET,0.52
+RMED-1H, 10.2
+RMED-1D, 35.0
+RMED-2D, 45.3
+SAAR,1043
+SAAR4170,1065
+SPRHOST,36.88
+URBCONC1990,-0.002
+URBEXT1990,0.0000
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0000
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station gauging a predominantly rural catchment. GENERAL: Velocity area station. STATION HYDROMETRY: The rating is derived from current meter gaugings carried out from wooden bridge. Simple extrapolation occurs beyond 2.28m (highest gauged level). More high flow gaugings would be useful, as there are no gaugings above QMED. FLOW RECORD: Daily flows for full period of record reprocessed in 2002. Late December 2010 flows considered suspect due to likely freezing in stilling well. FLOW REGIME: Lake Dunadry and minor abstractions upstream.
+CATCHMENT,Solid geology - the area is underlain predominantly by Palaeogene basalt and rhyolite lava flows. Drift geology - extensive glacial till with an area of lacustrine clay. Limited rock near surface and post-glacial peat cover on high ground with restricted development of river alluvium in valleys. Predominantly improved grassland, but rock outcrops also; some horticulture (mainly potatoes). No significant urban centres.
+Qmed Suitability,Gaugings agree well with rating at lower flows. Athough does not meet numerical criteria, QMED estimates are likely to be reasonable.
+Pooling Suitability,Measuring authority consider extrapolation of rating at high flows valid, as very minimal floodplain flow.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 42005
+[END]
+[CDS DETAILS]
+NAME,Wallop Brook
+LOCATION,Broughton
+NOMINAL AREA,   53.46
+NOMINAL NGR,4311,1330
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,431100,133000
+CENTROID NGR,GB,428889,137034
+DTM AREA,   53.46
+ALTBAR,  87
+ASPBAR,132
+ASPVAR,0.22
+BFIHOST,0.955
+DPLBAR,  6.88
+DPSBAR, 42.6
+FARL,1.000
+FPEXT,0.0537
+LDP, 12.29
+PROPWET,0.34
+RMED-1H, 10.6
+RMED-1D, 32.8
+RMED-2D, 43.9
+SAAR, 770
+SAAR4170, 801
+SPRHOST, 6.02
+URBCONC1990, 0.338
+URBEXT1990,0.0056
+URBLOC1990, 0.674
+URBCONC2000, 0.611
+URBEXT2000,0.0085
+URBLOC2000, 0.879
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Rectangular thin plate weir draining an entirely pervious Chalk catchment. Runoff is influenced by groundwater abstraction/recharge. GENERAL: Rectangular thin plate weir without end contractions. Station closed for peak flows in July 2012. STATION HYDROMETRY: Wide chalk stream with bypassing at very high groundwater levels, but generally a good flow range. Crest length previously thought to be 4.87m, but confirmed as 6.009m in early 2002. Downstream weed growth can raise tailwater levels. Upper limit of the weir 0.3m, maximum flow measurable 1.812 cumecs. Bypassing occurs at exceptionally high flows. Upper limit of the chart recorder has been exceeded on two occasions (late 1960 floods). Single rating applied across period of record. Few gaugings exist but confirm rating to 0.13m. Flood Studies Report grade B. FLOW RECORD: All flows recalculated following confirmation of crest length (2002). Flows estimated during late 1960 floods (when chart recorder limit exceeded). Sporadic missing data 1992 - 1997 due to recording problems. Site has a long record; some data 1955 to present, digital data 1986 to present. Data infilled from Bossington from 01/01/07 to 02/01/08. FLOW REGIME: Runoff influenced by groundwater abstraction/recharge - PWS borehole 1km upstream. Some spray irrigation has a minor impact.
+CATCHMENT,The Wallop Brook drains a completely pervious catchment composed entirely of Upper Chalk with very little cover of clay-with-flint. Topographical catchment exceeds the groundwater catchment, which may be only 36 sq km. Typical open downland of a rural character, the 'Wallops' are the only significant settlements. Increasing urbanisation within the catchment.
+Qmed Suitability,Rating expected to perform well to QMED.
+Pooling Suitability,Few high flow gaugings. Rating can not be validated beyond QMED.
+[END]

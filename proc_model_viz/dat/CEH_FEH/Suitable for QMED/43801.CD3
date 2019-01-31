@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 43801
+[END]
+[CDS DETAILS]
+NAME,Chitterne Brook
+LOCATION,Codford
+NOMINAL AREA,   68.00
+NOMINAL NGR,3970,1401
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,397050,140150
+CENTROID NGR,GB,396071,147185
+DTM AREA,   68.00
+ALTBAR, 158
+ASPBAR,134
+ASPVAR,0.18
+BFIHOST,0.974
+DPLBAR, 12.60
+DPSBAR, 70.9
+FARL,1.000
+FPEXT,0.0246
+LDP, 21.79
+PROPWET,0.35
+RMED-1H, 10.9
+RMED-1D, 32.5
+RMED-2D, 45.1
+SAAR, 807
+SAAR4170, 818
+SPRHOST, 4.35
+URBCONC1990,-9999.000
+URBEXT1990,0.0016
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0008
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Crump weir with single concrete crest and brick walls and footbridge over structure. GENERAL: Crump weir with single concrete crest and brick walls, 3.0m wide, with a footbridge over the structure. STATION HYDROMETRY: Bypassing is not significant. Weir seen to be drowned at 0.44m. Two peak flow ratings applied across the period of record. FLOW REGIME: Subject to stream support as part of an EA/Water Company operating agreement.
+CATCHMENT,The catchment area consists of Upper Cretaceous (Upper and Middle Chalk), valley gravel and alluvium. No major urbanisation in the catchment. Land use rural and agricultural.
+Qmed Suitability,Theoretical rating expected to perform well to QMED.
+Pooling Suitability,Theoretical rating does not account for drowned flows.
+[END]

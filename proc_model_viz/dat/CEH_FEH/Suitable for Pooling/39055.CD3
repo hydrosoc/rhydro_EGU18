@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 39055
+[END]
+[CDS DETAILS]
+NAME,Yeading Brook West
+LOCATION,North Hillingdon
+NOMINAL AREA,    1.31
+NOMINAL NGR,5083,1846
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,508350,184600
+CENTROID NGR,GB,508229,185737
+DTM AREA,    1.31
+ALTBAR,  39
+ASPBAR,155
+ASPVAR,0.61
+BFIHOST,0.174
+DPLBAR,  1.43
+DPSBAR,  7.1
+FARL,1.000
+FPEXT,0.3855
+LDP,  3.31
+PROPWET,0.29
+RMED-1H, 11.1
+RMED-1D, 32.3
+RMED-2D, 40.5
+SAAR, 638
+SAAR4170, 654
+SPRHOST,50.45
+URBCONC1990, 0.699
+URBEXT1990,0.1622
+URBLOC1990, 1.162
+URBCONC2000, 0.827
+URBEXT2000,0.2929
+URBLOC2000, 1.286
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Gauging station located on Yeading Brook West, a small tributary of the River Crane. The station was closed in 1995. GENERAL: Flat V weir (width: 5.02m, 1:20 cross-slope) u/s of culvert below the Western Avenue. Station demolished 1995. STATION HYDROMETRY: Limited depth of approach - structure drowns readily at low discharges (0.28 cumecs) but there is a satisfactory gauged rating. Control passes to the culvert d/s of the station. Since 1983 some bypassing has occurred via a feeder ditch. One rating applied across period of record. Capable of providing good quality data but persistant problems with the correct zero setting of the stage recorders in the 1970s. FLOW RECORD: Flow data recorded during 1995 was very unreliable and as verifying the GDF record was difficult the POR within the NRFA ceases at the end of July 1994. FLOW REGIME: Additional floodplain storage (provided as part of 1983 river improvement scheme) increased lag times.
+CATCHMENT,Impervious, suburban catchment in NW London, including some of the runoff from Northolt Airport. Some agricultural land immediately u/s of the station.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged beyond AMAX3. One gauging at AMAX1 and good fit of rating curve.
+[END]

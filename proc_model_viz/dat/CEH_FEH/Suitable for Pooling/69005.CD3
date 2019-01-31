@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 69005
+[END]
+[CDS DETAILS]
+NAME,Glaze Brook
+LOCATION,Little Woolden Hall
+NOMINAL AREA,  160.15
+NOMINAL NGR,3684,3938
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,368500,393900
+CENTROID NGR,GB,366480,401208
+DTM AREA,  160.15
+ALTBAR,  50
+ASPBAR,178
+ASPVAR,0.27
+BFIHOST,0.390
+DPLBAR, 13.03
+DPSBAR, 20.4
+FARL,0.927
+FPEXT,0.2610
+LDP, 29.07
+PROPWET,0.41
+RMED-1H, 11.5
+RMED-1D, 33.5
+RMED-2D, 46.6
+SAAR, 965
+SAAR4170, 953
+SPRHOST,37.91
+URBCONC1990, 0.767
+URBEXT1990,0.1114
+URBLOC1990, 1.034
+URBCONC2000, 0.863
+URBEXT2000,0.1479
+URBLOC2000, 1.051
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Ultrasonic station gauging a low relief catchment in south Wigan. Replaced velocity area station in 1995. GENERAL: Twin-path ultrasonic gauge installed in 1995 which replaced a velocity area station. Station used for flood warning. Station was operated level-only from 1983. STATION HYDROMETRY: No stable rating due to the effects of weed growth.No bypassing reported. FLOW RECORD: Some gaps in record, particularly in early years. Velocity area record unreliable as very badly affected by weed growth throughout the year and suffered backwater effects from the Ship Canal. AMAX and POT data are entirely from ultrasonic gauge (Februrary 1996 onwards). Some gaps in ultrasonic record 2004-2006. FLOW REGIME: Catchment contains Pennington Flash and other smaller flashes. Bedford Park Storage Basin in upper reach - part of flood control scheme.
+CATCHMENT,Low relief catchment with headwaters in South Wigan with three major flashes (instream lakes created from mining subsidence). No catchment changes known. Solid geology: Coal Measures in the headwaters, otherwise Sherwood Sandstone with some Marl. Extensively draped with Boulder Clay, some peat and glacial gravels south of Leigh. Many urban centres, much effluent, motorway drainage and potential mine drainage pollution. Much of the catchment is relatively flat agricultural land. Some tributaries extend into mining and industrial areas.
+Qmed Suitability,Since ultrasonic installed
+Pooling Suitability,Since ultrasonic installed
+[END]

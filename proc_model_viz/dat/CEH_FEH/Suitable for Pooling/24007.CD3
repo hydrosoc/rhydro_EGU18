@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 24007
+[END]
+[CDS DETAILS]
+NAME,Browney
+LOCATION,Lanchester
+NOMINAL AREA,   44.67
+NOMINAL NGR,4165,5462
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,416500,546200
+CENTROID NGR,GB,411174,544146
+DTM AREA,   44.67
+ALTBAR, 252
+ASPBAR, 74
+ASPVAR,0.37
+BFIHOST,0.333
+DPLBAR,  8.72
+DPSBAR, 75.4
+FARL,1.000
+FPEXT,0.0148
+LDP, 15.29
+PROPWET,0.59
+RMED-1H, 10.1
+RMED-1D, 34.8
+RMED-2D, 44.8
+SAAR, 797
+SAAR4170, 797
+SPRHOST,40.49
+URBCONC1990,-9999.000
+URBEXT1990,0.0014
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0009
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Compound Crump weir in a rural catchment. Station closed in 1983. GENERAL: Compound Crump weir (10m wide, low crest 2m wide) with crest tapping. Discontinued 1983; re-opened May 2002 as a level-only site but not maintainged as a flow site and badly affected by silt (therefore no confidence in rating). STATION HYDROMETRY: No bypassing. One peak flow rating applied across period of record checked to moderate level by current meter gauging. Flood Studies Report grade A2. FLOW REGIME: Hydrographs are prominently peaked and often have multiple peaks. No known artificial influences.
+CATCHMENT,A rural catchment. No known catchment changes.
+Qmed Suitability,Not gauged to within 30% of QMED but station is a formal structure that does not drown and contains almost all flows.
+Pooling Suitability,Formal structure that contains all flows. Drowning unlikely but not impossible.
+[END]

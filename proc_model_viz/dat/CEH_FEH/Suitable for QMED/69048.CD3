@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 69048
+[END]
+[CDS DETAILS]
+NAME,Tame
+LOCATION,Uppermill
+NOMINAL AREA,   40.60
+NOMINAL NGR,3994,4051
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,399500,405100
+CENTROID NGR,GB,399677,408701
+DTM AREA,   40.60
+ALTBAR, 317
+ASPBAR,240
+ASPVAR,0.19
+BFIHOST,0.388
+DPLBAR,  6.84
+DPSBAR,145.9
+FARL,0.906
+FPEXT,0.0362
+LDP, 15.07
+PROPWET,0.57
+RMED-1H, 11.8
+RMED-1D, 48.0
+RMED-2D, 62.7
+SAAR,1359
+SAAR4170,1318
+SPRHOST,43.30
+URBCONC1990, 0.467
+URBEXT1990,0.0103
+URBLOC1990, 0.537
+URBCONC2000, 0.603
+URBEXT2000,0.0227
+URBLOC2000, 0.606
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Non-standard weir draining catchment consisting of Millstone Grit and Coal Measures. GENERAL: Station opened in July 1968 on an existing non-standard weir with a low, sharp metalwork crest and gradual downstream stone slope. Used for abstraction licence management and flood warning. STATION HYDROMETRY: Station has a stilling well with shaft encoder. Higher flows may spill onto a sports field on the left bank. Gaugings were not initiated until 2002. Peak flow rating derived using low flow current meter gaugings and high flow ADCP gaugings with modelled top end. FLOW REGIME: Several abstractions and discharges, the main influence being from the reservoirs - Castleshaw (Upper and Lower) and the Denshaw Valley system.
+CATCHMENT,Geology of Millstone Grit and Coal Measures with peat cover on high moors. Steeper valley sides drift free, otherwise mixed glacial drift cover. No catchment changes known.
+Qmed Suitability,Gauged to nearly LMED, which is inbank. More high-flow gaugings needed.
+Pooling Suitability,Highest events out of bank, with associated uncertainty in flows, so unlikely to ever be OK for pooling.
+[END]

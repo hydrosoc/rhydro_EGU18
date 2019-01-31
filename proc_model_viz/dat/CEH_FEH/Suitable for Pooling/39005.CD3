@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 39005
+[END]
+[CDS DETAILS]
+NAME,Beverley Brook
+LOCATION,Wimbledon Common
+NOMINAL AREA,   39.49
+NOMINAL NGR,5216,1717
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,521650,171750
+CENTROID NGR,GB,523783,166739
+DTM AREA,   39.49
+ALTBAR,  41
+ASPBAR,346
+ASPVAR,0.32
+BFIHOST,0.476
+DPLBAR,  7.12
+DPSBAR, 26.6
+FARL,0.994
+FPEXT,0.1379
+LDP, 16.12
+PROPWET,0.29
+RMED-1H, 10.4
+RMED-1D, 33.3
+RMED-2D, 39.9
+SAAR, 630
+SAAR4170, 633
+SPRHOST,33.97
+URBCONC1990, 0.872
+URBEXT1990,0.3781
+URBLOC1990, 1.017
+URBCONC2000, 0.927
+URBEXT2000,0.4992
+URBLOC2000, 1.044
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Trapezoidal flume with patchy record before 1983. GENERAL: Trapezoidal flume from November 1939, with nominal capacity 26.7m/3s but no standing-wave formed until invert raised in 1961. Overall channel width: 10m. Original station built 1935 as a flume: details unknown, but thought to have had maximum capacity of around 6.2m3/s. STATION HYDROMETRY: Capacities of u/s and d/s culverts can influence flood flows. One peak flow rating applied across period of record. Gaugings confirm rating to ~1.7m with some scatter evident. Highest gauging c0.7 QMED. Ongoing gauging programme to verify rating (which overestimates flows). FLOW RECORD: Very patchy flow record prior to 1983. Bypassed during flood of September 1968; peak estimated at 24-34 cumecs. FLOW REGIME: Artificial flow pattern; runoff augmented by sewage effluent which has increased over the record. Runoff influenced by groundwater abstraction/recharge.
+CATCHMENT,A narrow catchment; Chalk headwaters but a largely London Clay catchment of urban/suburban character. Topographic catchment slightly exceeds effective drainage area.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged close to 30% of AMAX3. All but the largest flows contained.
+[END]

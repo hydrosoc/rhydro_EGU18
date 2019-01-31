@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 28009
+[END]
+[CDS DETAILS]
+NAME,Trent
+LOCATION,Colwick
+NOMINAL AREA, 7466.40
+NOMINAL NGR,4620,3399
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,462050,339900
+CENTROID NGR,GB,425256,326248
+DTM AREA, 7466.40
+ALTBAR, 142
+ASPBAR,134
+ASPVAR,0.06
+BFIHOST,0.505
+DPLBAR, 96.63
+DPSBAR, 53.7
+FARL,0.944
+FPEXT,0.1158
+LDP,159.55
+PROPWET,0.31
+RMED-1H, 10.6
+RMED-1D, 32.5
+RMED-2D, 41.1
+SAAR, 760
+SAAR4170, 771
+SPRHOST,34.23
+URBCONC1990, 0.802
+URBEXT1990,0.0773
+URBLOC1990, 1.041
+URBCONC2000, 0.898
+URBEXT2000,0.1050
+URBLOC2000, 1.047
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station in the navigable Trent. GENERAL: Velocity area station in the navigable Trent. Main channel approximately 62m wide; cableway spans 99m. STATION HYDROMETRY: Holme sluices 750m upstream affect water levels up to medium flows. Bypassed at high flows on right bank when gravel workings are inundated. However, bank modifications and construction of Holme Pierrepoint National Watersports Centre has contained flows to a higher stage. Hydro-power scheme being installed 2015 in old navigation lock. One rating applied across period of record. Well rated up to 5.5m - level of maximum recorded flow (8/11/00). Spot gaugings on this date taken upstream at Trentside cableway where all flows are contained. FLOW RECORD: Well rated up to 5.5m - level of maximum recorded flow (8/11/00). Spot gaugings on this date taken upstream at Trentside cableway where all flows are contained. Levels in 2011 possibly affected by left bank flood alleviation scheme. FLOW REGIME: Very substantial flow modifications owing to imports, WRW, cooling water and industrial usage.
+CATCHMENT,Predominantly Mercia Mudstone geology with some Permian and Triassic Sandstone and Carboniferous Limestone. Extensive terrace gravels and alluvium within river valleys maintain baseflow.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged beyond AMAX3. Good fit to gaugings across stage range.
+[END]

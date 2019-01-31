@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 24001
+[END]
+[CDS DETAILS]
+NAME,Wear
+LOCATION,Sunderland Bridge
+NOMINAL AREA,  661.17
+NOMINAL NGR,4265,5377
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,426500,537750
+CENTROID NGR,GB,404830,534973
+DTM AREA,  661.17
+ALTBAR, 301
+ASPBAR, 95
+ASPVAR,0.20
+BFIHOST,0.342
+DPLBAR, 40.10
+DPSBAR, 97.7
+FARL,0.978
+FPEXT,0.0347
+LDP, 71.51
+PROPWET,0.47
+RMED-1H, 10.1
+RMED-1D, 35.8
+RMED-2D, 46.9
+SAAR, 932
+SAAR4170, 970
+SPRHOST,43.94
+URBCONC1990, 0.615
+URBEXT1990,0.0148
+URBLOC1990, 0.505
+URBCONC2000, 0.760
+URBEXT2000,0.0193
+URBLOC2000, 0.497
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Compound broad-crested weirs, reservoirs affect 45 sq.km of he upstream catchment. GENERAL: Compound broad-crested weirs within the arches of road bridge; total crest length 38.7m. STATION HYDROMETRY: High flows are above vertical walls of bridge openings and tapping point within drawdown effect. Weed growth in summer causes overestimation of flows. Flows up to 1.06m are contained by vertical arch walls; above 1.06m the theoretical peak flow calibration is checked by current metering up to 3.4m. One peak flow rating applied throughout derived on the basis of current meter gaugings by wading and cableway up to 3.4m. Flood Studies Report grade B. FLOW RECORD: Flows reprocessed - using a single rating - in 2001. FLOW REGIME: Gives steep sided hydrographs, often with multiple peaks. Significant artificial influences: reservoirs in catchment (Burnhope, Waskerley and Tunstall with total direct catchment area of 45 sq.km); STW effluent forms significant portion of low flows; minewater discharges (regime altered by pit closure) and, in drought years, minimum flows supported by Kielder transfer.
+CATCHMENT,Predominantly upland catchment on mainly Carboniferous formations (Limestone, Millstone Grit and Coal Measures). Half the catchment is overlain by superficial deposits (peat in headwaters, Boulder Clay in lower reaches). Land use is half grass pasture, with moorland headwaters, arable and some urban development in lower reaches. No known catchment changes.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged beyond AMAX3.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+206004
+[END]
+[CDS DETAILS]
+NAME,Bessbrook
+LOCATION,Carnbane
+NOMINAL AREA,   34.76
+NOMINAL NGR,3074,3292
+[END]
+[DESCRIPTORS]
+IHDTM NGR,Ireland,307400,329250
+CENTROID NGR,Ireland,304217,327766
+DTM AREA,   34.76
+ALTBAR, 133
+ASPBAR, 69
+ASPVAR,0.21
+BFIHOST,0.584
+DPLBAR,  6.68
+DPSBAR, 97.3
+FARL,0.917
+FPEXT,0.0441
+LDP, 15.03
+PROPWET,0.53
+RMED-1H, 10.1
+RMED-1D, 38.2
+RMED-2D, 50.0
+SAAR,1055
+SAAR4170,1064
+SPRHOST,21.63
+URBCONC1990,-2.000
+URBEXT1990,0.0463
+URBLOC1990, 0.586
+URBCONC2000, 0.665
+URBEXT2000,0.0204
+URBLOC2000, 0.630
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station located at road bridge. GENERAL: Velocity area station located at road bridge, channel width approx. 5m. Opened in 1983 because of Newry flooding problem. STATION HYDROMETRY: Logger/recorder has been in four different places in the vicinity of the bridge (for various reasons, e.g. bridge re-built in around 1999), and is now an Orpheus pressure transducer on the l/b downstream face of the bridge. Weed growth problematic at low flows. Low flows gauged by wading, high flow gauging can be carried out from the bridge if staff are harnessed for safety. Rating derived from current meter gaugings. Simple extrapolation beyond 1.7m (max gauged level). Needs more medium/high flow gaugings. FLOW RECORD: Significant bridge works in 1999 thought to have had a marked affect on the rating. Daily flow data not currently considered suitable for inclusion on NRFA. FLOW REGIME: Significant works carried out on the bridge at the site in 1999 have remedied the upstream flooding problem previously experienced at the site. The channel widening and new wingwalls constructed in 1999 have served to largely constrain flood flows to the channel which previously would have flooded agricultural land upstream of the bridge. Data pre-1999 has been marked as rejected due to the large regime change and impact from the bridge works.
+CATCHMENT,Solid geology - area underlain by indurated Silurian greywacke sandstones and shales and Lower Palaeozoic granodiorite. Drift geology - rock near surface, drumlinised glacial till, peat and limited river alluvium.
+Qmed Suitability,Station contained at QMED. Current gaugings just meet numerical criteria for QMED.
+Pooling Suitability,Max gauging (1987) relates to previous rating. Current gaugings just meet numerical criteria for QMED. Issues with rating for pre 2003 data have lead to this station being classified as not suitable fo pooling.
+[END]

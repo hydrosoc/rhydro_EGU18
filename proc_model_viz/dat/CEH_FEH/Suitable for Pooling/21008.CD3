@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 21008
+[END]
+[CDS DETAILS]
+NAME,Teviot
+LOCATION,Ormiston Mill
+NOMINAL AREA, 1121.55
+NOMINAL NGR,3702,6280
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,370200,628050
+CENTROID NGR,GB,356833,614438
+DTM AREA, 1121.55
+ALTBAR, 239
+ASPBAR, 33
+ASPVAR,0.13
+BFIHOST,0.458
+DPLBAR, 33.79
+DPSBAR,117.7
+FARL,0.987
+FPEXT,0.0464
+LDP, 62.63
+PROPWET,0.57
+RMED-1H,  9.6
+RMED-1D, 34.2
+RMED-2D, 44.5
+SAAR, 936
+SAAR4170,1008
+SPRHOST,42.86
+URBCONC1990,-9999.000
+URBEXT1990,0.0025
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0036
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station d/s of Hawick on the River Teviot. GENERAL: Velocity area station; about 45m wide section. STATION HYDROMETRY: Natural channel control. Rock and gravel section at gauge with d/s gravel riffle giving low flow control. Rating subject to appreciable weed growth. Peak flow rating derived from current meter gaugings up to 3.4m (about 1.1 QMED), simple extrapolation beyond. Bypassing occurs on the rb (golf course side) at levels above ~2.2m, by passes behind the cableway. FLOW REGIME: Catchment contains two small storages (Alemoor Loch, Akermoor Loch) but runoff is sensibly natural.
+CATCHMENT,Mostly lowland catchment with upland headwaters. Mainly Silurian shale and ORS; 70% overlain by superficial deposits. Land use chiefly moorland and hill grazing with some arable farming towards the confluence with the Tweed; some forested areas in the uplands. No significant catchment changes known. Notable floodplains.
+Qmed Suitability,No comment
+Pooling Suitability,No comment
+[END]

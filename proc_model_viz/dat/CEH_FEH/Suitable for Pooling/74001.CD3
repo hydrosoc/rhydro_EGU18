@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 74001
+[END]
+[CDS DETAILS]
+NAME,Duddon
+LOCATION,Duddon Hall
+NOMINAL AREA,   85.26
+NOMINAL NGR,3195,4895
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,319550,489600
+CENTROID NGR,GB,321479,496480
+DTM AREA,   85.26
+ALTBAR, 315
+ASPBAR,156
+ASPVAR,0.09
+BFIHOST,0.337
+DPLBAR, 11.09
+DPSBAR,210.3
+FARL,0.985
+FPEXT,0.0465
+LDP, 22.05
+PROPWET,0.71
+RMED-1H, 12.7
+RMED-1D, 62.4
+RMED-2D, 84.0
+SAAR,2267
+SAAR4170,2351
+SPRHOST,53.69
+URBCONC1990,-9999.000
+URBEXT1990,0.0002
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0000
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Compound broad-crested weir gauging a steep, responsive catchment. GENERAL: Station opened in 1967. Compound broad-crested weir, 22.9m overall, centre crest 7m and 0.3m below flanking crests of equal height. STATION HYDROMETRY: Weir contains all flows. Bed is exposed rock and boulders, therefore gauging is difficult; ultrasonic gauging was unsuccessful due to aeration. No cableway. Theoretical equation applied to high flows. Low flows gauged by wading. One rating applied across period of record. Rated by current meter to 1.46m. Flood Studies Report grade A2. FLOW RECORD: Peak flows: although 212 days missing in water year 1978/79, AMAX at 74008 Duddon at Ulpha (upstream) occurs on the same date and flows (allowing for catchment area) are comparable. FLOW REGIME: Little urbanisation, but extremely flashy runoff. Abstractions for Barrow public water supply from Ulpha pumping station u/s. Variable compensation flow from Seathwaite Tarn.
+CATCHMENT,A steep catchment, with the river rising at Wrynose Pass and flowing through sparsely populated agricultural land. Geology composed of entirely impervious Ordovician Borrowdale Volcanics and Andesitic Lavas with patches of Boulder Clay and thin soils. Peat moss in north west. No catchment changes known.
+Qmed Suitability,Although only gauged to within 30% of QMED, extrapolation to QMED is believed to be acceptable.
+Pooling Suitability,Control is not thought to drown and the banks are steep containing all flows.
+[END]

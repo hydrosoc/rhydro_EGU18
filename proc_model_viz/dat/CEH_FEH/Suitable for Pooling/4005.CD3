@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+  4005
+[END]
+[CDS DETAILS]
+NAME,Meig
+LOCATION,Glenmeanie
+NOMINAL AREA,  123.67
+NOMINAL NGR,2286,8527
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,228650,852800
+CENTROID NGR,GB,220288,850358
+DTM AREA,  123.67
+ALTBAR, 463
+ASPBAR,123
+ASPVAR,0.03
+BFIHOST,0.389
+DPLBAR, 12.97
+DPSBAR,289.0
+FARL,0.918
+FPEXT,0.0366
+LDP, 28.09
+PROPWET,0.76
+RMED-1H,  9.7
+RMED-1D, 47.4
+RMED-2D, 73.3
+SAAR,2145
+SAAR4170,2074
+SPRHOST,52.86
+URBCONC1990,-9999.000
+URBEXT1990,0.0000
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0000
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station in a typical Scottish upland catchment. Significant storage in Loch Beannacharain. GENERAL: Velocity area station; 25m wide river section. STATION HYDROMETRY: Unstable gravel and boulder control. Levels may drop below tapping pipe in extreme droughts. Extreme floods above about 2m cause right hand bank to erode and to deposit on control - eventually being washed away. Bypassing can occur on left bank behind the station hut at floods above about 2.2m (known only once during record in Feb 1989). Adequately gauged to bankfull. Three peak flow ratings derived from current meter gaugings up to 94 cumecs (about 0.8QMED), simple extrapolation beyond. FLOW REGIME: Natural regime. No artificial influences thereby providing a useful indication of natural runoff. Significant surface storage in Loch Beannacharain through which 70% of catchment drains.
+CATCHMENT,Typical Scottish upland catchment. Mountainous headwaters, often snowy in winter, with rough pasture and moorland, and some woodlands. Impermeable bedrock, predominantly metamorphic with intrusions of gneiss and mica schist, overlain by superficial deposits. No significant catchment changes known.
+Qmed Suitability,No comment
+Pooling Suitability,No comment
+[END]

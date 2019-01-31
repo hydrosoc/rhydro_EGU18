@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 54016
+[END]
+[CDS DETAILS]
+NAME,Roden
+LOCATION,Rodington
+NOMINAL AREA,  261.94
+NOMINAL NGR,3589,3141
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,358900,314150
+CENTROID NGR,GB,351700,328761
+DTM AREA,  261.94
+ALTBAR,  89
+ASPBAR,116
+ASPVAR,0.10
+BFIHOST,0.615
+DPLBAR, 29.67
+DPSBAR, 22.2
+FARL,0.981
+FPEXT,0.2212
+LDP, 49.10
+PROPWET,0.34
+RMED-1H,  9.4
+RMED-1D, 29.0
+RMED-2D, 36.5
+SAAR, 693
+SAAR4170, 712
+SPRHOST,27.47
+URBCONC1990, 0.524
+URBEXT1990,0.0103
+URBLOC1990, 0.867
+URBCONC2000, 0.712
+URBEXT2000,0.0135
+URBLOC2000, 0.800
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Model tested trapezoidal flume and flanking broad-crested weirs within vertical sidewalls built as an experimental, model site for research purposes but has been retained as a flow measurement structure. GENERAL: Compound, non-standard structure consisting of a model tested trapezoidal flume and flanking broad-crested weirs within vertical sidewalls 7.3m apart. Station was built as an experimental, model site for research purposes but has been retained as a flow measurement structure. STATION HYDROMETRY: Tapping to measure tailwater levels (not used in last 25 years). In-channel Larinier fish pass installed Feb 2013. Channel prone to weed growth. Weir drowns at high flows. Two peak flow ratings applied across period of record. Reasonable fit to gaugings some of which are out of bank. FLOW REGIME: Unresponsive rural catchment. Net effect of general groundwater abstractions and returns insignificant; minor seasonal influence from spray irrigation. Shropshire groundwater Scheme affects (augments) low flows when in operation.
+CATCHMENT,Geology: predominantly Triassic Mudstones and Lower Lias in the north with Permian Sandstones to the south, closer to the gauge. Blanketed extensively by Boulder Clay and morainic sand and gravel.
+Qmed Suitability,Gauged above QMED. QMED contained.
+Pooling Suitability,Gauged beyond AMAX3. Gaugings above bank full lend confidence to rating.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 41020
+[END]
+[CDS DETAILS]
+NAME,Bevern Stream
+LOCATION,Clappers Bridge
+NOMINAL AREA,   35.48
+NOMINAL NGR,5423,1161
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,542350,116150
+CENTROID NGR,GB,536762,115689
+DTM AREA,   35.48
+ALTBAR,  51
+ASPBAR, 52
+ASPVAR,0.25
+BFIHOST,0.355
+DPLBAR,  8.80
+DPSBAR, 46.7
+FARL,0.993
+FPEXT,0.0758
+LDP, 15.83
+PROPWET,0.34
+RMED-1H, 11.5
+RMED-1D, 37.1
+RMED-2D, 48.9
+SAAR, 886
+SAAR4170, 874
+SPRHOST,43.25
+URBCONC1990, 0.461
+URBEXT1990,0.0126
+URBLOC1990, 1.076
+URBCONC2000, 0.658
+URBEXT2000,0.0129
+URBLOC2000, 1.189
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Crump profile weir, since 2012, all flow data from this site derived using solely ultrasonic. A small primarily impervious catchment. A rural catchment with considerable woodland. Runoff affected by effluent returns. Substantial winter baseflow with rapid response to rainfall. GENERAL: Crump profile weir (crest 6m broad) in straight reach of realigned channel, approx 100m downstream of road bridge. Weir altered by the insertion of low flow crump weir (0.5m wide) in centre of structure in Oct 2005 (new crest 0.521m below the rest of the weir). Low flow weir generates substantial fall below station; two sets of baffles (with notches in sides for fish passage) reduce scour on downstream side of weir. Two cross-path ultrasonic gauge installed January 2007. Evidence for two previous structures in locality. STATION HYDROMETRY: Constructed with crest tappings, but these not used since 1981. Modular limit 0.6-0.9m stage. Stream channel narrows downstream of structure, exacerbated in summer by weed growth. Crest width of 6m is too large for accurate low flow measurement. Bypassing of the original structure above 1.15m as the river is on higher ground than the surrounding land. Possible via a number of routes - a ditch downstream of Clappers Bridge, overtopping of the banks upstream of the weir and overtopping of the abutments at the gauging station. Bypassing is also known to have occurred over the Spithurst Road southwest of Clappers Bridge. However, since redevelopment in Oct 2005, no bypassing observed during 12 instances with stage >1.15m. Two ratings applied across period of record, latest from Oct-2005 when weir modified and is valid until 2008, when flows are derived using an ultrasonic (confirmed by spot flow gauging). Gaugings show good fit to rating (all those above 0.2m were taken post weir modification). Rating of the original weir is consistent with theoretical rating at low stages; it has an allowance for bypassing for stages above 1.15m, but has not been validated above this level. A rating for the new structure was obtained after extensive program of check gauging, up to nearly bankfull. FLOW RECORD: 2005-2012 flows derived from combination of rated structure and ultrasonic, with flows between Aug 2005 and Dec 2007 (inclusive) considered suspect. Since 2012, all flow data from this site derived using solely ultrasonic. FLOW REGIME: Substantial winter baseflow with rapid response to rainfall leading to short duration high flood flows. Runoff affected by effluent returns but negligible impact of artificial influences on responsive flow regime on all but lowest river flow.
+CATCHMENT,One of the largest tributaries of the River Ouse. A small primarily impervious catchment draining east & north from the South Downs, north flowing tributaries providing significant baseflow. Geology is predominantly Weald Clay with outcrops of chalk, Upper & Lower Greensand & Gault Clay on South Downs. A rural catchment with considerable woodland. Slight urbanisation in the catchment.
+Qmed Suitability,Gauged to within 2% of QMED.
+Pooling Suitability,Current rating provides good fit to gaugings and recent high flow gaugings for the present structure support the earlier rating.
+[END]

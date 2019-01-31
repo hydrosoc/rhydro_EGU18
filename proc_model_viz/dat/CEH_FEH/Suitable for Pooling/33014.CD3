@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 33014
+[END]
+[CDS DETAILS]
+NAME,Lark
+LOCATION,Temple
+NOMINAL AREA,  274.04
+NOMINAL NGR,5758,2729
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,575800,272900
+CENTROID NGR,GB,583069,266085
+DTM AREA,  274.04
+ALTBAR,  59
+ASPBAR, 19
+ASPVAR,0.16
+BFIHOST,0.782
+DPLBAR, 17.86
+DPSBAR, 23.3
+FARL,0.944
+FPEXT,0.1096
+LDP, 32.71
+PROPWET,0.27
+RMED-1H, 10.6
+RMED-1D, 28.0
+RMED-2D, 36.8
+SAAR, 593
+SAAR4170, 608
+SPRHOST,18.40
+URBCONC1990, 0.609
+URBEXT1990,0.0220
+URBLOC1990, 1.011
+URBCONC2000, 0.813
+URBEXT2000,0.0353
+URBLOC2000, 1.003
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Compound broad-crested weir gauging a Chalk catchment with significant artificial influences. GENERAL: Compound broad-crested weir with rectangular cross-section, 5.8m broad, central notch 3m broad. STATION HYDROMETRY: Not drowned at 1.8m stage. One rating applied across period of record, full range rating confirmed by current meter measurements. FLOW REGIME: Flows affected by milling u/s of gauging station. Significant groundwater abstractions in catchment for PWS, industry and agriculture. Some effluent returns.
+CATCHMENT,Predominantly Chalk overlain with Boulder Clay. Agricultural land use.
+Qmed Suitability,Gauged above QMED. Within modular range and flows contained.
+Pooling Suitability,Gauged to within 3% of AMAX3. Within modular range and flows contained although highest gauging does deviate slightly from rating.
+[END]

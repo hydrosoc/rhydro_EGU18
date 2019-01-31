@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 69044
+[END]
+[CDS DETAILS]
+NAME,Irwell
+LOCATION,Bury Ground
+NOMINAL AREA,  139.97
+NOMINAL NGR,3799,4113
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,380000,411400
+CENTROID NGR,GB,381484,421639
+DTM AREA,  139.97
+ALTBAR, 280
+ASPBAR,221
+ASPVAR,0.12
+BFIHOST,0.430
+DPLBAR, 18.85
+DPSBAR,118.0
+FARL,0.945
+FPEXT,0.0437
+LDP, 31.24
+PROPWET,0.54
+RMED-1H, 11.5
+RMED-1D, 42.0
+RMED-2D, 59.8
+SAAR,1367
+SAAR4170,1354
+SPRHOST,37.40
+URBCONC1990, 0.644
+URBEXT1990,0.0554
+URBLOC1990, 0.788
+URBCONC2000, 0.753
+URBEXT2000,0.0874
+URBLOC2000, 0.809
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station with broad-crested weir as control. Replaced Bury Bridge (69035) in 1995. GENERAL: Velocity area station, 22m wide section with good approach, opened November 1995 with a pre-existing curved broad-crested mill weir as the control. Replaced Bury Bridge (69035), 1.5km downstream; Kirkless Brook enters between the two stations. Bury Bridge and Bury Grounds overlapped from November 1995 to March 1998, and included high flows in November 1996. Stages are closely correlated. STATION HYDROMETRY: The curved weir is 28m wide, crest is in poor condition. Weir doesn't drown due to 3m drop over crest. The inlet pipe was extended to prevent silt blockage, and the level re-surveyed. Level readings prior to August 1998 were then lowered by 0.022m to make them consistent with later records. High flow gaugings carried out by cableway. A stage-stage relationship was derived to generate equivalent stages at Bury Grounds for the period of record at Bury Bridge, and the present Bury Grounds rating applied. One rating applied across period of record, derived from current meter gaugings. FLOW RECORD: Peak flows: POT and AMAX data are presented for Bury Grounds including the period of record at Bury Bridge. FLOW REGIME: Runoff influenced by storage reservoirs (Haslingden Grane system and Ogden, Clowbridge), abstractions and effluent returns.
+CATCHMENT,Geology is post-glacial deposits over predominantly Millstone Grit, with some Coal Measures. A moderately urbanised catchment with steep moorland headwaters in the south Pennines; includes urban areas of Bury and Rawtenstall. No catchment changes known.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged to within 13% of AMAX3. Good fit to gaugings beyond QMED
+[END]

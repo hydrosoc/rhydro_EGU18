@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 73017
+[END]
+[CDS DETAILS]
+NAME,Kent
+LOCATION,Bowston
+NOMINAL AREA,   70.62
+NOMINAL NGR,3499,4965
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,349950,496550
+CENTROID NGR,GB,345979,501886
+DTM AREA,   70.62
+ALTBAR, 272
+ASPBAR,169
+ASPVAR,0.21
+BFIHOST,0.454
+DPLBAR, 10.06
+DPSBAR,177.5
+FARL,0.948
+FPEXT,0.0602
+LDP, 20.66
+PROPWET,0.71
+RMED-1H, 12.2
+RMED-1D, 59.5
+RMED-2D, 82.5
+SAAR,1919
+SAAR4170,1902
+SPRHOST,43.29
+URBCONC1990,-9999.000
+URBEXT1990,0.0015
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0015
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station opened as replacement for Burneside (73003). GENERAL: Velocity area station with purpose built shallow V low flow control. The site is downstream of the village of Bowston and has a good approach channel. Station commissioned October 1999 as a replacement for the site at Burneside (1500m downstream). Catchment area to Bowston is approx 5% less than Burneside. There is an overlap with Burneside of 8 months and a good correlation between the two data sets is apparent, peaks at Bowston being slightly less. STATION HYDROMETRY: Left bank has been raised to contain anticipated flows of up to a one in a hundred year return period at 3m. Electrically powered winch and cableway for high flow gaugings. Two peak flow ratings applied across period of record. High flow gaugings at Bowston used to develop a single rating applied to both Burneside and Bowston. FLOW REGIME: Highly flashy regime from a predominantly natural catchment.
+CATCHMENT,Impervious lower Palaeozoic slate, flagstone and shale covered by boulder clay in the middle reaches of the valley, which supports permanent grassland, remainder for grazing. Rises in mountainous Lake District - steep descent to Kendal.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged beyond AMAX3. Rating expected to apply to whole period at high flows.
+[END]

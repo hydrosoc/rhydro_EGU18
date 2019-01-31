@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 39004
+[END]
+[CDS DETAILS]
+NAME,Wandle
+LOCATION,Beddington Park
+NOMINAL AREA,  117.35
+NOMINAL NGR,5296,1654
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,529650,165500
+CENTROID NGR,GB,530734,157992
+DTM AREA,  117.35
+ALTBAR, 145
+ASPBAR,346
+ASPVAR,0.28
+BFIHOST,0.846
+DPLBAR, 13.84
+DPSBAR, 75.4
+FARL,0.993
+FPEXT,0.0318
+LDP, 23.82
+PROPWET,0.33
+RMED-1H, 11.1
+RMED-1D, 33.3
+RMED-2D, 43.8
+SAAR, 764
+SAAR4170, 771
+SPRHOST,16.53
+URBCONC1990, 0.693
+URBEXT1990,0.1387
+URBLOC1990, 0.630
+URBCONC2000, 0.843
+URBEXT2000,0.2309
+URBLOC2000, 0.733
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area stations gauging a very flashy catchment with complex water utilisation. GENERAL: Velocity area station. Station was previously electromagnetic (buried coil), a compound Crump weir (1964-1991, bankfull flow 5.73 cumecs) and very insensitive broad-crested weir (1939-1964). Some of the photos show a structure constructed (probably around 1992) to keep head levels high in summer, located 50m downstream of the gauging station. STATION HYDROMETRY: The compound Crump weir was subject to hydrometric problems, such as siltation, inaccurate zero settings, algal growth, which continued into the 1980s. Siltation in channel causes uncertainties in level measurement that may affect low flows, but flows corrected to allow for this. In spite of the above comments, QMED is similar for Crump Weir and EM station. Theoretical peak flow rating provided from Crump weir, with some check gaugings, though few at high flows. Gauging programme to confirm calibration is ongoing. FLOW RECORD: Suspect data in recent years due to low confidence in rating, new measurement technique being investigated. Missing data in summer 2016 due to instrument failure. Historical record poor. Peak flow data reviewed by hydraulic modelling after July 2007 event. FLOW REGIME: Very flashy catchment creates difficulties in gauging high flows. Relatively stable baseflow but urban runoff and complex water utilisation (including substantial groundwater abstraction) influence flow patterns; flashy storm response.
+CATCHMENT,Primarily a Chalk catchment (with significant Drift cover) but London Clay predominates near to the gauging station. Suburban/urban land use dominates the lowest third of the catchment. Suburban/urban land use. Effective drainage area is much smaller than topographical catchment in .cd2 file (a value of the order of 20km2 has been suggested). Effective catchment area contributing to flows in the Croydon Branch of the River Wandle upstream of Beddington Park is considered remarkably smaller than 122km2, of the order of 20km2.
+Qmed Suitability,From Oct-1964 when crump weir installed. See station description.
+Pooling Suitability,High flows uncertain throughout the station history, including present EM gauge.
+[END]

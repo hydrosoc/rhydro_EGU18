@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 28085
+[END]
+[CDS DETAILS]
+NAME,Derwent
+LOCATION,St Mary's Bridge
+NOMINAL AREA, 1051.02
+NOMINAL NGR,4353,3368
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,435350,336900
+CENTROID NGR,GB,423861,368306
+DTM AREA, 1051.02
+ALTBAR, 259
+ASPBAR,131
+ASPVAR,0.12
+BFIHOST,0.550
+DPLBAR, 52.56
+DPSBAR,117.3
+FARL,0.949
+FPEXT,0.0396
+LDP, 90.38
+PROPWET,0.39
+RMED-1H, 10.2
+RMED-1D, 36.3
+RMED-2D, 48.2
+SAAR,1012
+SAAR4170,1017
+SPRHOST,26.16
+URBCONC1990, 0.613
+URBEXT1990,0.0166
+URBLOC1990, 0.639
+URBCONC2000, 0.790
+URBEXT2000,0.0308
+URBLOC2000, 0.666
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Ten-channel, interleaved cross path US gauge in the centre of Derby - record combined with that of 28010 Longbridge Weir (1935-1986). GENERAL: Ten-channel, interleaved cross path US gauge in the centre of Derby, 0.5km upstream of Longbridge Weir (28010) which it replaced. Opened in 1984, ultrasonic gauge reconfigured in March 1993. Record combined with 28010 (a long, curved broad-crested masonry weir with complex rating history, very insensitive). STATION HYDROMETRY: Small degree of bypassing. All flows contained. Two ratings applied across period of record, the most recent is valid from January-1996. In March 1993, ultrasonic gauge reconfigured - FFS curve used during this month. FLOW REGIME: Substantial flow modification owing to Derwent reservoirs, mill operations (particularly before 1970s), and PWS abstractions.
+CATCHMENT,Large, predominantly upland catchment draining Millstone Grit and Carboniferous Limestone. Lower reaches drain Coal Measures on the Lb and Triassic sandstones and marls on the Rb. Peat moorland headwaters; forestry, pasture and some arable. Contains the towns of Matlock and Buxton.
+Qmed Suitability,Gauged above QMED. All flows contained, spot gaugings at high out of bank flows and transducers to a high level.
+Pooling Suitability,Gauged beyond AMAX3. All flows contained, spot gaugings at high out of bank flows and transducers to a high level.
+[END]

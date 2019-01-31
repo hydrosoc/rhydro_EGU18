@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 27073
+[END]
+[CDS DETAILS]
+NAME,Brompton Beck
+LOCATION,Snainton Ings
+NOMINAL AREA,    8.06
+NOMINAL NGR,4936,4794
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,493550,479450
+CENTROID NGR,GB,492580,482805
+DTM AREA,    8.06
+ALTBAR,  82
+ASPBAR,163
+ASPVAR,0.59
+BFIHOST,0.887
+DPLBAR,  4.53
+DPSBAR, 47.7
+FARL,1.000
+FPEXT,0.2373
+LDP,  9.71
+PROPWET,0.39
+RMED-1H, 10.4
+RMED-1D, 32.2
+RMED-2D, 41.2
+SAAR, 721
+SAAR4170, 717
+SPRHOST,17.77
+URBCONC1990, 0.486
+URBEXT1990,0.0121
+URBLOC1990, 0.884
+URBCONC2000, 0.463
+URBEXT2000,0.0079
+URBLOC2000, 0.879
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Crump weir in a permeable catchment. Flow regime strongly dependent on groundwater contribution. GENERAL: Formal Crump Weir, built over a drainage culvert. There is a concrete apron 3-4m u/s of the weir. A drain runs beneath the gauge, receiving overtopping flow. STATION HYDROMETRY: Full range and modular. No drowning due to a large (>3m) d/s drop to the Derwent. Single theoretical peak flow rating applied across period of record. FLOW RECORD: Artificial drop in flow in July 2003; cause unknown but upstream damming or abstraction likely, investigation failed to identify the cause. FLOW REGIME: Stable and sensibly natural regime, although groundwater abstraction may influence the regime. The flow is largely dependant on flow from two Corallian Limestone springs in Brompton, augmented in wet weather by land drainage inflow.
+CATCHMENT,A mainly permeable (Corallian) catchment, with Jurassic Calcareous grits in the upper part of the catchment, Alluvium in the Vale of Pickering overlying Kimmeridge clay. Rural, predominantly arable. Surface and groundwater catchments may differ considerably due to a large groundwater component to the catchment. No known catchment changes.
+Qmed Suitability,Gauged to within 15% of QMED. Small range in flow means all levels are contained.
+Pooling Suitability,Fully contained with no likelihood of drowning. Theoretical rating should apply for the full range.
+[END]

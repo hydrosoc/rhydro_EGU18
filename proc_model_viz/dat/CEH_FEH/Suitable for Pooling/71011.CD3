@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 71011
+[END]
+[CDS DETAILS]
+NAME,Ribble
+LOCATION,Arnford
+NOMINAL AREA,  203.18
+NOMINAL NGR,3838,4555
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,383850,455550
+CENTROID NGR,GB,381225,469053
+DTM AREA,  203.18
+ALTBAR, 319
+ASPBAR,205
+ASPVAR,0.10
+BFIHOST,0.382
+DPLBAR, 21.87
+DPSBAR,102.5
+FARL,0.998
+FPEXT,0.0987
+LDP, 42.88
+PROPWET,0.61
+RMED-1H, 11.1
+RMED-1D, 45.0
+RMED-2D, 61.9
+SAAR,1446
+SAAR4170,1490
+SPRHOST,46.04
+URBCONC1990,-9999.000
+URBEXT1990,0.0027
+URBLOC1990,-9999.000
+URBCONC2000, 0.671
+URBEXT2000,0.0071
+URBLOC2000, 0.671
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Flat V weir; the highest station on the Ribble. Natural regime. GENERAL: Station opened at Halton West 1km downstream in 1969. Replaced by a Flat V weir at Arnford built October 1972. STATION HYDROMETRY: Weir drowns at high flows. No bypassing. Cableway until late 1990s. Hydrographs truncated and the growth curve for this station is unusually low. This is thought to be due to storage just upstream from Arnford at Long Preston Ings. Ratings derived from gaugings. Three peak flow ratings applied over period of record. Separate ratings applied for Halton West (pre-1972) and Arnford (post-1972) stations. FLOW REGIME: An almost entirely natural flow regime with minor abstractions and discharges.
+CATCHMENT,Long narrow catchment of Carboniferous Limestone with some Millstone Grit overlain by Boulder Clay on the valley floor. A predominantly moorland catchment rising to the summit of Pen-y-Ghent, draining part of Yorkshire Dales National Park and Langstrothdale Chase. Includes Settle. No significant catchment changes.
+Qmed Suitability,Gauged above QMED. All flow contained
+Pooling Suitability,Gauged to within 7% of AMAX3. Drowned flow over weir is captured y gaugings. No bypassing reported.
+[END]

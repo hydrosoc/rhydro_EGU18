@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 17005
+[END]
+[CDS DETAILS]
+NAME,Avon
+LOCATION,Polmonthill
+NOMINAL AREA,  194.81
+NOMINAL NGR,2951,6796
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,295200,679650
+CENTROID NGR,GB,291517,672069
+DTM AREA,  194.81
+ALTBAR, 161
+ASPBAR, 28
+ASPVAR,0.11
+BFIHOST,0.411
+DPLBAR, 22.22
+DPSBAR, 56.5
+FARL,0.964
+FPEXT,0.0793
+LDP, 41.79
+PROPWET,0.56
+RMED-1H,  8.8
+RMED-1D, 35.5
+RMED-2D, 46.8
+SAAR, 990
+SAAR4170, 990
+SPRHOST,40.30
+URBCONC1990, 0.653
+URBEXT1990,0.0189
+URBLOC1990, 0.812
+URBCONC2000, 0.786
+URBEXT2000,0.0362
+URBLOC2000, 0.857
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station. Flows affected by some storage in reservoirs and industrial and agricultural abstractions. GENERAL: Velocity area station; the river takes a sharp left turn u/s at a site of river capture. STATION HYDROMETRY: Low flow control was unstable gravel control 40m d/s; replaced by gabion weir in Aug 1989. It was subsequently capped with concrete and the upstream face lined with sheet piling, this was completed on the Sept 1995. High flow control was a small island in mid-channel immediately below station; now it is probably the channel bend d/s. The banks have contained all recorded flows. Peak flow rating derived from current meter gaugings up to 1.8m (about 1.1 QMED), simple extrapolation beyond. FLOW RECORD: Recession in May - June 1989 may be anomalously high. FLOW REGIME: Extensive moorland drainage schemes in headwaters. Industrial and agricultural abstractions. Low flows are moderately affected by effluent discharges. Some storage in Linlithgow, Lochcota and Forrestburn Reservoirs and Loch Ellrig.
+CATCHMENT,Lowland catchment. Bedrock Carboniferous sedimentaries; predominantly overlain by superficial deposits, mainly boulder clay. The catchment is predominantly rural; grassland, arable and forest landuse dominate, with a few small former coal-mining towns. No significant catchment changes known.
+Qmed Suitability,No comment
+Pooling Suitability,No comment
+[END]

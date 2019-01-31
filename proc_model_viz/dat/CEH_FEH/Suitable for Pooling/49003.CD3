@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 49003
+[END]
+[CDS DETAILS]
+NAME,De Lank
+LOCATION,De Lank
+NOMINAL AREA,   21.61
+NOMINAL NGR,2132, 765
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,213350,76550
+CENTROID NGR,GB,215420, 78115
+DTM AREA,   21.61
+ALTBAR, 284
+ASPBAR,244
+ASPVAR,0.16
+BFIHOST,0.379
+DPLBAR,  4.78
+DPSBAR, 76.0
+FARL,0.998
+FPEXT,0.0636
+LDP,  7.74
+PROPWET,0.45
+RMED-1H, 12.9
+RMED-1D, 47.7
+RMED-2D, 66.4
+SAAR,1628
+SAAR4170,1719
+SPRHOST,47.75
+URBCONC1990, 0.000
+URBEXT1990,0.0000
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0000
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Three-bay compound weir gauging a responsive, wet catchment with headwaters on Bodmin Moor. GENERAL: Three-bay compound Crump profile weir, with middle crest length 1.22m and side crests 3.2m (7.62 m total). Divide piers 1.01 m high, wing walls 1.62m. Unusually small difference between crest elevations (the central crest is 0.095m below the outer two crests). STATION HYDROMETRY: Very seldom drowned or outflanked; no bypassing. Possible siltation problems in summer months. Difficult site to spot gauge due to high velocities. Theoretical rating applied to period of record. Confirmed by gaugings to 0.4m and site never bypassed. FLOW RECORD: Missing data in 02/2002 due to logger failure during maintenance work. FLOW REGIME: Flows modified by public water supply works.
+CATCHMENT,Moderate relief, responsive, wet catchment on Bodmin Moor Granite. Unusually the river occupies marshy alluvial flats in the headwaters. No major changes to catchment.
+Qmed Suitability,Although not gauged to within 30% of QMED, theoretical rating expected to perform well at QMED.
+Pooling Suitability,No reported bypassing or drowning. Despite occasional out of bank flow, theoretical rating expected to perform well.
+[END]

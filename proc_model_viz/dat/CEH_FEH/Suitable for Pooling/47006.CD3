@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 47006
+[END]
+[CDS DETAILS]
+NAME,Lyd
+LOCATION,Lifton Park
+NOMINAL AREA,  220.39
+NOMINAL NGR,2388, 842
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,238850,84250
+CENTROID NGR,GB,246585, 88525
+DTM AREA,  220.39
+ALTBAR, 187
+ASPBAR,269
+ASPVAR,0.19
+BFIHOST,0.485
+DPLBAR, 13.84
+DPSBAR,104.8
+FARL,0.996
+FPEXT,0.0350
+LDP, 24.84
+PROPWET,0.50
+RMED-1H, 12.3
+RMED-1D, 41.6
+RMED-2D, 53.7
+SAAR,1228
+SAAR4170,1299
+SPRHOST,36.30
+URBCONC1990,-9999.000
+URBEXT1990,0.0002
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0018
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Shallow rectangular concrete flume installed in 1968 to replace previous velocity-area section. GENERAL: Originally a velocity area station, superseded in 1968 by a shallow, rectangular, concrete flume to overcome low-flow measurement problems. Flume has side and bed contractions, throat 3.5m wide, 0.38 m deep, and is flanked by broad crested weirs in 7.9 m wide channel. Wooden structure added to central channel to aid fish movement. Gentle approach bend. Cableway 5 m upstream of present position prior to 1977. Flood Studies Report grade C. STATION HYDROMETRY: Largest floods may exceed bankfull and bypass station. Peak flows of 1979 and 2000 thought to have been contained. Upper limb extended to out-of-bank flows using modelling. Three peak flow ratings applied across period of record. Flume installation in 10/1968 necessitated a rating change. Recent rating based on gaugings and hydraulic modelling. High flow gaugings are difficult so Acoustic Doppler installed to assist flow measurement and rating reviews. FLOW RECORD: Station closed 1981-88. Flows significantly affected by Roadford Reservoir after 1988. New medium and high daily flow rating developed in 2007 including high flow gaugings and applied to flows back to 1975. FLOW REGIME: Flows significantly affected by operation of Roadford Reservoir (post-1988). Runoff influenced by groundwater abstraction/recharge and increased by effluent returns.
+CATCHMENT,Moderate to high relief catchment draining Carboniferous Culm Measures (shales and sandstones). Land-use is wholly rural; moorland headwaters, forestry in main valleys, rough grazing, low grade agriculture. Roadford Reservoir, completed in 1989, with a catchment area of 31.8km2, affects 14.5% of catchment. FARL in catchment descriptor file (.cd2) given for pre-reservoir condition. FARL post-reservoir = 0.95.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Although not confirmed by check gaugings, confident in hydraulic model derived rating.
+[END]

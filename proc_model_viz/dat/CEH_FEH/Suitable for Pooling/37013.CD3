@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 37013
+[END]
+[CDS DETAILS]
+NAME,Sandon Brook
+LOCATION,Sandon Bridge
+NOMINAL AREA,   74.70
+NOMINAL NGR,5755,2054
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,575550,205450
+CENTROID NGR,GB,575426,201199
+DTM AREA,   74.70
+ALTBAR,  52
+ASPBAR, 33
+ASPVAR,0.17
+BFIHOST,0.275
+DPLBAR,  9.24
+DPSBAR, 24.2
+FARL,0.855
+FPEXT,0.0919
+LDP, 16.68
+PROPWET,0.28
+RMED-1H, 12.1
+RMED-1D, 31.8
+RMED-2D, 38.9
+SAAR, 575
+SAAR4170, 585
+SPRHOST,46.70
+URBCONC1990, 0.547
+URBEXT1990,0.0181
+URBLOC1990, 0.927
+URBCONC2000, 0.795
+URBEXT2000,0.0263
+URBLOC2000, 0.977
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Insensitive 'Essex' profile weir gauging a rural catchment with reservoirs affecting the regime. GENERAL: 'Essex' profile (modified Flat V Crump) weir with crest tapping. STATION HYDROMETRY: Insensitive. Modular limit approx 0.6m. Subject to weed growth and accretion. One peak flow rating applied across period of record. The flow is derived through the rating curve and then under non-modular conditions, a macro is applied within WISKI which applies a reduction factor. Therefore, under high flows, the stage and flow won't match through the modular rating. FLOW RECORD: No POT data are presented for this station as they have no non-modular flow correction applied. AMAX data have been corrected, but in some cases can be below the daily flow as these are not corrected. Some float-run gaugings are thought to be unreliable. FLOW REGIME: Reservoir(s) in catchment affect runoff. Naturalised flows (1963-1976) account for reservoir compensation water (0.011 cumecs) and storm overflows. Minor additions from industrial effluent.
+CATCHMENT,CA includes 13.7 sq.km draining to Hanningfield Reservoir 10km u/s. London Clay with sand and gravel over high ground in NE, Boulder Clay in S. Rural, mainly arable land with some grassland.
+Qmed Suitability,Gauged above QMED. Reasonable fit to gaugings.
+Pooling Suitability,Gauged to AMAX3. Reasonable fit to gaugings.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 39028
+[END]
+[CDS DETAILS]
+NAME,Dun
+LOCATION,Hungerford
+NOMINAL AREA,  100.10
+NOMINAL NGR,4321,1685
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,432150,168500
+CENTROID NGR,GB,425985,164945
+DTM AREA,  100.10
+ALTBAR, 157
+ASPBAR, 59
+ASPVAR,0.17
+BFIHOST,0.768
+DPLBAR, 10.02
+DPSBAR, 46.3
+FARL,0.988
+FPEXT,0.0498
+LDP, 18.55
+PROPWET,0.31
+RMED-1H, 10.4
+RMED-1D, 32.7
+RMED-2D, 42.0
+SAAR, 786
+SAAR4170, 791
+SPRHOST,21.30
+URBCONC1990, 0.529
+URBEXT1990,0.0124
+URBLOC1990, 1.101
+URBCONC2000,-9999.000
+URBEXT2000,0.0041
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Station located in a mainly rural chalk based catchment dominated by a natural baseflow. GENERAL: Crump weir, 10.7m broad. Full range and modular. STATION HYDROMETRY: Peak flow rating based on a standard Crump Weir calculation. Flow slightly underestimated due to differences in design and actual weir dimensions. FLOW REGIME: Abstractions and discharges are of minor significance. Small net loss, but essentially a natural baseflow-dominated flow regime, natural to within 10% at Q95. Levels affected by the lock on the canal.
+CATCHMENT,A mainly pervious (Chalk) catchment but with appreciable Clay-with-Flints cover in the northern part of the catchment. Rural character (chiefly agricultural but the Dun drains part of Savernake Forest).
+Qmed Suitability,Flow is below bank full and remains modular. Reasonable confidence in flows.
+Pooling Suitability,Flow is below bank full and remains modular. Reasonable confidence in flows.
+[END]

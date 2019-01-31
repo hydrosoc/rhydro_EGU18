@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 25001
+[END]
+[CDS DETAILS]
+NAME,Tees
+LOCATION,Darlington Broken Scar
+NOMINAL AREA,  847.70
+NOMINAL NGR,4259,5137
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,425850,513750
+CENTROID NGR,GB,396415,521255
+DTM AREA,  847.70
+ALTBAR, 361
+ASPBAR,105
+ASPVAR,0.21
+BFIHOST,0.354
+DPLBAR, 45.78
+DPSBAR, 81.7
+FARL,0.945
+FPEXT,0.0526
+LDP, 85.60
+PROPWET,0.54
+RMED-1H, 10.5
+RMED-1D, 39.6
+RMED-2D, 52.1
+SAAR,1122
+SAAR4170,1226
+SPRHOST,46.76
+URBCONC1990,-9999.000
+URBEXT1990,0.0029
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0045
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Compound Crump profile weir with two low flow crests. Heavily influenced by reservoir storage, abstractions and discharges throughout the period of record. GENERAL: Compound Crump profile weir with total crest length of 63.9m. Two low-flow crests total 9.1m. Gauged ultrasonically from 2002 but this was abandoned in 2011 due to poor performance. D/s level measurement installed 2003. No changes to control since construction apart from fish pass (1992-1993) inserted in low flow weir. There have been bank breaches in the past, and the right bank overtops into Cleasby washland at around 2.5m stage. STATION HYDROMETRY: Modular up to approx 2.5m. Hydraulic modelling suggests up to 20% bypassing flow at > 100 year return period. Two peak flow ratings across the period of record. Flood Studies Report grade A1 for all except one occasion. FLOW RECORD: Three peak events (1986, 1995 and June 2000) have stage values within 1mm as a result of overtopping; evidence suggests 2000 was the highest and may have been 25-30% higher. 1959 minimum may have been influenced by abstraction immediately u/s. New daily mean flow rating was applied in September 2014 from 1982 onwards. Historic flow data from 1956 - 1981 remains unchanged by this rating change. FLOW REGIME: Significant export of water from direct supply reservoirs (six reservoirs with a total area of 180.7 sq.km totalling 22.1% of catchment) progressively influencing during record period (Selset 1960, Balderhead 1965, Cow Green 1970). Cow Green operation includes winter flood storage drawdown, and river regulation to support abstraction and statutory minimum flows. U/s abstraction for industry during 1960s subject to a minimum 5MGD passing weir; continued until Balderhead Reservoir completed. Significant export of water from direct supply and abstraction u/s. Some regulation from Cow Green Reservoir. Import from Tyne via Kielder Tunnel in exceptional drought years.
+CATCHMENT,Predominantly upland catchment, headwaters draining the Pennines. Mainly Millstone Grit and Carboniferous Limestone (sandstone, shale and limestone facies), with the majority of the catchment overlain by superficial deposits of peat and Boulder Clay. Moorland and rough pasture give way to more intensive agriculture in the lower reaches. No known catchment changes.
+Qmed Suitability,Check gaugings confirm structure rating to at least QMED.
+Pooling Suitability,Formal structure, physically modelled over full range and check gauged to QMED. Note that largest flows overtop into washland upstream, so some truncation of flood peaks during extreme events.
+[END]

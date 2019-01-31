@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 41015
+[END]
+[CDS DETAILS]
+NAME,Ems
+LOCATION,Westbourne
+NOMINAL AREA,   57.89
+NOMINAL NGR,4755,1073
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,475500,107400
+CENTROID NGR,GB,478472,113234
+DTM AREA,   57.89
+ALTBAR,  97
+ASPBAR,198
+ASPVAR,0.35
+BFIHOST,0.905
+DPLBAR,  9.27
+DPSBAR, 81.1
+FARL,0.976
+FPEXT,0.0386
+LDP, 16.86
+PROPWET,0.34
+RMED-1H, 10.0
+RMED-1D, 40.0
+RMED-2D, 50.7
+SAAR, 899
+SAAR4170, 959
+SPRHOST, 9.26
+URBCONC1990, 0.482
+URBEXT1990,0.0087
+URBLOC1990, 0.814
+URBCONC2000,-9999.000
+URBEXT2000,0.0037
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Assymetrical compound Crump weir draining gauging a river with baseflow-dominated regime. Significant net export of water from catchment, but also some flow augmenetation. GENERAL: Asymmetrical compound Crump profile weir; crests: 0.61m (showing effects of erosion) and 4.12m broad. Located 190m upstream of Hampshire Bridge. STATION HYDROMETRY: Structure limit 5.08 cumecs, modular throughout the flow range. Flows were above structure limit during 2000 event for long periods of time. All flows contained. Differential drawdown can affect river level measurement. One theoretical rating applied across period of record, but appears to overestimate flows. FLOW REGIME: Baseflow-dominated regime. Flood events are typically small, runoff normally approximately 1%. Significant net export of water from the catchment (groundwater abstractions) but low flows augmented by compensation water (from borehole).
+CATCHMENT,The Ems - which is ephemeral over much of its length - is a Chalk stream draining the South Downs; Drift cover is minimal. A rural catchment with significant woodland and scattered settlements. Geology principally chalk, therefore flow is predominantly from groundwater. Largely rural with significant woodland. No significant catchment changes known.
+Qmed Suitability,Gauged to within 10% of QMED. Reasonable ft to gaugings.
+Pooling Suitability,Few high flow gaugings. Rating can not be validated beyond QMED and magnitude of deviation from gaugings unknown.
+[END]

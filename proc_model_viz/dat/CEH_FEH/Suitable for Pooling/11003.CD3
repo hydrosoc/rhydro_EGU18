@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 11003
+[END]
+[CDS DETAILS]
+NAME,Don
+LOCATION,Bridge of Alford
+NOMINAL AREA,  509.94
+NOMINAL NGR,3568,8170
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,356800,817050
+CENTROID NGR,GB,339411,812896
+DTM AREA,  509.94
+ALTBAR, 408
+ASPBAR, 75
+ASPVAR,0.11
+BFIHOST,0.565
+DPLBAR, 33.50
+DPSBAR,161.0
+FARL,0.996
+FPEXT,0.0363
+LDP, 69.02
+PROPWET,0.56
+RMED-1H,  8.6
+RMED-1D, 35.7
+RMED-2D, 49.2
+SAAR, 967
+SAAR4170,1080
+SPRHOST,33.59
+URBCONC1990,-9999.000
+URBEXT1990,0.0004
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0003
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station, the most upstream station on the Don. GENERAL: Velocity area station, the most upstream station on the Don. STATION HYDROMETRY: Cableway rated. Stable natural control with few changes in rating since flow began in 1973. Rating derived from current meter gaugings from cableway up to 2.7m. Peak flow rating extrapolated to 4m using surveyed/modelled information. A single rating is applied to the whole record. FLOW REGIME: Natural regime. Responsiveness dampened by superficial deposits.
+CATCHMENT,Upland catchment. Mountainous headwaters, often snowy in winter. Mainly Dalradian metamorphics, some older basic intrusives and a small pocket of ORS. High moorland, forestry, hill grazing and some arable in the valley bottom. No significant catchment changes known.
+Qmed Suitability,No comment
+Pooling Suitability,No comment
+[END]

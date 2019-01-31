@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 33063
+[END]
+[CDS DETAILS]
+NAME,Little Ouse
+LOCATION,Knettishall
+NOMINAL AREA,  103.33
+NOMINAL NGR,5954,2807
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,595500,280800
+CENTROID NGR,GB,601051,277608
+DTM AREA,  103.33
+ALTBAR,  41
+ASPBAR,351
+ASPVAR,0.15
+BFIHOST,0.596
+DPLBAR, 11.75
+DPSBAR, 17.2
+FARL,0.982
+FPEXT,0.1499
+LDP, 21.98
+PROPWET,0.28
+RMED-1H, 10.7
+RMED-1D, 27.3
+RMED-2D, 34.6
+SAAR, 595
+SAAR4170, 602
+SPRHOST,29.13
+URBCONC1990, 0.412
+URBEXT1990,0.0102
+URBLOC1990, 0.821
+URBCONC2000, 0.690
+URBEXT2000,0.0096
+URBLOC2000, 0.937
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Gauging a Chalk catchment with large Boulder Clay cover and predominantly arable land, flow record significantly affected by drowning and artificial influences. GENERAL: Compound Crump profile weir, 4.5m broad. Structure drowns above 3.35 cumecs. 3 wells constructed in 1987 to augment low flows. In 1979 replaced a broad crested weir called Knettishall Heath Weir located just u/s from current station. STATION HYDROMETRY: Structure drowns above 3.35 cumecs. Significant scatter in gaugings above 0.2m. Rating is for the structure built in 1979 and has been applied to whole record. FLOW RECORD: The 1960 flood level of 17.9mAOD (1.5m stage) was recorded on the Knettishall Heath Weir drawing. FLOW REGIME: Minor industrial/agricultural abstractions and returns. 3 wells constructed in 1987 to augment low flows.
+CATCHMENT,Chalk catchment with large Boulder Clay cover. Predominantly arable.
+Qmed Suitability,Gauged above QMED. Significant scatter in gaugings limits confidence in rating.
+Pooling Suitability,Significant scatter in gaugings limits confidence in rating.
+[END]

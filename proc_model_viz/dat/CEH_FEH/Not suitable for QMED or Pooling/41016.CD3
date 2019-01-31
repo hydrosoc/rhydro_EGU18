@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 41016
+[END]
+[CDS DETAILS]
+NAME,Cuckmere
+LOCATION,Cowbeech
+NOMINAL AREA,   19.10
+NOMINAL NGR,5611,1150
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,561150,115050
+CENTROID NGR,GB,560883,118772
+DTM AREA,   19.10
+ALTBAR,  90
+ASPBAR,182
+ASPVAR,0.34
+BFIHOST,0.471
+DPLBAR,  5.00
+DPSBAR, 78.5
+FARL,0.966
+FPEXT,0.0434
+LDP,  8.75
+PROPWET,0.34
+RMED-1H, 11.5
+RMED-1D, 37.0
+RMED-2D, 48.7
+SAAR, 855
+SAAR4170, 835
+SPRHOST,42.07
+URBCONC1990, 0.450
+URBEXT1990,0.0130
+URBLOC1990, 1.379
+URBCONC2000, 0.757
+URBEXT2000,0.0273
+URBLOC2000, 1.462
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,An asymmetrical compound Crump profile weir with reinforced concrete crests. A rural catchment (with a significant urban fraction in the headwaters) on mixed geology. Responsive to rainfall on impervious part of catchment. Large groundwater component. GENERAL: An asymmetrical compound Crump profile weir with reinforced concrete crests 2.13m and 2.97m broad. with crest tapping. Second crest is 0.15 m above lower crest. STATION HYDROMETRY: Transition of flow from small weir to larger weir at 0.4 m head, derived flows above this level can be suspect. Very limited head during droughts, and crest tapping is necessary at stages >0.6 m (not currently used, silted up regularly). Weir drowns around 0.75 m/5.8 m3/s and capacity is exceeded in large floods (structure-full 1.46 m); weir prone to bypassing. Bridge downstream causes choking, affecting the weir. New crest installed 2002, no change in crest level. One rating applied across period of record. Rating theoretically derived and confirmed up to 0.7m by spot gaugings although only very few check gaugings available. Good check gauging via downstream velocity-area station using current meter and derrick. At height of sidewalls flow can be between 10-15 m3/s. FLOW RECORD: Early daily flow data (1939-67) is of poorer quality (daily mean flows) and relates to low flows only, when a low flow weir was in place with a further low flow structure (V-notch), 180m downstream; some data have been infilled. FLOW REGIME: Large groundwater component, but responsive to rainfall on impervious part of catchment. Sewage treatment works discharges upstream. Earlier surface and groundwater abstractions have ceased; previously an abstraction intake existed immediately upstream of weir. Abstraction for public water supply.
+CATCHMENT,A rural catchment (with a significant urban fraction in the headwaters) developed on mixed geology, Hastings Beds predominate, with a Wealden mixture dominating the pervious parts of the catchment.
+Qmed Suitability,Rating deviates from gaugings beyond 0.7m and appears to overestimate flow.
+Pooling Suitability,Rating deviates from gaugings beyond 0.7m and appears to overestimate flow.
+[END]

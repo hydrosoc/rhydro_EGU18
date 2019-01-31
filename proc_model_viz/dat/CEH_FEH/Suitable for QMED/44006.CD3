@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 44006
+[END]
+[CDS DETAILS]
+NAME,Sydling Water
+LOCATION,Sydling St Nicholas
+NOMINAL AREA,   12.06
+NOMINAL NGR,3632, 996
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,363250,99650
+CENTROID NGR,GB,362830,101666
+DTM AREA,   12.06
+ALTBAR, 188
+ASPBAR,169
+ASPVAR,0.18
+BFIHOST,0.879
+DPLBAR,  3.33
+DPSBAR,128.9
+FARL,0.944
+FPEXT,0.0162
+LDP,  6.32
+PROPWET,0.38
+RMED-1H, 11.5
+RMED-1D, 40.8
+RMED-2D, 51.5
+SAAR,1030
+SAAR4170,1097
+SPRHOST,13.35
+URBCONC1990,-9999.000
+URBEXT1990,0.0018
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0048
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Crump profile weir built in 1969. GENERAL: Crump profile weir built in 1969, crest 1.95m wide with brick side walls and stainless steel crest. STATION HYDROMETRY: Modularity, previously of concern, due to weed growth and d/s channel geometry, improved by channel works. These factors may have influenced u/s levels earlier in the record. Upstream banks not well defined. Straight approach with rocky bed. Silt and gravel accumulation upstream is a recurring problem. Gauge is subject to some bypassing; overall effect not thought to be significant but may be appreciable at the most extreme flows. Bypassing commences at approx. 0.38m. Theoretical original rating, applicable to bankfull only. The upper limit at Sydling is at 0.3m/0.670cumecs. Gauged up to a level of 0.333m. Gauging agreed with extrapolation. FLOW REGIME: Natural to within 10% at Q95.
+CATCHMENT,Predominantly Lower Chalk with small outcrops of Middle and Upper Chalk forming higher ground flanking the catchment. Land use is pastoral with some arable agriculture on flatter ground. No major catchment changes.
+Qmed Suitability,Although not gauged to within 30% of QMED, theoretical rating is expected to perform well to QMED.
+Pooling Suitability,Bypassing not accounted for and no high flow gaugings available to validate rating beyond QMED.
+[END]

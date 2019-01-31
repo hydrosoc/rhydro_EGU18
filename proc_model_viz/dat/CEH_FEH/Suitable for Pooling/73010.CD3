@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 73010
+[END]
+[CDS DETAILS]
+NAME,Leven
+LOCATION,Newby Bridge
+NOMINAL AREA,  247.97
+NOMINAL NGR,3365,4862
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,336600,486300
+CENTROID NGR,GB,335815,501821
+DTM AREA,  247.97
+ALTBAR, 229
+ASPBAR,172
+ASPVAR,0.13
+BFIHOST,0.440
+DPLBAR, 21.47
+DPSBAR,218.9
+FARL,0.694
+FPEXT,0.0524
+LDP, 36.23
+PROPWET,0.71
+RMED-1H, 12.7
+RMED-1D, 67.0
+RMED-2D, 92.3
+SAAR,2172
+SAAR4170,2210
+SPRHOST,46.57
+URBCONC1990,-9999.000
+URBEXT1990,0.0045
+URBLOC1990,-9999.000
+URBCONC2000, 0.719
+URBEXT2000,0.0059
+URBLOC2000, 0.746
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Compound Crump profile weir gauging the outflow of Lake Windermere. The lake supports public water supply abstraction and attenuates peak flows. GENERAL: Level record since 1939 from four different sites at Newby Bridge. All flow records from 1939 to 1974 combined into a single sequence. Since 5/5/71 Compound Crump profile weir. The original "Recorder" station to 1969 was a recorder in a box with stilling well located where the upstream face of the bridge met the right bank. Chart trace appears ok. However, there was no staff gauge at the site to check the chart levels in the early years, and some concerns about the representativeness of recorded levels during high flows, and/or datum changes. The PGS (Primary Gauging Station; 1963-1981) was a velocity area station with a hut and cableway, on the right bank approx 140m upstream of the bridge. The period of overlap of the Recorder and PGS stations enabled a stage-discharge relationship to be derived for the Recorder station. In 1971 the weir immediately downstream of the bridge was reconstructed, flood relief gates added, and the present FMS (Flow Measuring Station) built downstream. A temporary recorder was installed approx 600m downstream of the FMS during construction of the FMS and upstream weir. The FMS station has a low central notch 3.7m wide, and two flanking crests 10m and 16.9 m wide, 0.65 m higher. Weir was repaired summer 2013 and crests restored to original profile; does not appear to have affected the single rating equation. STATION HYDROMETRY: Full-range station. The bridge is a control at medium to high flows, though some modelling suggests that the comparatively narrow part of the lake upstream of the bridge can act as a control on lake levels. The November 2009 event exceeded the top of the divide walls, but the weir was not drowned (see photos). Rated by current meter to 2m, extrapolated beyond. Observations of weir during highest event on record give confidence to extrapolation of rating. The FMS rating was developed including gaugings at PGS station. Flood Studies Report grade A1 from 1963, grade B before 1963 due to poor recorder set-up. FLOW RECORD: The records from the various stations since 1939 have been merged to form one record, though the Recorder record has more uncertainties than the later stations. Peak stage data for the Recorder period have been adjusted; the adjustment sets the offset of the rating equation to zero, which should generally be around 0.274m. (So an original stated level of 1.274m at a chart datum of 38.71mAOD with (h-0.274m) in the rating equation has been reset to a level of 1.0m, with (h+0) in the rating equation). The temporary station was used to calculate flows by correlation with the PGS and used to infill the flow record from Sept 1970 to June 1971. FLOW REGIME: Abstractions from Lake Windermere for public water supply. Peak flows attentuated by Lake Windermere.
+CATCHMENT,Catchment drains southern parts of the Lake District massif. Predominantly impervious, Borrowdale Volcanics in north and Silurian Slate in south. Boulder Clay along river valleys. Mainly grassland, very wooded in lower reaches. Catchment contains Windermere, Esthwaite Water, Rydal Water and Grasmere, and numerous other small, natural water bodies. No catchment changes known.
+Qmed Suitability,Gauged above QMED, all flow contained.
+Pooling Suitability,See rating development and station descriptions.
+[END]

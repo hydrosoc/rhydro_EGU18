@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 52011
+[END]
+[CDS DETAILS]
+NAME,Cary
+LOCATION,Somerton
+NOMINAL AREA,   84.64
+NOMINAL NGR,3498,1290
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,349800,129050
+CENTROID NGR,GB,355532,128170
+DTM AREA,   84.64
+ALTBAR,  38
+ASPBAR,215
+ASPVAR,0.09
+BFIHOST,0.532
+DPLBAR, 11.75
+DPSBAR, 30.2
+FARL,1.000
+FPEXT,0.2355
+LDP, 25.12
+PROPWET,0.37
+RMED-1H, 10.5
+RMED-1D, 31.1
+RMED-2D, 40.3
+SAAR, 715
+SAAR4170, 755
+SPRHOST,37.89
+URBCONC1990, 0.521
+URBEXT1990,0.0127
+URBLOC1990, 0.663
+URBCONC2000, 0.706
+URBEXT2000,0.0242
+URBLOC2000, 0.665
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Compound Crump profile weir; velocity-area for flows greated than 4.4 cumecs. Weed growth downstream affects rating in summer. GENERAL: Station opened in 1965. Compound Crump profile weir, approx. 330m upstream of Cary Bridge. Centre section 3.05m broad, two side sections 1.22m broad. Velocity area station for flows greater than 4.4 cumecs (downstream summer weed growth affects the stability of stage-discharge relationship). STATION HYDROMETRY: Full range station, banks containing all but exceptional floods. Rating reviewed in 2011. Separate curve for the first two years after construction. Weed growth d/s affects rating in summer & high flows. No apparent bypassing. New curve derived from gaugings from 1992 allowing for drowning and in-channel vegetation growth. FLOW REGIME: Minor groundwater abstractions & some augmentation from effluent returns.
+CATCHMENT,Catchment predominantly of Lower Lias and Oolitic Limestone. Land use is rural with no large built up areas. No major catchment changes.
+Qmed Suitability,Gauged above QMED. Significant scatter in check gaugings.
+Pooling Suitability,Although gauged beyond AMAX3, rating is uncertain as considerable scatter in check gaugings is evident.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+203021
+[END]
+[CDS DETAILS]
+NAME,Kellswater
+LOCATION,Curry's Bridge
+NOMINAL AREA,  126.46
+NOMINAL NGR,3105,3970
+[END]
+[DESCRIPTORS]
+IHDTM NGR,Ireland,310500,397100
+CENTROID NGR,Ireland,322206,398955
+DTM AREA,  126.46
+ALTBAR, 212
+ASPBAR,252
+ASPVAR,0.24
+BFIHOST,0.346
+DPLBAR, 18.60
+DPSBAR, 64.6
+FARL,0.992
+FPEXT,0.0712
+LDP, 33.00
+PROPWET,0.54
+RMED-1H, 10.6
+RMED-1D, 41.5
+RMED-2D, 54.9
+SAAR,1188
+SAAR4170,1231
+SPRHOST,44.57
+URBCONC1990,-0.002
+URBEXT1990,0.0044
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0019
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station with cableway and natural control. GENERAL: Velocity area station 1.5km d/s of confluence with the R Main. STATION HYDROMETRY: Cableway present. Bridge downstream does not backup flows, and nor does the River Main at high flows. Rating derived from current meter gaugings from cableway. Simple extrapolation occurs above approx 47m3/s. FLOW RECORD: Daily flows from 1974 onwards were reprocessed in 2002. Last high flow gauging carried out in 1986. No gaugings above QMED. FLOW REGIME: Ballyboley reservoir provides storage in catchment and abstractions for public water supply but net effect is minor, 13Ml/d. Indirect diversions result in an additional 10 km2 to the catchment but this is offset by the export of water for public water supply out of the catchment. Flows may be affected by fishermen's weirs.
+CATCHMENT,Predominantly upland area - mostly heath, some upland grass pasture, with some shrub heath and coniferous woodland and limited afforestation. No urban development. Solid geology - the area is mostly underlain by Palaeogene basalt lava flows. Drift geology -Extensive glacial till with restricted sand and gravel and river alluvium in valleys. Rock near surface and extensive post-glacial peat cover on high ground.
+Qmed Suitability,Get out of bank before QMED and the percentage of unmeasured floodplain flow is significantly larger than 20%
+Pooling Suitability,High flows not contained however growth curve does look representative.
+[END]

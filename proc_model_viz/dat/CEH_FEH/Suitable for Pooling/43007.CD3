@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 43007
+[END]
+[CDS DETAILS]
+NAME,Stour
+LOCATION,Throop
+NOMINAL AREA, 1062.08
+NOMINAL NGR,4112, 960
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,411250,96050
+CENTROID NGR,GB,385056,113220
+DTM AREA, 1062.08
+ALTBAR,  92
+ASPBAR,130
+ASPVAR,0.12
+BFIHOST,0.664
+DPLBAR, 62.57
+DPSBAR, 54.1
+FARL,0.988
+FPEXT,0.1122
+LDP,105.90
+PROPWET,0.35
+RMED-1H, 10.8
+RMED-1D, 35.5
+RMED-2D, 45.9
+SAAR, 861
+SAAR4170, 901
+SPRHOST,25.63
+URBCONC1990, 0.618
+URBEXT1990,0.0169
+URBLOC1990, 0.608
+URBCONC2000, 0.814
+URBEXT2000,0.0196
+URBLOC2000, 0.594
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Compound crump profile weir on River Stour. GENERAL: Compound Crump profile weir, centre crest 5m wide and 2 higher flanking crests 18m wide. STATION HYDROMETRY: Site unapproachable in flood conditions, gaugings can be problematic due to the wide approach channel and weed growth. High flow gaugings carried out at New Road Bridge (5km u/s) or Ensbury (4km u/s). Some combined gauging of the Stour and Moors River has taken place at Blackwater Bridge (SZ 134 959). Rating incorporates flow through two bypass channels just upstream of station: mill channel and Lodden Stour. with a good fit to gaugings. Two peak flow ratings applied across period of record. Extended flow rating derived 1992 and corrected 2002, confirmed by gaugings. FLOW REGIME: Substantial ground and surface water abstractions including for public water supply. Runoff increased by effluent returns from upstream waterworks.
+CATCHMENT,Mixed geology - predominantly Chalk (~50%); some clay (~30%), limestone including Great Oolite series, Corallian and Cornbrash (approx. 10%) and Upper Greensand (approx. 10%). Land use: rural and agricultural. No major changes.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Rating considers out of bank flow and fits well to maximum gauged flow.
+[END]

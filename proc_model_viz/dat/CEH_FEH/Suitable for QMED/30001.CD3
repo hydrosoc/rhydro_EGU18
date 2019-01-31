@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 30001
+[END]
+[CDS DETAILS]
+NAME,Witham
+LOCATION,Claypole Mill
+NOMINAL AREA,  295.67
+NOMINAL NGR,4842,3479
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,484200,347950
+CENTROID NGR,GB,489791,333504
+DTM AREA,  295.67
+ALTBAR,  86
+ASPBAR, 28
+ASPVAR,0.14
+BFIHOST,0.592
+DPLBAR, 27.75
+DPSBAR, 30.4
+FARL,0.975
+FPEXT,0.1403
+LDP, 53.33
+PROPWET,0.27
+RMED-1H, 10.9
+RMED-1D, 31.7
+RMED-2D, 41.1
+SAAR, 615
+SAAR4170, 632
+SPRHOST,28.49
+URBCONC1990, 0.626
+URBEXT1990,0.0187
+URBLOC1990, 0.876
+URBCONC2000, 0.810
+URBEXT2000,0.0351
+URBLOC2000, 0.942
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Gauging a predominantly rural catchment with mixed geology and substantial artificial influences. GENERAL: An old three level weir, total width of 24.99m converted to a standard broad-crested Lea design. STATION HYDROMETRY: No bypassing or drowning. Fairly insensitive but range and gauge quality good. Rated by c/m. Scatter in gaugings evident with the highest gaugings suggesting that the current rating underestimates flow. One rating applied across period of record. FLOW REGIME: Substantial modification of low flows by transfer to Rutland Water and PWS at Saltersford; >50% of low flows may be abstracted representing between 10 and 30% of average flow. Some effluent returns.
+CATCHMENT,The catchment is about half clay and half limestone, mainly clay d/s of Grantham. Some superficial deposits of Boulder Clay in headwaters and gravel terrace deposits in valleys. Some drainage from the Lincolnshire Limestone in the form of springs. Other springs have been found to emanate from gravel beds perched on the Lias Clays. Largely rural, although Grantham is within the catchment.
+Qmed Suitability,Flow remains modular with the rating providing a reasonable fit to gaugings.
+Pooling Suitability,Few high flow gaugings. Rating can not be validated beyond QMED but current data suggests rating underestimates high flows.
+[END]

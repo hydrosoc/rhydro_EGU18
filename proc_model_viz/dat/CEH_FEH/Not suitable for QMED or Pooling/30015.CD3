@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 30015
+[END]
+[CDS DETAILS]
+NAME,Cringle Brook
+LOCATION,Stoke Rochford
+NOMINAL AREA,   41.28
+NOMINAL NGR,4924,3296
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,492450,329650
+CENTROID NGR,GB,488576,327103
+DTM AREA,   41.28
+ALTBAR, 129
+ASPBAR, 84
+ASPVAR,0.33
+BFIHOST,0.847
+DPLBAR,  7.71
+DPSBAR, 32.9
+FARL,0.931
+FPEXT,0.0855
+LDP, 14.54
+PROPWET,0.27
+RMED-1H, 11.4
+RMED-1D, 33.0
+RMED-2D, 42.3
+SAAR, 656
+SAAR4170, 656
+SPRHOST,11.78
+URBCONC1990,-9999.000
+URBEXT1990,0.0008
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0035
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Structure in a tunnel under A1 gauging a rural, near-natural catchment with mixed geology. GENERAL: Sharp-crested weir 2.74m wide in tunnel under A1. STATION HYDROMETRY: Weir drowns above about 0.25 cumecs, but flows depend on position of weirs and sluices immediately d/s. Rating includes an allowance for drowning using assumed positions of d/s weirs and sluices. Two peak flow ratings applied across period of record. FLOW RECORD: Exceptionally low flows in Oct 1990 suspect. FLOW REGIME: No artificial influences. Natural to within 10% at the Q95. Major supply abstraction point d/s of station. Major supply abstraction point d/s of station.
+CATCHMENT,Catchment underlain by Oolitic L'st and Lias Clay. Rural, land use is mixed farming.
+Qmed Suitability,Not gauged to within 30% of QMED. QMED is above wing walls and weir is drowned.
+Pooling Suitability,Med is above the wing wall level and the modular limit of the weir. No high flow gaugings exist to validate the rating.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 27031
+[END]
+[CDS DETAILS]
+NAME,Colne
+LOCATION,Colne Bridge
+NOMINAL AREA,  245.58
+NOMINAL NGR,4173,4199
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,417400,419950
+CENTROID NGR,GB,412179,411831
+DTM AREA,  245.58
+ALTBAR, 246
+ASPBAR, 54
+ASPVAR,0.24
+BFIHOST,0.606
+DPLBAR, 15.67
+DPSBAR,121.8
+FARL,0.947
+FPEXT,0.0306
+LDP, 27.43
+PROPWET,0.52
+RMED-1H, 11.1
+RMED-1D, 44.3
+RMED-2D, 60.1
+SAAR,1144
+SAAR4170,1131
+SPRHOST,24.21
+URBCONC1990, 0.703
+URBEXT1990,0.0786
+URBLOC1990, 0.568
+URBCONC2000, 0.775
+URBEXT2000,0.0896
+URBLOC2000, 0.616
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,A non-standard broad-crested weir. The lower catchment is heavily urbanised and industrialised. GENERAL: A non-standard, reinforced, curved, concrete broad-crested weir 52m wide; broad-crested flanking-weirs 0.4m higher. Comprises a steel crest with an off-centre crump-weir notch 3.8m wide for more accurate low flow measurement. The existing sidewalls extend well upstream and no end contractions are known. Located within high, regular-profile riverbanks which contains flow at all levels. Colne Bridge is located about 650m upstream of the confluence with the Calder. There are some problems of silting. STATION HYDROMETRY: A pressure recorder was installed at Longroyd Bridge, 2.75km upstream, a to monitor backwater effects from the River Calder. Daily flows rated by current meter, cableway 200m d/s. Two peak flow ratings applied across period of record, the most recent is valid from January 1966. Current rating (C) may under-estimate peak flows and review required following gaugings in 2012 flood events. Low flows are rated by crump formula for the weir notch. Empirical high flow rating from current meter gauging. In 1975 Flood Studies Report grade B. FLOW RECORD: Although such events are rare, the 1946 flood level reached 2.4m over the Crump. Low flows in February 1992 due to a landslip event causing ponding u/s of station; flows bypassed through nearby canal. FLOW REGIME: There are numerous small storage reservoirs in the Colne valley. An estimated 16.75% of catchment drains through around 8 reservoirs. Abstractions are made for supply at Huddersfield. Some imports of water received from Deanhead reservoir and groundwater abstractions. Export of water is made from Blackmoorfoot reservoir. Industrial abstraction from downstream of the confluence with the Calder is discharged back to the Colne upstream of the station. Industrial abstraction along the Huddersfield Broad Canal.
+CATCHMENT,The catchment draining the East side of the Pennines above Huddersfield. Mixed geology with Carboniferous Millstone Grit in the upper catchment and Coal Measures, which dip under Lower Coal Measures in the lower part. Catchment comprises peat-covered moorland headwaters used for rough grazing. Steep valleys descend rapidly to heavily industrialised and densely settled valley bottoms and which includes Huddersfield. Continuing increase in urbanisation around Huddersfield during period of record.
+Qmed Suitability,Gauged above QMED. Good containment.
+Pooling Suitability,Gauged beyond AMAX3. Flow is contained within regularly profiled banks giving reliable extrapolation and no bypassing.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 37016
+[END]
+[CDS DETAILS]
+NAME,Pant
+LOCATION,Copford Hall
+NOMINAL AREA,   63.80
+NOMINAL NGR,5668,2313
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,566850,231300
+CENTROID NGR,GB,562347,235667
+DTM AREA,   63.80
+ALTBAR,  97
+ASPBAR,113
+ASPVAR,0.15
+BFIHOST,0.404
+DPLBAR, 10.19
+DPSBAR, 28.8
+FARL,0.997
+FPEXT,0.0692
+LDP, 18.67
+PROPWET,0.30
+RMED-1H, 11.3
+RMED-1D, 28.2
+RMED-2D, 35.2
+SAAR, 588
+SAAR4170, 612
+SPRHOST,43.60
+URBCONC1990, 0.466
+URBEXT1990,0.0116
+URBLOC1990, 0.994
+URBCONC2000, 0.617
+URBEXT2000,0.0090
+URBLOC2000, 1.221
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,'Essex' profile 5km d/s of the Great Sampford Outfall which is part of Ely/Ouse Transfer Scheme and has major impact on flows. GENERAL: 'Essex' profile (modified Flat V Crump) weir (insensitive) with crest tapping. STATION HYDROMETRY: Measures up to 12.0 cumecs, flows above this are estimated because they spill on a spillway. One peak flow rating applied across period of record. FLOW RECORD: No POT data are presented for this station as they have no non-modular flow correction applied. AMAX data have been corrected, but in some cases can be below the daily flow as these are not corrected. FLOW REGIME: Intermittent pumping of Ely/Ouse Transfer Scheme has major effect on station, which is only 5km d/s of the Great Sampford Outfall. Some industrial/agricultural abstraction
+CATCHMENT,Predominantly Upper Chalk largely overlain by Boulder Clay. Glacial gravels exposed along the whole river valley. Rural, predominantly arable land.
+Qmed Suitability,Gauged above QMED. Reasonable fit to gaugings.
+Pooling Suitability,Gauged beyond AMAX3. Reasonable fit to gaugings.
+[END]

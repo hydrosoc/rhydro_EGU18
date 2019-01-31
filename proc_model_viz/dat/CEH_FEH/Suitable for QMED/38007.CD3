@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 38007
+[END]
+[CDS DETAILS]
+NAME,Canons Brook
+LOCATION,Elizabeth Way
+NOMINAL AREA,   20.76
+NOMINAL NGR,5431,2103
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,543200,210400
+CENTROID NGR,GB,544682,208310
+DTM AREA,   20.76
+ALTBAR,  75
+ASPBAR,335
+ASPVAR,0.38
+BFIHOST,0.353
+DPLBAR,  4.33
+DPSBAR, 29.3
+FARL,0.988
+FPEXT,0.0523
+LDP,  7.82
+PROPWET,0.31
+RMED-1H, 11.1
+RMED-1D, 31.8
+RMED-2D, 39.0
+SAAR, 601
+SAAR4170, 611
+SPRHOST,45.90
+URBCONC1990, 0.757
+URBEXT1990,0.1730
+URBLOC1990, 0.876
+URBCONC2000, 0.831
+URBEXT2000,0.2480
+URBLOC2000, 0.908
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Station located in the lower region of Canons Brook before it joins the Stort. It is an important (>50 yr) urban time series. GENERAL: Full range critical-depth flume in rectangular section. Between the years 1965 to 1980, low flows were monitored at a (less sensitive) Crump weir that was in series with the flume. STATION HYDROMETRY: One rating applied across period of record. Theoretical calibration extends to 11 cumecs but gaugings have only been taken at low flows and need confirmation at peak flows. FLOW RECORD: Pre-1970 data less reliable. FLOW REGIME: Balancing resevoirs in Harlow (and the New Town development itself) influence the flow pattern but there are no significant abstractions or discharges. Natural to within 10% at Q95.
+CATCHMENT,The catchment geology is impervious dominated by London Clay. Rural headwaters but heavily urbanised d/s.
+Qmed Suitability,Although highest gauging ~25% QMED, flow is within bank and standard weir expected to perform well.
+Pooling Suitability,No gaugings exist beyond QMED and AMAX approach bank full. Bypassing and drowned flow not quantified.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 57007
+[END]
+[CDS DETAILS]
+NAME,Taff
+LOCATION,Fiddlers Elbow
+NOMINAL AREA,  193.84
+NOMINAL NGR,3089,1951
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,308900,195150
+CENTROID NGR,GB,304645,209136
+DTM AREA,  193.84
+ALTBAR, 367
+ASPBAR,180
+ASPVAR,0.20
+BFIHOST,0.402
+DPLBAR, 20.71
+DPSBAR,153.1
+FARL,0.906
+FPEXT,0.0330
+LDP, 37.87
+PROPWET,0.52
+RMED-1H, 12.0
+RMED-1D, 58.4
+RMED-2D, 78.7
+SAAR,1719
+SAAR4170,1731
+SPRHOST,44.68
+URBCONC1990, 0.654
+URBEXT1990,0.0300
+URBLOC1990, 0.716
+URBCONC2000, 0.763
+URBEXT2000,0.0441
+URBLOC2000, 0.677
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Flat V weir, velocity area station for high flows. Flows affected by mine water discharges, impounding reservoirs and industrial abstractions in valley. GENERAL: Flat V weir with concrete side walls. Velocity area station for high flows. STATION HYDROMETRY: Weir width 23m; cross-slope 1:20, 1:5 d/s, 1:2 u/s. Full range. Two peak flow ratings applied across period of record. Some scatter in gaugings just above wing walls. Series of six PWS impounding reservoirs in the upper catchment (Taf Fawr and Taf Fechan) affects runoff. Runoff at low flows influenced by groundwater abstraction/recharge and abstraction for industry/agriculture. Increased by effluent returns and minewater discharges. FLOW RECORD: Data prior to 1962 of poorer quality than those since, although Sept / Oct 1959 minima realistic. Flow minima during period of missing data in 1960 likely to have been 0.30-0.35 cumecs. Full period of record peak flow data reviewed and released in April 2017 (WINFAP Files v5). FLOW REGIME: Flows affected by mine water discharges u/s, also impounding reservoirs and industrial abstractions in valley.
+CATCHMENT,Coal Measures with Millstone Grit and Carboniferous Limestone in northern area. Boulder Clay and Alluvial deposits in valleys. Mainly upland area with peaty soils, seasonally wet. Land use is largely grassland, heathland at highest elevations and some forest. Considerable urban development in valley bottom. Half of catchment within Brecon Beacons National Park.
+Qmed Suitability,Gauged above QMED. Good fit to gaugings.
+Pooling Suitability,Gauged to within 7% of AMAX3. High confidence in flows beyond QMED.
+[END]

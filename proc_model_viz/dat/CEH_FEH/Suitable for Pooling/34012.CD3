@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 34012
+[END]
+[CDS DETAILS]
+NAME,Burn
+LOCATION,Burnham Overy
+NOMINAL AREA,   83.87
+NOMINAL NGR,5841,3427
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,584150,342800
+CENTROID NGR,GB,584690,337532
+DTM AREA,   83.87
+ALTBAR,  48
+ASPBAR, 25
+ASPVAR,0.13
+BFIHOST,0.965
+DPLBAR,  8.52
+DPSBAR, 26.8
+FARL,0.997
+FPEXT,0.0983
+LDP, 17.01
+PROPWET,0.30
+RMED-1H, 11.1
+RMED-1D, 30.9
+RMED-2D, 38.9
+SAAR, 668
+SAAR4170, 676
+SPRHOST, 6.29
+URBCONC1990, 0.509
+URBEXT1990,0.0116
+URBLOC1990, 0.733
+URBCONC2000,-9999.000
+URBEXT2000,0.0049
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Crump weir gauging a gw influenced, rural catchment with Chalk bedrock overlain with superficial deposits and with only minor artificial influences, station is bypassed at high flows. GENERAL: Compound Crump weir with three sections - central low flow crest 0.6m, flanked by two crests 1.2m wide each. STATION HYDROMETRY: Bypasses at 2.3 cumecs. Can be affected by mill operations c 50m u/s. One rating applied across period of record. FLOW RECORD: Low flows in summer 2005 and 2008 affected by u/s mill operation. FLOW REGIME: Gw-influenced regime, annual hydrographs reflect high baseflow component from the Chalk aquifer. Industrial/agricultural abstraction reduces natural runoff but impacts are minimal. Effluent returns increase runoff and may produce a minor net import from outside the catchment.
+CATCHMENT,Predominantly Boulder Clay with some sand and gravel, underlying Chalk exposed in the valleys. Rural, predominantly arable.
+Qmed Suitability,Gauged above QMED. Good fit to rating.
+Pooling Suitability,Gauged to within 25% of AMAX3. AMAX3 remains contained and flow is modular.
+[END]

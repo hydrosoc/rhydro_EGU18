@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 37020
+[END]
+[CDS DETAILS]
+NAME,Chelmer
+LOCATION,Felsted
+NOMINAL AREA,  133.45
+NOMINAL NGR,5670,2193
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,567100,219350
+CENTROID NGR,GB,562312,226064
+DTM AREA,  133.45
+ALTBAR,  86
+ASPBAR,136
+ASPVAR,0.17
+BFIHOST,0.468
+DPLBAR, 12.90
+DPSBAR, 29.6
+FARL,0.982
+FPEXT,0.0659
+LDP, 26.53
+PROPWET,0.31
+RMED-1H, 11.2
+RMED-1D, 28.5
+RMED-2D, 35.1
+SAAR, 588
+SAAR4170, 602
+SPRHOST,40.13
+URBCONC1990, 0.500
+URBEXT1990,0.0122
+URBLOC1990, 0.828
+URBCONC2000, 0.711
+URBEXT2000,0.0189
+URBLOC2000, 0.784
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,'Essex' profile gauging a rural, predominantly London Clay catchment with minor artificial influences. GENERAL: 'Essex' profile (modified Flat V Crump) weir with crest tapping. STATION HYDROMETRY: Drowning commences at 0.6m, and varies in severity. Limit of reliable gauging is at 1.21m, higher flows estimated. Flood plain storage starts at 1.1m. No spillway. Hydraulic model used to derive rating for high flows. Reasonable fit to gaugings. One peak flow rating applied across period of record. FLOW REGIME: Minimal abstractions, adjustments needed for STW and industrial effluent discharges.
+CATCHMENT,Chalk in N, London Clay elsewhere, largely overlain with Boulder Clay and some glacial gravel. Rural, agricultural land use, predominantly arable land.
+Qmed Suitability,QMED within bank and well gauged.
+Pooling Suitability,Confident in performance of model derived rating for out of bank flows.
+[END]

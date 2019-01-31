@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 55026
+[END]
+[CDS DETAILS]
+NAME,Wye
+LOCATION,Ddol Farm
+NOMINAL AREA,  172.12
+NOMINAL NGR,2975,2675
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,297550,267600
+CENTROID NGR,GB,292072,276806
+DTM AREA,  172.12
+ALTBAR, 387
+ASPBAR,125
+ASPVAR,0.10
+BFIHOST,0.423
+DPLBAR, 18.19
+DPSBAR,180.2
+FARL,0.997
+FPEXT,0.0409
+LDP, 37.65
+PROPWET,0.59
+RMED-1H, 11.1
+RMED-1D, 52.7
+RMED-2D, 70.0
+SAAR,1636
+SAAR4170,1603
+SPRHOST,43.36
+URBCONC1990,-9999.000
+URBEXT1990,0.0015
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0025
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station with rock bar as control. Informal Flat V installed 1972. Runoff reduced by public water supply abstraction. GENERAL: Velocity area station with rock bar as control. Informal Flat V installed 1972. Station replaced 55005 Rhayader Groe (1937-69). Bankfull width 30m. STATION HYDROMETRY: Cableway span 54m. All but exceptional floods contained. Issues with stilling well intake pipe from 2006, notably affecting low flows, lead to long-term reliance on back-up recorder and culminated in eventual station rebuild in 2012/13. Two peak flow ratings applied over period of record. FLOW RECORD: Flow series up to 1969 from 55005 Rhayader Groe; data generally thought to be of poorer quality. Following rebuild in July 2013, all ratings reviewed and flows since Aug 1978 reprocessed, particularly affecting GDF low flows since 1984 and HIFs since 2003. FLOW REGIME: Lowest gauging station on Wye unaffected by large water supply reservoir (flows from Elan valley complex enter just d/s), although runoff reduced by public water supply abstraction.
+CATCHMENT,Wet, upland catchment draining impermeable, metamorphosed Silurian sediments. High relief, headwaters reach over 600m, and feature steep sided valleys and high gradient streams. Dominant land use is grassland with moorland and extensive areas of forest in headwaters.
+Qmed Suitability,Gauged above QMED. Rating providing a good fit to gaugings
+Pooling Suitability,Gauged to within 1% of AMAX3. Two gaugings above 2.5m lend confidence to the rating at high flows.
+[END]

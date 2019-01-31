@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 49006
+[END]
+[CDS DETAILS]
+NAME,Camel
+LOCATION,Camelford
+NOMINAL AREA,   12.52
+NOMINAL NGR,2106, 838
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,210650,83900
+CENTROID NGR,GB,211576, 86653
+DTM AREA,   12.52
+ALTBAR, 253
+ASPBAR,227
+ASPVAR,0.14
+BFIHOST,0.575
+DPLBAR,  3.93
+DPSBAR, 57.5
+FARL,1.000
+FPEXT,0.0126
+LDP,  7.44
+PROPWET,0.46
+RMED-1H, 12.4
+RMED-1D, 43.4
+RMED-2D, 59.5
+SAAR,1418
+SAAR4170,1439
+SPRHOST,35.75
+URBCONC1990,-9999.000
+URBEXT1990,0.0030
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0029
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Open channel rated section located within flood defence scheme. Mostly rural catchment. GENERAL: Open channel rated section located within flood defence scheme. Station located upstream of non standard weir and fish pass and rated by gauging. ADVP flow gauge also installed to assist in rating process. STATION HYDROMETRY: Flows contained by flood banks at site. Gauged to 75% QMED, current peak flow rating includes theoretical low flow section through fish pass. Upper end segment is developed using gaugings and gives a good fit to gaugings currently available. FLOW REGIME: The catchment is almost exclusively rural consisting of farmland and moorland.
+CATCHMENT,The catchment if made up mainly of Upper and Lower Devonian slates. Because of the low permeability of the rocks, rainfall can result in rapid runoff and therefore, river levels generally rise quickly after rain. No major changes to catchment.
+Qmed Suitability,Gauged to around 75% QMED
+Pooling Suitability,Although not gauged above QMED, all flows contained.
+[END]

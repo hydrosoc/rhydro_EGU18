@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 27008
+[END]
+[CDS DETAILS]
+NAME,Swale
+LOCATION,Leckby Grange
+NOMINAL AREA, 1350.26
+NOMINAL NGR,4415,4748
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,441550,474850
+CENTROID NGR,GB,422267,495156
+DTM AREA, 1350.26
+ALTBAR, 183
+ASPBAR,116
+ASPVAR,0.10
+BFIHOST,0.436
+DPLBAR, 52.52
+DPSBAR, 67.0
+FARL,0.994
+FPEXT,0.1182
+LDP,112.46
+PROPWET,0.38
+RMED-1H, 10.8
+RMED-1D, 34.5
+RMED-2D, 43.7
+SAAR, 835
+SAAR4170, 873
+SPRHOST,39.89
+URBCONC1990, 0.548
+URBEXT1990,0.0091
+URBLOC1990, 0.691
+URBCONC2000, 0.743
+URBEXT2000,0.0130
+URBLOC2000, 0.730
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station with no known artificial influences but affected by weed growth at low flows. Station closed December 1984. GENERAL: Velocity area station, channel 22m wide at low flows, 180m d/s of the Swale/Cod beck confluence. No single effective control - heavy summer weedgrowth. Station superseded by Crakehill (27071) in 1980 1.5km d/s (but cableway still used for high flow calibration). Station closed 31-12-1984. STATION HYDROMETRY: Stage-discharge relationship is affected by heavy weed growth at low flows; bypassing begins at 6.15m over left bank at high flows. Peak flow rating changed in October 1968 to account for downstream bank erosion. High flows are suspected to be largely over-estimated by the rating. FLOW REGIME: No known artificial influences.
+CATCHMENT,Geology comprises mainly Limestones, Triassic Sandstones and Shales with over half the catchment overlain by Boulder Clay. Predominantly mixed agriculture with moorland headwaters draining the North Yorkshire Dales. No known catchment changes.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged beyond AMAX3. There is some uncertainty and scatter in the gaugings. However, recent high flow gauging at 5.63m stage recorded flow of 217.5m3/s, ~7% lower than the rating estimate of 232m3/s
+[END]

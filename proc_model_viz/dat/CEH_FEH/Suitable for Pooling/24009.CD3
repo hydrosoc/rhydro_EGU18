@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 24009
+[END]
+[CDS DETAILS]
+NAME,Wear
+LOCATION,Chester le Street
+NOMINAL AREA, 1005.00
+NOMINAL NGR,4283,5512
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,428300,551150
+CENTROID NGR,GB,411148,537834
+DTM AREA, 1005.00
+ALTBAR, 249
+ASPBAR, 90
+ASPVAR,0.17
+BFIHOST,0.351
+DPLBAR, 61.23
+DPSBAR, 87.7
+FARL,0.984
+FPEXT,0.0414
+LDP,103.28
+PROPWET,0.40
+RMED-1H,  9.9
+RMED-1D, 34.6
+RMED-2D, 45.0
+SAAR, 855
+SAAR4170, 885
+SPRHOST,41.84
+URBCONC1990, 0.659
+URBEXT1990,0.0246
+URBLOC1990, 0.659
+URBCONC2000, 0.798
+URBEXT2000,0.0313
+URBLOC2000, 0.648
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Flat-V weir close to the tidal limit of the Wear. Flow regime influenced by reservoirs, abstractions and minewater discharges. GENERAL: Flat-V weir (1:2, 1:2 profile). Cast iron crest units. Close to tidal limit of the Wear but this is not thought to affect weir tail water level. STATION HYDROMETRY: Structure drowns at high flows and is non-modular at low flows. Flows go out of bank at levels greater than 3m and so peaks are truncated above this level. One peak flow rating applied across period of record. High flow part derived and checked by current meter gaugings by wading and from upstream bridge to 336 cumecs. FLOW REGIME: Peaks of very large events are flattened. Reservoirs in catchment include Burnhope and Tunstall. In drought years low flows supported by Kielder transfer (flows maintained >2 cumecs). Abstraction for Wearside water supply is downstream of gauging station at Lumley. Also affected by minewater discharges (regime has changed since pit closures). Artificial influences created a distinctive diurnal variation, especially at low flows, until 2004.
+CATCHMENT,Carboniferous Limestone and Millstone Grit, with over two thirds of the catchment overlain by superficial deposits (mainly Boulder Clay). Land use half grass pasture, moorland in Pennine headwaters, arable and built-up areas in lower valley. No known catchment changes.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged to within 6% of AMAX3.
+[END]

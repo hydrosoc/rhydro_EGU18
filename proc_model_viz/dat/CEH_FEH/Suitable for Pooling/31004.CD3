@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 31004
+[END]
+[CDS DETAILS]
+NAME,Welland
+LOCATION,Tallington Total
+NOMINAL AREA,  708.01
+NOMINAL NGR,5095,3077
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,509600,307700
+CENTROID NGR,GB,483677,298565
+DTM AREA,  708.01
+ALTBAR, 104
+ASPBAR, 99
+ASPVAR,0.17
+BFIHOST,0.476
+DPLBAR, 44.77
+DPSBAR, 47.7
+FARL,0.925
+FPEXT,0.0867
+LDP, 80.15
+PROPWET,0.29
+RMED-1H, 12.0
+RMED-1D, 31.1
+RMED-2D, 40.0
+SAAR, 632
+SAAR4170, 638
+SPRHOST,37.93
+URBCONC1990, 0.634
+URBEXT1990,0.0119
+URBLOC1990, 0.756
+URBCONC2000, 0.790
+URBEXT2000,0.0182
+URBLOC2000, 0.855
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Compound site of three parts, gauging a predominantly rural catchment with mixed geology, with significant artificial influences including the Rutland water reservoir, record post 1994 are for indicative purposes only. GENERAL: Compound site. Flows measured over broad-crested weir (total width 28.35m) on main River Welland/Maxey Cutand, two Crump profile weirs (both with 6.1m crest length) on West Deeping, plus flow into Tallington stream and Lolham Mill stream. Total flow is sum of three records - Lolham, West Deeping, and Tallington. STATION HYDROMETRY: Weir at Lolham drowns in summer due to weeds, and true flows estimated. New improved theoretical rating developed to account for new larriner fish pass channel (0.6m wide) installed in December 2014. FLOW RECORD: Post-1994 flow record contains many gaps and anomalous sequences and should be used for indicative purposes only, particularly at low flows. FLOW REGIME: About 11% of the catchment area drains into Rutland Water construction on Gwash (drinking water reservoir) opened in 1976. Significant quantities of water also abstracted u/s for transmission to Rutland Water with significant effect on low flows. Abstraction in catchment also for PWS, industry and agriculture. Runoff increased by effluent returns.
+CATCHMENT,Site is at a place where river becomes Fenland river. Largely clay, with some Boulder Clay cover. Rural catchment, mixed farming, some urban development u/s of station.
+Qmed Suitability,Lolham is non modular but only small proportion of total flow.
+Pooling Suitability,Tallington main weir carries most flow and is in bank and modular to above AMAX3
+[END]

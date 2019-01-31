@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 54005
+[END]
+[CDS DETAILS]
+NAME,Severn
+LOCATION,Montford
+NOMINAL AREA, 2026.77
+NOMINAL NGR,3411,3144
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,341200,314450
+CENTROID NGR,GB,310948,306939
+DTM AREA, 2026.77
+ALTBAR, 249
+ASPBAR, 99
+ASPVAR,0.10
+BFIHOST,0.470
+DPLBAR, 67.88
+DPSBAR,133.6
+FARL,0.977
+FPEXT,0.0919
+LDP,121.66
+PROPWET,0.50
+RMED-1H,  9.7
+RMED-1D, 38.9
+RMED-2D, 50.8
+SAAR,1147
+SAAR4170,1163
+SPRHOST,38.49
+URBCONC1990,-9999.000
+URBEXT1990,0.0026
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0042
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station up to 1994 when cross-path ultrasonic installed up to bankfull draining a highly regulated catchment with limited naturalised flows available. GENERAL: Velocity area station up to 1994 when cross-path ultrasonic installed up to bankfull. Fully contained (EA comment that it can bypass on left bank); motorised winch can gauge all floods since 1985 (earlier, right bank only). Very prone to weed growth; considerable variations recorded in summer stage discharge relations. STATION HYDROMETRY: Multiple peak flow ratings applied across period of record. Rating curve used to extract flows above bankfull as ultrasonic gauge underestimates them. Very prone to weed growth; much summer rating variability. High flows from US and gauging need reconciling. FLOW REGIME: Regulation from Vyrnwy and Clywedog and PWS abstractions have significant effect at low flows. Limited series of naturalised flows available.
+CATCHMENT,High relief headwaters. Valleys are broad bottomed with moderate slope and feature Boulder Clay, fluvial gravel and extensive washlands which slow response. Outcrop solid geology Ordovician and Silurian shales, grits and mudstones. Moorland, forestry, grazing, low grade agriculture.
+Qmed Suitability,Gauged above QMED. All flows contained and well gauged across stage range.
+Pooling Suitability,Gauged beyond AMAX3. All flows contained and well gauged across stage range.
+[END]

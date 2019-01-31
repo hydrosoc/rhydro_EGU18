@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 49005
+[END]
+[CDS DETAILS]
+NAME,Bollingey Stream
+LOCATION,Bolingey Cocks Bridge
+NOMINAL AREA,   16.08
+NOMINAL NGR,1768, 528
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,176850,52900
+CENTROID NGR,GB,178502, 51383
+DTM AREA,   16.08
+ALTBAR,  73
+ASPBAR,309
+ASPVAR,0.12
+BFIHOST,0.627
+DPLBAR,  3.72
+DPSBAR, 81.4
+FARL,0.991
+FPEXT,0.0229
+LDP,  6.99
+PROPWET,0.42
+RMED-1H, 10.9
+RMED-1D, 35.2
+RMED-2D, 48.5
+SAAR,1044
+SAAR4170,1068
+SPRHOST,31.92
+URBCONC1990, 0.606
+URBEXT1990,0.0084
+URBLOC1990, 0.719
+URBCONC2000, 0.686
+URBEXT2000,0.0060
+URBLOC2000, 0.711
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Time of flight ultrasonic gauge installed upstream of road bridge in rectangular channel cross section. Station used to issue flood warnings for Perranporth downstream. GENERAL: Acoustic Time of Flight installed upstream of road bridge in rectangular channel cross section. Station used to issue flood warnings for Perranporth downstream. STATION HYDROMETRY: Two peak flow ratings across period of record. Rated by gaugings up to a stage of 0.61m, however due to a change in the bed level in January 2015, this threshold is under review. Above 0.61m, flows are calculated directly by time of flight Ultrasonic gauge and high flow check gaugings have shown good agreement. Currently gauged up to a level of 0.9m or 3.6 m3s-1. The bridge downstream is not expected to impact the data. FLOW REGIME: Predominantly rural catchment
+CATCHMENT,The Bolingey Stream flows from southeast to northwest and around the eastern edge of Perranporth. The Bolingey Stream catchment is longer and wider than the neighbouring Perrancoombe Stream Catchment, although the valley sides are still steep and the floodplain comparatively narrow. There are a number of wells and springs in the upper catchment and a number of small, offline and online, ponds. The solid geology of the catchment is the Ladock/Grampound grit beds of the Devonian period. These beds are composed predominantly of slate with thin beds of sandstone and cherty carbonate layers. The drift geology consists of alluvium along the watercourse with felsite beds. The catchment soils are predominantly well drained fine loam and silt types, with small areas having more slowly permeable sub-soils, with slight seasonal waterlogging. The physical characteristics of the catchment suggest that runoff response to a rainfall event is likely to be rapid, although mine workings may provide some attenuation. No major changes to catchment.
+Qmed Suitability,Gauge has been shown to perform well.
+Pooling Suitability,all flows contained to date
+[END]

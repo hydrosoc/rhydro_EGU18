@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 43014
+[END]
+[CDS DETAILS]
+NAME,East Avon
+LOCATION,Upavon
+NOMINAL AREA,   85.83
+NOMINAL NGR,4133,1559
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,413350,156000
+CENTROID NGR,GB,416333,160687
+DTM AREA,   85.83
+ALTBAR, 145
+ASPBAR,207
+ASPVAR,0.22
+BFIHOST,0.838
+DPLBAR, 10.10
+DPSBAR, 54.7
+FARL,1.000
+FPEXT,0.0700
+LDP, 18.26
+PROPWET,0.32
+RMED-1H, 10.2
+RMED-1D, 31.1
+RMED-2D, 41.7
+SAAR, 759
+SAAR4170, 788
+SPRHOST,17.59
+URBCONC1990, 0.477
+URBEXT1990,0.0157
+URBLOC1990, 0.910
+URBCONC2000, 0.737
+URBEXT2000,0.0117
+URBLOC2000, 0.825
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Station constructed early in 1970 at the confluence of the 2 branches of the Upper Avon adjacent to West Avon at Upavon. Benchmark station. GENERAL: Station constructed early in 1970 at the confluence of the 2 branches of the Upper Avon. Crump profile weir, crest 3.05m broad. Station adjacent to West Avon at Upavon (43017); the two weirs gauge the two branches of the Avon immediately upstream of their confluence at Upavon. STATION HYDROMETRY: Full range station, some limited bypassing but there has been no validation. Weed growth not significant. Suspicion of small errors within the stilling well caused by increased buoyancy of the counter weight when submerged - may cause small errors in stage measurement in the order of a few mm's only. No by-passing but adjacent pond was flooded (although not entering downstream channel). Theoretical, original rating applies; very few spot gaugings available. Upper limit of rating is 0.73m / 4.23 m3/s. It is extrapolated beyond that limit. FLOW RECORD: 18/01/2011 - At a level of 0.728 the modularity was observed at 60.6%. FLOW REGIME: Natural to within 10% at Q95. Benchmark catchment but agricultural abstractions increasing. Occasional upstream hatch action.
+CATCHMENT,Predominantly Upper Greensand and Lower Chalk; river gravel and alluvium in valley bottom. The remainder consists of Upper and Middle Chalk, Clay and some Gault. Upper Chalk and Clay form northern and extreme southern borders of catchment. Land use is predominantly pastoral and dairy farming. No major changes in catchment.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged to within 29% of AMAX3. Good fit to rating.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 33044
+[END]
+[CDS DETAILS]
+NAME,Thet
+LOCATION,Bridgham
+NOMINAL AREA,  274.99
+NOMINAL NGR,5956,2854
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,595650,285500
+CENTROID NGR,GB,600029,291906
+DTM AREA,  274.99
+ALTBAR,  40
+ASPBAR,228
+ASPVAR,0.09
+BFIHOST,0.681
+DPLBAR, 18.33
+DPSBAR, 13.2
+FARL,0.942
+FPEXT,0.1991
+LDP, 34.06
+PROPWET,0.31
+RMED-1H, 11.0
+RMED-1D, 28.1
+RMED-2D, 35.2
+SAAR, 620
+SAAR4170, 640
+SPRHOST,25.67
+URBCONC1990, 0.589
+URBEXT1990,0.0130
+URBLOC1990, 0.999
+URBCONC2000, 0.750
+URBEXT2000,0.0127
+URBLOC2000, 0.974
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Crump weir gauging a Chalk rural catchment with some artificial influences, station reconstructed in 1979. GENERAL: Crump profile weir, 6m broad. Prior to Oct 1979, broad-crested weir (crest: 7.4m), situated under double-arch bridge. STATION HYDROMETRY: Multiple ratings applied across period of record, the most recent is valid from October-1979. Current rating only reliable to bankfull, and limited gaugings at low flows. Dredging increased modular limit. Theoretical rating for original weir confirmed by c/m measurements. FLOW REGIME: Regime influenced by groundwater abstraction/recharge. Abstractions for industry and agriculture. Some effluent returns.
+CATCHMENT,Chalk with large Boulder Clay cover. Rural catchment, arable with some forest and grassland, several small towns.
+Qmed Suitability,Gauged above QMED. Weir remains modular with good fit to gaugings.
+Pooling Suitability,Weir is non-modular which is not accounted for in current rating.
+[END]

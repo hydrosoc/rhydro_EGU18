@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 33058
+[END]
+[CDS DETAILS]
+NAME,Ouzel
+LOCATION,Bletchley
+NOMINAL AREA,  221.11
+NOMINAL NGR,4882,2321
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,488300,232200
+CENTROID NGR,GB,493287,224144
+DTM AREA,  221.11
+ALTBAR, 113
+ASPBAR,335
+ASPVAR,0.05
+BFIHOST,0.481
+DPLBAR, 19.58
+DPSBAR, 35.8
+FARL,0.987
+FPEXT,0.1276
+LDP, 31.67
+PROPWET,0.31
+RMED-1H, 10.2
+RMED-1D, 30.9
+RMED-2D, 38.6
+SAAR, 641
+SAAR4170, 661
+SPRHOST,40.18
+URBCONC1990, 0.649
+URBEXT1990,0.0232
+URBLOC1990, 0.935
+URBCONC2000, 0.814
+URBEXT2000,0.0386
+URBLOC2000, 0.900
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Constructed to measure flows just u/s of Milton Keys in a predominantly rural catchment with mixed geology, the station is located in a country park and is subject to vandalism. GENERAL: Flat V weir, 10m broad. Constructed to measure flows just u/s of urban development (Milton Keynes). In a country park and subject to vandalism. STATION HYDROMETRY: One rating applied across period of record. Non-modular and floodplain flow accounted for. FLOW REGIME: Flows augmented by effluent from Leighton Buzzard. Small gw abstractions.
+CATCHMENT,Mixed geology - predominantly Upper and Lower Greensand, with some Chalk and Oxford Clay. Predominantly rural with mixed farming, Leighton Buzzard within catchment.
+Qmed Suitability,Gauged to within 4% of QMED. Rating includes non-modular flow verified by a gauging.
+Pooling Suitability,Floodplain flow accounted for. Confident in rating performance at high flows.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 47013
+[END]
+[CDS DETAILS]
+NAME,Withey Brook
+LOCATION,Bastreet
+NOMINAL AREA,   13.95
+NOMINAL NGR,2244, 763
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,224400,76400
+CENTROID NGR,GB,223219, 75242
+DTM AREA,   13.95
+ALTBAR, 288
+ASPBAR,300
+ASPVAR,0.03
+BFIHOST,0.368
+DPLBAR,  3.66
+DPSBAR, 82.2
+FARL,0.998
+FPEXT,0.0619
+LDP,  6.85
+PROPWET,0.48
+RMED-1H, 13.0
+RMED-1D, 48.8
+RMED-2D, 66.8
+SAAR,1686
+SAAR4170,1777
+SPRHOST,49.11
+URBCONC1990,-9999.000
+URBEXT1990,0.0000
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0000
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Three-bay compound Crump profile weir with associated climate station and footbridge. GENERAL: Three-bay compound Crump profile weir, crest lengths 0.91m and 2.54m (total). Crest replaced 03/2000. Affected by subsidence post-1990 (unquantified). Associated climate station. Footbridge over the weir. Residual flow gauge for associated major public water supply abstraction. STATION HYDROMETRY: Poor site for high flows: only possible to gauge up to pier height, which is lower than the mean annual flood. Only central crest gives reliable flow data (to 0.265m, 0.25 cumecs), unreliable above this. ToF ultrasonic added for medium and high flows but this has also proved problematic. Bypassed on right bank when out-of-bank. One theoretical peak flow rating applied to whole period of record, does not account for bypassing, with assessment made manually for each peak. Downstream weed growth and siltation affects low flows. Occasional substantial diversions into the catchment from Sibleyback Reservoir. FLOW REGIME: Runoff reduced by major public water supply abstraction. Occasional substantial diversions into the catchment from Sibleyback Reservoir.
+CATCHMENT,The small catchment drains eastwards from Bodmin Moor and northwards from Craddock Moorland. Catchment of moderate relief, entirely upon the granite of Bodmin Moor, with three main tributaries flowing in distinct valleys. Land cover is widespread peat; main valley broad and marshy. Nearly a quarter of the catchment is forested. It is virtually uninhabited. No major changes apart from afforestation.
+Qmed Suitability,Although gauged to within 2% of QMED, great uncertainty in rating beyond 0.5m as significant scatter in gaugings exist. Data under review due to drowning of the weir in recent times
+Pooling Suitability,Great uncertainty in rating beyond 0.5m. Data under review due to drowning of the weir in recent times.
+[END]

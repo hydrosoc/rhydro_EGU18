@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 55017
+[END]
+[CDS DETAILS]
+NAME,Chwefru
+LOCATION,Carreg-y-wen
+NOMINAL AREA,   28.99
+NOMINAL NGR,2998,2531
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,299750,253100
+CENTROID NGR,GB,295984,256814
+DTM AREA,   28.99
+ALTBAR, 324
+ASPBAR,115
+ASPVAR,0.30
+BFIHOST,0.400
+DPLBAR,  7.23
+DPSBAR,155.8
+FARL,1.000
+FPEXT,0.0260
+LDP, 13.65
+PROPWET,0.65
+RMED-1H, 10.1
+RMED-1D, 44.3
+RMED-2D, 59.8
+SAAR,1488
+SAAR4170,1421
+SPRHOST,43.92
+URBCONC1990,-9999.000
+URBEXT1990,0.0001
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0002
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Natural river section with Flat V weir. Regime thought to be natural. Station closed in 1982. GENERAL: Natural river section with Flat V weir (date of installation vague - Nov 1972 or Feb 1974). lb is high and steep. Extensive floodplain on right above 2.2m. Station closed in 1982. STATION HYDROMETRY: Variable gravel shoals affect the low flow rating. Gabions were installed on each bank to maintain uniform flow, but deposition occurs on rb and main flow on left. Two peak flow ratings applied across period of record, relating to conditions pre and post November 1972 (when the Flat V is thought to have been built). Most recent rating fits well to available gaugings. FLOW REGIME: Regime thought to be natural.
+CATCHMENT,Upland catchment on low permeability geology. Predominantly rough grassland and moorland.
+Qmed Suitability,Record is short and there is too much uncertainty in when ratings should be applied.
+Pooling Suitability,Gauged beyond AMAX3. Highest check gauging lends confidence to the extrapolated range of the rating.
+[END]

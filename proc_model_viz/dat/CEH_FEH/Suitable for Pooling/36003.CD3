@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 36003
+[END]
+[CDS DETAILS]
+NAME,Box
+LOCATION,Polstead
+NOMINAL AREA,   56.72
+NOMINAL NGR,5985,2378
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,598550,237900
+CENTROID NGR,GB,593969,242048
+DTM AREA,   56.72
+ALTBAR,  60
+ASPBAR,145
+ASPVAR,0.13
+BFIHOST,0.555
+DPLBAR,  9.15
+DPSBAR, 26.6
+FARL,0.993
+FPEXT,0.0935
+LDP, 16.22
+PROPWET,0.26
+RMED-1H, 10.4
+RMED-1D, 25.5
+RMED-2D, 32.2
+SAAR, 566
+SAAR4170, 602
+SPRHOST,37.70
+URBCONC1990, 0.434
+URBEXT1990,0.0091
+URBLOC1990, 1.213
+URBCONC2000, 0.681
+URBEXT2000,0.0123
+URBLOC2000, 1.136
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Gauging a rural, predominantly London Clay and Chalk catchment with superficial deposits and with only minor artificial influences. Station is occasionally affected by weed growth. GENERAL: Trapezoidal flume with high flow rated spillway. Throat tapping. STATION HYDROMETRY: Subject to reed/weed growth problems. One rating applied across period of record. Non-modular flows recorded since 1997 using secondary instrument. FLOW RECORD: No POT data are presented for this station as they have no non-modular flow correction applied. AMAX data have been corrected, but in some cases can be below the daily flow as these are not corrected. Naturalised flows from 1961 to 1976. FLOW REGIME: Gw-influenced regime. Minimal ground and surface water abstractions for agricultural/industrial purposes. Runoff increased by effluent returns.
+CATCHMENT,Predominantly London Clay; Chalk in N, all overlain by Boulder Clay and some sands and gravels. Rural, predominantly arable land.
+Qmed Suitability,Gauged above QMED. Rating fits well to gaugings.
+Pooling Suitability,Rating fits well to highest gauging at AMAX3.
+[END]

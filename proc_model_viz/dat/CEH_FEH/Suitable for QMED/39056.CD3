@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 39056
+[END]
+[CDS DETAILS]
+NAME,Ravensbourne
+LOCATION,Catford Hill
+NOMINAL AREA,  126.18
+NOMINAL NGR,5372,1732
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,537250,173250
+CENTROID NGR,GB,538469,164891
+DTM AREA,  126.18
+ALTBAR, 105
+ASPBAR,358
+ASPVAR,0.33
+BFIHOST,0.715
+DPLBAR, 11.83
+DPSBAR, 48.6
+FARL,0.990
+FPEXT,0.0613
+LDP, 23.25
+PROPWET,0.28
+RMED-1H, 11.1
+RMED-1D, 33.7
+RMED-2D, 44.7
+SAAR, 714
+SAAR4170, 712
+SPRHOST,22.24
+URBCONC1990, 0.848
+URBEXT1990,0.2513
+URBLOC1990, 0.661
+URBCONC2000, 0.908
+URBEXT2000,0.3429
+URBLOC2000, 0.691
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Trapezoidal flume; regime heavily affected by urbanisation. GENERAL: Trapezoidal flume; breadth at the critical section: 4.267m; insensitive. Full range. STATION HYDROMETRY: One rating applied across period of record. Theoretical calibration, confirmed by check gaugings to 0.65m with good fit. FLOW RECORD: Flows reprocessed from Jan 1985. Original discharge table provided by the water data unit was incorrect. New relationship supplied in 1991. All records were corrected. FLOW REGIME: Regime heavily affected by urbanisation. Runoff reduced by groundwater abstraction/recharge. Artificial influences evident at low flows. Regime heavily affected by urbanisation. Artificial influences (including sewage outflow and urban runoff) very evident at low flows - see June 2009.
+CATCHMENT,The Ravensbourne rises as Chalk springs (in Holwood Park; dry valleys extend into the North Downs). The lower catchment is mainly impervious Eocene deposits. Below the headwaters the catchment is largely within London.
+Qmed Suitability,Gauged to within 50% of QMED and no contra-indications.
+Pooling Suitability,Although all flows contained within bank full, there are few high flow gaugings and rating can not be validated beyond QMED.
+[END]

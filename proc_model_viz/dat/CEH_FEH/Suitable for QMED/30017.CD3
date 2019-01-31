@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 30017
+[END]
+[CDS DETAILS]
+NAME,Witham
+LOCATION,Colsterworth
+NOMINAL AREA,   50.09
+NOMINAL NGR,4928,3246
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,492900,324600
+CENTROID NGR,GB,491228,320254
+DTM AREA,   50.09
+ALTBAR, 123
+ASPBAR, 79
+ASPVAR,0.28
+BFIHOST,0.656
+DPLBAR,  7.41
+DPSBAR, 22.3
+FARL,0.993
+FPEXT,0.1239
+LDP, 14.34
+PROPWET,0.27
+RMED-1H, 12.1
+RMED-1D, 32.4
+RMED-2D, 42.5
+SAAR, 641
+SAAR4170, 649
+SPRHOST,22.63
+URBCONC1990, 0.415
+URBEXT1990,0.0063
+URBLOC1990, 0.764
+URBCONC2000, 0.704
+URBEXT2000,0.0261
+URBLOC2000, 1.001
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Gauging a rural catchment underlain by limestone, heavy artificial augmentation of flows until 1985. GENERAL: Flat V weir 4.996m wide. STATION HYDROMETRY: Theoretical calibration. One rating applied across period of record. FLOW RECORD: Low flows in summer 1994 are suspect. FLOW REGIME: Summer flows very heavily augmented by transfers from Rutland Water until Jun 1985, when direct Rutland/Saltersford pipeline opened.
+CATCHMENT,Rural catchment underlain by l'st and with some Boulder Clay cover.
+Qmed Suitability,Gauged to within 7% of QMED.
+Pooling Suitability,Few high flow gaugings. Rating can not be validated beyond QMED when weir is probably non-modular and flow is out of bank..
+[END]

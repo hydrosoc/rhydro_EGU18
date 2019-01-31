@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 33045
+[END]
+[CDS DETAILS]
+NAME,Wittle
+LOCATION,Quidenham
+NOMINAL AREA,   27.45
+NOMINAL NGR,6027,2877
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,602750,287850
+CENTROID NGR,GB,605164,287144
+DTM AREA,   27.45
+ALTBAR,  42
+ASPBAR,290
+ASPVAR,0.22
+BFIHOST,0.534
+DPLBAR,  4.67
+DPSBAR, 15.0
+FARL,0.974
+FPEXT,0.1774
+LDP,  9.66
+PROPWET,0.31
+RMED-1H, 11.0
+RMED-1D, 27.6
+RMED-2D, 34.0
+SAAR, 608
+SAAR4170, 627
+SPRHOST,32.72
+URBCONC1990, 0.549
+URBEXT1990,0.0119
+URBLOC1990, 0.880
+URBCONC2000, 0.645
+URBEXT2000,0.0105
+URBLOC2000, 0.876
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Compound broad-crested weir gauging a Chalk catchment with large Boulder Clay overlay and predominantly arable land use. Flows are heavily affected by artificial influences. GENERAL: Compound broad-crested weir (crest 3m), with central notch separated by splitter plates; situated under a road bridge. STATION HYDROMETRY: No out of bank flow rating and weir known to drown during high flows which is not accounted for. Road embankment prevents bypassing. One rating applied across period of record. Theoretical rating modified by current meter measurements suitable to 0.64m. FLOW RECORD: Weir drowned in 1968 floods. FLOW REGIME: Flow regime altered by pumping of two boreholes into the river u/s of Quidenham to support Ely Ouse to Essex Transfer Scheme (abstraction point at Hockwold on the Little Ouse). Other abstractions in the catchment.
+CATCHMENT,Predominantly Chalk largely overlain with Boulder Clay. Predominantly arable land.
+Qmed Suitability,Despite deviation from highest gauging, theoretical rating should be reasonable to QMED,
+Pooling Suitability,AMAX3 beyond limit of confidence (0.64m) and no gaugings available to validate rating.
+[END]

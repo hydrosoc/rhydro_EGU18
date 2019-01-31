@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 44003
+[END]
+[CDS DETAILS]
+NAME,Asker
+LOCATION,Bridport
+NOMINAL AREA,   48.52
+NOMINAL NGR,3470, 927
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,347000,92750
+CENTROID NGR,GB,351377, 95390
+DTM AREA,   48.52
+ALTBAR, 100
+ASPBAR,251
+ASPVAR,0.16
+BFIHOST,0.696
+DPLBAR,  7.31
+DPSBAR,138.4
+FARL,0.994
+FPEXT,0.0249
+LDP, 12.41
+PROPWET,0.38
+RMED-1H, 11.1
+RMED-1D, 38.4
+RMED-2D, 47.6
+SAAR, 924
+SAAR4170, 979
+SPRHOST,26.49
+URBCONC1990, 0.536
+URBEXT1990,0.0107
+URBLOC1990, 0.310
+URBCONC2000, 0.719
+URBEXT2000,0.0154
+URBLOC2000, 0.289
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Crump weir closed in 1980 and replaced by 44011. GENERAL: Crump weir on channel dug as part of flood prevention scheme. Flow measured at this location 1966 to 1980. In 1980-1996 station was moved to site at Jessops Avenue (head control weir with relief weir), but no data available for this station. Station replaced by East Bridge Bridport (44011) in 1996. STATION HYDROMETRY: Bypassed at stages above 0.5m, bypass flow is included in the CEH rating. Two peak flow rating applied across period of record. FLOW RECORD: Peak flows presented for the earlier record (1966-1980) have greater uncertainty associated with them than new site (1996-date). FLOW REGIME: Natural runoff to within 10% at Q95. Several mills operate sluices and hatches upstream of weir and regulate the flow.
+CATCHMENT,Rapidly responsive catchment due to steep slopes on Liassic Clay and marl. No major changes
+Qmed Suitability,Ratings pre and post station move fit to corresponding gaugings well.
+Pooling Suitability,Confident in ultrasonic derived rating limb.
+[END]

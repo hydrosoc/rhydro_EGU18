@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 29002
+[END]
+[CDS DETAILS]
+NAME,Great Eau
+LOCATION,Claythorpe Mill
+NOMINAL AREA,   80.43
+NOMINAL NGR,5416,3793
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,541650,379300
+CENTROID NGR,GB,536276,377821
+DTM AREA,   80.43
+ALTBAR,  68
+ASPBAR, 69
+ASPVAR,0.19
+BFIHOST,0.713
+DPLBAR,  9.08
+DPSBAR, 52.5
+FARL,0.952
+FPEXT,0.0627
+LDP, 17.84
+PROPWET,0.28
+RMED-1H, 11.2
+RMED-1D, 34.8
+RMED-2D, 41.6
+SAAR, 692
+SAAR4170, 718
+SPRHOST,21.83
+URBCONC1990, 0.295
+URBEXT1990,0.0057
+URBLOC1990, 0.700
+URBCONC2000,-9999.000
+URBEXT2000,0.0019
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Compound structure gauging a rural, predominantly Chalk catchment with some artificial influences. GENERAL: Simple low flow Crump profile weir 3.073m wide with flanking broad-crest sections. Total width 9.687m. STATION HYDROMETRY: A cableway at Abby Bridge was used to gauge flows in the early 1970's. Both components are theoretically rated with rating valid to 6.976 cumecs, flows above this limit are missing. One rating applied across period of record. FLOW RECORD: Flows to May 1973 suspect due to error in gauged head and rounding of crest during cleaning. Flows above the rating limit are missing missing e.g. 25/06/2007. FLOW REGIME: Runoff influenced by gw abstraction/recharge. Small amounts of abstraction for irrigation in summer.
+CATCHMENT,Predominantly Chalk catchment with around one third of catchment covered with superficial deposits (Boulder Clay, sands and gravels and alluvium - gravel beds of glacial origin are found at Aby, South Thoresby, Thetford, South Ormsby and Brinkhill. Deposits of beach gravels on the edge of Chalk cut through the Chalk and a line of springs are formed which contribute a high baseflow to the Eau. Land use is predominantly rural. Rural, predominantly arable land.
+Qmed Suitability,Gauged above QMED. Reasonable fit to available gaugings.
+Pooling Suitability,Few high flow gaugings. Rating does not consider bypassing or drowned flow and can not be validated beyond QMED.
+[END]

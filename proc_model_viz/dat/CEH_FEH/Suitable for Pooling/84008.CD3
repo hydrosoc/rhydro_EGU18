@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 84008
+[END]
+[CDS DETAILS]
+NAME,Rotten Calder Water
+LOCATION,Redlees
+NOMINAL AREA,   55.41
+NOMINAL NGR,2679,6604
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,267950,660450
+CENTROID NGR,GB,265384,652735
+DTM AREA,   55.41
+ALTBAR, 192
+ASPBAR, 21
+ASPVAR,0.29
+BFIHOST,0.315
+DPLBAR, 13.05
+DPSBAR, 53.0
+FARL,0.997
+FPEXT,0.0690
+LDP, 22.35
+PROPWET,0.58
+RMED-1H,  9.2
+RMED-1D, 37.3
+RMED-2D, 52.1
+SAAR,1217
+SAAR4170,1182
+SPRHOST,42.21
+URBCONC1990, 0.829
+URBEXT1990,0.0618
+URBLOC1990, 0.703
+URBCONC2000, 0.841
+URBEXT2000,0.0695
+URBLOC2000, 0.712
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Compound Crump profile weir on Rotten Calder Water. GENERAL: Compound Crump profile weir (central crest: 1.8m, flanks: 4.9m). Occasional vandalism. STATION HYDROMETRY: River gradient obviates drowning. Tree debris is a problem and can cause blockage of centre of crump weir. All flows contained. Theoretical rating confirmed by low flow gaugings up to 0.2m (about 0.013 QMED). FLOW RECORD: Data for 07/08/08-24/09/08 dubious due to weir blockage. FLOW REGIME: Runoff augmented by sewage and industrial effluent.
+CATCHMENT,A mainly impervious catchment (Carboniferous deposits predominate; Drift cover). Moorland and hill pasture in the headwaters, some significant urban growth in the lower catchment (East Kilbride).
+Qmed Suitability,No comment
+Pooling Suitability,No comment
+[END]

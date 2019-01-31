@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 27086
+[END]
+[CDS DETAILS]
+NAME,Skell
+LOCATION,Ripon Alma Weir
+NOMINAL AREA,  117.33
+NOMINAL NGR,4315,4709
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,431550,470950
+CENTROID NGR,GB,422501,471703
+DTM AREA,  117.33
+ALTBAR, 187
+ASPBAR, 86
+ASPVAR,0.39
+BFIHOST,0.422
+DPLBAR, 15.05
+DPSBAR, 66.1
+FARL,0.970
+FPEXT,0.0457
+LDP, 27.90
+PROPWET,0.36
+RMED-1H, 11.7
+RMED-1D, 39.4
+RMED-2D, 47.5
+SAAR, 899
+SAAR4170, 882
+SPRHOST,40.10
+URBCONC1990, 0.450
+URBEXT1990,0.0074
+URBLOC1990, 0.147
+URBCONC2000, 0.772
+URBEXT2000,0.0150
+URBLOC2000, 0.325
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Flat-V weir, replaced original Alma Weir in 1984. Station closed July 2010 - December 2012 due to construction of Ripon flood alleviation scheme. GENERAL: Flat-V weir opened 1984 (1:20 cross-slopes, 25m wide). Replaced original Alma Weir. Offtake to Ripon Canal feeder is u/s. Station closed July 2010 - due to construction of Ripon flood alleviation scheme, reopened December 2012 with new structure 60m u/s of old site. New weir is lower and expected to drown in high flows. Ultrasonics installed July 2014 to measure high flows. STATION HYDROMETRY: Substantial modular range and does not drown. Thought to be reasonably accurate until (occasionally) overtopped during large events, however no cableway for check gauging. Considerable accretion on u/s apron. Two peak flow rating cover period of record revised in 2016. Good fit to available gaugings. Theoretical rating developed for new structure and applied from 22/11/2012. FLOW RECORD: No daily flow data for July 2010-December 2012 due to construction of Ripon flood alleviation scheme. Data reprocessed from 22/11/2012 after rating review completed for new, non-standard weir. FLOW REGIME: Swallow holes u/s of Laver/Skell confluence greatly reduce summer flows.
+CATCHMENT,Geology: Millstone Grit and Magnesian Limestone with Boulder Clay in lower catchment. A predominantly rural catchment below moorland (Pennine) headwaters, although Ripon is just u/s of station. No major arable farming in catchment. Significant change in land use with the urban development of Ripon.
+Qmed Suitability,Flows contained within formal structure and weir remains modular.
+Pooling Suitability,No significant high flow gaugings and some flow by-passes structure. However, weir remains modular throughout and rating supported by recent hydraulic modelling. High flows and levels tie in with Ripon flow gauge upstream.
+[END]

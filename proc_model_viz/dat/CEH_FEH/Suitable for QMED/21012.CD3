@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 21012
+[END]
+[CDS DETAILS]
+NAME,Teviot
+LOCATION,Hawick
+NOMINAL AREA,  324.42
+NOMINAL NGR,3522,6158
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,352250,615900
+CENTROID NGR,GB,343051,607413
+DTM AREA,  324.42
+ALTBAR, 283
+ASPBAR, 58
+ASPVAR,0.13
+BFIHOST,0.429
+DPLBAR, 18.98
+DPSBAR,151.0
+FARL,0.993
+FPEXT,0.0323
+LDP, 33.68
+PROPWET,0.59
+RMED-1H, 10.4
+RMED-1D, 38.7
+RMED-2D, 50.1
+SAAR,1149
+SAAR4170,1207
+SPRHOST,43.58
+URBCONC1990, 0.760
+URBEXT1990,0.0061
+URBLOC1990, 0.180
+URBCONC2000, 0.807
+URBEXT2000,0.0071
+URBLOC2000, 0.241
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station on the River Teviot in the east Southern Uplands of Scotland. GENERAL: Velocity area station; about 30m wide natural section. STATION HYDROMETRY: Low flow control is a gravel shoal (~100m) below gauge. Some shifting of the control due to gravel movement upstream. Frequent re-rating required due to weed growth. Bypassing can occur on lb at levels above about 2m and the station floods before the town so acts as a warning. Peak flow rating derived from current meter gaugings up to 2.3m (about QMED), simple extrapolation beyond. FLOW RECORD: October 2005 event was exceptional. FLOW REGIME: Natural regime.
+CATCHMENT,Natural upland catchment. Bedrock mostly Silurian shale; predominantly overlain by superficial deposits. Hill grazing is the dominant land use but forestry is important in the headwaters (Craik Forest). Hawick is the only significant settlement. No significant catchment changes known.
+Qmed Suitability,No comment
+Pooling Suitability,bypassing occurs fairly regularly (every couple of years)
+[END]

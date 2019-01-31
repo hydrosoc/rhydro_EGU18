@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 21016
+[END]
+[CDS DETAILS]
+NAME,Eye Water
+LOCATION,Eyemouth Mill
+NOMINAL AREA,  118.93
+NOMINAL NGR,3941,6635
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,394200,663600
+CENTROID NGR,GB,385388,663512
+DTM AREA,  118.93
+ALTBAR, 150
+ASPBAR,114
+ASPVAR,0.12
+BFIHOST,0.597
+DPLBAR, 15.75
+DPSBAR, 68.7
+FARL,0.997
+FPEXT,0.0356
+LDP, 37.30
+PROPWET,0.29
+RMED-1H,  8.7
+RMED-1D, 33.3
+RMED-2D, 44.6
+SAAR, 730
+SAAR4170, 747
+SPRHOST,30.20
+URBCONC1990,-9999.000
+URBEXT1990,0.0008
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0022
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station, lowest on the Eye Water. GENERAL: Velocity area station, about 22m wide. STATION HYDROMETRY: Former mill weir converted to serve as informal control (round-top, flat-V concrete weir). Steep high banks on both sides. 600m u/s from Eyemouth harbour; high spring tides can reach site. Peak flow rating derived from current meter gaugings up to about 0.8 QMED, simple extrapolation beyond. FLOW REGIME: Largely natural regime (though irrigation impacts on low flows).
+CATCHMENT,Lowland catchment. Bedrock Silurian shale and ORS with predominantly superficial deposit cover. Agriculture is the primary land use; hill grazing in the headwaters, arable below; some forest. No significant catchment changes known.
+Qmed Suitability,No comment
+Pooling Suitability,No comment
+[END]

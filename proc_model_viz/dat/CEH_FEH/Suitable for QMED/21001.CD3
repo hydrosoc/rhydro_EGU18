@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 21001
+[END]
+[CDS DETAILS]
+NAME,Fruid Water
+LOCATION,Fruid
+NOMINAL AREA,   22.01
+NOMINAL NGR,3088,6205
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,308750,620600
+CENTROID NGR,GB,310762,616931
+DTM AREA,   22.01
+ALTBAR, 474
+ASPBAR,333
+ASPVAR,0.29
+BFIHOST,0.392
+DPLBAR,  5.27
+DPSBAR,221.2
+FARL,0.779
+FPEXT,0.0110
+LDP, 10.35
+PROPWET,0.72
+RMED-1H, 11.0
+RMED-1D, 46.2
+RMED-2D, 64.1
+SAAR,1702
+SAAR4170,1753
+SPRHOST,45.21
+URBCONC1990,-9999.000
+URBEXT1990,0.0000
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0000
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Compound sharp-edged weir. Flows affected by Fruid Reservoir and diverted to Talla Reservoir. GENERAL: Compound sharp-edged weir (9m wide) about 3km above the confluence with the Tweed. Fruid Reservoir opened 1968 for public water supply after station closed. STATION HYDROMETRY: Flows in excess of 15.8cumecs are truncated and have to be estimated (this is said to occur once or twice per year). Theoretical rating for weir. FLOW RECORD: Captures 1959 minimum that predates reservoir. FLOW REGIME: 21.4 sq.km (90%) of catchment area controlled. Aqueduct diverts water to Talla Reservoir from 1954 onwards.
+CATCHMENT,Mainly Silurian rock and boulder clay. Peat on high ground. High moorland; rough pasture; tree cover.
+Qmed Suitability,The station is only at estimating flow up to a value just below the QMED. Therefore this QMED is slightly less reliable than most but does give an approximate estimate that may be useful
+Pooling Suitability,Most POT above top of chart. Method of extrapolation not known.
+[END]

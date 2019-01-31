@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 81003
+[END]
+[CDS DETAILS]
+NAME,Luce
+LOCATION,Airyhemming
+NOMINAL AREA,  170.70
+NOMINAL NGR,2180,5599
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,218000,559950
+CENTROID NGR,GB,216028,569858
+DTM AREA,  170.70
+ALTBAR, 182
+ASPBAR,165
+ASPVAR,0.18
+BFIHOST,0.296
+DPLBAR, 16.04
+DPSBAR, 71.7
+FARL,0.977
+FPEXT,0.0584
+LDP, 32.54
+PROPWET,0.58
+RMED-1H, 11.5
+RMED-1D, 43.5
+RMED-2D, 56.9
+SAAR,1504
+SAAR4170,1419
+SPRHOST,54.88
+URBCONC1990,-9999.000
+URBEXT1990,0.0000
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0002
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station, lowest on the River Luce. GENERAL: Velocity area station with cableway, on long straight and uniform reach with wooded banks. STATION HYDROMETRY: Natural channel control. Bypassing thought to begin on the left bank at 2.8m but not thought to be very significant. Peak flow rating derived from current meter gaugings. Highest known gauging 2.8m, 188 cumecs (about 1.2 QMED). Extrapolation of rating above this. FLOW RECORD: Maximum recorded level 3.5m. FLOW REGIME: Penwhirn Reservoir abstractions constitute approx. 2% of flows.
+CATCHMENT,Predominantly lowland catchment. Bedrock Silurian shales and greywackes with extensive peat cover. Natural moorland catchment draining westerly end of Southern Uplands. Landuse mainly hill grazing and forest cover. Increases in forestry. Minimal floodplains.
+Qmed Suitability,No comment
+Pooling Suitability,No comment
+[END]

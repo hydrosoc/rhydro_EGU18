@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 73002
+[END]
+[CDS DETAILS]
+NAME,Crake
+LOCATION,Low Nibthwaite
+NOMINAL AREA,   72.34
+NOMINAL NGR,3294,4882
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,329450,488200
+CENTROID NGR,GB,329400,495200
+DTM AREA,   72.34
+ALTBAR, 212
+ASPBAR,146
+ASPVAR,0.21
+BFIHOST,0.363
+DPLBAR,  9.27
+DPSBAR,197.6
+FARL,0.730
+FPEXT,0.0518
+LDP, 18.93
+PROPWET,0.71
+RMED-1H, 12.2
+RMED-1D, 61.6
+RMED-2D, 85.2
+SAAR,2152
+SAAR4170,2152
+SPRHOST,50.41
+URBCONC1990,-9999.000
+URBEXT1990,0.0010
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0008
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station in stone walled channel with non-standard shallow V structure. Peak flows are attentuated by Coniston Water. GENERAL: Station opened in 1962 with non-standard shallow V structure in stone walled channel, approx 10m wide. Straight approach for approx 50m, slight right hand curve downstream. Bed is of slate and stones. STATION HYDROMETRY: Extreme flows are out of bank and the channel surges badly in high flow. Cableway removed 2002/2003. Station was re-instrumented and metricated in 1970 with associated change in datum. Separate peak flow ratings applied before and after January 1970; both are stable and fit respective gaugings well. Flood Studies Report grade A1. Lowest flows unreliable. FLOW REGIME: Headwater abstractions are used for public water supply. Peak flows are attentuated by Coniston Water.
+CATCHMENT,Geology predominantly impervious Silurian Slates with thin Carboniferous Coal Measures with a band of Boulder Clay over centre. Catchment with mountains in the north supporting rough pasture and moorland, remainder grassland. Rural apart from Coniston village. No significant catchment changes.
+Qmed Suitability,Gauged above QMED. All flows contained.
+Pooling Suitability,Gauged to within 8% of AMAX3. All flows contained.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+203049
+[END]
+[CDS DETAILS]
+NAME,Clady
+LOCATION,Clady Bridge
+NOMINAL AREA,   29.21
+NOMINAL NGR,3200,3836
+[END]
+[DESCRIPTORS]
+IHDTM NGR,Ireland,320100,383600
+CENTROID NGR,Ireland,324925,380173
+DTM AREA,   29.21
+ALTBAR, 193
+ASPBAR,290
+ASPVAR,0.47
+BFIHOST,0.367
+DPLBAR,  7.86
+DPSBAR, 58.2
+FARL,1.000
+FPEXT,0.0599
+LDP, 14.10
+PROPWET,0.52
+RMED-1H, 10.7
+RMED-1D, 36.7
+RMED-2D, 49.2
+SAAR,1080
+SAAR4170,1067
+SPRHOST,40.57
+URBCONC1990,-0.002
+URBEXT1990,0.0000
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0000
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station with cableway and natural control. GENERAL: Velocity area station constructed in 1978. STATION HYDROMETRY: Bed has changed over years, but not so much at station. Very high flows go out of bank. The rating is derived from current meter gaugings. Simple extrapolation occurs beyond approx 14m3/s. More high flow gaugings would be useful. FLOW RECORD: Daily flows for full period of record reprocessed in 2002. FLOW REGIME: Natural catchment - no drainage works or urbanisation.
+CATCHMENT,Solid geology - the area is underlain predominantly by Palaeogene basalt and rhyolite lava flows. Drift geology - extensive glacial till with an area of lacustrine clay. Limited rock near surface and post-glacial peat cover on high ground with restricted development of river alluvium in valleys.
+Qmed Suitability,Reasonably well gauged (max gauging at 1.23m depth).
+Pooling Suitability,Bridge and embankment located downstream which may inhibit out of bank flows and cause a backwater effect not captured by gaugings and simple extrapolation of the rating.
+[END]

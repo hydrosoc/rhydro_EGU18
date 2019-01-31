@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+  8007
+[END]
+[CDS DETAILS]
+NAME,Spey
+LOCATION,Invertruim
+NOMINAL AREA,  401.74
+NOMINAL NGR,2687,7964
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,268750,796400
+CENTROID NGR,GB,258195,791356
+DTM AREA,  401.74
+ALTBAR, 518
+ASPBAR,312
+ASPVAR,0.03
+BFIHOST,0.411
+DPLBAR, 21.76
+DPSBAR,181.3
+FARL,0.945
+FPEXT,0.0539
+LDP, 41.37
+PROPWET,0.75
+RMED-1H, 10.0
+RMED-1D, 39.5
+RMED-2D, 55.6
+SAAR,1430
+SAAR4170,1445
+SPRHOST,51.15
+URBCONC1990,-9999.000
+URBEXT1990,0.0001
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0000
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station. The highest station on the Spey. GENERAL: Velocity area station, 45m wide Cableway rated. Highest station on the Spey. Station re-built in May 2000. STATION HYDROMETRY: Natural control; frequent rating changes. Bypassing at flows above 1.8m on both banks. Rating derived from current meter gaugings up to 146 cumecs (about 1.2QMED), simple extrapolation beyond. Peak flow rating was revised in 1996 and a new single rating was judged to be suitable for whole period of record. Rating revised in 2016. FLOW RECORD: Unrepresentative period from 01/01/95 to 28/10/98 as inlet pipes broken due to deteriorating data quality, then missing period caused by further deterioration of data quality (28/10/98 and 24/02/00) and station rebuild (24/02/00 to 09/05/00). Full period of record peak flow data reviewed and released in April 2017 (WINFAP Files v5). FLOW REGIME: 200.4 sq.km controlled for HEP by British Aluminium, 86.4 sq.km controlled by Scottish Electric (total 72%); diversions and storage influence regime, major reduction in runoff. Reservoirs for hydropower: Spey Dam (1944), Cuaich Dam (1961).
+CATCHMENT,Mountainous headwaters, often snowy in winter. Granite and Moinian metamorphic. Mainly moorland, limited pastoral in valley bottoms. Cuaich Dam impounded during period of record (1961).
+Qmed Suitability,Gauged above QMED
+Pooling Suitability,Bypassing of station over floodplain when stage exceeds 1.8m
+[END]

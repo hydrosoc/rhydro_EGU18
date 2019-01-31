@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 85002
+[END]
+[CDS DETAILS]
+NAME,Endrick Water
+LOCATION,Gaidrew
+NOMINAL AREA,  219.07
+NOMINAL NGR,2484,6865
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,248450,686600
+CENTROID NGR,GB,255293,685414
+DTM AREA,  219.07
+ALTBAR, 192
+ASPBAR,319
+ASPVAR,0.11
+BFIHOST,0.454
+DPLBAR, 16.72
+DPSBAR,108.9
+FARL,0.981
+FPEXT,0.0632
+LDP, 39.70
+PROPWET,0.65
+RMED-1H,  9.9
+RMED-1D, 41.7
+RMED-2D, 56.6
+SAAR,1484
+SAAR4170,1432
+SPRHOST,41.56
+URBCONC1990,-9999.000
+URBEXT1990,0.0008
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0032
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station in an upland rural catchment, draining from the Campsie Fells. Flows affected by export of water from Carron Res. into the Forth system. GENERAL: Velocity area station, approx. 28m wide. STATION HYDROMETRY: Natural channel control. Low and medium flows considered reliable but flood discharges are of a lesser accuracy (due to overspill on to the lb floodplain above 3.6m and a curved approach to the measuring reach). Peak flow ratings before and after datum change in May 1981 derived from current meter gaugings. Pre-1981 gaugings up to about 0.7 QMED, post-1981 up to about QMED, simple extrapolation beyond. Current rating dates from October 2008 following significant channel scour event and gaugings up to 50cumecs show considerable deviation from earlier ratings. FLOW RECORD: Flows over 60 cumecs should presently be regarded with caution. Some monthly naturalised flows available (1967-74). FLOW REGIME: Runoff is diminished by the export of water from Carron Res. into the Forth system.
+CATCHMENT,An upland rural catchment, draining from the Campsie Fells, developed on ORS overlain with Boulder Clay; large tracts of sand and gravel also. Land use: mostly moorland, rough grazing, pasture; forestry and some limited cropland. No significant catchment changes known.
+Qmed Suitability,No comment
+Pooling Suitability,flood discharges are of a lesser accuracy (due to floodplain and channel bend)
+[END]

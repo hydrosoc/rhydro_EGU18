@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 36004
+[END]
+[CDS DETAILS]
+NAME,Chad Brook
+LOCATION,Long Melford
+NOMINAL AREA,   50.33
+NOMINAL NGR,5867,2459
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,586800,245950
+CENTROID NGR,GB,586648,250956
+DTM AREA,   50.33
+ALTBAR,  80
+ASPBAR,183
+ASPVAR,0.18
+BFIHOST,0.440
+DPLBAR,  9.57
+DPSBAR, 28.5
+FARL,1.000
+FPEXT,0.0650
+LDP, 20.80
+PROPWET,0.28
+RMED-1H, 10.3
+RMED-1D, 25.6
+RMED-2D, 33.0
+SAAR, 589
+SAAR4170, 608
+SPRHOST,40.53
+URBCONC1990, 0.437
+URBEXT1990,0.0057
+URBLOC1990, 0.955
+URBCONC2000, 0.700
+URBEXT2000,0.0057
+URBLOC2000, 0.657
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,An 'Essex' profile with side weir which can be affected by drowning in summer, gauging a rural, Chalk catchment completely covered with Boulder Clay. GENERAL: 'Essex' profile (modified Flat V Crump) weir with low flow side weir. STATION HYDROMETRY: Low flow side weir drowns in summer due to weed growth. Poorly maintained channel also influences modular limit. High flow spillway accurate to 1.1m. Theoretically rated. Full range with convincing water-balance but low flow data should be treated as indicative only. One rating applied across period of record. FLOW RECORD: Naturalised flows from 1965 to 1976. Missing data in 2010 and 2011 is as a result of water level management practices which caused the structure to become non-modular. Magnitude of POR maximum flow in Sept 1968 is supported by EA, but may be an underestimate as flow known to have been extrapolated. FLOW REGIME: Gw-influenced regime. Runoff reduced by industrial/agricultural abstraction.
+CATCHMENT,Chalk with complete cover of Boulder Clay. Rural catchment, predominantly arable farming.
+Qmed Suitability,Reasonable fit to gaugings, possibly a slight overestimation.
+Pooling Suitability,Gauged beyond AMAX3. Rating fits well to up to maximum high flow gauging, 1.1m.
+[END]

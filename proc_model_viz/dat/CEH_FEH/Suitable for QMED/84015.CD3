@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 84015
+[END]
+[CDS DETAILS]
+NAME,Kelvin
+LOCATION,Dryfield
+NOMINAL AREA,  237.02
+NOMINAL NGR,2637,6739
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,263750,673950
+CENTROID NGR,GB,268603,674744
+DTM AREA,  237.02
+ALTBAR, 148
+ASPBAR,183
+ASPVAR,0.11
+BFIHOST,0.390
+DPLBAR, 12.70
+DPSBAR, 80.5
+FARL,0.963
+FPEXT,0.1085
+LDP, 26.34
+PROPWET,0.58
+RMED-1H,  9.1
+RMED-1D, 37.2
+RMED-2D, 51.1
+SAAR,1256
+SAAR4170,1264
+SPRHOST,41.34
+URBCONC1990, 0.719
+URBEXT1990,0.0477
+URBLOC1990, 0.818
+URBCONC2000, 0.820
+URBEXT2000,0.0577
+URBLOC2000, 0.908
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station in the low lying central valley of Scotland. Bypassing occurs in largest events. GENERAL: Velocity area station; approx. 30m wide river section. Recorder sited in straight even reach where erosion has made banks very steep. The river was canalised during last war and floodbanks made on both banks from dredged material. Cableway installed in 1960 so no high measurements prior to this date. From July 1998 maintained as level only station for flood warning purposes. STATION HYDROMETRY: The section is affected by weed growth and requires constant attention. Peak flow ratings derived from current meter gaugings up to 3.5m (about 1.1 QMED), simple extrapolation beyond. Bypassing at the very highest flows is a significant problem with the rating. FLOW RECORD: Bypassing occurs in largest events (e.g. Sep 1985, Dec 1994), overtopping at both banks. FLOW REGIME: The river was canalised during the last war downstream of Kilsyth. The Forth and Clyde canal is influenced by feeder reservoirs at low flow.
+CATCHMENT,Catchment in the low lying central valley of Scotland. Upland catchments drain from the Campsie Fells. Millstone Grit and coal bearing rocks of Carboniferous age overlain by extensive Boulder Clay and sand and gravels deposits. Mixed land use including farming, forestry, urban development and open cast mining. Flood prevention schemes along the river at Kirkintilloch.
+Qmed Suitability,No comment
+Pooling Suitability,not reliable at the highest flows. Via correlation with the downstream gauge 84001 the highest recorded event is greatly underestimated at Dryfield.
+[END]

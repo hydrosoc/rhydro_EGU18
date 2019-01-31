@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 45003
+[END]
+[CDS DETAILS]
+NAME,Culm
+LOCATION,Woodmill
+NOMINAL AREA,  228.91
+NOMINAL NGR,3020,1057
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,302050,105800
+CENTROID NGR,GB,308880,111882
+DTM AREA,  228.91
+ALTBAR, 153
+ASPBAR,233
+ASPVAR,0.06
+BFIHOST,0.585
+DPLBAR, 15.82
+DPSBAR, 70.1
+FARL,0.993
+FPEXT,0.0650
+LDP, 30.63
+PROPWET,0.40
+RMED-1H, 11.1
+RMED-1D, 36.0
+RMED-2D, 47.0
+SAAR, 971
+SAAR4170, 995
+SPRHOST,31.82
+URBCONC1990,-9999.000
+URBEXT1990,0.0038
+URBLOC1990,-9999.000
+URBCONC2000, 0.701
+URBEXT2000,0.0139
+URBLOC2000, 0.654
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Shallow V weir built in 1972 to replace previous velocity-area section with cableway. GENERAL: Originally a velocity-area station with a cableway, reliable records began in 1962. The river was regraded and downstream obstructions were removed in August 1965. Station rebuilt between 1971 and 1973, and during this period a temporary recorder was installed downstream. New weir fully operative from 08/1973 - an informal shallow V weir, 11.45 m overall width, 1:26 side slopes, 1:18 u/s and d/s slopes. STATION HYDROMETRY: Weir acts as a low flow control, with channel control when structure is drowned. Full range. Widespread upstream inundation during floods. Multiple peak flow ratings across period of record. Ratings extended to include modelled out-of-bank flows. Bypassing probably occurs at about 2 m, u/s on the left bank, and the station is likely to be outflanked at any stage greater than 2.3 m. Shoal development has led to a number of ratings across period of record, with different low flow limbs. High flow limbs very similar, so simplified rating record applied to data. Current rating uses hydraulic modelling to extend beyond gauged range. Some out of bank gaugings help validate rating. Ratings for velocity-area station derived from gaugings, with some slope-area estimates above bankfull. Upper segment of rating for the temporary recorder 1971-73 derived by correlation between the sites. FLOW RECORD: Shoaling on structure may affect flows from 1998 until river bed re-profiling in 2008, despite rating adjustments. FLOW REGIME: Runoff reduced by public water supply abstraction. Runoff influenced by groundwater abstraction/recharge. Runoff increased by effluent returns. Runoff reduced by industrial/agricultural abstraction. Moderate surface and groundwater abstractions affect low flows.
+CATCHMENT,Rises in the Blackdown Hills. Headwaters drain Greensand and Gault Clay. Predominantly Permo-Triassic sandstones, breccias and marls with extensive valley gravels and alluvium. The catchment has a subdued relief and is predominantly agricultural; the largest settlement is Cullompton. Small areas of woodlands in the east. No major catchment changes.
+Qmed Suitability,Confident in model derived rating for high flows. Reasonable fit to gaugings.
+Pooling Suitability,Gauged above bank full with reasonable fit to rating. Confident in rating extension by hydraulic modelling.
+[END]

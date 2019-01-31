@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 21020
+[END]
+[CDS DETAILS]
+NAME,Yarrow Water
+LOCATION,Gordon Arms
+NOMINAL AREA,  153.94
+NOMINAL NGR,3309,6247
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,330900,624750
+CENTROID NGR,GB,322923,622850
+DTM AREA,  153.94
+ALTBAR, 451
+ASPBAR,101
+ASPVAR,0.17
+BFIHOST,0.395
+DPLBAR, 11.89
+DPSBAR,219.9
+FARL,0.820
+FPEXT,0.0187
+LDP, 23.28
+PROPWET,0.72
+RMED-1H, 10.6
+RMED-1D, 44.6
+RMED-2D, 60.2
+SAAR,1496
+SAAR4170,1545
+SPRHOST,46.25
+URBCONC1990,-9999.000
+URBEXT1990,0.0000
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0000
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station, from 1982 flows are highly artificial with Megget Reservoir used for public water supplies and operated in conjunction with St Mary's Loch. GENERAL: Velocity area station d/s of road bridge on approx. 20m wide section with rough gravel bed. STATION HYDROMETRY: Asymmetrical flow due to curve u/s. Freezing of water surface in winter necessitates ice correction. Sensibly natural runoff until impounding for Megget Res. began in 1982 but St Mary's Loch (few km u/s) attenuates floods significantly. Especially low flow in Aug 1976 due to damming of gravel bar prior to gravel extraction. Extensive channel change reported in 2015 due to altered flow pathway, disrupting gaugings. All flows contained to date. Peak flow ratings derived from current meter gaugings up to 1.5m (about 1.4 QMED), simple extrapolation beyond. FLOW RECORD: Low flow in August 1976 due to damming of gravel bar prior to gravel extraction. Monthly naturalised flows available. Gauging suspended in 2015 due to altered flow causing cableway failure and gravel build-up at station. FLOW REGIME: Natural regime until 1982. From 1982 flows are highly artificial with Megget Reservoir used for public water supplies and operated in conjunction with St Mary's Loch.
+CATCHMENT,Upland catchment. Impervious bedrock (Silurian formations) with half superficial deposits. Land use hill grazing with some forestry. Megget Reservoir (1982).
+Qmed Suitability,Influence of reservoir from 1982
+Pooling Suitability,Influence of reservoir from 1982
+[END]

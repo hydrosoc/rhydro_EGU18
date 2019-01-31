@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+  7004
+[END]
+[CDS DETAILS]
+NAME,Nairn
+LOCATION,Firhall
+NOMINAL AREA,  304.96
+NOMINAL NGR,2882,8550
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,288250,855050
+CENTROID NGR,GB,273723,837368
+DTM AREA,  304.96
+ALTBAR, 290
+ASPBAR,347
+ASPVAR,0.31
+BFIHOST,0.587
+DPLBAR, 30.39
+DPSBAR,102.7
+FARL,0.923
+FPEXT,0.0682
+LDP, 58.04
+PROPWET,0.50
+RMED-1H,  9.5
+RMED-1D, 35.7
+RMED-2D, 48.3
+SAAR, 942
+SAAR4170,1067
+SPRHOST,41.25
+URBCONC1990,-9999.000
+URBEXT1990,0.0007
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0009
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station draining catchment with mountainous headwaters. Flows affected by abstraction for Inverness PWS. GENERAL: Velocity area station, 20m wide. STATION HYDROMETRY: Rock protection to a d/s pipeline provides a stable low flow control. High flow control is bridge abutments. Overbank flows could occur at extreme levels but to date all flows contained. Adequately gauged to bankfull. Ratings derived from current meter gaugings up to 2.1m (about 1.3QMED), simple extrapolation beyond. Peak flow rating was revised in 2003 and a new single rating for peak flows only was judged to be suitable for whole period of record. Rating revised in 2016. FLOW RECORD: Daily level observations from April 1974 to January 1976. Full period of record peak flow data reviewed and released in April 2017 (WINFAP Files v5). FLOW REGIME: 7% of the upper catchment drains through Loch Duntelchaig, water is abstracted for Inverness PWS. No other significant surface storage.
+CATCHMENT,Mountainous headwaters, often snowy in winter. Predominantly Old Red Sandstone largely by superficial deposits. The catchment is hill pastures and peat moorland except for the lower 20% of catchment which is cultivated. Significant forest cover. No significant catchment changes known.
+Qmed Suitability,Gauged above QMED
+Pooling Suitability,Gauged to 90% of AMAX3
+[END]

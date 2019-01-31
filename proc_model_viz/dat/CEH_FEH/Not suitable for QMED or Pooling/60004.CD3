@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 60004
+[END]
+[CDS DETAILS]
+NAME,Dewi Fawr
+LOCATION,Glasfryn Ford
+NOMINAL AREA,   36.80
+NOMINAL NGR,2289,2174
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,229000,217500
+CENTROID NGR,GB,229947,224119
+DTM AREA,   36.80
+ALTBAR, 145
+ASPBAR,190
+ASPVAR,0.24
+BFIHOST,0.569
+DPLBAR,  9.71
+DPSBAR,123.3
+FARL,1.000
+FPEXT,0.0320
+LDP, 19.49
+PROPWET,0.52
+RMED-1H, 12.2
+RMED-1D, 47.4
+RMED-2D, 64.0
+SAAR,1476
+SAAR4170,1501
+SPRHOST,33.29
+URBCONC1990,-9999.000
+URBEXT1990,0.0001
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0009
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station, constructed in opening of railway embankments where railway bridge crosses river. Ford 10m d/s. Runoff affected by effluent returns. GENERAL: Velocity area station, constructed in opening of railway embankments where railway bridge crosses river. Channel width 7m. Ford 10m d/s. Discontinued at end of 1983, reinstated in Apr 1990. STATION HYDROMETRY: Concrete ford d/s acts as a stable bed control - in good condition. Bridge contains all flows. Some minor shoaling u/s. At approx 2m water spreads out along road either side of ford resulting in some backing up. Access prevented for measurements above 2.3m when footbridge is submerged. Single peak flow rating applied to whole record. Recommended rating upper limit is level of highest gauging (1.8m). FLOW RECORD: Flows since 13 Jan 2006 reprocessed in 2013 due to new rating, with main affect of reducing high flow HIFs. No POTs measured above 2m due to water spreading out across road at flows >2m. FLOW REGIME: Runoff increased by effluent returns.
+CATCHMENT,Impermeable Ordovician strata. Rural catchment, mostly grassland (mainly dairy farming), minor patches of woodland.
+Qmed Suitability,Rating upper limit is <QMED
+Pooling Suitability,Rating cannot be validated beyond QMED
+[END]

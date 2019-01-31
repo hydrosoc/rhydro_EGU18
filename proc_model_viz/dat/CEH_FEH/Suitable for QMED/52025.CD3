@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 52025
+[END]
+[CDS DETAILS]
+NAME,Hillfarrance Brook
+LOCATION,Milverton
+NOMINAL AREA,   27.75
+NOMINAL NGR,3113,1270
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,311350,127000
+CENTROID NGR,GB,308310,128522
+DTM AREA,   27.75
+ALTBAR, 163
+ASPBAR,100
+ASPVAR,0.28
+BFIHOST,0.633
+DPLBAR,  5.21
+DPSBAR,135.5
+FARL,0.996
+FPEXT,0.0230
+LDP, 10.61
+PROPWET,0.35
+RMED-1H, 11.1
+RMED-1D, 36.7
+RMED-2D, 50.4
+SAAR,1009
+SAAR4170,1008
+SPRHOST,28.61
+URBCONC1990,-9999.000
+URBEXT1990,0.0047
+URBLOC1990,-9999.000
+URBCONC2000, 0.748
+URBEXT2000,0.0141
+URBLOC2000, 0.870
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Flat V weir for low flow, with rated section for high flows. Designed by Flood Defence. GENERAL: Station is located 2km north west of the village of Milverton and was opened in 1991 as part of the flood warning system for Taunton. Designed by Flood Defence. Flat V weir for low flow, with rated section for high flows. STATION HYDROMETRY: Wing walls higher than surrounding land. Meanders downstream cause backing-up at high flows, with inundation before structure is full (1.15m) and extensive bypassing. Extensive out-of-bank ponding. Original rating applied across period of record, based on theoretical flat V equation, altered because gaugings show lower than expected flows. Some scatter in gaugings and rating is poor fit beyond 0.6m. FLOW REGIME: Sewage treatment works upstream of site, and pig processing factory (having stream support borehole) 100m upstream of that.
+CATCHMENT,Catchment predominantly comprising Permo-Triassic and Carboniferous mudstone, siltstone and sandstone. Land-use is rural. No major catchment changes.
+Qmed Suitability,Although gauged to within 20% of QMED, rating is uncertain beyond 0.6m.
+Pooling Suitability,Rating uncertain beyond 0.6m and does not fit well to available gaugings.
+[END]

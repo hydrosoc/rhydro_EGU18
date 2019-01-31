@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 22001
+[END]
+[CDS DETAILS]
+NAME,Coquet
+LOCATION,Morwick
+NOMINAL AREA,  578.25
+NOMINAL NGR,4234,6044
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,423450,604450
+CENTROID NGR,GB,400760,603912
+DTM AREA,  578.25
+ALTBAR, 225
+ASPBAR,110
+ASPVAR,0.19
+BFIHOST,0.393
+DPLBAR, 45.20
+DPSBAR,110.0
+FARL,0.993
+FPEXT,0.0403
+LDP, 82.40
+PROPWET,0.44
+RMED-1H,  9.1
+RMED-1D, 34.4
+RMED-2D, 44.7
+SAAR, 850
+SAAR4170, 884
+SPRHOST,42.53
+URBCONC1990,-9999.000
+URBEXT1990,0.0012
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0020
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station with informal flat V weir. GENERAL: Velocity area station, with 34m wide concrete informal flat-V weir (approx. 1:20 cross-slope) and cableway installed in 1973. A temporary station was established 200yards d/s during weir construction in 2006 to ensure continuity of record. Replaced earlier station at Guyzance, 3 miles u/s. STATION HYDROMETRY: Fairly straight section with high banks, although may be bypassed at high flows. Non-modular at even moderate levels. Station has suffered from inlet pipe lag previously. Gravel trap in inlet pipe. Two peak flow ratings applied across period of record, the most recent is valid from 1975 and based upon the VELAR1973C rating with an additional upper limb. Good fit to gaugings. Flood Studies Report grade A1. FLOW RECORD: Data missing 18/02/2006 - 14/06/2006 due to station rebuild. FLOW REGIME: Responsive natural regime. In the past annual flush and drain of dam u/s of gauge on Duke of Northumberland estate has affected the flow regime. Some abstractions.
+CATCHMENT,Predominantly upland catchment draining from Cheviots. Largely Carboniferous Limestone and low permeability Devonian Igneous series, two thirds of the catchment is overlain by superficial deposits. Half the catchment is grassland, some upland afforestation and arable in low-lying areas. Progressive afforestation and associated drainage on upland Cheviot tributary valleys.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Few high flow gaugings. Rating can not be validated beyond QMED. AMAX3 is out of bank and some bypassing occurs across left bank not currently accounted for.
+[END]

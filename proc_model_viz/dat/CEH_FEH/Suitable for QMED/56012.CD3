@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 56012
+[END]
+[CDS DETAILS]
+NAME,Grwyne
+LOCATION,Millbrook
+NOMINAL AREA,   82.80
+NOMINAL NGR,3240,2175
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,324050,217600
+CENTROID NGR,GB,324467,224693
+DTM AREA,   82.80
+ALTBAR, 431
+ASPBAR,147
+ASPVAR,0.15
+BFIHOST,0.648
+DPLBAR, 11.75
+DPSBAR,240.8
+FARL,0.984
+FPEXT,0.0132
+LDP, 25.61
+PROPWET,0.54
+RMED-1H, 10.4
+RMED-1D, 46.1
+RMED-2D, 58.9
+SAAR,1241
+SAAR4170,1278
+SPRHOST,18.04
+URBCONC1990,-9999.000
+URBEXT1990,0.0001
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0011
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Crump weir of reinforced concrete and local stone with phosphor bronze crest. Reservoirs in catchment affect runoff. GENERAL: Crump weir of reinforced concrete and local stone with phosphor bronze crest, 10.67m wide. STATION HYDROMETRY: Limited u/s shoaling and weed growth on weir may affect low flows. Fish counter on d/s side of weir not thought to affect performance. Flows contained up to 2.27m. No bypassing on either bank at high flows - channel contained by road wall on lb. Multiple peak flow ratings applied across period of record. NRW confirm no high flow gaugings; highest gauging at 7.6 cumecs. Reservoirs in catchment affect runoff.
+CATCHMENT,Impermeable, predominantly Old Red Sandstone conglomerates, sandstone and marl. Predominantly grassland for livestock farming, significant heathland and some afforestation.
+Qmed Suitability,Although not gauged to within 30% of QMED, rating has been extended using a hydraulic model
+Pooling Suitability,Few high flow gaugings. Rating can not be validated beyond QMED.
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 21029
+[END]
+[CDS DETAILS]
+NAME,Tweed
+LOCATION,Glenbreck
+NOMINAL AREA,   34.40
+NOMINAL NGR,3063,6215
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,306300,621550
+CENTROID NGR,GB,305785,617315
+DTM AREA,   34.40
+ALTBAR, 420
+ASPBAR, 10
+ASPVAR,0.08
+BFIHOST,0.353
+DPLBAR,  6.40
+DPSBAR,165.1
+FARL,1.000
+FPEXT,0.0212
+LDP, 12.46
+PROPWET,0.72
+RMED-1H, 10.8
+RMED-1D, 43.7
+RMED-2D, 61.2
+SAAR,1532
+SAAR4170,1703
+SPRHOST,49.11
+URBCONC1990,-9999.000
+URBEXT1990,0.0000
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0000
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station on the River Tweed in the Scottish Borders. GENERAL: Velocity area station. STATION HYDROMETRY: The control is a simple flat concrete broad crest bar with stone pitching on the flanks. Gravel had built up on the u/s side. Floods are believed to be contained. Peak flow ratings derived from current meter gaugings at low flows, simple extrapolation beyond. FLOW REGIME: Natural regime.
+CATCHMENT,Impermeable bedrock. Mainly hill grazing. No significant catchment changes known.
+Qmed Suitability,No comment
+Pooling Suitability,quality of data not sure
+[END]

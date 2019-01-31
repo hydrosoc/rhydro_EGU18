@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 76014
+[END]
+[CDS DETAILS]
+NAME,Eden
+LOCATION,Kirkby Stephen
+NOMINAL AREA,   66.82
+NOMINAL NGR,3773,5097
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,377300,509700
+CENTROID NGR,GB,378420,503112
+DTM AREA,   66.82
+ALTBAR, 395
+ASPBAR,309
+ASPVAR,0.20
+BFIHOST,0.409
+DPLBAR, 10.34
+DPSBAR,149.0
+FARL,1.000
+FPEXT,0.0296
+LDP, 23.33
+PROPWET,0.68
+RMED-1H, 11.7
+RMED-1D, 51.0
+RMED-2D, 71.2
+SAAR,1492
+SAAR4170,1387
+SPRHOST,45.76
+URBCONC1990,-9999.000
+URBEXT1990,0.0032
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0050
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Compound broad-crested weir, the highest gauging station on the River Eden. Gauges a high relief, natural catchment. GENERAL: Non-standard compound broad-crested weir, built in 1971 to stabilise the bed and act as a low flow control. In 2007 extensive revetment works on left bank were carried out to prevent bank slippage into channel; weir repaired in 2008. STATION HYDROMETRY: Gravel bed, good parallel approach. Crest corrosion a problem prior to addition of iron crest. Insensitive at low flows. Structure drowns and modest bypassing occurs at highest flows (some gauged evidence of its magnitude). Low flows gauged by wading; cableway measures higher flows. Drawdown in well of up to 60mm during large events; this is currently under investigation with an in-river sensor and alterations to the inlet. One peak flow rating applied across period of record. Rated by gaugings to 2.5m. Slight alterations and repairs to weir between 2nd May and 19th June 1989, with no significant change to high flow rating. FLOW REGIME: Natural catchment with no known abstractions or returns.
+CATCHMENT,High relief catchment draining Carboniferous Limestone which forms most of the watershed. Middle reaches floored by Permian Sandstone. Hill peat and moorland, variable Boulder Clay cover. No catchment changes known.
+Qmed Suitability,Gauged almost to highest recorded flow.
+Pooling Suitability,Gauged almost to highest recorded flow (90% of AMAX1).
+[END]

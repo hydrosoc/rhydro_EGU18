@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 54907
+[END]
+[CDS DETAILS]
+NAME,Arrow
+LOCATION,Broom
+NOMINAL AREA,  320.84
+NOMINAL NGR,4086,2536
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,408650,253600
+CENTROID NGR,GB,411025,265693
+DTM AREA,  320.84
+ALTBAR, 102
+ASPBAR,153
+ASPVAR,0.15
+BFIHOST,0.374
+DPLBAR, 21.20
+DPSBAR, 45.2
+FARL,0.963
+FPEXT,0.0945
+LDP, 35.30
+PROPWET,0.28
+RMED-1H, 10.7
+RMED-1D, 32.4
+RMED-2D, 41.6
+SAAR, 689
+SAAR4170, 695
+SPRHOST,41.21
+URBCONC1990, 0.658
+URBEXT1990,0.0358
+URBLOC1990, 0.975
+URBCONC2000, 0.798
+URBEXT2000,0.0437
+URBLOC2000, 0.990
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Site rated until 1976 when replaced in 1976 by 54007 Broom (New) - a crump profile weir with a higher containment capacity. GENERAL: Up to 1976 rated section; not rated above bankfull when extensive inundation occurred. Replaced in 1976 by 54007 Broom (New) - a crump profile weir with a higher containment capacity. There is a wide floodplain on the right bank (~200m) and a bypass channel on the left bank. STATION HYDROMETRY: Up to 1976 rated section; not rated above bankfull when extensive inundation occurred. Two ratings applied across period of record, the most recent is valid from October-1973. Bank full pre 1973 2.5mASD and 2mASD. Ratings fit well to respective gaugings. FLOW REGIME: Groundwater pumping for PWS significantly augments low flow through effluent returns.
+CATCHMENT,Low relief, predominantly agricultural catchment upon Keuper Marl, with small glacial gravel deposits in the eastern headwaters. Responsive; sewage effluent maintains low flows. Contains Redditch and Alcester.
+Qmed Suitability,Both ratings fit gaugings well to QMED.
+Pooling Suitability,No gaugings exist to validate rating beyond QMED.
+[END]

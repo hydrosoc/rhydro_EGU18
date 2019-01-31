@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+205008
+[END]
+[CDS DETAILS]
+NAME,Lagan
+LOCATION,Drumiller
+NOMINAL AREA,   84.97
+NOMINAL NGR,3236,3524
+[END]
+[DESCRIPTORS]
+IHDTM NGR,Ireland,323650,352500
+CENTROID NGR,Ireland,326938,348550
+DTM AREA,   84.97
+ALTBAR, 168
+ASPBAR,337
+ASPVAR,0.18
+BFIHOST,0.403
+DPLBAR, 11.70
+DPSBAR, 86.5
+FARL,0.992
+FPEXT,0.0694
+LDP, 19.21
+PROPWET,0.53
+RMED-1H, 10.7
+RMED-1D, 40.9
+RMED-2D, 53.0
+SAAR,1016
+SAAR4170,1082
+SPRHOST,44.90
+URBCONC1990,-2.000
+URBEXT1990,0.0135
+URBLOC1990, 0.747
+URBCONC2000,-9999.000
+URBEXT2000,0.0013
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station with calibration by wading. GENERAL: Opened early-1970s as a velocity-area station with open channel control. Concrete Flat V Weir installed in 1991. STATION HYDROMETRY: Masonry hut; shaft encoder. Minor floodplain flow (left bank) during floods. High flow gauging from bridge on d/s side, as u/s flows less uniform. Simple extrapolation used above max gauging of 30.77m3/s (gauged on 07/11/2000). Flows not contained. Prior to weir installation rating based solely on gaugings. FLOW RECORD: Daily flows from 1978 onwards reprocessed in 2002. Late December 2010 flows considered suspect due to likely freezing in stilling well. Flat V weir installed in 1991, leading to missing period of data. FLOW REGIME: Natural regime - no water abstractions or significant effluent returns.
+CATCHMENT,Predominantly upland heath rising to over 500m, some grassland used for sheep grazing. Solid geology - Silurian greywacke sandstones and shale form indurated bedrock. Drift geology - rock near surface, drumlinised glacial till and river alluvium. Catchment contains one large village (Dromora).
+Qmed Suitability,Maximum gauged flow is greater than QMED for both pre and post weir record. QMED flows are contained within the channel however weir is not believed to be modular but the current meter gaugings are approximately 1.2 times QMED
+Pooling Suitability,Station gets out of bank on the left bank during high flows but at the highest recorded level the estimated floodplain flow is less than 10%
+[END]

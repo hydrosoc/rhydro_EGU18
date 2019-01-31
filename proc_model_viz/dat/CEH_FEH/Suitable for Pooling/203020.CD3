@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+203020
+[END]
+[CDS DETAILS]
+NAME,Moyola
+LOCATION,Moyola New Bridge
+NOMINAL AREA,  304.20
+NOMINAL NGR,2956,3905
+[END]
+[DESCRIPTORS]
+IHDTM NGR,Ireland,295650,390500
+CENTROID NGR,Ireland,280910,394224
+DTM AREA,  304.20
+ALTBAR, 148
+ASPBAR, 88
+ASPVAR,0.20
+BFIHOST,0.454
+DPLBAR, 26.51
+DPSBAR, 74.7
+FARL,0.992
+FPEXT,0.1120
+LDP, 46.93
+PROPWET,0.55
+RMED-1H,  8.5
+RMED-1D, 36.3
+RMED-2D, 48.5
+SAAR,1225
+SAAR4170,1230
+SPRHOST,39.42
+URBCONC1990,-2.000
+URBEXT1990,0.0229
+URBLOC1990, 0.551
+URBCONC2000, 0.809
+URBEXT2000,0.0082
+URBLOC2000, 0.547
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station with cableway. GENERAL: Velocity area station. STATION HYDROMETRY: Small range. At high flows, river overspills banks. Multi-arched bridge just d/s of station, between the piers, the inverts act as informal, horizontal controls. Rating derived from current meter gaugings. Simple extrapolation occurs above approx 67.7m3/s (maximum gauged level). FLOW RECORD: Daily flows for full period of record reprocessed in 2002. Suspect flows in July 2002, resulting from works on bridge d/s. Rating equation was adjusted in February 2008 due to infilling of scoured invert with concrete by Roads Service. FLOW REGIME: Kilberry reservoir provides storage in catchment for public water supply, however its impact on the gauging station is minor.
+CATCHMENT,Predominantly grassland and heath with limited afforestation. Urban areas at Magherafelt and Maghera but no major industry. Solid geology - north of the Omagh Thrust and west of the Tow Valley Fault, Dalradian rock types form a generally impermeable basement composed of metamorphosed, schistose sandstone, shale, limestone and basic igneous intrusive and extrusive lithologies. Moinian and Ordovician igneous complexes form generally impermeable basement to the south and east. Much of south is composed of Carboniferous conglomerate, sandstone, mudstone and limestone that are generally indurated. Drift geology - extensive glacial till and sand and gravel. Rock near surface and post-glacial peat cover on high ground with variable development of river alluvium in valleys.
+Qmed Suitability,Needs high flow gaugings however the flow at QMED is contained within the channel.
+Pooling Suitability,Flood events known to be within bank, site suitable for pooling. Some overspill onto to left bank does occur but this is minimal.
+[END]

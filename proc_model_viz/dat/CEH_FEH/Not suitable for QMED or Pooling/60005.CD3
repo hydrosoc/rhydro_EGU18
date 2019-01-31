@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 60005
+[END]
+[CDS DETAILS]
+NAME,Bran
+LOCATION,Llandovery
+NOMINAL AREA,   63.70
+NOMINAL NGR,2771,2343
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,277150,234350
+CENTROID NGR,GB,281413,241033
+DTM AREA,   63.70
+ALTBAR, 252
+ASPBAR,208
+ASPVAR,0.23
+BFIHOST,0.485
+DPLBAR, 11.18
+DPSBAR,185.1
+FARL,0.997
+FPEXT,0.0492
+LDP, 19.78
+PROPWET,0.63
+RMED-1H, 10.8
+RMED-1D, 48.9
+RMED-2D, 64.0
+SAAR,1489
+SAAR4170,1512
+SPRHOST,39.32
+URBCONC1990,-9999.000
+URBEXT1990,0.0003
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0009
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Flat V weir for low flows, Ultrasonic installed in Dec 1995. Agricultural abstractions have a minor impact on flow records. GENERAL: Flat V weir for low flows, Ultrasonic installed in Dec 1995. Replaced velocity-area station with records from 1968, bed control installed 1972. Channel width: 7.5m. STATION HYDROMETRY: Flood Alleviation Scheme u/s of Llandovery stops any bypass flow. High flows may be affected by confluence with River Gwydderig 100m d/s, causing some non-modular flow. Ultrasonic prone to dropping out during high flows. Variable back water causes a problem. Two peak flow ratings applied across POR. The most recent is valid from November 1995 after the installation of Ultrasonic equipment. FLOW RECORD: Low flows in Aug - Sep 1995 are suspect due to work on weir prior to installation of ultrasonics. Low flows in Jul - Aug 2006 are suspect due to period of turbulent levels. Peak flood flow of 63.5 cumecs in Oct 1985 was extrapolated, subject to some uncertainty. Flows since 16/7/2006 reprocessed in 2011 due to new rating, affecting both low and high flows. Reprocessed HIFs Nov 1995 - Mar 2003 added in 2012, slightly reducing magnitude of flows in this period. Digital peak flow archive data (WISKI) starts 1 Jan 1979. FLOW REGIME: Agricultural abstractions have a minor impact on flow records. Levels can be affected by the River Gwydderig, situated d/s, due to back-up of water.
+CATCHMENT,Impermeable Ordovician substrate, with alluvium on valley floor. Peaty soils, seasonally wet, in hill area. Soils have permeable substrate in lower areas. Mainly grassland, with hill farming in uplands, dairy in valleys. Significant forest cover throughout.
+Qmed Suitability,Not currently suitable for QMED. Improvements to ultrasonic in 2011 did not result in the anticipated data quality improvement. Station under review.
+Pooling Suitability,Few high flow gaugings. Rating can not be validated at high flows. Uncertainty due to variable back-water effect.
+[END]

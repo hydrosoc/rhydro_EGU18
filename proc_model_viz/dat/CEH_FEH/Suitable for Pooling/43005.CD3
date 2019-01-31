@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 43005
+[END]
+[CDS DETAILS]
+NAME,Avon
+LOCATION,Amesbury
+NOMINAL AREA,  326.47
+NOMINAL NGR,4151,1413
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,415100,141400
+CENTROID NGR,GB,413152,155346
+DTM AREA,  326.47
+ALTBAR, 135
+ASPBAR,177
+ASPVAR,0.16
+BFIHOST,0.903
+DPLBAR, 26.62
+DPSBAR, 50.5
+FARL,1.000
+FPEXT,0.0710
+LDP, 48.28
+PROPWET,0.34
+RMED-1H, 10.4
+RMED-1D, 31.0
+RMED-2D, 40.5
+SAAR, 744
+SAAR4170, 768
+SPRHOST,10.68
+URBCONC1990, 0.535
+URBEXT1990,0.0154
+URBLOC1990, 0.939
+URBCONC2000, 0.758
+URBEXT2000,0.0132
+URBLOC2000, 0.788
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Crump profile weir flanked by broad-crested weirs on the Avon. Full range station. GENERAL: Crump profile weir (crest 9.14m wide) flanked by broad-crested weirs. STATION HYDROMETRY: Full range station, a good gauge for high flow analysis. No bypassing and no known out of bank flow. Observed to be fully modular at 0.986m. Small bypass channel approx. 2m u/s of weir - included in rating. Weed growth downstream of the weir has in very exceptional summers been known to cause non-modularity. One peak flow rating applied across period of record. Re-rated in 2001 to include exceptional 12/2000 event and applied to whole period of record. The EA are very confident of the stage-discharge relationship. Good high flow rating based on current meter gaugings. Upper limit of rating is 1m / 26.3 cumecs. It is extrapolated beyond that limit. FLOW REGIME: Some groundwater pumping influences flows. During summer, flows are naturally augmented from groundwater draining from northern half of the River Bourne catchment.
+CATCHMENT,Predominantly permeable (Chalk) catchment with a small inlier of Upper Greensand and Gault. The northern area of the catchment consists of a band of Greensand between bands of lower chalk. The rest of the catchment is composed of upper Chalk. Land use is rural. Topographical and groundwater catchments do not coincide. No major changes.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged beyond AMAX3. Small amount of scatter in gaugings, no bypassing reported.
+[END]

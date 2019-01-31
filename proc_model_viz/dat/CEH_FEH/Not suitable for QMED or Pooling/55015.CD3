@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 55015
+[END]
+[CDS DETAILS]
+NAME,Honddu
+LOCATION,Tafolog
+NOMINAL AREA,   24.71
+NOMINAL NGR,3276,2294
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,327650,229450
+CENTROID NGR,GB,324967,232506
+DTM AREA,   24.71
+ALTBAR, 523
+ASPBAR,153
+ASPVAR,0.12
+BFIHOST,0.572
+DPLBAR,  5.39
+DPSBAR,257.0
+FARL,1.000
+FPEXT,0.0065
+LDP, 10.29
+PROPWET,0.54
+RMED-1H, 10.6
+RMED-1D, 46.5
+RMED-2D, 60.9
+SAAR,1315
+SAAR4170,1395
+SPRHOST,27.13
+URBCONC1990,-9999.000
+URBEXT1990,0.0000
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0000
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area natural river section. Downgraded to level-only for flood warning in July 1982. Status upgraded in 2010, with flows from 2005. GENERAL: Velocity area station. Natural river section. First station with flat V weir opened 55m d/s of current site in 1954. Station closed August 1982 to January 1992. Station downgraded to level-only for flood warning in July 1982. Status upgraded in 2010, with flows from 2005. Non-standard control means flows should be viewed with caution. STATION HYDROMETRY: Low flow control is a small rock bar; otherwise Tafalog road bridge 70m d/s is the control. No cableway for high flow gaugings. Gauging ceased in July 1986. Gauging restarted in 2005 and station status upgraded in 2010, with flows from 2005. Peak flow rating provides best fit to gaugings. Upper limit recommended at 0.4m (max gauged). FLOW RECORD: Highest flow of 68.5 cumecs occurred in Oct 1960, before start of NRFA record. Weir deteriorated after this flood and station was moved u/s to current location in 1974. FLOW REGIME: Natural flow regime.
+CATCHMENT,Located in high upland area of the Monnow catchment, underlain by the Breconian sequence of the Lower Old Red Sandstone strata. Mostly forestry and sheep grazing.
+Qmed Suitability,Not gauged to within 30% of QMED.
+Pooling Suitability,Few high flow gaugings. Rating beyond QMED cannot be validated.
+[END]

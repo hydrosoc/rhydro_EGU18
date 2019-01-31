@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 37019
+[END]
+[CDS DETAILS]
+NAME,Beam
+LOCATION,Bretons Farm
+NOMINAL AREA,   51.54
+NOMINAL NGR,5515,1853
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,551550,185350
+CENTROID NGR,GB,551364,190821
+DTM AREA,   51.54
+ALTBAR,  41
+ASPBAR,183
+ASPVAR,0.21
+BFIHOST,0.368
+DPLBAR,  7.95
+DPSBAR, 27.7
+FARL,0.972
+FPEXT,0.1143
+LDP, 18.24
+PROPWET,0.27
+RMED-1H, 11.1
+RMED-1D, 31.5
+RMED-2D, 38.8
+SAAR, 588
+SAAR4170, 597
+SPRHOST,41.14
+URBCONC1990, 0.882
+URBEXT1990,0.2696
+URBLOC1990, 0.683
+URBCONC2000, 0.910
+URBEXT2000,0.3391
+URBLOC2000, 0.672
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,An Essex modified Flat V Crump weir situated in a mainly rural headwaters with urban influences. GENERAL: 'Essex' (modified Flat V Crump) weir in 10.4m wide section. The weir is non standard. Spillway accommodates flow > 16 cumecs. STATION HYDROMETRY: Model-based calibration assumes modularity and drowning is uncommon. Rating estimates of flow thought to be reasonable. One peak flow rating has been applied across the period of record. FLOW RECORD: Naturalised flows available 1966-7, there is a very small net diminution in runoff. The site was vandalised and data was lost between 01/07/00 and 28/01/01. FLOW REGIME: Runoff increased by effluent returns but reduced by industrial/agricultural abstraction. Flood storage lagoons built on the River Rom, from the late 1980s onwards, influences flows patterns.
+CATCHMENT,A predominantly impermeable catchment (London Clay overlain in places by glacial deposits). Mainly rural headwaters with substantial expanding urban development in the lower reaches.
+Qmed Suitability,Not gauged to within 30% of QMED.
+Pooling Suitability,Insufficient high flow gaugings to confirm rating.
+[END]

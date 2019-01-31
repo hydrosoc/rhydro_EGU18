@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+236007
+[END]
+[CDS DETAILS]
+NAME,Sillees
+LOCATION,Drumrainey Bridge
+NOMINAL AREA,  167.50
+NOMINAL NGR,2204,3400
+[END]
+[DESCRIPTORS]
+IHDTM NGR,Ireland,220500,340000
+CENTROID NGR,Ireland,211879,348444
+DTM AREA,  167.50
+ALTBAR, 140
+ASPBAR, 91
+ASPVAR,0.06
+BFIHOST,0.495
+DPLBAR, 24.02
+DPSBAR,103.0
+FARL,0.888
+FPEXT,0.1622
+LDP, 47.08
+PROPWET,0.60
+RMED-1H,  9.5
+RMED-1D, 35.5
+RMED-2D, 47.9
+SAAR,1330
+SAAR4170,1363
+SPRHOST,31.34
+URBCONC1990,-0.002
+URBEXT1990,0.0020
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0006
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station with cableway. GENERAL: Velocity area station opened in October 1981. STATION HYDROMETRY: There is backing up from a bridge immediately downstream. Some not gauged over full range of low flows at site. Good range of high flow gaugings. The rating is derived from current meter gaugings. Simple extrapolation occurs beyond 27.6m3/s (highest gauged level). Throttling occurs at extreme high flows (>3.25m stage, c.30 cumecs) at downstream bridge soffit. FLOW RECORD: Daily flows from start of 1984 onwards reprocessed in 2002. Gaps in data in Jan 2010 & Mar 2010 due to instrument failure. FLOW REGIME: Some natural storage provided by small lakes in headwaters which attenuate and delay flood peaks, giving a large time-to-peak.
+CATCHMENT,Solid geology - indurated Carboniferous sandstone and mudstone with limestone that is sometimes karstified. Drift geology - extensive glacial till (drumlinised), lacustrine clay and river alluvium in valleys. A mainly agricultural catchment (appreciable forestry in higher areas). No significant urban development.
+Qmed Suitability,Maximum flow gauged is 1.14 times QMED, station is contained for QMED flows. High flow rating offers an acceptable fit for the check gaugings.
+Pooling Suitability,Bank full discharge not known but Gauging Authority staff say that the station is contained during high flows.
+[END]

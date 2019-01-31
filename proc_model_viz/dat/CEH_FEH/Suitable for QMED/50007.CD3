@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 50007
+[END]
+[CDS DETAILS]
+NAME,Taw
+LOCATION,Taw Bridge
+NOMINAL AREA,   72.24
+NOMINAL NGR,2672,1068
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,267300,106800
+CENTROID NGR,GB,264737, 97350
+DTM AREA,   72.24
+ALTBAR, 234
+ASPBAR, 16
+ASPVAR,0.21
+BFIHOST,0.490
+DPLBAR, 13.51
+DPSBAR, 95.4
+FARL,0.994
+FPEXT,0.0462
+LDP, 28.52
+PROPWET,0.46
+RMED-1H, 12.2
+RMED-1D, 41.1
+RMED-2D, 57.1
+SAAR,1225
+SAAR4170,1229
+SPRHOST,35.05
+URBCONC1990,-9999.000
+URBEXT1990,0.0011
+URBLOC1990,-9999.000
+URBCONC2000, 0.596
+URBEXT2000,0.0056
+URBLOC2000, 0.830
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Flat V weir built in 1998 to replace previous station built in 1973. GENERAL: Station built in 1973 with a natural, unstable, bed control. A Flat V weir was constructed to replace this in 1998 - crest length approximately 15m wide. STATION HYDROMETRY: Station is bypassed by highest flows. Shallow depth at low flows. Multiple ratings applied across period of record, the most recent is valid from 10/1998 when weir installation necessitated a rating change. Ratings fit well to corresponding gaugings well. A series of peak flow ratings represent the general conditions at high flows: - Rating 6 from the start of the stage record and the high flow event on 24/12/1989 - Rating 10 from the winter of 1989 (24/12/1989) up to the changes caused by bank modification works in 1995 - Rating 12 from the completion of bank works in 1995 (25/04/1995) up to the completion of weir construction on 23/10/1998 - Rating 14 V2 from the construction of the weir in 10/1998 to the present. Includes modelled upper segments Some disagreement between pre- and post-weir rating at high flows causes higher AMAX values in latter part of the record. Re-rated in 2009 to account for changes to the natural control in the period before the weir construction (significantly decreasing medium and low flows), and shoaling afterwards (decreasing low flows). The top segments of the pre-weir ratings have been fitted to four difficult gaugings taken during an event in 11/1986 - so comparatively low accuracy, and don't allow for subsequent channel changes. FLOW RECORD: Suspect data 01/09/1998 to 30/11/1998 during weir construction and commissioning. 10/2000 peak flow considered significantly overestimated. Water abstractions at Taw Marsh, Dartmoor, ceased around 1999. Before this, low flows would have been affected. FLOW REGIME: Runoff natural to within 10% at Q95. Water abstractions at Taw Marsh, Dartmoor ceased around 1999. Before this date low flows would have been affected. Cheese factory at North Taw bridge abstracts from borehole but also compensates into river at low flow.
+CATCHMENT,Flashy regime. Catchment drains Dartmoor (Granite) in the south and is underlain mainly by Culm Shales and Carboniferous sandstones centrally. Mainly rural catchment. No major changes to catchment.
+Qmed Suitability,Gauged to within 4% of QMED.
+Pooling Suitability,Few high flow gaugings. Rating can not be validated beyond QMED.
+[END]

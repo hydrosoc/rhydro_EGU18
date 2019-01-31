@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 37008
+[END]
+[CDS DETAILS]
+NAME,Chelmer
+LOCATION,Springfield
+NOMINAL AREA,  189.62
+NOMINAL NGR,5713,2071
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,571300,207100
+CENTROID NGR,GB,564281,222441
+DTM AREA,  189.62
+ALTBAR,  77
+ASPBAR,131
+ASPVAR,0.18
+BFIHOST,0.492
+DPLBAR, 25.94
+DPSBAR, 27.8
+FARL,0.985
+FPEXT,0.0737
+LDP, 45.46
+PROPWET,0.31
+RMED-1H, 11.3
+RMED-1D, 28.7
+RMED-2D, 35.7
+SAAR, 584
+SAAR4170, 600
+SPRHOST,39.34
+URBCONC1990, 0.634
+URBEXT1990,0.0227
+URBLOC1990, 0.548
+URBCONC2000, 0.782
+URBEXT2000,0.0315
+URBLOC2000, 0.588
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,'Essex' profile located in Chelmsford gauging a predominantly rural catchment with mixed geology and some artificial influences. GENERAL: 'Essex' profile (modified Flat V Crump) weir. STATION HYDROMETRY: Full range station, no drowning. Gaugings from float-runs are thought to have overestimated flows. One rating applied across period of record. FLOW REGIME: Surface water abstraction, mainly for spray irrigation, some industrial purposes. Gw abstractions from confined Chalk aquifer for PWS and industrial activities.
+CATCHMENT,Mainly Upper Chalk and London Clay largely covered with Boulder Clay. Predominantly rural (mainly arable farming) but with urban development (N Chelmsford) just u/s of station.
+Qmed Suitability,Gauged above QMED. Reasonable fit to gaugings.
+Pooling Suitability,Gauged to within 3% of AMAX3. Reasonable fit to gagging which are thought to have been overestimate during float-runs..
+[END]

@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 33027
+[END]
+[CDS DETAILS]
+NAME,Rhee
+LOCATION,Wimpole
+NOMINAL AREA,  128.49
+NOMINAL NGR,5333,2485
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,533300,248500
+CENTROID NGR,GB,528838,243645
+DTM AREA,  128.49
+ALTBAR,  50
+ASPBAR, 18
+ASPVAR,0.22
+BFIHOST,0.613
+DPLBAR, 10.92
+DPSBAR, 22.1
+FARL,1.000
+FPEXT,0.1963
+LDP, 21.46
+PROPWET,0.24
+RMED-1H, 10.6
+RMED-1D, 28.9
+RMED-2D, 35.9
+SAAR, 558
+SAAR4170, 568
+SPRHOST,31.54
+URBCONC1990, 0.397
+URBEXT1990,0.0077
+URBLOC1990, 0.909
+URBCONC2000, 0.699
+URBEXT2000,0.0131
+URBLOC2000, 0.909
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Trapezoidal critical depth flume gauges predominantly Chalk catchment with predominantly agricultural land use and some artificial influences. GENERAL: Trapezoidal critical depth flume, 6.6m broad, horizontal crest 3.8m. STATION HYDROMETRY: Drowns at peak levels; correction incorporated into theoretical rating. Spills occasionally - high flows impeded by bridge abutments 20m d/s. Three peak flow ratings applied across period of record. FLOW REGIME: Some surface water and groundwater abstractions in catchment. Runoff increased by effluent returns.
+CATCHMENT,Predominantly Chalk catchment with some Boulder Clay cover in N and W. Land use predominantly agricultural, predominantly arable.
+Qmed Suitability,Although not gauged to within 30% of QMED, rating accounts for drowned conditions and expected to perform well to QMED.
+Pooling Suitability,Few high flow gaugings. Rating can not be validated beyond QMED. Out of bank conditions not considered.
+[END]

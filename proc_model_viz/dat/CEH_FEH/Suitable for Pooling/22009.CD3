@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 22009
+[END]
+[CDS DETAILS]
+NAME,Coquet
+LOCATION,Rothbury
+NOMINAL AREA,  345.98
+NOMINAL NGR,4067,6016
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,406700,601550
+CENTROID NGR,GB,392511,606428
+DTM AREA,  345.98
+ALTBAR, 284
+ASPBAR,120
+ASPVAR,0.16
+BFIHOST,0.395
+DPLBAR, 26.29
+DPSBAR,140.7
+FARL,0.994
+FPEXT,0.0359
+LDP, 49.15
+PROPWET,0.45
+RMED-1H,  9.1
+RMED-1D, 34.3
+RMED-2D, 44.7
+SAAR, 905
+SAAR4170, 951
+SPRHOST,45.50
+URBCONC1990,-9999.000
+URBEXT1990,0.0014
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0018
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station with informal mill weir d/s providing good control at most flows. GENERAL: Velocity area station with cableway; informal mill weir below station provides good control which should hold for most flows. The timber weir crest was replaced with concrete during modification for calibration in 1972. Well-confined section between steep banks, with a straight approach. STATION HYDROMETRY: One peak flow rating applied across period of record. Recent gaugings suggested peak events may be underestimated. FLOW REGIME: Some small groundwater abstractions (Tosson and Cartington springs) but sensibly natural.
+CATCHMENT,Natural, upland catchment draining the Cheviot hills and the Northumbrian fells. Low permeability (Igneous, Cementstone and Fell Sandstone) geology. Almost half of the catchment overlain by superficial deposits, including peat in uplands and Boulder Clay and alluvium in the lower valley. Land use is mainly upland pasture with grazing for cattle and sheep, with isolated areas of upland heath and woodland and arable in lowlands. Significant areas of overbank storage on floodplain that attenuate hydrographs. No known catchment changes.
+Qmed Suitability,Gauged above QMED.
+Pooling Suitability,Gauged beyond AMAX3. Well-confined section with no expected change in control or cross-section beyond QMED due to steep banks.
+[END]

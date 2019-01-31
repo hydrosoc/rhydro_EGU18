@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+201005
+[END]
+[CDS DETAILS]
+NAME,Camowen
+LOCATION,Camowen Terrace
+NOMINAL AREA,  276.38
+NOMINAL NGR,2460,3730
+[END]
+[DESCRIPTORS]
+IHDTM NGR,Ireland,246050,373050
+CENTROID NGR,Ireland,256785,370602
+DTM AREA,  276.38
+ALTBAR, 159
+ASPBAR,232
+ASPVAR,0.10
+BFIHOST,0.514
+DPLBAR, 22.04
+DPSBAR, 64.0
+FARL,0.989
+FPEXT,0.0798
+LDP, 38.93
+PROPWET,0.64
+RMED-1H,  8.5
+RMED-1D, 31.3
+RMED-2D, 41.4
+SAAR,1144
+SAAR4170,1183
+SPRHOST,33.87
+URBCONC1990,-2.000
+URBEXT1990,0.0212
+URBLOC1990, 0.515
+URBCONC2000,-9999.000
+URBEXT2000,0.0034
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Velocity area station with cableway, informal broad-crested weir (for mill use) acts as control. Station was part of the original core network, and was constructed in 1972. No daily flow data from July 2013, as HEP scheme drastically affecting flows. GENERAL: Velocity area station with masonry hut on lb. A multiple-drop masonry weir downstream provides control. Although fairly deep, low flow gaugings are undertaken by wading, either at the station or upstream. STATION HYDROMETRY: Cableway present. Full flow range contained. Rating derived from current meter gaugings. There are a good number of gaugings, both high and low, and a good rating fit. Simple extrapolation has been used beyond the maximum gauged flow at 2.16m. FLOW RECORD: Daily flows from 1975 onwards reprocessed in 2002. No data since July 2013 because the recently installed Hydro-Electric Power Scheme is having a considerable impact on natural flows. This only affects daily flows, peaks are presented as normal. FLOW REGIME: Sensibly natural regime. The net effect of abstractions for public water supply and augmentations from effluent returns is minor.
+CATCHMENT,Largely upland given over mainly to grassland or heath. Solid geology - Dalradian schistose sandstone and shale form generally impermeable basement north of the Omagh Thrust. Moinian and Ordovician igneous complexes from generally impermeable basement south of the Omagh Thrust. The rest of the area is underlain by Devonian and Carboniferous conglomerate, sandstone and mudstone that are generally indurated. Drift geology - Extensive drumlinised glacial till with sand and gravel in valleys. Extensive rock near surface and post-glacial peat cover on high ground with restricted development of river alluvium in valleys. No significant urban development.
+Qmed Suitability,Contained at high flows, ratio of maximum gauged flow to QMED is favourable (1.3). High flow rating gives suitable fit to hi flow gaugings
+Pooling Suitability,Full range of flows are contained and the frequency distribution look representative.
+[END]

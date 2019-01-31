@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 68006
+[END]
+[CDS DETAILS]
+NAME,Dane
+LOCATION,Hulme Walfield
+NOMINAL AREA,  151.42
+NOMINAL NGR,3845,3643
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,384500,364400
+CENTROID NGR,GB,393994,365348
+DTM AREA,  151.42
+ALTBAR, 261
+ASPBAR,261
+ASPVAR,0.21
+BFIHOST,0.417
+DPLBAR, 20.31
+DPSBAR,113.8
+FARL,0.979
+FPEXT,0.0488
+LDP, 36.40
+PROPWET,0.50
+RMED-1H, 10.4
+RMED-1D, 36.5
+RMED-2D, 45.8
+SAAR,1017
+SAAR4170,1050
+SPRHOST,39.12
+URBCONC1990, 0.733
+URBEXT1990,0.0246
+URBLOC1990, 0.391
+URBCONC2000, 0.848
+URBEXT2000,0.0293
+URBLOC2000, 0.411
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station with informal shallow V weir. Station closed 1986. GENERAL: A velocity area station, opened August 1953. Station re-built late 1978 and 1979, and re-commisioned in August 1979 with an informal shallow V weir, 14.1 m wide, new hut and cableway. Station closed 1986. Catchment similar (only 5% larger) to Congleton Park (68018). STATION HYDROMETRY: No known bypassing. Two peak flow ratings applied across period of record, before and after August 1979 when the informal V weir was constructed. Flood Studies Report grade B. FLOW REGIME: Several canal reservoirs in the upper reaches. Major transfer to Lake Rudyard, which feeds the Trent and Mersey canal.
+CATCHMENT,A mixed rural and urban catchment. The north-east and south-west are made up of Millstone Grit and shale, overlain by coal measures. In the centre, the Yoredale series of shale and sandstones are exposed with Upper Triassic Keuper Marls in the west. The area is partly covered with glacial clays, sands and gravels. Alluvium occupies the bottom of the valleys. No catchment changes known.
+Qmed Suitability,Gauged to within 21% of QMED. Good fit to gaugings.
+Pooling Suitability,Few high flow gaugings. Rating can not be validated beyond QMED.
+[END]

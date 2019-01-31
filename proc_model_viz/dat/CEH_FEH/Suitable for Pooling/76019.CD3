@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 76019
+[END]
+[CDS DETAILS]
+NAME,Roe Beck
+LOCATION,Stockdalewath
+NOMINAL AREA,   63.09
+NOMINAL NGR,3387,5450
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,338750,545000
+CENTROID NGR,GB,341342,540125
+DTM AREA,   63.09
+ALTBAR, 174
+ASPBAR,  4
+ASPVAR,0.40
+BFIHOST,0.429
+DPLBAR,  8.96
+DPSBAR, 40.0
+FARL,1.000
+FPEXT,0.0796
+LDP, 17.67
+PROPWET,0.63
+RMED-1H, 10.4
+RMED-1D, 34.5
+RMED-2D, 44.3
+SAAR, 983
+SAAR4170,1007
+SPRHOST,38.24
+URBCONC1990,-9999.000
+URBEXT1990,0.0006
+URBLOC1990,-9999.000
+URBCONC2000,-9999.000
+URBEXT2000,0.0004
+URBLOC2000,-9999.000
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,Non-standard timber weir gauging a rural, natural catchment. GENERAL: A non-standard 'V' weir constructed from timber in March 1999, 12m across, anchored to the sandstone bed. STATION HYDROMETRY: The control is quite insensitive for lower flows and drowns at around 0.34m, but is good for medium to high flows. Pressure transducer used. High flows are controlled by the bridge downstream, and a few have entered the gauging hut. Station hut floods in extreme events but still records. During the very highest flows there has been limited spill around the bridge. Rating developed from gaugings, with modelled top-end. Stable rating history. FLOW REGIME: Responsive catchment. No artificial influences known.
+CATCHMENT,Rural catchment. Roe Beck drains upland hills in south west, joined by the flatter River Iver draining the south east. Bedrock is a mixture of mudstone, sandstone and limestone, with extensive cover of boulder clay. No catchment changes known.
+Qmed Suitability,Station gauged above Qmed
+Pooling Suitability,Station gauged above Qmed with hydraulically modelled top-end
+[END]

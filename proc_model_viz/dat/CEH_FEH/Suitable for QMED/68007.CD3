@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 68007
+[END]
+[CDS DETAILS]
+NAME,Wincham Brook
+LOCATION,Lostock Gralam
+NOMINAL AREA,  148.34
+NOMINAL NGR,3697,3757
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,369700,375700
+CENTROID NGR,GB,375825,376265
+DTM AREA,  148.34
+ALTBAR,  73
+ASPBAR,235
+ASPVAR,0.19
+BFIHOST,0.508
+DPLBAR, 14.94
+DPSBAR, 22.6
+FARL,0.942
+FPEXT,0.1816
+LDP, 32.66
+PROPWET,0.39
+RMED-1H, 10.2
+RMED-1D, 30.5
+RMED-2D, 39.7
+SAAR, 818
+SAAR4170, 812
+SPRHOST,32.69
+URBCONC1990, 0.527
+URBEXT1990,0.0115
+URBLOC1990, 0.949
+URBCONC2000, 0.698
+URBEXT2000,0.0204
+URBLOC2000, 0.986
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station affected by siltation and therefore has multiple historical ratings. GENERAL: A velocity-area station from October 1960, until an informal steel pile bed control was installed in April 1982. Stilling well replaced by external pressure transducer in June 2010. Station improvement works in 2013. STATION HYDROMETRY: Cableway present. Extensive bypassing above approx 2.5m. Site experiences serious siltation which gives wide scatter in gaugings at low flows, though the higher gaugings are more consistent. Siltation have led to control being submerged and became a more serious problem after 11/2006 as the channel naturally realigned following stabilisation works on the left bank. Multiple ratings, based on gaugings, necessary due to the siltation. For peak flows, the several alternative ratings have been rationalised to before and after the weir in 1982. Flood Studies Report grade B. FLOW RECORD: No POT data are presented for this station as they have no non-modular flow correction applied. AMAX data have been corrected, but in some cases can be below the daily flow as these are not corrected. New rating in 2010 caused changes in flow values from April 1986 onwards: most flows reduced, except for very low flows, which were increased. Period of missing data in 2013 due to station improvement works. FLOW REGIME: Minor abstractions and discharges.
+CATCHMENT,Linear, low relief catchment with mudstones and saliferous beds of the Mercia Mudstone blanketed by Boulder Clay and glacial sands and gravel. Rural, except for SW Knutsford. Drains an elongated area on the northern edge of the Cheshire plain, containing many meres and ornamental lakes. No catchment changes known.
+Qmed Suitability,Gauged above QMED. Some scatter in gaugings.
+Pooling Suitability,Although gauged to within 23% of AMAX3, out of bank flow is unknown.
+[END]

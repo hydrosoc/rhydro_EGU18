@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 39052
+[END]
+[CDS DETAILS]
+NAME,The Cut
+LOCATION,Binfield
+NOMINAL AREA,   50.00
+NOMINAL NGR,4853,1712
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,485350,171250
+CENTROID NGR,GB,488739,169768
+DTM AREA,   50.00
+ALTBAR,  75
+ASPBAR,340
+ASPVAR,0.18
+BFIHOST,0.355
+DPLBAR,  7.52
+DPSBAR, 24.7
+FARL,0.939
+FPEXT,0.1265
+LDP, 13.74
+PROPWET,0.29
+RMED-1H, 12.6
+RMED-1D, 32.5
+RMED-2D, 40.8
+SAAR, 676
+SAAR4170, 688
+SPRHOST,41.54
+URBCONC1990, 0.701
+URBEXT1990,0.1173
+URBLOC1990, 0.858
+URBCONC2000, 0.888
+URBEXT2000,0.2374
+URBLOC2000, 0.869
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,The station was established to assess the effect on flow due to the growth of Bracknell, although the structure (previously existing) was not ideal for this. GENERAL: Broad-crested weir (13.7m wide) plus adjustable low flow notch (crest 1.22m wide), that was added in 1968, at outfall from an ornamental lake. STATION HYDROMETRY: Possibly some flow under main weir and leakage at the notch (adjustable weir). Probably unlikely to drown as there is a large drop over weir. One peak flow rating has been applied across the POR, tends to underestimate flows in the AMAX range. This was derived using broad-crested weir theory, with flows treated as sum of two broad-crested weirs. FLOW RECORD: Early flow data (prior to installation of the low flow notch) was less precise. FLOW REGIME: Hydrograph shows mixed rural/urban response - including the effect of balancing ponds. Runoff increased by effluent returns and reduced by industrial/agricultural abstraction. Significant and increasing effluent component during periods of low flow (primarily from Ascot STW - this represents a net import of water).
+CATCHMENT,An impermeable catchment (London Clay). Rural headwaters, including considerable woodland, but major new town development (Bracknell) built upstream since late 1940s. Downstream the land use within the catchment is almost almost a third urban overall (with a substantial increase over the POR).
+Qmed Suitability,Although gauged above QMED, gaugings suggest that rating underestimates flows in the AMAX range.
+Pooling Suitability,Rating thought to underestimate flow in the AMAX range, few gaugings to validate rating.
+[END]

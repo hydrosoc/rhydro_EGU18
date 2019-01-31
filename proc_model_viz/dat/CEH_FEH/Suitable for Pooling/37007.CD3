@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 37007
+[END]
+[CDS DETAILS]
+NAME,Wid
+LOCATION,Writtle
+NOMINAL AREA,  135.63
+NOMINAL NGR,5686,2060
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,568700,206000
+CENTROID NGR,GB,564210,198555
+DTM AREA,  135.63
+ALTBAR,  69
+ASPBAR, 62
+ASPVAR,0.18
+BFIHOST,0.243
+DPLBAR, 16.04
+DPSBAR, 27.4
+FARL,0.995
+FPEXT,0.0781
+LDP, 28.67
+PROPWET,0.28
+RMED-1H, 11.7
+RMED-1D, 31.8
+RMED-2D, 38.7
+SAAR, 592
+SAAR4170, 606
+SPRHOST,47.63
+URBCONC1990, 0.681
+URBEXT1990,0.0461
+URBLOC1990, 1.079
+URBCONC2000, 0.853
+URBEXT2000,0.0714
+URBLOC2000, 1.099
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,YES
+[END]
+[COMMENTS]
+STATION,'Essex' profile gauging a rural catchment on London Clay, flows significantly increased by STW effluent especially in summer. GENERAL: 'Essex' profile (modified Flat V Crump) weir. STATION HYDROMETRY: Rated spillway starts at 1.25m. Full range, modular station. Weir began to subside in 1991. Flow during summer months consists predominantly of STW discharge, of which approximately 0.08 cumecs is derived from outside the catchment, adjustments needed for this. One rating applied across period of record. FLOW REGIME: Responsive catchment. Runoff increased by STW effluent returns with net import, which significantly affects flows especially in summer. Runoff reduced by industrial/agricultural abstraction.
+CATCHMENT,Low-lying catchment on London Clay with scattered areas of Boulder Clay cover. Mainly rural, mixed arable and grassland, with significant urban component.
+Qmed Suitability,Gauged above QMED. Good fit to gaugings.
+Pooling Suitability,Gauged beyond AMAX3. Allowance made for additional flow over spillway.
+[END]

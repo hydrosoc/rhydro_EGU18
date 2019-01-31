@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 35010
+[END]
+[CDS DETAILS]
+NAME,Gipping
+LOCATION,Bramford
+NOMINAL AREA,  295.83
+NOMINAL NGR,6126,2465
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,612650,246550
+CENTROID NGR,GB,606914,256203
+DTM AREA,  295.83
+ALTBAR,  55
+ASPBAR, 92
+ASPVAR,0.10
+BFIHOST,0.457
+DPLBAR, 19.49
+DPSBAR, 27.7
+FARL,0.961
+FPEXT,0.1035
+LDP, 36.04
+PROPWET,0.28
+RMED-1H, 10.5
+RMED-1D, 27.5
+RMED-2D, 34.8
+SAAR, 578
+SAAR4170, 598
+SPRHOST,38.72
+URBCONC1990, 0.571
+URBEXT1990,0.0173
+URBLOC1990, 0.840
+URBCONC2000, 0.760
+URBEXT2000,0.0283
+URBLOC2000, 0.800
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Compound Crump weir gauging a rural, gw-influenced, clay and Chalk catchment with significant artificial influences. GENERAL: Compound Crump weir with 2m, 5m & 12m sections. The largest section is in the middle and uses flood gate (automated during summer 2001) to convert to a sharp-edge weir. The middle-sized weir, on the left, is heavily truncated on the down slope - historically used for narrow boat transition. The weir on the right side is the lowest, or "fish-pass" weir. There is also a side spill weir, also a truncated Crump. STATION HYDROMETRY: Bypassing occurs at 12 cumecs and sluice operation on the weir is evident in the daily flow record. Single rating when gate position is assumed to be open is applied to 31/12/1979 after which flows are protected and supplied directly. Flows significantly affected by Ipswich flood relief scheme since the late 1980s. FLOW REGIME: Groundwater-influenced regime. Gw abstractions have a significant impact on the natural runoff.
+CATCHMENT,Predominantly clay and Chalk, overlain by superficial deposits - mainly Boulder Clay and some crag deposits. Rural, predominantly arable land, some urban development in the valley.
+Qmed Suitability,Rating does not fit available gaugings well and suggests significant underestimation.
+Pooling Suitability,More gaugings are required to validate ratings.
+[END]

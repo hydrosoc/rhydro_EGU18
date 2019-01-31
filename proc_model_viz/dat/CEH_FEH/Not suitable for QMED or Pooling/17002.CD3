@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 17002
+[END]
+[CDS DETAILS]
+NAME,Leven
+LOCATION,Leven
+NOMINAL AREA,  416.53
+NOMINAL NGR,3368,7005
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,336900,700550
+CENTROID NGR,GB,317323,699832
+DTM AREA,  416.53
+ALTBAR, 151
+ASPBAR,123
+ASPVAR,0.22
+BFIHOST,0.511
+DPLBAR, 26.89
+DPSBAR, 62.9
+FARL,0.824
+FPEXT,0.1008
+LDP, 48.68
+PROPWET,0.45
+RMED-1H,  8.8
+RMED-1D, 35.5
+RMED-2D, 47.1
+SAAR, 947
+SAAR4170, 951
+SPRHOST,34.63
+URBCONC1990, 0.754
+URBEXT1990,0.0173
+URBLOC1990, 0.740
+URBCONC2000, 0.830
+URBEXT2000,0.0360
+URBLOC2000, 0.703
+[END]
+[SUITABILITY]
+QMED,NO
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Velocity area station in Scotland. Flows affected by lochs within the catchment. GENERAL: Velocity area station on a straight reach with artificially heightened and steeped banks. STATION HYDROMETRY: The control was formerly a gravel bar, in Sep 1977 stabilised with gabions to form an irregular broad-crested weir. Possible movement in control, evident at low flows. Weir is thought to be modular throughout range. All flows contained to date. Peak flow rating derived from current meter gaugings up to 1.6m (about QMED), simple extrapolation beyond. FLOW REGIME: Relatively un-flashy. There are a number of small storage reservoirs in the catchment plus Loch Leven whose outflow is controlled by sluice gates (these can produce seemingly anomalous flow hydrographs). Effluent return and industrial/agricultural abstractions probably don't significantly influence flood peaks.
+CATCHMENT,Mostly low-lying catchment. Bedrock predominantly Carboniferous rocks; predominately overlain by superficial deposits. Land use lowland arable farming, and forest with significant urbanisation. Minimal floodplains. No significant catchment changes known.
+Qmed Suitability,Rating review required for all periods (recommendation made in 2003 at time of HIFLOWS data compilation)
+Pooling Suitability,Rating review required for all periods (recommendation made in 2003 at time of HIFLOWS data compilation)
+[END]

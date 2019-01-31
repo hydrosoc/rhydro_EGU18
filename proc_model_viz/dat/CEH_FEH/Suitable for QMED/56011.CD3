@@ -1,0 +1,50 @@
+[FILE FORMAT]
+TYPE,CD3
+VERSION,3.0
+[END]
+[STATION NUMBER]
+ 56011
+[END]
+[CDS DETAILS]
+NAME,Sirhowy
+LOCATION,Wattsville
+NOMINAL AREA,   76.41
+NOMINAL NGR,3206,1912
+[END]
+[DESCRIPTORS]
+IHDTM NGR,GB     ,320550,191200
+CENTROID NGR,GB,316027,203332
+DTM AREA,   76.41
+ALTBAR, 320
+ASPBAR,165
+ASPVAR,0.18
+BFIHOST,0.523
+DPLBAR, 18.36
+DPSBAR,138.0
+FARL,0.973
+FPEXT,0.0321
+LDP, 34.46
+PROPWET,0.49
+RMED-1H, 11.9
+RMED-1D, 53.4
+RMED-2D, 71.7
+SAAR,1481
+SAAR4170,1535
+SPRHOST,30.46
+URBCONC1990, 0.046
+URBEXT1990,0.0456
+URBLOC1990, 0.952
+URBCONC2000, 0.757
+URBEXT2000,0.0708
+URBLOC2000, 0.888
+[END]
+[SUITABILITY]
+QMED,YES
+POOLING,NO
+[END]
+[COMMENTS]
+STATION,Crump profile Flat V weir. Reservoirs in catchment affect runoff. Station closed in 1983. GENERAL: Crump profile Flat V weir. Station closed in 1983. STATION HYDROMETRY: Weir crest width approx 12m and cross slope of 1:10. Rb rises steeply up valley side after narrow berms. Severe accretion problems. Rating fits gaugings very well up to highest at 1.2m. Upper limit raised to slightly below wingwall height (2.0m). High confidence in theoretical rating. Reservoirs in catchment affect runoff.
+CATCHMENT,Narrow, linear catchment trending approx N-S. Predominantly upland, mixed geology of moderate permeability - Pennant and Upper Coal series overlying Lower Coal series. Some Boulder Clay and gravels on valley floor. Predominantly grazing, moorland in N, with some urban development in lower valley.
+Qmed Suitability,Rating provides an excellent fit to available gaugings and is gauged very close to QMED
+Pooling Suitability,Although site very close to meeting numerical criteria (gauged flow within 33% of AMAX3), there is considerable uncertainty in the highest two AMAX values
+[END]
