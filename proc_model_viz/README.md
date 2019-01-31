@@ -38,17 +38,3 @@ Other materials from this course can be found [here](https://github.com/hydrosoc
 <a href="https://www.facebook.com/groups/1130214777123909/" rel="nofollow">Hydrology in R Facebook group</a>.
 
 
-
-## <a name="Citation"></a> Citation
-
-Following the [DOI](https://zenodo.org/badge/latestdoi/123999066), please refer to this work as:
-
-* Alexander Hurley. (2019, January 31). Processing, modelling and vizualising hydrological data in R (Version 1.1). Zenodo. http://doi.org/10.5281/zenodo.2553980  
-* Alexander Hurley, 2019. Processing, modelling and vizualising hydrological data in R. doi:10.5281/zenodo.2553980  
-
-
-**BibTeX**  
-
-```
-@article{alexander hurley_2019, title={Processing, modelling and vizualising hydrological data in R}, DOI={10.5281/zenodo.2553980}, abstractNote={<p>This repository contains a all code, data and images to to reproduce the *.html* output of my <a href="https://meetingorganizer.copernicus.org/EGU2018/session/28914">short course contribution at EGU 2018</a>. Details can be found here: [the-Hull/rHydro_2018](https://github.com/the-Hull/rHydro_2018)</p>}, note={Note: Data from the UK National River Flow Archive. Please refer to http://nrfa.ceh.ac.uk/costs-terms-and-conditions prior to any re-use}, publisher={Zenodo}, author={Alexander Hurley}, year={2019}, month={Jan}}
-```
