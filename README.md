@@ -22,7 +22,7 @@ Conveners: Louise Slater, Shaun Harrigan, Tobias Gauster, Alexander Hurley, Guil
 The running order of the short course follows a typical hydrological analysis workflow:
 - <a href="https://github.com/hydrosoc/rhydro_EGU18/blob/master/Introduction.pdf" rel="nofollow">Introduction to the short course</a> - Louise Slater 
 - <a href="https://github.com/hydrosoc/rhydro_EGU18/tree/master/rnrfa" rel="nofollow">Accessing hydrological data using web APIs</a> (a demo of the rnrfa package) - Claudia Vitolo
-- <a href="https://github.com/hydrosoc/rhydro_EGU18/blob/master/proc-mod-viz.zip" rel="nofollow">Processing, modelling and visualising hydrological data in R</a> (tidyverse; piping, mapping and nesting) - Alexander Hurley
+- <a href="https://github.com/hydrosoc/rhydro_EGU18/tree/master/proc_model_viz" rel="nofollow">Processing, modelling and visualising hydrological data in R</a> (tidyverse; piping, mapping and nesting) - Alexander Hurley
 - <a href="https://github.com/hydrosoc/rhydro_EGU18/blob/master/netCDF.pdf" rel="nofollow">Extracting netCDF climate data for hydrological analyses</a> (reading and visualising gridded data) - Louise Slater
 - <a href="https://github.com/hydrosoc/rhydro_EGU18/tree/master/airGR_slides" rel="nofollow">Hydrological modelling and teaching modelling</a> (airGR and airGRteaching) - Guillaume Thirel
 - <a href="https://github.com/hydrosoc/rhydro_EGU18/tree/master/tidy-hydrodata" rel="nofollow">Typical hydrological tasks in R</a> (List columns, Leaflet and coordinate transformation, Open Street Maps) - Tobias Gauster
